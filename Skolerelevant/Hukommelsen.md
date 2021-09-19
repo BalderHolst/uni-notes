@@ -1,7 +1,7 @@
 # Hukommelsen
 Der hvor vi lagre alt vores shit. Dette er en model af hvordan den virker:
 
-![Korttidshukommelsen|600](Billeder/Korttidshukommelsen.png)
+![Korttidshukommelsen|600](Korttidshukommelsen.png)
 
 #### Sensorisk Hukommelse
 Når vi ser noget kan vi huske hvordan det så ud, selv hvis vi ikke er opmærksomme på det. Det er derfor at vi nogen gange kan høre den tale til os, og udskyde bearbejdningen af hvad de har sagt, til man er færdig med det man er fokuseret på.
@@ -22,7 +22,7 @@ Kan lægre et begreænt antal enheder (7 ± 2) ([[Hermann Ebbinghaus]] (1850 - 1
 # Langtidshukommelsen
 I langtidshukommelsen gemmer vi alt det vi skal huske i længere end i nuet. Langtidshukommelsen kan deles op på følgende måde:
 
-![Langtidshukommelsen|500](Billeder/Langtidshukommelsen.png)
+![Langtidshukommelsen|500](Langtidshukommelsen.png)
 
 At genkalder og at genkende lyder ens. Den første bruger dog vores eksplicitte hukommelse og den anden bruger den implicitte hukommelse. Her er forskellene:
 

@@ -7,8 +7,10 @@
         "id": "d819856d6165c04c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Media/Ableton 11 - manual.pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media/Ableton 11 - manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media/Ableton 11 - manual.pdf"
+              }
             }
           },
           {
@@ -127,6 +132,7 @@
   },
   "active": "d819856d6165c04c",
   "lastOpenFiles": [
+    "Media/Ableton 11 - manual.pdf",
     "Ny fil der skal backes op!.md",
     "HOME.md",
     "Untitled.md",
@@ -135,7 +141,6 @@
     "Skolerelevant/Sagaer.md",
     "Skolerelevant/Spænding i Strenge.md",
     "Skolerelevant/Bølgeformlen.md",
-    "Skolerelevant/Bølger.md",
-    "Skolerelevant/Kritik af Giddens.md"
+    "Skolerelevant/Bølger.md"
   ]
 }

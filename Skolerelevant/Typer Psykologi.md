@@ -7,7 +7,7 @@ se [[typer psykologi (skema)|skemaet]].
 *Folk: [[Freud]], [[Erikson]], [[Mahler]], [[Bowlby]], [[Stern]]*
 
 
-![psykoanalyse](Billeder/Psykoanalyse.jpg)
+![psykoanalyse](Psykoanalyse.jpg)
 
 
 ---

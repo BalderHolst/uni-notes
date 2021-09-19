@@ -2,7 +2,7 @@
 
 **[[Ninian Smarts]] Model**
 
-![Relegionsfænomenologi model](Billeder/Relegionsfænomenologi.jpg)
+![Relegionsfænomenologi model](Relegionsfænomenologi.jpg)
 
 **Læresætninger/Dogmer:** Trosbekendelsen, der man faktisk tror på
 

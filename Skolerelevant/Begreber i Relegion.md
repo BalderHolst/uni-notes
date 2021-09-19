@@ -10,7 +10,7 @@
 
 **Verdensrelegioner**
 
-![Title: Illustration](Billeder/Verdensrelegioner.jpg)
+![Title: Illustration](Verdensrelegioner.jpg)
 
 **Mana:** Ideen om at naturen har en bestemt energi. Eks. Bjørneklog = Styrke.
 
