@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "path:Skolerelevant",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#personer",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#psykologi",
+      "color": {
+        "a": 1,
+        "rgb": 12998094
+      }
+    },
+    {
+      "query": "tag:#matematik",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#fysik",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "tag:#dansk",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#old",
+      "color": {
+        "a": 1,
+        "rgb": 10251563
+      }
+    },
+    {
+      "query": "path:Skolerelevant",
+      "color": {
+        "a": 1,
+        "rgb": 13009024
+      }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.45092233658602,
+  "lineSizeMultiplier": 2.03308976232597,
+  "collapse-forces": false,
+  "centerStrength": 0.695156695156695,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8621964339433367,
+  "close": true
+}

@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "a1e7457dfb4781b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9c461acfe160be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Tider i Grækenlands Historie.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6969c015a58a7e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d66b07506c2736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296ab14d275be773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "973d7d9fdc0f3744",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#old",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "996144d572ae40ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.00078010559082
+  },
+  "right": {
+    "id": "838e0b273ba473ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f383249d12b974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811277e2385bd4a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skolerelevant/Tider i Grækenlands Historie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "669dff868c4ed8e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13ea487c6cc1c378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skolerelevant/Tider i Grækenlands Historie.md"
+              }
+            }
+          },
+          {
+            "id": "b5c2b239df605047",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29ac6924dafdb6d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.61581420898438
+  },
+  "active": "9d9c461acfe160be",
+  "lastOpenFiles": [
+    "Skolerelevant/Tider i Grækenlands Historie.md",
+    "Skolerelevant/Sagaer.md",
+    "Skolerelevant/Spænding i Strenge.md",
+    "Skolerelevant/Interfarans.md",
+    "Skolerelevant/Bølgeformlen.md",
+    "Skolerelevant/Bølger.md",
+    "Skolerelevant/Kritik af Giddens.md",
+    "Skolerelevant/Stephen Toulmin.md",
+    "Skolerelevant/Toulmins Argumentationsmodel.md",
+    "Senklassisk tid.md"
+  ]
+}

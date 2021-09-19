@@ -1,0 +1,22 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD-MM-YYYY",
+    "template": "Templates/default daily note.md",
+    "folder": "Personligt/Dagbog",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

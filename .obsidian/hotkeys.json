@@ -1,0 +1,28 @@
+{
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
+}

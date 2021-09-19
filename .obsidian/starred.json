@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Dansk - sagaer (noter)",
+      "path": "Skolerelevant/Sagaer.md"
+    },
+    {
+      "type": "file",
+      "title": "Dansk - Slægt-ære - FINAL",
+      "path": "Autoconverterede/Dansk - Slægt-ære - FINAL.md"
+    },
+    {
+      "type": "file",
+      "title": "Dansk - Talers opbygning",
+      "path": "Autoconverterede/Dansk - Talers opbygning.md"
+    },
+    {
+      "type": "file",
+      "title": "DHO - DHO opgave",
+      "path": "Autoconverterede/DHO - DHO opgave.md"
+    },
+    {
+      "type": "file",
+      "title": "DHO - DHO-relevante dokumentarer (1",
+      "path": "Autoconverterede/DHO - DHO-relevante dokumentarer (1.md"
+    },
+    {
+      "type": "file",
+      "title": "DHO - Noter til den Philippiske Tale",
+      "path": "Autoconverterede/DHO - Noter til den Philippiske Tale.md"
+    }
+  ]
+}

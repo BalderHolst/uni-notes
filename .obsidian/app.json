@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true
+}

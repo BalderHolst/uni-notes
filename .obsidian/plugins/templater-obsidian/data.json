@@ -1,0 +1,23 @@
+{
+  "command_timeout": 5,
+  "template_folder": "Templates",
+  "templates_pairs": [
+    [
+      "path",
+      "echo G:/My Drive/"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "empty_file_template": "Templates/default",
+  "syntax_highlighting": true
+}
