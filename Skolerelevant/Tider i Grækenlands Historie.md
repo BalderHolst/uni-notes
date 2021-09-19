@@ -23,9 +23,6 @@
 
 ![[Romersk tid]]
 
-
-
-
 ---
 ##### Tags
 #old
