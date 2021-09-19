@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Tider i Grækenlands Historie.md",
+            "file": "Ny fil der skal backes op!.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Tider i Grækenlands Historie.md",
+                "file": "Ny fil der skal backes op!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Tider i Grækenlands Historie.md"
+                "file": "Ny fil der skal backes op!.md"
               }
             }
           },
@@ -133,6 +133,7 @@
   },
   "active": "9d9c461acfe160be",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/Tider i Grækenlands Historie.md",
     "Skolerelevant/Interfarans.md",
     "Skolerelevant/Sagaer.md",
@@ -141,7 +142,6 @@
     "Skolerelevant/Bølger.md",
     "Skolerelevant/Kritik af Giddens.md",
     "Skolerelevant/Stephen Toulmin.md",
-    "Skolerelevant/Toulmins Argumentationsmodel.md",
-    "Senklassisk tid.md"
+    "Skolerelevant/Toulmins Argumentationsmodel.md"
   ]
 }
