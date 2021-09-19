@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9c461acfe160be",
+        "id": "d819856d6165c04c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ny fil der skal backes op!.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ny fil der skal backes op!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ny fil der skal backes op!.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +125,7 @@
     "direction": "horizontal",
     "width": 212.61581420898438
   },
-  "active": "9d9c461acfe160be",
+  "active": "d819856d6165c04c",
   "lastOpenFiles": [
     "Ny fil der skal backes op!.md",
     "HOME.md",
