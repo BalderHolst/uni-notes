@@ -7,7 +7,7 @@
 
 	- Ubetinget, medfødt reaktion
 
-	- Betinget, lærd reaktion?
+	- Betinget, lærd reaktion
 
 - Operant betingning = Hvis en reaktion giver beløning, så gør vi det mere.
 
