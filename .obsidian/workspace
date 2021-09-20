@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6af3c29eb7b85c73",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Euripides.md",
-            "mode": "source"
+            "file": "Medea - Tekst.md",
+            "mode": "preview"
           }
         }
       }
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md",
+                "file": "Medea - Tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md"
+                "file": "Medea - Tekst.md"
               }
             }
           },
@@ -146,6 +135,8 @@
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Skolerelevant/Medea.md",
     "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md",
     "Skolerelevant/Euripides.md",
     "Skolerelevant/Sofokles.md",
@@ -153,8 +144,6 @@
     "Skolerelevant/Aischylos.md",
     "Skolerelevant/Allans ord.md",
     "Analyse af Oldgræsske Tragedier og Komedier.md",
-    "Untitled.md",
-    "Skolerelevant/Sagnet til Medea.md",
-    "Skolerelevant/Medea.md"
+    "Skolerelevant/Sagnet til Medea.md"
   ]
 }
