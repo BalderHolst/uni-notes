@@ -45,4 +45,34 @@ De dysfunktionelle antagelser og skemaer, bliver hele tiden opratholdt af den de
                 <td>En kvinde ringer hjem til sin mand, men ingen tager telefonen. Hun tænker: "Han har garanteret fundet en anden.</td>
               </tr></tbody></table>
 
+### Behandling
+Der er fire oftes brugte metoder:
+- Psykoedukation
+- Kognitiv omstrukturering
+- Adfærdsterapi
+- Hjemmeopgaver
+
+#### Psykoedukation
+**Fokus:** informer klienten om baggrunden for deres lidelse.
+
+Dette er med til at give klienten e overblik over de grunde der er til at de har det som de har det.
+
+
+#### Kognitiv Omstrukturering
+**Fokus:** skab en liste over alle klientens problemer, og hytoteser om forbindelser mellem fortid og problemer.
+
+*registrering* = klienten noterer hyppige problemer i hverdagen, mens han/hun gennemgår oplevelser
+
+Ved kognitiv omstrukturering bliver klienten klar over deres skemaer og antagelser og kan derfor vælge af afprøve nye måder at reagere på deres omgivelser.
+
+Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem til svaret på deres lidelser.
+
+
+
+#### Adærdsterapå
+
+
+
+
+
 #psykologi 
