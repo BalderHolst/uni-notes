@@ -12,9 +12,9 @@ Tragedier og komedier var centrale elementer i den græske kultur i det gamle Gr
 Alvorlig, [[Klassisk tid]]
 
 
-Udspringer i Athen
+- Udspringer i Athen
  - altid tre skurspillere
- - Pritagionist og anre
+ - Pritagionist og andre
  - på vers (musicalagtigt)
  - Makser og Kostumer
  - Scenografi
@@ -31,23 +31,10 @@ Udspringer i Athen
 
 
 #### Forfattere
-[[Aischylos]]
-- Fokus på Guder og deres storhed
-- Underlæggelse af guder
-- Lære gennem lidelse
-- Har skrevet trilogien [[Orestien]]
-	1. [[Agememnon]]
-	2. [[Gravofret]]
-	3. [[Eumeniderne]]
+- [[Aischylos]]
+- [[Sofagles]]
+- [[Euripides]]
 
-[[Sofagles]]
-- Forkus: Det store menneske - retter sig efter gudernes lov
-- Har skrevet [[Antigone]] og [[Øtiopus]]
-
-[[Euripides]]
-- Mere moderne
-- Fokus: det menneskelige
-- Har skrevet tragedierne [[Medea]] og [[Hippolytos]]
 
 ---
 
@@ -65,20 +52,8 @@ Haldler om
 Parapasis: Koret henvendes direktre till tilskuerne
 
 #### Forfattere
-[[Arestofanes]]
-- Gamle periode
-- Tilfænger af demokratiet
-- Udstille koruption
-- Satire
-- Falden på halen
-- Har skrevet [[Al magt til kvinden]]
-
-[[Menander]]
-- Nyere periode
-- Intet demokrati
-- Ingen politisk satire
-- Fokus: dagligdagen, gift med den rigtige
-- har skrevet [[den biske bonde]]
+- [[Arestofanes]]
+- [[Menander]]
 
 ---
 

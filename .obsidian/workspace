@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Drama.md",
-            "mode": "preview"
+            "file": "Allans ord.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#old",
+                "query": "medea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,11 +56,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Drama.md",
+                "file": "Allans ord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Drama.md"
+                "file": "Allans ord.md"
               }
             }
           },
@@ -124,25 +126,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/Drama.md",
+    "Euripides.md",
+    "Menander.md",
+    "Arestofanes.md",
+    "Skolerelevant/Sofagles.md",
+    "Skolerelevant/Aischylos.md",
     "HOME.md",
     "Aischylos.md",
-    "Drama.md",
-    "Al magt til kvinden.md",
-    "Medea.md",
-    "Sofagles.md",
-    "Untitled.md",
-    "Skolerelevant/Linære Funktioner.md",
-    "Skolerelevant/Sekanter og Tangenter.md"
+    "Drama.md"
   ]
 }
