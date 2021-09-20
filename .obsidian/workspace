@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allans ord.md",
-            "mode": "source"
+            "file": "Skolerelevant/Drama.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "medea",
+                "query": "desis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allans ord.md",
+                "file": "Skolerelevant/Drama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allans ord.md"
+                "file": "Skolerelevant/Drama.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Skolerelevant/Drama.md",
+    "Allans ord.md",
+    "Untitled.md",
     "Euripides.md",
     "Menander.md",
     "Arestofanes.md",
     "Skolerelevant/Sofagles.md",
     "Skolerelevant/Aischylos.md",
     "HOME.md",
-    "Aischylos.md",
-    "Drama.md"
+    "Aischylos.md"
   ]
 }

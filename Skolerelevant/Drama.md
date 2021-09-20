@@ -68,11 +68,13 @@ Parapasis: Koret henvendes direktre till tilskuerne
 
 ##### [[Hellenistisk tid]]
 ![](http://klassisk.ribekatedralskole.dk/steder/epidauros/orchestraparti.jpg)
-- Skene til rekvisitter
+
 - orkester i halvcirkel
 - Skuespillere på scenen
 - Koret står på dancepladsen
 
+#### Steder i Teatret
+- [[Allans ord#Skene|Skene]]
 
 #old
 
