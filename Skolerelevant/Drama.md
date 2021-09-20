@@ -32,7 +32,7 @@ Alvorlig, [[Klassisk tid]]
 
 #### Forfattere
 - [[Aischylos]]
-- [[Sofagles]]
+- [[Sofokles]]
 - [[Euripides]]
 
 
@@ -74,9 +74,9 @@ Parapasis: Koret henvendes direktre till tilskuerne
 - Koret står på dancepladsen
 
 #### Steder i Teatret
-- [[Allans ord#Skene|Skene]]
-- [[Allans ord#Parodos|Parodos]]
-- [[Allans ord#Orchestra|Orchestra]]
+- [[Analyse af Oldgræsske Tragedier og Komedier#Skene|Skene]]
+- [[Analyse af Oldgræsske Tragedier og Komedier#Parodos|Parodos]]
+- [[Analyse af Oldgræsske Tragedier og Komedier#Orchestra|Orchestra]]
 
 
 #old
