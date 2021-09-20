@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8877b16ec10fc8f",
+        "id": "133ab246f0f563e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drama.md",
-            "mode": "source"
+            "file": "Skolerelevant/Drama.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drama.md",
+                "file": "Skolerelevant/Drama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drama.md"
+                "file": "Skolerelevant/Drama.md"
               }
             }
           },
@@ -133,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "c8877b16ec10fc8f",
+  "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Skolerelevant/Drama.md",
+    "HOME.md",
+    "Aischylos.md",
     "Drama.md",
+    "Al magt til kvinden.md",
     "Medea.md",
     "Sofagles.md",
-    "Aischylos.md",
     "Untitled.md",
     "Skolerelevant/Linære Funktioner.md",
-    "Skolerelevant/Sekanter og Tangenter.md",
-    "Skolerelevant/Differntialregning.md",
-    "Skolerelevant/Tretrinsraketten.md",
-    "Skolerelevant/Differntialregning Regneregler.md"
+    "Skolerelevant/Sekanter og Tangenter.md"
   ]
 }
