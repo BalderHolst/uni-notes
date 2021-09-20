@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "133ab246f0f563e6",
+        "id": "1fd2f153c668bf3f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Medea - Tekst.md",
+            "file": "Skolerelevant/Den Kognitive Terapi.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
+                "file": "Skolerelevant/Den Kognitive Terapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md"
+                "file": "Skolerelevant/Den Kognitive Terapi.md"
               }
             }
           },
@@ -131,17 +131,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "133ab246f0f563e6",
+  "active": "1fd2f153c668bf3f",
   "lastOpenFiles": [
-    "Skolerelevant/Medea - Tekst.md",
-    "Skolerelevant/Medea - Analyse.md",
-    "Skolerelevant/Sagnet til Medea.md",
-    "Skolerelevant/Fortyndingsformlen.md",
-    "Skolerelevant/Arestofanes.md",
-    "Skolerelevant/Menander.md",
-    "Skolerelevant/Medea.md",
-    "Medea - Tekst.md",
-    "Untitled.md",
-    "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md"
+    "Skolerelevant/Den Kognitive Terapi.md",
+    "Skolerelevant/Skolerelevant.md",
+    "Skolerelevant/Typer Psykologi.md",
+    "Skolerelevant/Social psykologi.md",
+    "Den Kognitive Terapi.md",
+    "Socialkonstruktivisme.md",
+    "Social psykologi.md",
+    "Humanistisk psykologi.md",
+    "Kognitiv psykologi.md",
+    "Eksistentiel psykologi.md"
   ]
 }

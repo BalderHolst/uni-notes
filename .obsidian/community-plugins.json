@@ -12,5 +12,7 @@
   "dataview",
   "templater-obsidian",
   "obsidian-git",
-  "url-into-selection"
+  "url-into-selection",
+  "pdf-to-markdown-plugin",
+  "darlal-switcher-plus"
 ]
