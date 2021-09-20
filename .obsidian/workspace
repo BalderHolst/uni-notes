@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Drama.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Al magt til kvinden.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desis",
+                "query": "al magt til kvinden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Drama.md",
+                "file": "Skolerelevant/Al magt til kvinden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Drama.md"
+                "file": "Skolerelevant/Al magt til kvinden.md"
               }
             }
           },
@@ -130,19 +129,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Skolerelevant/Al magt til kvinden.md",
+    "Arestofanes.md",
+    "Skolerelevant/Medea.md",
     "Skolerelevant/Drama.md",
-    "Allans ord.md",
     "Untitled.md",
+    "Allans ord.md",
     "Euripides.md",
     "Menander.md",
-    "Arestofanes.md",
     "Skolerelevant/Sofagles.md",
-    "Skolerelevant/Aischylos.md",
-    "HOME.md",
-    "Aischylos.md"
+    "Skolerelevant/Aischylos.md"
   ]
 }

@@ -75,6 +75,9 @@ Parapasis: Koret henvendes direktre till tilskuerne
 
 #### Steder i Teatret
 - [[Allans ord#Skene|Skene]]
+- [[Allans ord#Parodos|Parodos]]
+- [[Allans ord#Orchestra|Orchestra]]
+
 
 #old
 
