@@ -7,9 +7,10 @@
         "id": "d819856d6165c04c",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Media/Ableton 11 - manual.pdf"
+            "file": "Skolerelevant/Linære Funktioner.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Ableton 11 - manual.pdf",
+                "file": "Skolerelevant/Linære Funktioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Ableton 11 - manual.pdf"
+                "file": "Skolerelevant/Linære Funktioner.md"
               }
             }
           },
@@ -132,15 +133,15 @@
   },
   "active": "d819856d6165c04c",
   "lastOpenFiles": [
+    "Skolerelevant/Linære Funktioner.md",
+    "Skolerelevant/Sekanter og Tangenter.md",
+    "Skolerelevant/Differntialregning.md",
+    "Skolerelevant/Tretrinsraketten.md",
+    "Skolerelevant/Differntialregning Regneregler.md",
+    "Skolerelevant/Typer Psykologi.md",
+    "Media/Psykoanalyse.jpg",
     "Media/Ableton 11 - manual.pdf",
     "Ny fil der skal backes op!.md",
-    "HOME.md",
-    "Untitled.md",
-    "Skolerelevant/Tider i Grækenlands Historie.md",
-    "Skolerelevant/Interfarans.md",
-    "Skolerelevant/Sagaer.md",
-    "Skolerelevant/Spænding i Strenge.md",
-    "Skolerelevant/Bølgeformlen.md",
-    "Skolerelevant/Bølger.md"
+    "HOME.md"
   ]
 }
