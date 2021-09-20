@@ -4,3 +4,7 @@
 - Ingen politisk satire
 - Fokus: dagligdagen, gift med den rigtige
 - har skrevet [[den biske bonde]]
+
+---
+#personer 
+#old 

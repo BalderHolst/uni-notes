@@ -1,5 +1,7 @@
 # Medea
+Se analysen [[Medea - Analyse|her]].
 
+---
 ```ad-example # Admonition type. See below for a list of available types.
 title:                  ##### Forord
 collapse:               # Create a collapsible admonition.

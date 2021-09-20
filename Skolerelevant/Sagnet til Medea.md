@@ -22,7 +22,7 @@ Iason --> Sønner
 
 ---
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  # Tekst
+title:                  ##### Tekst
 collapse:               # Create a collapsible admonition.
 
           
@@ -57,3 +57,6 @@ Medeas senere skæbne vidste man også besked om: i Athen ægter hun kong Aigeus
 
 ```
 
+---
+#tekst 
+#old 

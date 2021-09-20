@@ -5,3 +5,7 @@
 - Satire
 - Falden på halen
 - Har skrevet [[Al magt til kvinden]]
+
+---
+#personer 
+#old 
