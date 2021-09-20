@@ -56,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -135,6 +133,7 @@
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Medea - Tekst.md",
     "Untitled.md",
     "Skolerelevant/Medea.md",
     "Skolerelevant/Analyse af Oldgræsske Tragedier og Komedier.md",
@@ -143,7 +142,6 @@
     "Skolerelevant/Sofagles.md",
     "Skolerelevant/Aischylos.md",
     "Skolerelevant/Allans ord.md",
-    "Analyse af Oldgræsske Tragedier og Komedier.md",
-    "Skolerelevant/Sagnet til Medea.md"
+    "Analyse af Oldgræsske Tragedier og Komedier.md"
   ]
 }

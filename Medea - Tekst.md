@@ -15,7 +15,7 @@ Aarhus, 24. juni 1985
 _Otto Foss_
 
   
-Side 8
+*Side 8*
 
 ## PERSONERNE
 
@@ -42,8 +42,9 @@ Tragedien er opført ved Dionysos-festen i foråret 431, som første del af en t
 Handlingen udspilles foran Iasons og Medeas hus i Korinth.
 
   
+<sub><sup>combining the two tags</sup></sub> hejs
 
-Side 9
+*Side 9*
 
 AMMEN _(kommer ud af huset)_
 
@@ -59,7 +60,7 @@ var segnet for at yde ved til årer
 
 for heltenævers kraft, da Pelias
 
-5 dem bød at hente ham det Gyldne Skind.
+<sub><sup>5</sup></sub> dem bød at hente ham det Gyldne Skind.
 
 Så var min frue, var Medea ikke
 
@@ -113,7 +114,7 @@ foragter hun al trøst og venners tale.
 
   
 
-Side 10
+*Side 10*
 
 30 Kun stundom drejer hun sin hvide hals
 
@@ -173,7 +174,7 @@ Din frue - græder hun da stadigvæk?
 
   
 
-Side 11
+*Side 11*
 
 AMMEN
 
@@ -229,7 +230,7 @@ Han blændes af sit nye ægteskab
 
   
 
-Side 12
+*Side 12*
 
 og Iasons venskab for vort hus er kølnet.
 
@@ -287,7 +288,7 @@ Jeg usalige menneskebarn,
 
   
 
-Side 13
+*Side 13*
 
 på smerter så rig, ak kunne jeg dø!
 
@@ -347,7 +348,7 @@ Fyrsternes vilkår og luner har magt.
 
   
 
-Side 14
+*Side 14*
 
 kun svært deres vrede de tøjler.
 
@@ -407,7 +408,7 @@ når hendes øre.
 
   
 
-Side 15
+*Side 15*
 
 MEDEA _{skrig indefra)_
 
@@ -471,7 +472,7 @@ Ak, kunne jeg se ham selv og hans brud
 
   
 
-Side 16
+*Side 16*
 
 165 ligge knust under borgens styrtende mur!
 
@@ -533,7 +534,7 @@ mest ligner løvinden der dier sit kuld
 
   
 
-Side 17
+*Side 17*
 
 og som stirrer med glødende blikke mod den
 
@@ -597,7 +598,7 @@ fra de salte havbølgers brusen.
 
   
 
-Side 18
+*Side 18*
 
 MEDEA _(kommer udfra huset)_
 
@@ -667,7 +668,7 @@ så manden villigt bær' samlivets åg -
 
   
 
-Side 19
+*Side 19*
 
 hvor frydefuldt! - Hvis ej, er døden bedst.
 
@@ -735,7 +736,7 @@ Medea. Helt forståelig er din harme.
 
   
 
-Side 20
+*Side 20*
 
 KREON _(kommer ind med v__åbnet følge)_
 
@@ -799,7 +800,7 @@ Det gør dem fremmede for livets virke,
 
   
 
-Side 21
+*Side 21*
 
 og sætter giftigt blod hos deres bysbørn.
 
@@ -863,7 +864,7 @@ Ved dine knæ, ved din nygifte datter - -
 
   
 
-Side 22
+*Side 22*
 
 KREON
 
@@ -911,7 +912,7 @@ KREON
 
   
 
-Side 23
+*Side 23*
 
 MEDEA
 
@@ -969,7 +970,7 @@ _(ud med sin livvagt)_
 
   
 
-Side 24
+*Side 24*
 
 KOR
 
@@ -1037,7 +1038,7 @@ Så er de døde. Men jeg selv - hvorhen?
 
   
 
-Side 25
+*Side 25*
 
 Hvad by, hvad land vil gæstfrit ta' imod mig
 
@@ -1091,7 +1092,7 @@ men fødte mestre i at øve ondt.
 
   
 
-Side 26
+*Side 26*
 
 KOR
 
@@ -1151,7 +1152,7 @@ bitter i sind. Som hjælpeløs flygtning
 
   
 
-Side 27
+*Side 27*
 
 Mod strofe II
 
@@ -1211,7 +1212,7 @@ gengælder jeg dit had med venlighed.
 
   
 
-Side 28
+*Side 28*
 
 MEDEA
 
@@ -1281,7 +1282,7 @@ Se denne hånd som du så tit har trykket,
 
   
 
-Side 29
+*Side 29*
 
 de knæ ved hvilke du anråbte mig!
 
@@ -1343,7 +1344,7 @@ da bliver kampen hård og uforsonlig.
 
   
 
-Side 30
+*Side 30*
 
 IASON
 
@@ -1413,7 +1414,7 @@ hvad større lykke kunne mig da hænde
 
   
 
-Side 31
+*Side 31*
 
 end, selv landflygtig, at få en kongebrud?
 
@@ -1479,7 +1480,7 @@ Det mener jeg, er det end ilde hørt.
 
   
 
-Side 32
+*Side 32*
 
 MEDEA
 
@@ -1541,7 +1542,7 @@ MEDEA
 
   
 
-Side 33
+*Side 33*
 
 for lykke som kun skærer mig i hjertet!
 
@@ -1595,7 +1596,7 @@ At sige nej til det er vanvid, kvinde.
 
   
 
-Side 34
+*Side 34*
 
 MEDEA
 
@@ -1657,7 +1658,7 @@ higen mod vellyst!
 
   
 
-Side 35
+*Side 35*
 
 Modstrofe I
 
@@ -1717,7 +1718,7 @@ Så dybt du led som næppe fattes,
 
   
 
-Side 36
+*Side 36*
 
 men ingen, ingen by eller land
 
@@ -1767,7 +1768,7 @@ Har du en hustru? eller er du ugift?
 
   
 
-Side 37
+*Side 37*
 
 **AIGEUS**
 
@@ -1815,7 +1816,7 @@ AIGEUS
 
   
 
-Side 38
+*Side 38*
 
 MEDEA
 
@@ -1863,7 +1864,7 @@ En anden kvinde hersker i mit hus.
 
   
 
-Side 39
+*Side 39*
 
 AIGEUS
 
@@ -1911,7 +1912,7 @@ AIGEUS
 
   
 
-Side 40
+*Side 40*
 
 MEDEA
 
@@ -1971,7 +1972,7 @@ jeg kan og vil ej ta' dig med herfra.
 
   
 
-Side 41
+*Side 41*
 
 Selv må du se hvordan du når Athen.
 
@@ -2031,7 +2032,7 @@ min farfar Helios, ved alle guder -
 
   
 
-Side 42
+*Side 42*
 
 AIGEUS
 
@@ -2083,7 +2084,7 @@ Som en højsindet mand har du vist dig.
 
   
 
-Side 43
+*Side 43*
 
 MEDEA
 
@@ -2153,7 +2154,7 @@ Er sådan hele Iasons hus lagt øde,
 
   
 
-Side 44
+*Side 44*
 
 og fra min ryggesløse dåd jeg flygter.
 
@@ -2213,7 +2214,7 @@ Sådan vil Iason blive dybest ramt.
 
   
 
-Side 45
+*Side 45*
 
 KOR
 
@@ -2259,7 +2260,7 @@ som den blonde Harmonias' døtre.
 
   
 
-Side 46
+*Side 46*
 
 Modstrofe I
 
@@ -2315,7 +2316,7 @@ eller stål i dit hjerte
 
   
 
-Side 47
+*Side 47*
 
 til ryggesløs udåd?
 
@@ -2381,7 +2382,7 @@ var blind. Jeg burde jo ha' taget del
 
   
 
-Side 48
+*Side 48*
 
 i jeres højtid, smykket brudesengen,
 
@@ -2441,7 +2442,7 @@ Naturligt at en kvinde bliver harmfuld,
 
   
 
-Side 49
+*Side 49*
 
 910 når manden smugler anden kvinde ind.
 
@@ -2499,7 +2500,7 @@ Men hvorfor sukker du så tungt fra hjertet?
 
   
 
-Side 50
+*Side 50*
 
 MEDEA
 
@@ -2561,7 +2562,7 @@ Og drengene skal bringe dem. -
 
   
 
-Side 51
+*Side 51*
 
 _(til en slavinde)_
 
@@ -2625,7 +2626,7 @@ Så skynd jer, kom igen med glædesbud
 
   
 
-Side 52
+*Side 52*
 
 975 at alt hvad moder ønsker, er fuldført.
 
@@ -2681,7 +2682,7 @@ du styrter din nye hustru.
 
   
 
-Side 53
+*Side 53*
 
 Du arme brudgom,
 
@@ -2737,7 +2738,7 @@ Er det da ondt jeg meldte?
 
   
 
-Side 54
+*Side 54*
 
 MEDEA
 
@@ -2791,7 +2792,7 @@ før jeg oplever jeres glade ungdom
 
   
 
-Side 55
+*Side 55*
 
 Den lykke får jeg ikke at berede
 
@@ -2857,7 +2858,7 @@ Nej, gøres må det. Ah hvor ynkeligt
 
   
 
-Side 56
+*Side 56*
 
 at give feje, slappe tanker rum.
 
@@ -2917,7 +2918,7 @@ _(drengene ind i huset)_
 
   
 
-Side 57
+*Side 57*
 
 Jeg indser nok hvad udåd jeg har for,
 
@@ -2981,7 +2982,7 @@ og rummer det yderste, sidste:
 
   
 
-Side 58
+*Side 58*
 
 lad én have samlet sig rigeligt gods
 
@@ -3039,7 +3040,7 @@ Fra nu af kalder jeg dig ven, velgører.
 
   
 
-Side 59
+*Side 59*
 
 SENDEBUD
 
@@ -3105,7 +3106,7 @@ Vis dem lidt venlighed! Hvorfor så fjendtlig?
 
   
 
-Side 60
+*Side 60*
 
 Giv dem et blik, og husk at mine venner
 
@@ -3175,7 +3176,7 @@ så lang tid gik som når en hurtig løber
 
   
 
-Side 61
+*Side 61*
 
 sin banes længde halvt tilbagelægger.
 
@@ -3245,7 +3246,7 @@ Men da han, træt af gråd og klager, søgte
 
   
 
-Side 62
+*Side 62*
 
 at rejse op igen sin gamle krop,
 
@@ -3309,7 +3310,7 @@ se døden for en fremmed, umild hånd?
 
   
 
-Side 63
+*Side 63*
 
 som gav dem liv, vil også tage det.
 
@@ -3371,7 +3372,7 @@ vågen og pleje?
 
   
 
-Side 64
+*Side 64*
 
 Hvorfor svigted du hjemmet,
 
@@ -3425,7 +3426,7 @@ Stål eller klippe, grusom, moder,
 
   
 
-Side 65
+*Side 65*
 
 1280 er din natur,
 
@@ -3489,7 +3490,7 @@ Men mine drenges liv, det vil jeg redde,
 
   
 
-Side 66
+*Side 66*
 
 at ikke kongens slægtninge skal hævne
 
@@ -3537,7 +3538,7 @@ _(Medea viser sig p__å bygningens tag på en vogn, forspændt med to drager. Hu
 
   
 
-Side 67
+*Side 67*
 
 MEDEA
 
@@ -3605,7 +3606,7 @@ på die, din spot og hånlige natur.
 
   
 
-Side 68
+*Side 68*
 
 Bort fra mit ansigt, lede barnemorder! -
 
@@ -3663,7 +3664,7 @@ IASON
 
   
 
-Side 69
+*Side 69*
 
 MEDEA
 
@@ -3711,7 +3712,7 @@ Hvad vil du mer? Lad dette dog få ende!
 
   
 
-Side 70
+*Side 70*
 
 IASON
 
@@ -3767,7 +3768,7 @@ IASON
 
   
 
-Side 71
+*Side 71*
 
 MEDEA
 
@@ -3819,7 +3820,7 @@ hvad den glubende skabning mig volder af ve,
 
   
 
-Side 72
+*Side 72*
 
 løvinden der flår sine unger.
 
@@ -3857,7 +3858,7 @@ Alt skete som guderne ville.
 
   
 
-Side 73
+*Side 73*
 
 SAGNET
 
@@ -3871,7 +3872,7 @@ Til togtet meldte sig alle de bedste og kraftigste helte i Hellas, kaldet "Argon
 
   
 
-Side 74
+*Side 74*
 
 Tilsidst når de deres mål, Kolchis, og modtages som gæster, skønt ikke særlig velkomne, af kong Aietes. For at udlevere vædderskindet kræver kongen at Iason skal bestå forskellige prøver, hvorom sagnene er lidt uenige, men den afgørende er at han skal pløje med to ildsprudende tyre. Imidlertid har kongens datter _Medea_ ("den snilde") forelsket sig i den smukke fremmede. Takket være hjælp fra denne trolddomskyndige pige består Iason prøven, hvorpå han bemægtiger sig det Gyldne Skind, som bevogtes af en aldrig slumrende drage. Først da Medea har opbudt sine tryllemidler dysses den i søvn og må slippe sit bytte.
 
@@ -3885,7 +3886,7 @@ Da Iason og Medea tilsidst når tilbage til Iolkos, er kong Pelias meget affæld
 
   
 
-Side 75
+*Side 75*
 
 kunst med deres fader, undlader Medea at anvende sine tryllemidler, så at Pelias er og forbliver død.
 
@@ -3895,7 +3896,7 @@ Medeas senere skæbne vidste man også besked om: i Athen ægter hun kong Aigeus
 
   
 
-Side 76
+*Side 76*
 
 **KOMMENTARER**
 
@@ -3927,7 +3928,7 @@ VERS
 
   
 
-Side 77
+*Side 77*
 
 spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
@@ -3959,7 +3960,7 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
   
 
-Side 78
+*Side 78*
 
 527 _Kypris:_ gudinden Afrodite (se note til v. 630), her opkaldt efter hendes dyrkelse på (føde)øen Kypros (på dansk ses næsten kun den fortyskede form Cypern).
 
@@ -3981,7 +3982,7 @@ Side 78
 
   
 
-Side 79
+*Side 79*
 
 722 _arvinger:_ sagnet melder intet om at Aigus fik efterkommere ved Medeas hjælp. Derimod besvangrede han under sit ophold hos Pittheus i Troizen datteren Aithra, der blev mor til Athens særlige heros Theseus.
 
@@ -4007,7 +4008,7 @@ Side 79
 
   
 
-Side 80
+*Side 80*
 
 blive grebet af en uforklarlig angst ("panisk skræk", "panik"), så var det Pan der drev sit spil
 
@@ -4031,7 +4032,7 @@ _Skylla:_ et uhyre, der boede i en hule ved Messinastrædet (på den anden side 
 
   
 
-Side 81
+*Side 81*
 
 selv om sagnene har varieret stærkt.
 
@@ -4043,7 +4044,7 @@ selv om sagnene har varieret stærkt.
 
   
 
-Side 82
+*Side 82*
 
 ### DRAMAETS OPBYGNING
 
@@ -4069,7 +4070,7 @@ Euripides lægger ikke så megen vægt på korsangene som sine to forgængere Ai
 
   
 
-Side 83
+*Side 83*
 
 Koret består af korinthiske kvinder, der udtaler deres medfølelse med Medea.
 
@@ -4113,7 +4114,7 @@ Om kærlighedens besættende magt.
 
   
 
-Side 84
+*Side 84*
 
 759-822 Medea - koret: Medea har nu sin plan klar: hun må dræbe sine børn.
 
@@ -4159,7 +4160,7 @@ Koret udtrykker gru ved Medeas gerning. Mellem korstroferne hører man drengenes
 
   
 
-Side 85
+*Side 85*
 
 ###### N.
 
@@ -4179,7 +4180,7 @@ Korets _udmarch_ i anapæstisk rytme.
 
   
 
-Side 86
+*Side 86*
 
 ### INTRODUKTION
 
@@ -4193,7 +4194,7 @@ For poesiens vedkommende er vi nok lidt bedre stillet. Af _Pindars_ produktion e
 
   
 
-Side 87
+*Side 87*
 
 Endelig er der den dramatiske digtning, komedien og tragedien. Både tragedier og komedier blev opført som en vigtig bestanddel af de årlige fester til ære for vin- og frugtbarhedsguden Dionysos. Der var hver gang tale om en konkurrence (grækerne elskede konkurrencer) mellem tre digtere, der hver deltog med tre tragedier fulgt af et muntert satyrspil, en tetralogi. (Komediedigterne deltog, så vidt vi ved, kun med én komedie). Et dommerkollegium på fem mand afgjorde, hvem der skulle have første, anden og tredie pris. Man ved ikke bestemt hvori præmien bestod, men det blev anset for en stor ære at vinde førsteprisen. Hvert skuespil blev kun opført den ene gang, så man vil forstå at der i det 5. århundrede blev skrevet og opført en anselig række.
 
@@ -4205,7 +4206,7 @@ Ser man ud over hele tragedie-produktionen, ligner
 
   
 
-Side 88
+*Side 88*
 
 den måske nok en ruinmark, men dog en mark med mange og stolte rester. Aischylos, den ældste, døde i 456; Sofokles og Euripides omtrent samtidig, i 406, men da var Sofokles også blevet 90 år, ca. 20 år ældre end Euripides.
 
@@ -4221,7 +4222,7 @@ Euripides, født ca. 480, blev ikke synderlig anerkendt mens han levede; til gen
 
   
 
-Side 89
+*Side 89*
 
 synes han ikke at have taget del. Meget tyder på at han har levet grublende, tilbagetrukket, men ikke menneskesky. Hvorfra skulle han ellers have sin indtrængende menneskeforståelse? Den som borede så dybt i sindets løngange at den ældre generation følte sig ilde tilpas ved det spejl har holdt op for dem, han er til gengæld blevet tiljublet af de yngre. Men ungdommen har ikke haft tilstrækkelig vægt eller pladser i dommerkollegiet til at indvirke på afgørelsen i konkurrencen. Kun fire gange i sin levetid skal han have vundet første pris og sejren. Til sammenligning kan anføres at Sofokles altid vandt første eller anden pris, men aldrig tredie.
 
@@ -4237,7 +4238,7 @@ Det sagnstof Euripides i "Medea" øser af, fortællingen om Argonauternes færd 
 
   
 
-Side 90
+*Side 90*
 
 igen, men som tragedie-stof er det for langt og alt for rigt på sinkende episoder. Tragedien her handler da heller ikke om selve togtet, men har det kun som den faste baggrund, og tidsmæssigt ligger handlingen efter togtets afslutning.
 
@@ -4247,7 +4248,7 @@ Men den hånd der skal dræbe de to uskyldige drenge, det er Medeas. Vil og kan 
 
   
 
-Side 91
+*Side 91*
 
 hun elsker sine drenge, så inderligt og varmt som nogen moder - hellener eller barbar - kan det. Alligevel spørger vi: kan en blot og bar hævnfølelse undertvinge alt hvad der er i hende af menneskelig følelse og moderlig hengivenhed? Medea selv giver os svaret. "Min thymos" - siger hun (thymos: lidenskab, vild harme) "er stærkere end mine buleumata (rolig indsigt, nøje overvejelse)". Med andre ord, hun kan ikke handle anderledes end hun gør, fordi hun er under sin thymos' vold.
 
@@ -4259,7 +4260,7 @@ Denne tragedie fik ved opførelsen tredie, altså laveste, pris.
 
   
 
-Side 92
+*Side 92*
 
 ### LITTERATUR
 
