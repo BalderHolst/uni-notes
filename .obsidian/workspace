@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Al magt til kvinden.md",
+            "file": "Skolerelevant/Allans ord.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "al magt til kvinden",
+                "query": "dion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Al magt til kvinden.md",
+                "file": "Skolerelevant/Allans ord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Al magt til kvinden.md"
+                "file": "Skolerelevant/Allans ord.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Skolerelevant/Allans ord.md",
+    "Euripides.md",
     "Skolerelevant/Al magt til kvinden.md",
     "Arestofanes.md",
     "Skolerelevant/Medea.md",
     "Skolerelevant/Drama.md",
     "Untitled.md",
     "Allans ord.md",
-    "Euripides.md",
     "Menander.md",
-    "Skolerelevant/Sofagles.md",
-    "Skolerelevant/Aischylos.md"
+    "Skolerelevant/Sofagles.md"
   ]
 }

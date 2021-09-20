@@ -128,3 +128,6 @@ Jambisk trimeter er det typiske metrum (versemål) for dialogerne i attiske trag
 ##### Tragisk ironi
 
 Tragisk ironi kalder man det spænding, der opstår, når en af personerne eller koret siger noget, som tilskuerne og eventuelt andre personer i dramaet véd gælder eller vil komme til at gælde på en helt anden måde, end den talende forestiller sig. Mest suverænt er begrebet brugt i Sofokles’ tragedie _Kong Ødipus_, hvor den ene efter den anden af de andre personer erkender det, tilskuerne allerede ved, men som Ødipus alene ikke forstår, før det er for sent. Tragisk ironi understreger således det, der kan kaldes hovedtemaet i stykket: menneskets grænseløse uvidenhed om sig selv og sin skæbne.
+
+
+#old 
