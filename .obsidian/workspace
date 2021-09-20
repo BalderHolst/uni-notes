@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Allans ord.md",
-            "mode": "source"
+            "file": "Skolerelevant/Sagnet til Medea.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Allans ord.md",
+                "file": "Skolerelevant/Sagnet til Medea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Allans ord.md"
+                "file": "Skolerelevant/Sagnet til Medea.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "133ab246f0f563e6",
   "lastOpenFiles": [
+    "Skolerelevant/Sagnet til Medea.md",
+    "Skolerelevant/Medea.md",
     "Skolerelevant/Allans ord.md",
     "Euripides.md",
     "Skolerelevant/Al magt til kvinden.md",
     "Arestofanes.md",
-    "Skolerelevant/Medea.md",
     "Skolerelevant/Drama.md",
     "Untitled.md",
     "Allans ord.md",
-    "Menander.md",
-    "Skolerelevant/Sofagles.md"
+    "Menander.md"
   ]
 }
