@@ -56,7 +56,7 @@ Jambisk trimeter er det typiske metrum (versemål) for dialogerne i attiske trag
 > 
 > Ăd Sȳmplĕgādĕrs mø̄rkĕ sūnd mŏd Kōlkĭs lānd. 
 > 
-> \-[[Medea]] v. 1-2
+> \-[[Medea - Analyse]] v. 1-2
 
 ---
 

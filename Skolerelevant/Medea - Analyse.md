@@ -6,10 +6,10 @@ Medea hander om Medea hvis mand ([[Iason]]) gifter sig med en yngre prinsesse. M
 ---
 
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  # Medea - Tekst
+title:                  ##### [[Medea - Tekst|Stykket]]
 collapse:               # Create a collapsible admonition.
 
-
+![[Medea - Tekst]]
 
 ```
 

@@ -10,7 +10,7 @@ Der er overleveret 18 stykker fra Euripides: 17 [[Drama#Tragedie|tragedier]] og 
 **Egenskaber af hans tragedier**
 - Mere moderne
 - Fokus: det menneskelige
-- Har skrevet tragedierne [[Medea]] og [[Hippolytos]]
+- Har skrevet tragedierne [[Medea - Analyse]] og [[Hippolytos]]
 
 ---
 
