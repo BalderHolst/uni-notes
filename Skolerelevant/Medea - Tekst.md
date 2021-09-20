@@ -4001,7 +4001,11 @@ Alt skete som guderne ville.
 
 
 ---
-*Side 73*
+*Side 73 - 75*
+```ad-example # Admonition type. See below for a list of available types.
+title:                  **Sagnet**
+collapse:               # Create a collapsible admonition.
+
 
 SAGNET
 
@@ -4013,12 +4017,6 @@ Iason lader da bygge et skib, prægtigere og hurtigere end hidtil set, det lynsn
 
 Til togtet meldte sig alle de bedste og kraftigste helte i Hellas, kaldet "Argonauterne", og med dem drager Iason ud på det berømte "Argonautertog". Under Heras og Athenes beskyttelse går så farten gennem Dardanellerne og Bosporos ud på Sortehavet. Blandt de mange farer og eventyr de overstår, er den bekendteste turen gennem Bosporos mellem "sammenslagsklipperne", "_Symplegaderne"_ der knuser ethvert fartøj som prøver at forcere dem. Ved Athenes hjælp slipper Argo netop igennem - og Symplegaderne har siden den tid stået roligt og solidt forankret i havbunden.
 
-  
-
-
----
-*Side 74*
-
 Tilsidst når de deres mål, Kolchis, og modtages som gæster, skønt ikke særlig velkomne, af kong Aietes. For at udlevere vædderskindet kræver kongen at Iason skal bestå forskellige prøver, hvorom sagnene er lidt uenige, men den afgørende er at han skal pløje med to ildsprudende tyre. Imidlertid har kongens datter _Medea_ ("den snilde") forelsket sig i den smukke fremmede. Takket være hjælp fra denne trolddomskyndige pige består Iason prøven, hvorpå han bemægtiger sig det Gyldne Skind, som bevogtes af en aldrig slumrende drage. Først da Medea har opbudt sine tryllemidler dysses den i søvn og må slippe sit bytte.
 
 Efter endt værk sniger Iason sig ned til sit skib, fulgt af Medea og hendes lillebror, og stævner hjemad. Da Aietes far nys om det skete, sætter han efter dem og er lige ved at indhente dem. Da griber Medea sin bror, dræber ham, og kaster hans lemmer, et for et, i havet, så at forfølgerne sinkes ved at måtte opsamle den dødes rester.
@@ -4029,23 +4027,22 @@ På Korkyra (Korfu) er de gæster hos Faiakerkongen Alkinoos og dronning Arete. 
 
 Da Iason og Medea tilsidst når tilbage til Iolkos, er kong Pelias meget affældig, til stor bekymring for hans døtre. Medea lover at forynge deres fader - hun har vist dem sin kunst ved at slagte en gammel vædder og putte den i sin trolddoms-gryde og tage den spillevende og forynget op. Men da Pelias' døtre forsøger den samme
 
-  
-
-
----
-*Side 75*
-
 kunst med deres fader, undlader Medea at anvende sine tryllemidler, så at Pelias er og forbliver død.
 
 Følgelig må ægteparret atter gå i landflygtighed. De finder beskyttelse og bolig i Korinth hvor de tilbringer nogle år, og far to sønner. Da er det Iason vinder Kreons datter til brud, idet han svigter sin hustru og deres børn. Medeas harme og skinsyge er uden grænse: hun udtænker og udfører en frygtelig hævn på prinsessen - Glauke siges hun at have heddet - på hendes fader og sin mand, således som Euripides fremstiller det i sin tragedie.
 
 Medeas senere skæbne vidste man også besked om: i Athen ægter hun kong Aigeus, men afsløres da hun vil rydde sin stedsøn Theseus af vejen ved gift. Giftbægret bliver slået hende ud af hånden, og Medea må endnu engang tage flugten. Hun kommer langt bort til østlige egne og bliver stammoder til _Mederne,_ et broderfolk til Perserne. Denne sidste slutning på sagnet må dog betragtes som ret sen, og synes nærmest at være en efterrationalisering der er opstået på grund af navneligheden.
 
-  
+```
 
+^61aae1
 
 ---
-*Side 76*
+*Side 76 - 81*
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  **Kommentarer**
+collapse:               # Create a collapsible admonition.
 
 **KOMMENTARER**
 
@@ -4075,11 +4072,7 @@ VERS
 
 <sub><sup>242</sup></sub> _samlivets_ _åg:_ ægteskabet sammenlignes med et
 
-  
 
-
----
-*Side 77*
 
 spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
@@ -4112,9 +4105,6 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
   
 
 
----
-*Side 78*
-
 <sub><sup>527</sup></sub> _Kypris:_ gudinden Afrodite (se note til v. 630), her opkaldt efter hendes dyrkelse på (føde)øen Kypros (på dansk ses næsten kun den fortyskede form Cypern).
 
 <sub><sup>543</sup></sub> _Orfeus:_ sagnagtig mester i sang og lyrespil.
@@ -4134,10 +4124,6 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 <sub><sup>709</sup></sub> _ved din hage:_ sml. note til v. 324.
 
   
-
-
----
-*Side 79*
 
 <sub><sup>722</sup></sub> _arvinger:_ sagnet melder intet om at Aigus fik efterkommere ved Medeas hjælp. Derimod besvangrede han under sit ophold hos Pittheus i Troizen datteren Aithra, der blev mor til Athens særlige heros Theseus.
 
@@ -4161,11 +4147,7 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
 <sub><sup>1172</sup></sub> _Pan:_ guden Pan færdedes fortrinsvis i bjerge; han er gud for småkvægets trivsel. I øde skovegne, især i den lumre middagshede, kunne mennesker
 
-  
-
-
----
-*Side 80*
+ 
 
 blive grebet af en uforklarlig angst ("panisk skræk", "panik"), så var det Pan der drev sit spil
 
@@ -4187,11 +4169,7 @@ _Skylla:_ et uhyre, der boede i en hule ved Messinastrædet (på den anden side 
 
 <sub><sup>1378</sup></sub> _begrave selv:_ Euripides sigter hermed til et andet beslægtet sagn, ifølge hvilket det var korinthierne, som dræbte Medeas børn, og til bod måtte holde en årlig sonefest i Heras tempel på borg
 
-  
-
-
----
-*Side 81*
+ 
 
 selv om sagnene har varieret stærkt.
 
@@ -4204,8 +4182,15 @@ selv om sagnene har varieret stærkt.
   
 
 
+
+```
+
 ---
-*Side 82*
+*Side 82 - 85*
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  ### Dramaets Opbygning
+collapse:               # Create a collapsible admonition.
 
 ### DRAMAETS OPBYGNING
 
@@ -4229,11 +4214,6 @@ Korets indtogssang _(parodos_ betegner egentlig den rampe der fører op til plat
 
 Euripides lægger ikke så megen vægt på korsangene som sine to forgængere Aischylos og Sofokles, heller ikke hvad den lyriske udformning angår. Korsangen her er da også utraditionel: den indledes med et anapæstisk afsnit (d.v.s. i marchrytme), først fra v. 149 begynder den egentlige korsang - dog med iblandede anapæster ved ammen og Medea.
 
-  
-
-
----
-*Side 83*
 
 Koret består af korinthiske kvinder, der udtaler deres medfølelse med Medea.
 
@@ -4275,11 +4255,7 @@ Om kærlighedens besættende magt.
 
 <sub><sup>663-758</sup></sub> Medea - Aigeus: Aigeus lover Medea et tilflugtssted i Athen. I begyndelsen af samtalen er der brugt stichomythi, skønt der ikke er tale om noget dramatisk højdepunkt. Euripides bruger ofte (som her) stichomythi som simpel samtaleform.
 
-  
-
-
----
-*Side 84*
+ 
 
 <sub><sup>759-822</sup></sub> Medea - koret: Medea har nu sin plan klar: hun må dræbe sine børn.
 
@@ -4325,10 +4301,6 @@ Koret udtrykker gru ved Medeas gerning. Mellem korstroferne hører man drengenes
 
   
 
-
----
-*Side 85*
-
 ###### N.
 
 <sub><sup>1293-1414</sup></sub> _Sjette epeisodion_
@@ -4349,7 +4321,15 @@ Korets _udmarch_ i anapæstisk rytme.
 
 
 ---
-*Side 86*
+
+```
+
+---
+*Side 86 - 91*
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  **Introduction/Baggrund**
+collapse:               # Create a collapsible admonition.
 
 ### INTRODUKTION
 
@@ -4363,10 +4343,6 @@ For poesiens vedkommende er vi nok lidt bedre stillet. Af _Pindars_ produktion e
 
   
 
-
----
-*Side 87*
-
 Endelig er der den dramatiske digtning, komedien og tragedien. Både tragedier og komedier blev opført som en vigtig bestanddel af de årlige fester til ære for vin- og frugtbarhedsguden Dionysos. Der var hver gang tale om en konkurrence (grækerne elskede konkurrencer) mellem tre digtere, der hver deltog med tre tragedier fulgt af et muntert satyrspil, en tetralogi. (Komediedigterne deltog, så vidt vi ved, kun med én komedie). Et dommerkollegium på fem mand afgjorde, hvem der skulle have første, anden og tredie pris. Man ved ikke bestemt hvori præmien bestod, men det blev anset for en stor ære at vinde førsteprisen. Hvert skuespil blev kun opført den ene gang, så man vil forstå at der i det 5. århundrede blev skrevet og opført en anselig række.
 
 ###### Tragedien og tragikerne
@@ -4376,10 +4352,6 @@ Hvad tragedien angår, da er det en smagssag om man vil beklage at kun en rest a
 Ser man ud over hele tragedie-produktionen, ligner
 
   
-
-
----
-*Side 88*
 
 den måske nok en ruinmark, men dog en mark med mange og stolte rester. Aischylos, den ældste, døde i 456; Sofokles og Euripides omtrent samtidig, i 406, men da var Sofokles også blevet 90 år, ca. 20 år ældre end Euripides.
 
@@ -4393,11 +4365,6 @@ Den athenæiske stat hægede om de tre store tragikeres minde og deres værker, 
 
 Euripides, født ca. 480, blev ikke synderlig anerkendt mens han levede; til gengæld blev han i årene - og århundrederne - efter sin død, den populæreste af alle. Euripides var af god, borgerlig familie. Hans far havde nogen ejendom på Salamis. I byens politiske liv
 
-  
-
-
----
-*Side 89*
 
 synes han ikke at have taget del. Meget tyder på at han har levet grublende, tilbagetrukket, men ikke menneskesky. Hvorfra skulle han ellers have sin indtrængende menneskeforståelse? Den som borede så dybt i sindets løngange at den ældre generation følte sig ilde tilpas ved det spejl har holdt op for dem, han er til gengæld blevet tiljublet af de yngre. Men ungdommen har ikke haft tilstrækkelig vægt eller pladser i dommerkollegiet til at indvirke på afgørelsen i konkurrencen. Kun fire gange i sin levetid skal han have vundet første pris og sejren. Til sammenligning kan anføres at Sofokles altid vandt første eller anden pris, men aldrig tredie.
 
@@ -4411,23 +4378,12 @@ Emnerne for tragediedigtningen lå fast, fixeret i urørlig tradition: det var s
 
 Det sagnstof Euripides i "Medea" øser af, fortællingen om Argonauternes færd (se "Sagnet" s. 73-75) var særdeles yndet og kendt af ethvert barn. Det har været under digterisk behandling og er blevet fortalt om og om
 
-  
-
-
----
-*Side 90*
-
 igen, men som tragedie-stof er det for langt og alt for rigt på sinkende episoder. Tragedien her handler da heller ikke om selve togtet, men har det kun som den faste baggrund, og tidsmæssigt ligger handlingen efter togtets afslutning.
 
 Men trods det heroiske miljø er personerne næsten alle af godt kendt hverdagssnit, og koret består af brave korinthiske kvinder der tager del i heltindens modgang og udviser diskretion når det kræves. Kun Medea selv rager op over sine omgivelser, først og fremmest ved at være den berygtede troldkvinde fra Østen, altså efter hellenernes faste sprogbrug: en barbar. Da stykket begynder er hun kun en ulykkelig forladt hustru med to sønner, hendes liv ligger i grus og hun øjner ingen udvej. Alt ser håbløst ud. Men det er som om hun vokser i ulykken, trin for trin, for hver ny person hun kommer i berøring med. Hun har mændene i sin magt og forstår at udnytte den. Der er ikke tale om nogen erotisk udstråling, men snarere om en overlegen kløgt. Således bryder hun sig vej, og står sluttelig som den der véd hvad hun vil og er i stand til det. _Hvad_ det er hun vil lægger hun ikke skjul på overfor koret: hævn, hævn for enhver pris, over sin utro frasehelt af en mand, over hans unge brud og hendes far. Iason, hvis død hun først af alt havde besluttet, skal nu rammes endnu dybere: ved at miste både sin nye brud og sine børn, uden håb om efterslægt eller alderdoms-støtte, skal han træffes tilintetgørende, når han står ensom og ribbet for alt hvad der betyder noget for en mand, borthugget i roden og uden fremtidshåb.
 
 Men den hånd der skal dræbe de to uskyldige drenge, det er Medeas. Vil og kan hun det? Det er åbenbart den alt overskyggende konflikt i tragedien. Hun er moder, og
 
-  
-
-
----
-*Side 91*
 
 hun elsker sine drenge, så inderligt og varmt som nogen moder - hellener eller barbar - kan det. Alligevel spørger vi: kan en blot og bar hævnfølelse undertvinge alt hvad der er i hende af menneskelig følelse og moderlig hengivenhed? Medea selv giver os svaret. "Min thymos" - siger hun (thymos: lidenskab, vild harme) "er stærkere end mine buleumata (rolig indsigt, nøje overvejelse)". Med andre ord, hun kan ikke handle anderledes end hun gør, fordi hun er under sin thymos' vold.
 
@@ -4436,6 +4392,8 @@ Tilbage har vi billedet af en blodbesudlet barnemorderske, som har edeligt løft
 En så kompliceret, selvmodsigende, sammensat og psykologisk indtrængende afsløring af et menneskevæsen var næppe nogensinde før set på den attiske skueplads ...
 
 Denne tragedie fik ved opførelsen tredie, altså laveste, pris.
+
+```
 
   
 

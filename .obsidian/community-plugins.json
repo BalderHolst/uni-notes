@@ -11,5 +11,6 @@
   "obsidian-timelines",
   "dataview",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "url-into-selection"
 ]
