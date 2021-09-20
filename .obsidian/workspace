@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d819856d6165c04c",
+        "id": "c8877b16ec10fc8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -129,19 +130,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "d819856d6165c04c",
+  "active": "c8877b16ec10fc8f",
   "lastOpenFiles": [
+    "Drama.md",
+    "Medea.md",
+    "Sofagles.md",
+    "Aischylos.md",
     "Untitled.md",
     "Skolerelevant/Linære Funktioner.md",
     "Skolerelevant/Sekanter og Tangenter.md",
     "Skolerelevant/Differntialregning.md",
     "Skolerelevant/Tretrinsraketten.md",
-    "Skolerelevant/Differntialregning Regneregler.md",
-    "Skolerelevant/Typer Psykologi.md",
-    "Media/Psykoanalyse.jpg",
-    "Media/Ableton 11 - manual.pdf",
-    "Ny fil der skal backes op!.md"
+    "Skolerelevant/Differntialregning Regneregler.md"
   ]
 }
