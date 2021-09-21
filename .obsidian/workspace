@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd2f153c668bf3f",
+        "id": "155b26ea6e7153c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Typer Henfald.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typer Henfald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Typer Henfald.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,11 +126,11 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "1fd2f153c668bf3f",
+  "active": "155b26ea6e7153c7",
   "lastOpenFiles": [
+    "Det_tredie_Rige.md",
     "Untitled.md",
     "Media/Det_tredie_Rige.pdf",
-    "Det_tredie_Rige.md",
     "Skolerelevant/Socialkonstruktivisme.md",
     "Skolerelevant/typer psykologi (skema).md",
     "Skolerelevant/Typer Psykologi.md",
