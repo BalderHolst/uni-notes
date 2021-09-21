@@ -4,48 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63e624f8b8ba28df",
-        "type": "split",
-        "children": [
-          {
-            "id": "dbcfa1d5fa6255c4",
-            "type": "leaf",
-            "dimension": 64.40460947503202,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I en Landsbykirke (1837).md",
-                "mode": "source"
-              }
-            },
-            "group": "ef9f820d47ff5ce5"
-          },
-          {
-            "id": "a7d466712b266f4a",
-            "type": "leaf",
-            "dimension": 35.59539052496799,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skolerelevant/Romantisme.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "7a6750a61e1571f5",
+        "id": "dbcfa1d5fa6255c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I en Landsbykirke (1837).md",
+            "file": "Skolerelevant/Den Kognitive Terapi.md",
             "mode": "preview"
           }
-        },
-        "group": "ef9f820d47ff5ce5"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I en Landsbykirke (1837).md",
+                "file": "Skolerelevant/Den Kognitive Terapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I en Landsbykirke (1837).md"
+                "file": "Skolerelevant/Den Kognitive Terapi.md"
               }
             }
           },
@@ -167,6 +134,8 @@
   },
   "active": "dbcfa1d5fa6255c4",
   "lastOpenFiles": [
+    "Skolerelevant/Den Kognitive Terapi.md",
+    "Skolerelevant/Kognitiv psykologi.md",
     "I en Landsbykirke (1837).md",
     "Skolerelevant/Romantisme.md",
     "Untitled.md",
@@ -174,8 +143,6 @@
     "Skolerelevant/Breve fra Stalingrad.md",
     "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
     "Skolerelevant/Rigets dødsfjende må slås ned.md",
-    "Völkischer Beobachter.md",
-    "Rigets dødsfjende må slås ned.md",
-    "Det_tredie_Rige.md"
+    "Völkischer Beobachter.md"
   ]
 }

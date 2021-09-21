@@ -71,7 +71,7 @@ Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem 
 
 
 
-### Adærdsterapå
+### Adærdsterapi
 **Fokus:** få klienten i situationer der kan gå en lille smugle over deres grænser, for at venne dem til det.
 
 ### Hjemmeopgaver

@@ -29,12 +29,12 @@ collapse:               # Create a collapsible admonition.
 | 9       | sammenligning (*"Der var en rædsom Tomhed, Som i en Grav dos Døde"*). Kirken er en grav hos de døde, hvilket jo ikke er målet med en kirke                                                 |
 | 10      | Vendepunkt (*"der var - dog nok om dette"*) han begyndet at skrive om hvad der faktisk er Guddommeligt                                                                                     |
 | 11      | Vi er alle alle amatører i troen                                                                                                                                                           |
-| 12 - 13 | (*"Men **du** - var ved min side"*) Kones/kæresten pande, uskyldighed og renhed fremhæves som alternativer/det samme som til kirken.                                                       |
+| 12 - 13 | (*"Men **du** - var ved min side"*) Kones/kæresten/(bare en kvinde) pande, uskyldighed og renhed fremhæves som alternativer/det samme som til kirken.                                                       |
 | 14      | Han ser hende som guddommelig. Hun overskygger altså den kristne Gud                                                                                                                       |
 | 15      | Hendes sprog og smil overgår samler                                                                                                                                                        |
 | 16      | Hendes kloje risler melodisk (smukt), måske bedre en oglet                                                                                                                                 |
 | 17      | Der er mere at lære af hendes hår, end af biblens ligninger                                                                                                                                |
-| 18 - 19 | Han tilbeder sin kone / Opsumerer : Alt kirkenshellidom ligger hos hende og ikke kirken. Han er der ikke for troen på Jesus, men troen om hende.                                                                                                                                                         |
+| 18 - 19 | Opsumerer : Alt kirkenshellidom ligger hos hende og ikke kirken. Han er der ikke for troen på Jesus, men troen om hende.                                                                                                                                                         |
 
 ---
 
@@ -44,3 +44,6 @@ Kirken er **mørket** i dette digt og kvinden er **lyset**.
 
 #### Temaer
 - Dynkelhed >< Lyset	=	Kirken >< Kvinden
+
+#dansk 
+#tidslinje 
