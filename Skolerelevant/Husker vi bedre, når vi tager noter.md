@@ -3,7 +3,7 @@ Ja. Ja det gør vi.
 
 ---      
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  # Tekst
+title:                  **Tekst**
 collapse:               # Create a collapsible admonition.
 
           

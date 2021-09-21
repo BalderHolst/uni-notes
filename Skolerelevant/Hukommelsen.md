@@ -32,10 +32,17 @@ Dette er hukommelsen som vi er bevist om at vi har og bruger.
 #### Episodisk Hukommelse
 Dette er når man genkalder et minde, eller husker en erfaring. Her er vi beviste om at vi tænker tilbage på vores tidligere oplevelser.
 
+**Falske Erindringer**
+Det kan være hele erindringer, men mere ofte bare detalejer 
+
+Også ofte grunden til falske tilståelser 
+
+[[Forskningsnyt - Falske erindringer]]
+
 #### Semantisk Hukommelse
 Den semantiske hukommelse bruger vi til at forbinde relevant viden. Det er den vi bruger til at huske emner vi har gennemgået i fysik, eller til at lave en liste med frugter. Det er også her vores faktaviden gemmer sig, som vi bruger til at gemme på meget af det viden vi lærer i skolen (se [[Husker vi bedre, når vi tager noter|husker vi bedre når vi tager noter?]]).
 
-se [[semantiske skemaer]].
+se [[Semantiske skemaer]].
 
 
 ## Den Implicitte Langtidshukommelse
@@ -49,6 +56,8 @@ Denne del af hukommelsen identificere objekter og analyere kropssprog, helt uden
 
 #### Hukommelse for Emotionelle Reaktioner
 Her gemmer vi de emotionelle reaktioner på forskellige ting eller situationer. Det kan for eksempel være at være at man som barn er blevet skræmt for livet af en klovn, og nu har en meget negativ reaktion på at se klovne, også selvom du måske ikke kan huske den hændelse der startede forbien.
+
+
 
 
 

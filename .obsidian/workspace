@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "18cc5e4a0f5db6dc",
+        "id": "dd194ed838ade937",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Kognitiv psykologi.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "663ddba7612bb8c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fortrængninger.md",
-            "mode": "source"
+            "file": "Forskningsnyt - Falske erindringer.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -87,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fortrængninger.md",
+                "file": "Forskningsnyt - Falske erindringer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fortrængninger.md"
+                "file": "Forskningsnyt - Falske erindringer.md"
               }
             }
           },
@@ -142,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "663ddba7612bb8c2",
+  "active": "dd194ed838ade937",
   "lastOpenFiles": [
+    "Forskningsnyt - Falske erindringer.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Media/Forskningsnyt - Falske erindringer.pdf",
+    "Skolerelevant/Husker vi bedre, når vi tager noter.md",
     "Fortrængninger.md",
+    "semantiske skemaer.md",
     "Skolerelevant/Kognitiv psykologi.md",
     "Skolerelevant/Den Kognitive Terapi.md",
     "Untitled.md",
-    "Hermann Ebbinghaus.md",
-    "Skolerelevant/Hukommelsen.md",
-    "Skolerelevant/Adolf Hitler.md",
-    "Hilter.md",
-    "HOME.md",
-    "Person.md"
+    "Hermann Ebbinghaus.md"
   ]
 }

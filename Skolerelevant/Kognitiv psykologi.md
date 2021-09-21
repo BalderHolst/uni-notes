@@ -10,7 +10,11 @@ Kognitive skemaer = Forbindelser vi danner gennem erfaringer i livet (f.eks. for
 
 vi går ud fra at der er sådan det er, men vi har alle forskellige erfaringer som de kognitive skemaer bygger på.
 
-Ingen [[fortrængning|fortrængninger]]
+#### Fortrængning
+
+Ingen [[fortrængning|fortrængninger]], *men* hos børn kan stærke begivenheder fortrænges da deres hukommelse eller sprog ikke er udviklet, eller at det er blevet benægtet nok.
+
+En begivenhed kan også være så voldsom at det ikke opbevares i hjerne
 
 
 
