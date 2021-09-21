@@ -3,12 +3,12 @@
 
 **Synspunkt:** menneskers problemer stammer af hvordan vi *tolker* hændelser, situationer og os selv i dagligdagen.
 
-- Nutidsorienteret?
+- Nutidsorienteret
 - en videreudvikling af den [[Behaviorisme|behavioristiske]] adfærdsterapi
 - Forholder sig til hvordan mennesker tænker om de informationer, de modtager fra omverdenen
 - Det er altså ikke omverdenen der skaber vores angst, stress og vrede, men dem måde vi *tolker* vores omverden
 
-##### Negative Automatiske Tanker
+#### Negative Automatiske Tanker
 Folk med depression har tendens til at tænke særligt negativt om deres omverden og dem selv i den. Man tænker i dag at der er to grunde til disse tanker:
 - dysfunktionelle basale antagelser = antagelser om hvordan man *burde* leve. -  Startes ofte af måden har omgået dem før i tiden.
 - dysfunktionelle skemaer = *"jeg er ikke værd at elske"*
@@ -16,7 +16,7 @@ Folk med depression har tendens til at tænke særligt negativt om deres omverde
 ![[Udvikling-af-dysfunktionelle-skemaer.jpg|380]]
 
 
-### Kognitive Forvrængninger
+#### Kognitive Forvrængninger
 De dysfunktionelle antagelser og skemaer, bliver hele tiden opratholdt af den deprestives *forvrængede* syn på verden. Dette syn forstærker skemaerne og antagelserne.
 
 <table><tbody><tr>
@@ -45,34 +45,39 @@ De dysfunktionelle antagelser og skemaer, bliver hele tiden opratholdt af den de
                 <td>En kvinde ringer hjem til sin mand, men ingen tager telefonen. Hun tænker: "Han har garanteret fundet en anden.</td>
               </tr></tbody></table>
 
-### Behandling
+---
+
+## Behandling
 Der er fire oftes brugte metoder:
 - Psykoedukation
 - Kognitiv omstrukturering
 - Adfærdsterapi
 - Hjemmeopgaver
 
-#### Psykoedukation
+### Psykoedukation
 **Fokus:** informer klienten om baggrunden for deres lidelse.
 
 Dette er med til at give klienten e overblik over de grunde der er til at de har det som de har det.
 
 
-#### Kognitiv Omstrukturering
+### Kognitiv Omstrukturering
 **Fokus:** skab en liste over alle klientens problemer, og hytoteser om forbindelser mellem fortid og problemer.
 
 *registrering* = klienten noterer hyppige problemer i hverdagen, mens han/hun gennemgår oplevelser
 
 Ved kognitiv omstrukturering bliver klienten klar over deres skemaer og antagelser og kan derfor vælge af afprøve nye måder at reagere på deres omgivelser.
 
-Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem til svaret på deres lidelser.
+Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem til svaret på deres lidelser. (samme metode som [[Sokrates]] brugte i sin filosofi)
 
 
 
-#### Adærdsterapå
+### Adærdsterapå
+**Fokus:** få klienten i situationer der kan gå en lille smugle over deres grænser, for at venne dem til det.
+
+### Hjemmeopgaver
+**Fokus:** få alt hvad terapeuten har fundet ud af af løsninger, ud i den praktiske verden.
 
 
-
-
+---
 
 #psykologi 

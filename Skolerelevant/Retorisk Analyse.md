@@ -22,5 +22,5 @@ form af alt det der er virkeligt vigtigt for forståelse, men ikke helt
 ned i dybden til hvert enkelt argument og hvert enkelt ord.
 
 #todo 
-#Retorik 
+#retorik 
 #dansk 
