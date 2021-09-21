@@ -3,6 +3,8 @@
 #### Fokus
 den borgerlige dagside >< den fortrængte natside
 
+at udfordre den undigefacade og finde *det interessante* bagved
+
 #### Elementer
 - Angreb på biedermeier-idyl/haarmoni -> fokuserer på alt der er under den romantiske overflade.
 - Søger skønheden og *det interessante* i:
@@ -17,7 +19,13 @@ den borgerlige dagside >< den fortrængte natside
 		- Det forbudte
 		- Det dæmonske
 		- Det hæslige
+---
+#### Tekster
+- [[I en Landsbykirke (1837)]]
 
+
+
+---
 ##### Tags
 #dansk
 #tidslinje 

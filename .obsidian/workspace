@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d466712b266f4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "I en Landsbykirke (1837).md",
-            "mode": "source"
+        "id": "63e624f8b8ba28df",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbcfa1d5fa6255c4",
+            "type": "leaf",
+            "dimension": 64.40460947503202,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I en Landsbykirke (1837).md",
+                "mode": "source"
+              }
+            },
+            "group": "ef9f820d47ff5ce5"
+          },
+          {
+            "id": "a7d466712b266f4a",
+            "type": "leaf",
+            "dimension": 35.59539052496799,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Romantisme.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "dbcfa1d5fa6255c4",
+        "id": "7a6750a61e1571f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -23,7 +44,8 @@
             "file": "I en Landsbykirke (1837).md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "ef9f820d47ff5ce5"
       }
     ],
     "direction": "vertical"
@@ -143,7 +165,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "a7d466712b266f4a",
+  "active": "dbcfa1d5fa6255c4",
   "lastOpenFiles": [
     "I en Landsbykirke (1837).md",
     "Skolerelevant/Romantisme.md",
