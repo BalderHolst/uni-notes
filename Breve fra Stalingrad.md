@@ -25,5 +25,4 @@ fra: [[Det_tredie_Rige.pdf|Det Tredje Rige]]
  
  ---
  #historie 
- #tekst 
- #tidslinje 
+ #tekst  
