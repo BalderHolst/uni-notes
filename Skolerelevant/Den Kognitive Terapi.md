@@ -4,7 +4,7 @@
 **Synspunkt:** menneskers problemer stammer af hvordan vi *tolker* hændelser, situationer og os selv i dagligdagen.
 
 - Nutidsorienteret
-- en videreudvikling af den [[Behaviorisme|behavioristiske]] adfærdsterapi
+- En videreudvikling af den [[Behaviorisme|behavioristiske]] adfærdsterapi
 - Forholder sig til hvordan mennesker tænker om de informationer, de modtager fra omverdenen
 - Det er altså ikke omverdenen der skaber vores angst, stress og vrede, men dem måde vi *tolker* vores omverden
 

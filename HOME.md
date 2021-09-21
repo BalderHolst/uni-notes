@@ -5,11 +5,7 @@
 
 ## In Progress...
 
-```dataview 
-list
-from #todo 
-sort file.cdate
-```
+
 
 
 ## Gode Links

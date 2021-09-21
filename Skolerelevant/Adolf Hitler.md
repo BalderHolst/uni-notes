@@ -12,6 +12,16 @@ collapse:               # Create a collapsible admonition.
 
 ```
 
----
 
-#personer 
+---
+#### Nævnt
+```dataview 
+list
+from [[Adolf Hitler]]
+sort file.cdate
+```
+---
+#personer
+
+
+

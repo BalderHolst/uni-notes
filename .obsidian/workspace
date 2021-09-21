@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dbcfa1d5fa6255c4",
+        "id": "18cc5e4a0f5db6dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Den Kognitive Terapi.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Kognitiv psykologi.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "663ddba7612bb8c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fortrængninger.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Den Kognitive Terapi.md",
+                "file": "Fortrængninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Den Kognitive Terapi.md"
+                "file": "Fortrængninger.md"
               }
             }
           },
@@ -132,17 +142,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "dbcfa1d5fa6255c4",
+  "active": "663ddba7612bb8c2",
   "lastOpenFiles": [
-    "Skolerelevant/Den Kognitive Terapi.md",
+    "Fortrængninger.md",
     "Skolerelevant/Kognitiv psykologi.md",
-    "I en Landsbykirke (1837).md",
-    "Skolerelevant/Romantisme.md",
+    "Skolerelevant/Den Kognitive Terapi.md",
     "Untitled.md",
-    "Skolerelevant/Operation Barbarossa.md",
-    "Skolerelevant/Breve fra Stalingrad.md",
-    "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
-    "Skolerelevant/Rigets dødsfjende må slås ned.md",
-    "Völkischer Beobachter.md"
+    "Hermann Ebbinghaus.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Skolerelevant/Adolf Hitler.md",
+    "Hilter.md",
+    "HOME.md",
+    "Person.md"
   ]
 }

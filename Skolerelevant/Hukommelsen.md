@@ -15,7 +15,7 @@ Alt der skal arbejdes med er i arbejdshukommelsen. Det hele skal hentes hertil o
 
 Korttidshukommelsen er her vi lagre de informationer vi skal bruge lige om lidt, men alligevel skal stå på standby i et øjeblik. F.eks. når man laver hovedregning og man husker delresustatet, mens man med arbejdshukommelsen regner noget andet.
 
-Kan lægre et begreænt antal enheder (7 ± 2) ([[Hermann Ebbinghaus]] (1850 - 1909))
+Kan lægre et begreænt antal enheder (7 ± 2)  ([[Hermann Ebbinghaus]])
 
 ---
 
