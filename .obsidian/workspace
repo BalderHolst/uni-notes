@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51fb4bf6f4e34133",
+        "id": "7fcf56361a3a4f15",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pia - Case.md",
+            "file": "Skolerelevant/Pia - Case.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "92e33e3f970a077c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Den Kognitive Terapi.md",
+            "mode": "preview"
           }
         }
       }
@@ -56,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pia - Case.md",
+                "file": "Skolerelevant/Pia - Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pia - Case.md"
+                "file": "Skolerelevant/Pia - Case.md"
               }
             }
           },
@@ -132,17 +142,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "51fb4bf6f4e34133",
+  "active": "7fcf56361a3a4f15",
   "lastOpenFiles": [
+    "Skolerelevant/Pia - Case.md",
+    "Skolerelevant/Den Kognitive Terapi.md",
+    "kort for hovedet.md",
+    "Piaget.md",
+    "Falske erindringer.md",
     "Pia - Case.md",
     "Media/Pia - Case.pdf",
     "Skolerelevant/Hukommelsen.md",
     "Skolerelevant/Forskningsnyt - Falske erindringer.md",
-    "Untitled.md",
-    "Falske erindringer.md",
-    "Skolerelevant/Andrea.md",
-    "Skolerelevant/Skrå Kast.md",
-    "Skolerelevant/Integralregning.md",
-    "Skolerelevant/Integraler Regneregler.md"
+    "Untitled.md"
   ]
 }

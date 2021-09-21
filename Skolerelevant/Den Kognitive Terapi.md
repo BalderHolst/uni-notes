@@ -1,14 +1,17 @@
 # Den Kognitive Terapi
 *Skabt af [[Aaron T. Beck]]  (f. 1925)*
 
-**Synspunkt:** menneskers problemer stammer af hvordan vi *tolker* hændelser, situationer og os selv i dagligdagen.
+**Synspunkt:** menneskers problemer stammer af hvordan vi *tolker* hændelser, situationer og os selv i dagligdagen.  ^340ceb
 
 - Nutidsorienteret
 - En videreudvikling af den [[Behaviorisme|behavioristiske]] adfærdsterapi
 - Forholder sig til hvordan mennesker tænker om de informationer, de modtager fra omverdenen
 - Det er altså ikke omverdenen der skaber vores angst, stress og vrede, men dem måde vi *tolker* vores omverden
 
-#### Negative Automatiske Tanker
+---
+
+## (Negative) Automatiske Tanker
+
 Folk med depression har tendens til at tænke særligt negativt om deres omverden og dem selv i den. Man tænker i dag at der er to grunde til disse tanker:
 - dysfunktionelle basale antagelser = antagelser om hvordan man *burde* leve. -  Startes ofte af måden har omgået dem før i tiden.
 - dysfunktionelle skemaer = *"jeg er ikke værd at elske"*
@@ -17,6 +20,8 @@ Folk med depression har tendens til at tænke særligt negativt om deres omverde
 
 
 #### Kognitive Forvrængninger
+Måden de dysfunktionelle antagagelser bliver opratholdt på.
+
 De dysfunktionelle antagelser og skemaer, bliver hele tiden opratholdt af den deprestives *forvrængede* syn på verden. Dette syn forstærker skemaerne og antagelserne.
 
 <table><tbody><tr>
