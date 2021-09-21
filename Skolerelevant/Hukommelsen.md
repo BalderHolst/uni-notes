@@ -37,7 +37,7 @@ Det kan være hele erindringer, men mere ofte bare detalejer
 
 Også ofte grunden til falske tilståelser 
 
-[[Forskningsnyt - Falske erindringer]]
+Se også denne [[Forskningsnyt - Falske erindringer|undersøgelse]]
 
 #### Semantisk Hukommelse
 Den semantiske hukommelse bruger vi til at forbinde relevant viden. Det er den vi bruger til at huske emner vi har gennemgået i fysik, eller til at lave en liste med frugter. Det er også her vores faktaviden gemmer sig, som vi bruger til at gemme på meget af det viden vi lærer i skolen (se [[Husker vi bedre, når vi tager noter|husker vi bedre når vi tager noter?]]).

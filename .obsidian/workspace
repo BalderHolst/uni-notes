@@ -7,11 +7,8 @@
         "id": "dd194ed838ade937",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Forskningsnyt - Falske erindringer.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forskningsnyt - Falske erindringer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Forskningsnyt - Falske erindringer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,15 +128,15 @@
   },
   "active": "dd194ed838ade937",
   "lastOpenFiles": [
-    "Forskningsnyt - Falske erindringer.md",
+    "Skolerelevant/Skrå Kast.md",
+    "Skolerelevant/Integralregning.md",
+    "Skolerelevant/Integraler Regneregler.md",
     "Skolerelevant/Hukommelsen.md",
-    "Media/Forskningsnyt - Falske erindringer.pdf",
+    "Skolerelevant/Forskningsnyt - Falske erindringer.md",
+    "I en Landsbykirke (1837).md",
     "Skolerelevant/Husker vi bedre, når vi tager noter.md",
-    "Fortrængninger.md",
-    "semantiske skemaer.md",
-    "Skolerelevant/Kognitiv psykologi.md",
-    "Skolerelevant/Den Kognitive Terapi.md",
-    "Untitled.md",
-    "Hermann Ebbinghaus.md"
+    "Skolerelevant/marslows behovspyramide.md",
+    "Skolerelevant/Humanistisk psykologi.md",
+    "Skolerelevant/Typer Psykologi.md"
   ]
 }

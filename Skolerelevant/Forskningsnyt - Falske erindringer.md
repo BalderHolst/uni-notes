@@ -1,10 +1,12 @@
 ## Falske erindringer 
 
 - Hvad viser Crombachs undersøgelse? 
-
+	At folk kan tro at de husker noget som de kun har forstillet sig
 - Hvad viser det om vores hukommelse? 
+	At vi ikke kun husker det der faktisk sker i vores [[Hukommelsen#Episodisk Hukommelse|episodiske hukommelse]]
 
 - Hvilken metode er brugt? 
+	Kvantitav spørgeskemaundersøgelse
 
 # Forskningsnyt: Falske erindringer 
 
@@ -24,15 +26,15 @@ Da der selvfølgelig ikke eksisterede en sådan tv-optagelse, burde alle 200 per
 
 For de, der svarede ja til det pågældende spørgsmål, var der et yderligere spørgsmål: Efter at flyet ramte bygningen, udbrød der brand i denne. Hvornår udbrød denne brand? Der var tre svarmuligheder: a) Lige efter ulykken, b) Nogle få minutter efter og c) Det husker jeg ikke. 
 
-Selvom stort set alle havde set tv-optagelser af den brændende ejendom, havde ingen set selve ulykken og burde derfor ikke kunne svare andet end c): Det husker jeg ikke. Alligevel svarede 80% af disse forsøgspersoner enten a) eller b). Disse personer mente altså ikke alene, at de kunne 
-
----
-
-huske at have set en ulykke på TV, som de umuligt kunne have set; de mente også at kunne "huske" intervallet mellem ulykken og den efterfølgende brand. 
+Selvom stort set alle havde set tv-optagelser af den brændende ejendom, havde ingen set selve ulykken og burde derfor ikke kunne svare andet end c): Det husker jeg ikke. Alligevel svarede 80% af disse forsøgspersoner enten a) eller b). Disse personer mente altså ikke alene, at de kunne huske at have set en ulykke på TV, som de umuligt kunne have set; de mente også at kunne "huske" intervallet mellem ulykken og den efterfølgende brand. 
 
 Forskerne finder det forbløffende, at over halvdelen af denne – formodentlig ganske intelligente – gruppe af forsøgspersoner således totalt kunne forveksle deres forestillinger om ulykken med, hvad de mente at huske at have set på TV. En videre analyse af resultaterne viste iøvrigt, at denne tendens til at forveksle fantasi med hukommelse var langt mere udtalt for de kvindelige end for de mandlige forsøgspersoners vedkommende. 
 
 I en efterfølgende undersøgelse med 90 jura-studerende var det hele 60 personer – altså 2/3 af de udspurgte – der ligeledes svarede ja til spørgsmålet om, hvorvidt de kunne "huske" at have set selve ulykkesøjeblikket i TV. I denne undersøgelse blev forsøgspersonerne også spurgt, om de kunne huske flyvemaskinens retning i det øjeblik, den ramte bygningen. Næsten alle 60 personer mente at kunne huske at have set på TV, at maskinen enten fløj vandret, lodret eller skråt ind i ejendommen – på trods af, at de selvfølgelig ikke kunne have set dette på TV. Ligeledes mente de fleste af de 60 forsøgspersoner med "falske tv-erindringer" at kunne huske, om flyet allerede var i brand eller ej, da den stødte ind i beboelsesejendommen, og om den "blev siddende" i bygningen eller faldt til jorden i ét eller mange små stykker. 
 
 Denne simple hollandske undersøgelse kan altså give anledning til alvorlig tvivl på vores evne til overhovedet at skelne klart mellem fantasi og virkelighed, når vi fortæller, hvad vi mener at kunne huske fra vores fortid. 
+
+#psykologi 
+#tekst 
+
 
