@@ -7,9 +7,10 @@
         "id": "1fd2f153c668bf3f",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Media/Det_tredie_Rige.pdf"
+            "file": "Typer Henfald.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Det_tredie_Rige.pdf",
+                "file": "Typer Henfald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Det_tredie_Rige.pdf"
+                "file": "Typer Henfald.md"
               }
             }
           },
@@ -133,6 +134,7 @@
   },
   "active": "1fd2f153c668bf3f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Media/Det_tredie_Rige.pdf",
     "Det_tredie_Rige.md",
     "Skolerelevant/Socialkonstruktivisme.md",
@@ -141,7 +143,6 @@
     "Skolerelevant/Retorisk Analyse.md",
     "Skolerelevant/Den Kognitive Terapi.md",
     "Skolerelevant/Behaviorisme.md",
-    "Skolerelevant/Skolerelevant.md",
-    "Skolerelevant/Social psykologi.md"
+    "Skolerelevant/Skolerelevant.md"
   ]
 }
