@@ -30,4 +30,5 @@ Mørch, Rosenberg m.fl.: Kognitive behandlingsformer, Hans Reitzels Forlag, 1995
 	- Sover for meget
 
 5. Vurdér på den baggrund, hvilken basal grundantagelse hun lever efter. 
-
+- hun er ikke værd at elske
+- hun er kedelig/usikker
