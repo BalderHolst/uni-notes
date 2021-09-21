@@ -1,6 +1,6 @@
 from readLines import *
 
-path = 'C:/Users/balde/OneDrive/Documents/Balders Noter/Medea - Tekst.md'
+path = 'C:/Users/balde/OneDrive/Documents/Balders Noter/I en Landsbykirke (1837).md'
 
 lines = read_lines(path)
 
@@ -16,12 +16,11 @@ def isValue(input):
 for n in range(len(lines)):
 	line = lines[n]
 
-	if(line.find("Side") >= 0):
+	if(line.find('.') >= 0):
+		lines[n] = '\t' + line
+	elif(line.find("NOTER") >= 0):
+		break
 
-		new_line = "\n---\n" + line
-
-		print(new_line)
-
-		lines[n] = new_line 
+		
 
 write_lines(path,lines)
