@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "155b26ea6e7153c7",
+        "id": "a6ab330b9b5bc553",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Breve fra Stalingrad.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Breve fra Stalingrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Breve fra Stalingrad.md"
+              }
             }
           },
           {
@@ -126,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "155b26ea6e7153c7",
+  "active": "a6ab330b9b5bc553",
   "lastOpenFiles": [
+    "Breve fra Stalingrad.md",
     "Det_tredie_Rige.md",
-    "Untitled.md",
     "Media/Det_tredie_Rige.pdf",
+    "Untitled.md",
     "Skolerelevant/Socialkonstruktivisme.md",
     "Skolerelevant/typer psykologi (skema).md",
     "Skolerelevant/Typer Psykologi.md",
     "Skolerelevant/Retorisk Analyse.md",
     "Skolerelevant/Den Kognitive Terapi.md",
-    "Skolerelevant/Behaviorisme.md",
-    "Skolerelevant/Skolerelevant.md"
+    "Skolerelevant/Behaviorisme.md"
   ]
 }
