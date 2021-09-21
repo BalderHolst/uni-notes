@@ -5,7 +5,7 @@ den borgerlige dagside >< den fortrængte natside
 
 #### Elementer
 - Angreb på biedermeier-idyl/haarmoni -> fokuserer på alt der er under den romantiske overflade.
-- Søger skønheden og "det interessante" i:
+- Søger skønheden og *det interessante* i:
 		- Det ukkulte
 		- Ondskab
 		- Spli helse (harmoni)

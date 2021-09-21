@@ -12,11 +12,10 @@
             "file": "I en Landsbykirke (1837).md",
             "mode": "source"
           }
-        },
-        "group": "c3b99431a680d7dc"
+        }
       },
       {
-        "id": "f5d1f57ae420475d",
+        "id": "dbcfa1d5fa6255c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,8 +23,7 @@
             "file": "I en Landsbykirke (1837).md",
             "mode": "preview"
           }
-        },
-        "group": "c3b99431a680d7dc"
+        }
       }
     ],
     "direction": "vertical"

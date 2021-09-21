@@ -19,10 +19,10 @@ collapse:               # Create a collapsible admonition.
 
 | Vers    | Hvad der sker                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------ |
-| 1 - 9   | En lille trist flok sidder i en kirke, der er fokus på kirkens (Guds) nedslitte udseende og elendighed |
-| 10      | Vendepunkt (*"der var dog nok om dette"*) han begyndet at skrive om hvad der faktisk er Guddommeligt                                 |
+| 1 - 9   | En lille trist flok sidder i en kirke, før en gudstjæneste, der er fokus på kirkens (Guds) nedslitte udseende og elendighed |
+| 10      | Vendepunkt (*"der var - dog nok om dette"*) han begyndet at skrive om hvad der faktisk er Guddommeligt                                 |
 | 11      | Vi er alle alle amatører i troen                                                                       |
-| 12 - 13 | Kones pande. Uskyldighed og renhed                                                                     |
+| 12 - 13 | Kones/kæresten pande. Uskyldighed og renhed                                                                     |
 | 14      | Han ser hende som guddommelig. Hun overskygger altså den kristne Gud                                   |
 | 15      | Hendes sprog og smil overgår samler                                                                    |
 | 16      | Hendes kloje risler melodisk (smukt), måske bedre en oglet                                             |
@@ -36,4 +36,4 @@ Kvinden har alt hvad kirken burde have. Hun er altså hans lys og ikke kirken.
 Kirken er **mørket** i dette digt og kvinden er **lyset**.
 
 #### Temaer
-- Dynkelhed >< Lyset	=	Kirken >< 
+- Dynkelhed >< Lyset	=	Kirken >< Kvinden
