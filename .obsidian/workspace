@@ -7,8 +7,10 @@
         "id": "1fd2f153c668bf3f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Media/Det_tredie_Rige.pdf"
+          }
         }
       }
     ],
@@ -53,13 +55,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -75,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media/Det_tredie_Rige.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media/Det_tredie_Rige.pdf"
+              }
             }
           },
           {
@@ -130,6 +133,8 @@
   },
   "active": "1fd2f153c668bf3f",
   "lastOpenFiles": [
+    "Media/Det_tredie_Rige.pdf",
+    "Det_tredie_Rige.md",
     "Skolerelevant/Socialkonstruktivisme.md",
     "Skolerelevant/typer psykologi (skema).md",
     "Skolerelevant/Typer Psykologi.md",
@@ -137,8 +142,6 @@
     "Skolerelevant/Den Kognitive Terapi.md",
     "Skolerelevant/Behaviorisme.md",
     "Skolerelevant/Skolerelevant.md",
-    "Skolerelevant/Social psykologi.md",
-    "Den Kognitive Terapi.md",
-    "Socialkonstruktivisme.md"
+    "Skolerelevant/Social psykologi.md"
   ]
 }
