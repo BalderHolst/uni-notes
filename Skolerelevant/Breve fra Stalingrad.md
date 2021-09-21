@@ -24,5 +24,34 @@ fra: [[Det_tredie_Rige.pdf|Det Tredje Rige]]
  
  
  ---
+ ####  Kilde 50 - Breve fra Stalingrad
+
+**Type tekst:** Breve
+
+**Afsender:**
+
+**Modtager:**
+
+**Datering:** 
+
+**Budskab (Budskabet er det der står i teksten):** Det hele er elendigt her
+
+  
+
+**Formål (Det afsender vil have at modtager skal få ud af det):** Underrette deres nære om situationen
+
+  
+
+**Tendentiøs/tendens:** Den
+
+  
+
+**Troværdighed:** De virker troværdige, da de også har været beslaglagt for at sørge for at befolkningen ikke ved hvad der faktisk sker på fronten
+
+**Brugbarhed (Hvad kan vi bruge kilden til?) - Hermaneutiske cirkel:**
+
+---
+ 
+ 
  #historie 
  #tekst  

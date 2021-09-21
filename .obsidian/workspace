@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cbd4b8f3b34326",
+        "id": "5cca1b369dc4e0dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hitler",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,25 +118,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "d6cbd4b8f3b34326",
+  "active": "5cca1b369dc4e0dd",
   "lastOpenFiles": [
-    "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
-    "Det_tredie_Rige.md",
     "Skolerelevant/Breve fra Stalingrad.md",
+    "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
+    "Skolerelevant/Rigets dødsfjende må slås ned.md",
+    "Völkischer Beobachter.md",
+    "Rigets dødsfjende må slås ned.md",
+    "Det_tredie_Rige.md",
     "Adolf Hitler.md",
     "Untitled.md",
     "Typer Henfald.md",
-    "Hitlers krig - 2. verdenskrig i Europa.md",
-    "Operation Barbarossa.md",
-    "Kampen om Stalingrad.md",
-    "Autoconverterede/Engelsk - Get It Right (side 39).md"
+    "Hitlers krig - 2. verdenskrig i Europa.md"
   ]
 }

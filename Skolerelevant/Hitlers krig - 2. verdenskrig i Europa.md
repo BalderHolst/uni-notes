@@ -62,29 +62,19 @@ De troede altså, at de kunne meget mere end de kunne og det resulterede i deres
 
 ---
 
-####  Kilde 46 - Rigets dødsfjende må slås ned
+####  Kilde 46 - [[Rigets dødsfjende må slås ned]]
 
 Type tekst: Artikel
 
-Afsender: Den nazistiske avis “Völkischer Beobachter”
-
-  
+Afsender: Den nazistiske avis “[[Völkischer Beobachter]]”
 
 Modtager: 
 
-  
-
 Datering: December 1939
-
-  
 
 Budskab: 
 
-  
-
 Formål: At vise udviklingen i Nazitysklands syn på England
-
-  
 
 Tendentiøs/tendens: Den er meget tendentiøs og dette giver god mening, da den er udgivet i en nazistisk avis. 
 
@@ -102,40 +92,7 @@ Brugbarhed (Hvad kan vi bruge kilden til?) - Hermaneutiske cirkel: Vi kan bruge 
 
   
 
-####  Kilde 50 - Breve fra Stalingrad
-
-Type tekst:
-
-Afsender:
-
-  
-
-Modtager:
-
-  
-
-Datering:
-
-  
-
-Budskab (Budskabet er det der står i teksten):
-
-  
-
-Formål (Det afsender vil have at modtager skal få ud af det):
-
-  
-
-Tendentiøs/tendens:
-
-  
-
-Troværdighed:
-
-  
-
-Brugbarhed (Hvad kan vi bruge kilden til?) - Hermaneutiske cirkel:
-
+[[Breve fra Stalingrad]]
   
 ---
 #historie 
