@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typer Henfald.md",
-            "mode": "preview"
+            "file": "Anden Verdenskrig.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typer Henfald.md",
+                "file": "Anden Verdenskrig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typer Henfald.md"
+                "file": "Anden Verdenskrig.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "a6ab330b9b5bc553",
   "lastOpenFiles": [
-    "Typer Henfald.md",
-    "Breve fra Stalingrad.md",
-    "Det_tredie_Rige.md",
-    "Media/Det_tredie_Rige.pdf",
     "Untitled.md",
+    "Breve fra Stalingrad.md",
+    "Skolerelevant/Romantisme.md",
+    "Det_tredie_Rige.md",
+    "Typer Henfald.md",
+    "Media/Det_tredie_Rige.pdf",
     "Skolerelevant/Socialkonstruktivisme.md",
     "Skolerelevant/typer psykologi (skema).md",
     "Skolerelevant/Typer Psykologi.md",
-    "Skolerelevant/Retorisk Analyse.md",
-    "Skolerelevant/Den Kognitive Terapi.md"
+    "Skolerelevant/Retorisk Analyse.md"
   ]
 }
