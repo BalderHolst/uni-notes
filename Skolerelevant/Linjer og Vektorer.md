@@ -84,6 +84,34 @@ Hvis man har en af hver, omdanner man en af de to.
 
 ## Projektion af et punkt på en linje
 
+![[Projektion af et punkt på en linje.png|230]]
+
 **Order of operations**
-1. Find en retnings- eller no
-2. Tegn en hjælpelinje 
+1. Find en retnings- eller normalvektor for linjen
+2. Opstil [[#Parameterfremstilling]] eller [[#Linjens Ligningning]] for en hjælpelinje, der går gennem punktet der skal projekteres.
+3. Find skæringen mellem linjerne, det er $x$-koordinaten for det projekterede punkt.
+4. Sæt $x$-værdien ind i funktionen for en af linjerne for at finde punktets $y$-værdi
+
+## Afstanden til et punkt fra en linje (uden at kende punktet på linjen).
+
+Afstanden fra punktet til linjen  $a \cdot x + b \cdot y + c = 0$ er givet ved:
+
+$$dist(P,f) = \frac
+{|a \cdot x_1 + b \cdot y_1 + c|}
+{\sqrt{a^2+b^2}}
+$$
+
+alternativ ligning hvis 
+$$y = a \cdot x + b$$
+
+$$dist(P,f) = \frac
+{|a \cdot x_1 + b - y_1|}
+{\sqrt{a^2 + 1}}
+$$
+
+## Afstanden mellem to paralelle linjer
+Vælg et punkt og den linje der ikke går gennem punktet.
+
+![[Afstanden mellem to paralelle linjer.png|230]]
+
+Vi bruger formlen for [[#Afstanden til et punkt fra en linje uden at kende punktet på linjen|Afstanden til et punkt fra en linje]]
