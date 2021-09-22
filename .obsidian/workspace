@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "254d0c0140bcd9c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linjer og Vektorer.md",
-            "mode": "source"
+        "id": "0d7622228d645c4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "de6f83ac073644ca",
+            "type": "leaf",
+            "dimension": 40.616966580976865,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linjer og Vektorer.md",
+                "mode": "preview"
+              }
+            },
+            "group": "4f2f46af64375085"
+          },
+          {
+            "id": "21ccb1f8e825224f",
+            "type": "leaf",
+            "dimension": 59.383033419023135,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linjer og Vektorer.md",
+                "mode": "source"
+              }
+            },
+            "group": "4f2f46af64375085"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -132,7 +154,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "254d0c0140bcd9c0",
+  "active": "21ccb1f8e825224f",
   "lastOpenFiles": [
     "Linjer og Vektorer.md",
     "Bevis for Linjens Ligning.md",

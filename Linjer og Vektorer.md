@@ -43,10 +43,21 @@ collapse:               # Create a collapsible admonition.
 
 ## Parameterfremstilling
 
-$$
-\begin{pmatrix}
-
-
-\end{pmatrix}
+Ligning:
 
 $$
+\v{x}{y} = \v{x_0}{y_0} + t \cdot \v{r_1}{r_2}
+$$
+
+Dette kan omskrives som to funktioner for henholdsvis $x$ og $y$ således:
+
+$$x(t) = x_0 + t \cdot r_1$$
+$$y(t) = y_0 + t \cdot r_2$$
+
+Dette er altså retningsvektoren
+
+$$\v{r_1}{r_2} = \vec{r}$$
+
+Et punkt på linjen kan beskrives som, vektorbasen $\v{x_0}{y_0}$ + retningsvektoren $\vec{r}$ ganget med $t$. 
+
+Ved at ændre $t$ kan 
