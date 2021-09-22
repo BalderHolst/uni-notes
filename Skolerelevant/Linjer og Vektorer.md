@@ -60,4 +60,30 @@ $$\v{r_1}{r_2} = \vec{r}$$
 
 Et punkt på linjen kan beskrives som, vektorbasen $\v{x_0}{y_0}$ + retningsvektoren $\vec{r}$ ganget med $t$. 
 
-Ved at ændre $t$ kan 
+Ved at ændre $t$ kan vi altså nå hvilket som helst punkt på linjen.
+
+![[Parameterfremstilling.png|240]]
+
+---
+```ad-example # Admonition type. See below for a list of available types.
+title:                  **Bevis for Parameterfremstilling**
+collapse:               # Create a collapsible admonition.
+
+![[Bevis for Parameterfremstilling]]
+
+```
+
+---
+
+## Vinklen mellem vektorer
+$$cos(v) = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| \cdot |\vec{b}|}$$
+
+Dette kan bruges med både retnings- og normalvektorer
+
+Hvis man har en af hver, omdanner man en af de to.
+
+## Projektion af et punkt på en linje
+
+**Order of operations**
+1. Find en retnings- eller no
+2. Tegn en hjælpelinje 

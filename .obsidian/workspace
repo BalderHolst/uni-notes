@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f0232030a4f8d8a8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Amfiteateropgave.md",
-            "mode": "preview"
+        "id": "259f0af587a4bd1e",
+        "type": "split",
+        "children": [
+          {
+            "id": "062100ab439f5f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Linjer og Vektorer.md",
+                "mode": "preview"
+              }
+            },
+            "group": "1520e75fbd2b6cef"
+          },
+          {
+            "id": "f0232030a4f8d8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Linjer og Vektorer.md",
+                "mode": "source"
+              }
+            },
+            "group": "1520e75fbd2b6cef"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -60,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amfiteateropgave.md",
+                "file": "Skolerelevant/Linjer og Vektorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amfiteateropgave.md"
+                "file": "Skolerelevant/Linjer og Vektorer.md"
               }
             }
           },
@@ -133,15 +154,15 @@
   },
   "active": "f0232030a4f8d8a8",
   "lastOpenFiles": [
+    "Skolerelevant/Linjer og Vektorer.md",
+    "Bevis for Parameterfremstilling.md",
+    "Linjer og Vektorer.md",
     "Amfiteateropgave.md",
     "Bevis for Linjens Ligning.md",
-    "Linjer og Vektorer.md",
     "Untitled.md",
     "Skolerelevant/Vektorer.md",
     "Skolerelevant/Pia - Case.md",
     "Skolerelevant/Den Kognitive Terapi.md",
-    "kort for hovedet.md",
-    "Piaget.md",
-    "Falske erindringer.md"
+    "kort for hovedet.md"
   ]
 }
