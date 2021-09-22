@@ -5,4 +5,7 @@
 $P_o$ er et punkt på linjen
 $r$ er retningsvektoren
 
+---
+
 #spørgmike 
+#matematik 

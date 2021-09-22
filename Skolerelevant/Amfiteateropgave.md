@@ -23,3 +23,7 @@ Arealet af en kegle kan beskrives med formlen $O = \pi \cdot r \cdot s$, hvor $s
 
 ###### b) Hvad er overfladearealet af amfiteatrets siddepladser, hvis f(x) beskriver overfladenstværsnit
 
+---
+
+#matematik 
+

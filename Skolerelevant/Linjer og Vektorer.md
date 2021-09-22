@@ -115,3 +115,8 @@ Vælg et punkt og den linje der ikke går gennem punktet.
 ![[Afstanden mellem to paralelle linjer.png|230]]
 
 Vi bruger formlen for [[#Afstanden til et punkt fra en linje uden at kende punktet på linjen|Afstanden til et punkt fra en linje]]
+
+
+---
+
+#matematik 

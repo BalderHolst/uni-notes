@@ -1,3 +1,5 @@
+# Harmoniske svingninger
+
 Den genneralle form for funktionen
 $$f(x)= A \cdot sin(\omega \cdot x + \phi) + d$$
 
@@ -18,3 +20,7 @@ $$\frac{-\phi}{\omega}$$
 Dette er også sandt (radianer)
 
 $$sin(x) = cos(x-\frac{\pi}{2})$$
+
+#fysik 
+#matematik 
+

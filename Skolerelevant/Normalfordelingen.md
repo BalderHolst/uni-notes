@@ -28,3 +28,7 @@ Hvor langt data ligger fra middelværdien i gennemsnit
 
 **y-aksen:**
 Sansynligheden for en række tilfælde aflæses på arealet under grafen. 
+
+---
+
+#matematik 

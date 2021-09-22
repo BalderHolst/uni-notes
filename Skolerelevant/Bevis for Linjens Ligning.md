@@ -26,3 +26,7 @@ y + y_0 \\
 Når vi så regner [[Dotprodukt|dotproduktet]], for vi vores formel for linjens ligning:
 
 $$a \cdot (x-x_0) + b \cdot (y - y_0) = 0$$
+
+---
+
+#matematik 
