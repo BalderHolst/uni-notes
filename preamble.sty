@@ -15,9 +15,15 @@
 \end{pmatrix}
 }
 
+
+
 \newcommand{\stack}[2]{
 	\substack{
 	#1 \\
 	#2
 	}
+}
+\newcommand{\atom}[3]{
+	\stack{#1}{#2} \ce{#3}
+	
 }

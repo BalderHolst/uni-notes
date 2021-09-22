@@ -7,7 +7,7 @@ For moderkerne udsender en heliumkerne, som består af 2 protoner og 2 neutroner
 
 ## $\beta^-$-henfald
 
-
+$$\atom{A}{Z}{X} \rightarrow \atom{A-4}{Z-2}{Y} + \atom{4}{2}{He}$$
 
 En neutron fra moderkernen omdannes til en proton, en elektron og en antineutrino. 
 
