@@ -1,4 +1,4 @@
-## Bevis for Parameterfremstilling
+## Bevis for [[Linjer og Vektorer#Parameterfremstilling|Parameterfremstilling]]
 
 ![[Bevis for Parameterfremstilling.png|300]]
 

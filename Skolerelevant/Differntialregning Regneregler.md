@@ -10,9 +10,8 @@
 | $$e^x$$           | $$e^x$$                    |
 | $$e^{k \cdot x}$$ | $$k \cdot e^{k \cdot x} $$ |
 | $$a^x$$           | $$x \cdot e^{k \cdot x}$$   |
-| $$ $$             | $$ $$                      |
 
-
+![[Løsning på differentialligninger.png|450]]
 
 
 
