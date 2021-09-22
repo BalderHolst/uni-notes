@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7622228d645c4d",
-        "type": "split",
-        "children": [
-          {
-            "id": "de6f83ac073644ca",
-            "type": "leaf",
-            "dimension": 40.616966580976865,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linjer og Vektorer.md",
-                "mode": "preview"
-              }
-            },
-            "group": "4f2f46af64375085"
-          },
-          {
-            "id": "21ccb1f8e825224f",
-            "type": "leaf",
-            "dimension": 59.383033419023135,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linjer og Vektorer.md",
-                "mode": "source"
-              }
-            },
-            "group": "4f2f46af64375085"
+        "id": "f0232030a4f8d8a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Amfiteateropgave.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -82,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -99,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linjer og Vektorer.md",
+                "file": "Amfiteateropgave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linjer og Vektorer.md"
+                "file": "Amfiteateropgave.md"
               }
             }
           },
@@ -154,12 +131,12 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "21ccb1f8e825224f",
+  "active": "f0232030a4f8d8a8",
   "lastOpenFiles": [
+    "Untitled.md",
     "Linjer og Vektorer.md",
     "Bevis for Linjens Ligning.md",
     "Skolerelevant/Vektorer.md",
-    "Untitled.md",
     "Skolerelevant/Pia - Case.md",
     "Skolerelevant/Den Kognitive Terapi.md",
     "kort for hovedet.md",
