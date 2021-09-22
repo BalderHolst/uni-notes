@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cirklens Ligning.md",
+                "file": "Optimering.md",
                 "mode": "preview"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cirklens Ligning.md",
+                "file": "Optimering.md",
                 "mode": "source"
               }
             },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cirklens Ligning.md",
+                "file": "Optimering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cirklens Ligning.md"
+                "file": "Optimering.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "062100ab439f5f25",
   "lastOpenFiles": [
-    "Cirklens Ligning.md",
+    "Optimering.md",
     "Untitled.md",
+    "Harmoniske svingninger.md",
+    "Kvadratkomplettering.md",
+    "Cirklens Ligning.md",
     "Skolerelevant/Linjer og Vektorer.md",
     "Bevis for Parameterfremstilling.md",
     "Linjer og Vektorer.md",
     "Amfiteateropgave.md",
-    "Bevis for Linjens Ligning.md",
-    "Skolerelevant/Vektorer.md",
-    "Skolerelevant/Pia - Case.md",
-    "Skolerelevant/Den Kognitive Terapi.md"
+    "Bevis for Linjens Ligning.md"
   ]
 }
