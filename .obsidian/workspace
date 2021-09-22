@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering.md",
+                "file": "Normalfordelingen.md",
                 "mode": "preview"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering.md",
+                "file": "Normalfordelingen.md",
                 "mode": "source"
               }
             },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering.md",
+                "file": "Normalfordelingen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering.md"
+                "file": "Normalfordelingen.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "062100ab439f5f25",
   "lastOpenFiles": [
-    "Optimering.md",
+    "Normalfordelingen.md",
     "Untitled.md",
+    "Optimering.md",
     "Harmoniske svingninger.md",
     "Kvadratkomplettering.md",
     "Cirklens Ligning.md",
     "Skolerelevant/Linjer og Vektorer.md",
     "Bevis for Parameterfremstilling.md",
     "Linjer og Vektorer.md",
-    "Amfiteateropgave.md",
-    "Bevis for Linjens Ligning.md"
+    "Amfiteateropgave.md"
   ]
 }
