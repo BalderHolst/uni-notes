@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Euklid.md",
-            "mode": "source"
+            "file": "Klassisk Geometri.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euklid.md",
+                "file": "Klassisk Geometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Euklid.md"
+                "file": "Klassisk Geometri.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "257b840e88c23dfd",
   "lastOpenFiles": [
+    "Klassisk Geometri.md",
     "Euklid.md",
+    "Kongruent.md",
+    "Skolerelevant/Opdrift.md",
+    "Aktiomer.md",
     "Untitled.md",
     "Aktioner.md",
     "Skolerelevant/HFJKekhf.md",
     "Skolerelevant/Bowlby.md",
-    "Skolerelevant/Euripides.md",
-    "Bowlby.md",
-    "Skolerelevant/Psykoanalyse.md",
-    "Skolerelevant/Typer Psykologi.md",
-    "Halveringtid.md"
+    "Skolerelevant/Euripides.md"
   ]
 }

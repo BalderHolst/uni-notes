@@ -1,4 +1,4 @@
-# Aktiomer
+# Astiomer
 
 En række an antagelser vi gør.
 

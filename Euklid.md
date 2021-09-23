@@ -1,9 +1,14 @@
 # Euklid
+
+![|200](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.sponge-me.com%2Fwp-content%2Fuploads%2F2016%2F03%2FEuclid-of-Alexandria.jpg&f=1&nofb=1)
+
 Opfinder at [[Geometri|geometrien]] i det gamle Grækenland
 
-#### Aktiomer
+---
 
-Han opstiller [[Aktiomer|aktiomer]]. (moderne version)
+#### Euklids Aksiomer
+
+Han opstiller [[Aksiomer|aksiomer]]. (dette er en moderne version)
 
 1. Gennem to vinkler går præcis 1 ret [[Linære Funktioner|linje]]
 2. Topvinkler er lige store. 
