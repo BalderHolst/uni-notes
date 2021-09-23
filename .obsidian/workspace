@@ -4,15 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "32aa548978cd9ee5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Typer Henfald.md",
-            "mode": "preview"
+        "id": "f45b0da6e2439ad8",
+        "type": "split",
+        "children": [
+          {
+            "id": "48994dfe3ca8656c",
+            "type": "leaf",
+            "dimension": 36.28205128205128,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Media/Fysik_i_overblik.pdf"
+              }
+            }
+          },
+          {
+            "id": "32aa548978cd9ee5",
+            "type": "leaf",
+            "dimension": 63.717948717948715,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Typer Henfald.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -60,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -128,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "32aa548978cd9ee5",
   "lastOpenFiles": [

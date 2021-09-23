@@ -2,16 +2,20 @@
 Skemaer er fra [[Fysik_i_overblik.pdf#page=16|formelsamlingen]]
 
 ## $\alpha$-henfald
-	
+
+$$\atom{A}{Z}{X} \rightarrow \atom{A-4}{Z-2}{Y} + \atom{4}{2}{He}$$
+
 For moderkerne udsender en heliumkerne, som består af 2 protoner og 2 neutroner, så datterkernen får 4 færre nukleoner. 2 lavere ladningstal. Herved er nukleontallet, ladningen og leptontallet bevaret. Energi og impult er også bevaret, men dette kan ikke ses i vores reaktionsskema.
 
 ## $\beta^-$-henfald
 
-$$\atom{A}{Z}{X} \rightarrow \atom{A-4}{Z-2}{Y} + \atom{4}{2}{He}$$
+$$\atom{A}{Z}{X} \rightarrow \atom{A}{Z + 1}{Y} + \atom{0}{-1}{e} + \overline{\text{v}_e}$$
 
 En neutron fra moderkernen omdannes til en proton, en elektron og en antineutrino. 
 
 ## $\beta^+$-henfald
+
+$$\atom{A}{Z}{X} \rightarrow \atom{A}{Z-1}{Y} + \atom{0}{-1}{e} + \text{v}_e$$
 
 Ved β+ bliver grundstofnummeret en mindre. 
 
