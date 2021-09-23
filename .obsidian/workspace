@@ -4,34 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f45b0da6e2439ad8",
-        "type": "split",
-        "children": [
-          {
-            "id": "48994dfe3ca8656c",
-            "type": "leaf",
-            "dimension": 36.28205128205128,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Media/Fysik_i_overblik.pdf"
-              }
-            }
-          },
-          {
-            "id": "32aa548978cd9ee5",
-            "type": "leaf",
-            "dimension": 63.717948717948715,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skolerelevant/Typer Henfald.md",
-                "mode": "preview"
-              }
-            }
+        "id": "32aa548978cd9ee5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gnidningsmordstand gennem Luft.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Typer Henfald.md",
+                "file": "Gnidningsmordstand gennem Luft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Typer Henfald.md"
+                "file": "Gnidningsmordstand gennem Luft.md"
               }
             }
           },
@@ -153,13 +134,13 @@
   },
   "active": "32aa548978cd9ee5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/Typer Henfald.md",
     "Media/Fysik_i_overblik.pdf",
     "Skolerelevant/Harmoniske svingninger.md",
     "Skolerelevant/Spænding i Strenge.md",
     "Skolerelevant/Bevis for Parameterfremstilling.md",
     "Skolerelevant/Differntialregning Regneregler.md",
-    "Untitled.md",
     "Skolerelevant/Forskningsnyt - Falske erindringer.md",
     "Skolerelevant/Falske erindringer.md",
     "Skolerelevant/Psykologiske Undersøgelser.md"
