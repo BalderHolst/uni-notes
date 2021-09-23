@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gnidningsmordstand gennem Luft.md",
-            "mode": "preview"
+            "file": "Viskositet.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gnidningsmordstand gennem Luft.md",
+                "file": "Viskositet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gnidningsmordstand gennem Luft.md"
+                "file": "Viskositet.md"
               }
             }
           },
@@ -134,8 +134,8 @@
   },
   "active": "32aa548978cd9ee5",
   "lastOpenFiles": [
-    "Gnidningsmordstand gennem Luft.md",
     "Viskositet.md",
+    "Gnidningsmordstand gennem Luft.md",
     "Skolerelevant/Typer Henfald.md",
     "Viskositeten.md",
     "Untitled.md",
