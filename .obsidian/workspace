@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d9591948ed7918",
+        "id": "257b840e88c23dfd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Euklid.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#personer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Halveringtid.md",
+                "file": "Euklid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Halveringtid.md"
+                "file": "Euklid.md"
               }
             }
           },
@@ -121,24 +124,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "a3d9591948ed7918",
+  "active": "257b840e88c23dfd",
   "lastOpenFiles": [
-    "Halveringtid.md",
+    "Euklid.md",
     "Untitled.md",
-    "Gnidningsmordstand gennem Luft.md",
-    "Viskositet.md",
-    "Skolerelevant/Typer Henfald.md",
-    "Viskositeten.md",
-    "Media/Fysik_i_overblik.pdf",
-    "Skolerelevant/Harmoniske svingninger.md",
-    "Skolerelevant/Spænding i Strenge.md",
-    "Skolerelevant/Bevis for Parameterfremstilling.md"
+    "Aktioner.md",
+    "Skolerelevant/HFJKekhf.md",
+    "Skolerelevant/Bowlby.md",
+    "Skolerelevant/Euripides.md",
+    "Bowlby.md",
+    "Skolerelevant/Psykoanalyse.md",
+    "Skolerelevant/Typer Psykologi.md",
+    "Halveringtid.md"
   ]
 }
