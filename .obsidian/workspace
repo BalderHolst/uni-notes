@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ea37a1146636cd",
-        "type": "split",
-        "children": [
-          {
-            "id": "fc356072a5e147e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brudstykker af Landsbydegnens Dagbog.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "205a19ab32149d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brudstykker af Landsbydegnens Dagbog.md",
-                "mode": "source"
-              }
-            }
+        "id": "205a19ab32149d28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Begreber i Relegion.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -94,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brudstykker af Landsbydegnens Dagbog.md",
+                "file": "Skolerelevant/Begreber i Relegion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brudstykker af Landsbydegnens Dagbog.md"
+                "file": "Skolerelevant/Begreber i Relegion.md"
               }
             }
           },
@@ -147,10 +130,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "fc356072a5e147e1",
+  "active": "205a19ab32149d28",
   "lastOpenFiles": [
+    "Skolerelevant/Begreber i Relegion.md",
     "Brudstykker af Landsbydegnens Dagbog.md",
     "Brudstykker af Landsbydegnens Dagbog (edited).md",
     "Steen Steensen Blicher.md",
@@ -159,7 +144,6 @@
     "Klassisk Geometri 1.png",
     "Klassisk Geometri.md",
     "Kongruent.md",
-    "Skolerelevant/Opdrift.md",
-    "Aktiomer.md"
+    "Skolerelevant/Opdrift.md"
   ]
 }

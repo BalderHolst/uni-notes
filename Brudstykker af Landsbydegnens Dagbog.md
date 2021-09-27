@@ -8,6 +8,30 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 ---
 
 ### Personer
+##### Morten
+- Hovedperson
+- Jamre
+- Lever i sine drømme
+- Søger accept
+- Forelsket i Sofie, men gør ingenting
+- Kan mange sprog.
+
+##### Jens
+- Præstesøn
+- "damernes ven"
+- God til at jage
+- Lever i nuet
+- Doven i skolen
+- Udøver sine drømme
+- Alkoholiker til sidst
+
+##### Frøken Sofie
+- Flot/Skøn
+- Kan lide Jens da han er vildskab
+
+##### Hr. Søren
+- Præsten
+- Skuffet over Jens, og vil hellere have haft Morten
 
 
 
@@ -29,7 +53,7 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 
 ## Handning
 
-#### Føulum (1708 - 1709)
+#### Føulum  (1708 - 1709)
 Morten uddanner sig til præst og skal snart til Viborg for at fortsætte sin uddannelse. 
 
 Faren ([[#7 Föulum 18 februar 1709|7]]) dør og han kommer derfor aldrig til at studere i Viborg. Morten kan ikke blive præst.
@@ -37,7 +61,11 @@ Faren ([[#7 Föulum 18 februar 1709|7]]) dør og han kommer derfor aldrig til at
 Morten tager til Thiele for at forsørge ham og hans mor
 
 #### Thiele (1709 - 1711)
-Morten er blevet tjener, og begynder at lære fransk 
+Morten er blevet tjener, og begynder at lære fransk da herskabet taler hemmeligt om ham på sproget. Morten forelsker sig i Frøken Sofie. 
+
+Morten bliver bedre til at jage og skyde.
+
+#### Rejsen (1711)
 
 
 ---
