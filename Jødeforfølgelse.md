@@ -32,13 +32,35 @@ Jødehaddet eksisterede allerede i nazistpartiet i 1920'erne, men det var først
 ## Antisemitismen
 I løbet af 1920 og igennem 1930'erne var den tyskebefolkning ikke i nogen større grad enige med nazisternes jødehad.
 
-For at overtale befolkningen førsøgte [[Adolf Hitler|Hitler]] sig med at "videnskabeliggøre" jødehaddet ved at gøre jøder til undermennesker i samfundent. Jøderne blev altså betragtet som et problem (lige som de handicappede).
+For at overtale befolkningen førsøgte [[Adolf Hitler|Hitler]] sig med at **"videnskabeliggøre" jødehaddet** ved at gøre jøder til undermennesker i samfundent. Jøderne blev altså betragtet som et problem (lige som de handicappede).
 
-Grunden til at jøder var så nemme at hade (selvom de kun udgjorde 1% af befolkningen), var at de med stor overvægt ejede forretningerne i byerne, hvilket gjorde at de ofte klarede sig bedre end den gennemsnitlige tysker. 
-
-
+Grunden til at **jøder var så nemme at hade** (selvom de kun udgjorde 1% af befolkningen), var at de med stor overvægt ejede forretningerne i byerne, hvilket gjorde at de ofte klarede sig bedre end den gennemsnitlige tysker. 
 
 
 
+---
+## Love i løbet af 1933
+- d. 9. april 1933: Jøder kan ikke ansættes som embedsmænd 
+- d. 25. april 1933: Adgangsbegrænsning for jøder på højere læreanstalter 
+- d. 22. august 1933: Forbud mod jøders brug af offentlige badeanstalter 5. marts 
+- 1934: Jødiske kunstnere kan ikke optræde på tyske teatre
+
+---
+## 1935
+- [[Nürberglovene]] satte kursen
+- [[Rigsborgerloven]], fratog jøderne statsborgerskab
+- Loven til Beskyttelse af det tyske blod
+
+---
+## Jødiske Flygtninge
+I perioden 1933 - 1938 flygtede 200.000 jøder fra tyskland. **Den danske stat gav ikke asyl** da staten mente af tyskland lavede "legitim lovgivning". Dette var nok fordi den Danske stat var bange for [[Adolf Hitler|Hitler]].
+
+
+---
+## Advarsel om [[Holocaust]]?
+
+
+
+---
 
 #historie 
