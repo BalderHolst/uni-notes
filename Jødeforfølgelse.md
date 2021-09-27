@@ -55,11 +55,31 @@ Grunden til at **jøder var så nemme at hade** (selvom de kun udgjorde 1% af be
 ## Jødiske Flygtninge
 I perioden 1933 - 1938 flygtede 200.000 jøder fra tyskland. **Den danske stat gav ikke asyl** da staten mente af tyskland lavede "legitim lovgivning". Dette var nok fordi den Danske stat var bange for [[Adolf Hitler|Hitler]].
 
+---
+## Flere vigtige Love
+- d. 1. december 1936: Forsamlingsforbud for jøder 
+- d. 16. november 1937: Pas udstedes kun undtagelsesvis til jøder 
+- d. 26. april 1938: Jøder med formuer over 5.000 RM skal anmelde formuestørrelse 
+- d. 14. juni 1938: Jødiske forretninger skal tydelig mærkes som jødiske
+
+
 
 ---
 ## Advarsel om [[Holocaust]]?
+>januar 1939 fremsatte Hitler forslaget om "udslettelsen af den jødiske race i Europa" i tilfælde af krig, hvilket kan være et forvarsel om Holocaust. Der er dog intet, der tyder på, at nazisterne i 1939 havde truffet den endelige afgørelse om, hvordan det såkaldte jødiske spørgsmål skulle løses.
+>\- Det Tredje Rige
 
 
+
+
+
+---
+## Racehygiejne
+Ideen om at holde det tyske folk "rent"
+
+Dette udspillede sig i jødeforfølgelse og tvangssterilisation af arveligt syge. 
+
+Omkring 100.000 handicappede blev også indlagt på hospitaler og fik aflivende indsprøjtninger. Dette var også med til at nedsætte mængden af "unyttige spisere".
 
 ---
 

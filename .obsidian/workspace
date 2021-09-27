@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ca1ec3cfde2790",
+        "id": "d183567d632985a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jødeforfølgelse.md",
+            "file": "Holocaust.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jødeforfølgelse.md",
+                "file": "Holocaust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jødeforfølgelse.md"
+                "file": "Holocaust.md"
               }
             }
           },
@@ -132,11 +132,11 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "b8ca1ec3cfde2790",
+  "active": "d183567d632985a0",
   "lastOpenFiles": [
-    "Jødeforfølgelse.md",
     "Holocaust.md",
     "Untitled.md",
+    "Jødeforfølgelse.md",
     "Rigsborgerloven.md",
     "Skolerelevant/Kampen om Stalingrad.md",
     "Hilter.md",
