@@ -20,4 +20,4 @@ for n in range(len(lines)):
 
 		
 
-write_lines(path,lines)
+write_lines(path[:-3] + " (edited).md",lines)

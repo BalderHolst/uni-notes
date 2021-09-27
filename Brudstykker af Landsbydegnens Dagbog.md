@@ -13,18 +13,31 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 
 ---
 
-### Sted
+### Komposition
 
-Føulum: 1-8
-Thiele: 9-24
-Rejsen: 25-28
-Thiele: 29-51
-Krigen: 52-56
-Falster/Corselidse 57-64
-Rejse/Thiele/Føulum 65-69
-
+| Afsnit | Sted                | tid         |
+| ------ | ------------------- | ----------- |
+| 1-8    | Føulum              | 1708 - 1709 |
+| 9-24   | Thiele              | 1709 - 1711 |
+| 25-28  | Rejsen              | 1711        |
+| 29-51  | Thiele              | 1711 - 1713 |
+| 52-56  | Krigen              | 1713 - 1721 |
+| 57-64  | Falster/Corselidse  | 1743 - 1745 |
+| 65-69  | Rejse/Thiele/Føulum | 1745 - 1753 |
 
 ---
+
+## Handning
+
+#### Føulum (1708 - 1709)
+Morten uddanner sig til præst og skal snart til Viborg for at fortsætte sin uddannelse. 
+
+Faren ([[#7 Föulum 18 februar 1709|7]]) dør og han kommer derfor aldrid til at studere i Viborg.
+
+---
+
+# Tekst
+
 
 ##### (1) Føulum, 1. Januar 1708
 
