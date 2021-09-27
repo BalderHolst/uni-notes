@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Inuit Relegion.md",
+            "file": "Jødeforfølgelse.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7e2615f024bc0351",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Krystalnatten.md",
             "mode": "source"
           }
         }
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Inuit Relegion.md",
+                "file": "Krystalnatten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Inuit Relegion.md"
+                "file": "Krystalnatten.md"
               }
             }
           },
@@ -131,17 +143,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "02223073df7611a3",
+  "active": "7e2615f024bc0351",
   "lastOpenFiles": [
+    "Krystalnatten 1938.md",
+    "Skolerelevant/Det_tredie_Rige.md",
+    "Jødeforfølgelse.md",
+    "Untitled.md",
     "Skolerelevant/Inuit Relegion.md",
     "Skolerelevant/Psykoanalyse.md",
     "Skolerelevant/Typer Psykologi.md",
     "Brudstykker af Landsbydegnens Dagbog.md",
     "Inuit Relegion.md",
-    "Når mennesker fødes.md",
-    "Untitled.md",
-    "Knud Rasmussen.md",
-    "Førstefangsrite.md",
-    "Karl Marx.md"
+    "Når mennesker fødes.md"
   ]
 }
