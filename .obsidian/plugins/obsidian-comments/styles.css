@@ -3,15 +3,15 @@
   
   position: relative;
   border-bottom: 1px dotted black;
-  color: #8f0303;
+  color: #000000;
   font-weight: bold;
-  background-color: #CCA300;
+  background-color: #7fff99;
   word-wrap: break-word;
   white-space: normal;
 }
 
 .ob-comment:hover {
-  background-color: #FFDE5C;
+  background-color: #86e8e3;
 }
 
 .ob-comment span {
@@ -19,8 +19,8 @@
   min-width: auto;
   max-width: 500px;
   width: max-content;
-  background-color: #FFDE5C;
-  color: #b30202;
+  background-color: #ccfcfa;
+  color: #000000;
   text-align: left;
   border-radius: 6px;
   padding: 10px 10px;

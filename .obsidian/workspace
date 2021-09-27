@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "044e1f6421463fa7",
+        "id": "2d3025cf18925f25",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Førstefangsrite.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ce5e9e6f8a73f92e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Begreber i Relegion.md",
+            "file": "Når mennesker fødes.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "1c66ee07d4923ed5",
+        "id": "0db13fbd58312ab0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inuit Relegion.md",
+            "file": "Skolerelevant/Begreber i Relegion.md",
             "mode": "source"
           }
         }
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Førstefangsrite.md",
+                "file": "Når mennesker fødes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Førstefangsrite.md"
+                "file": "Når mennesker fødes.md"
               }
             }
           },
@@ -154,17 +143,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "044e1f6421463fa7",
+  "active": "2d3025cf18925f25",
   "lastOpenFiles": [
-    "Førstefangsrite.md",
+    "Når mennesker fødes.md",
     "Skolerelevant/Begreber i Relegion.md",
-    "Inuit Relegion.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Knud Rasmussen.md",
+    "Untitled 1.md",
+    "Inuit Relegion.md",
+    "Førstefangsrite.md",
+    "Untitled.md",
     "Feuerbach.md",
     "Karl Marx.md",
-    "Skolerelevant/Relegionsfænomenologi.md",
-    "Ninian Smarts.md"
+    "Skolerelevant/Relegionsfænomenologi.md"
   ]
 }
