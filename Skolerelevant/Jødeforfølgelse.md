@@ -84,3 +84,4 @@ Omkring 100.000 handicappede blev også indlagt på hospitaler og fik aflivende 
 ---
 
 #historie 
+#tidslinje 
