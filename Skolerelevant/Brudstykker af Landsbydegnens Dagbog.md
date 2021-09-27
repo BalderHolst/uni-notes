@@ -472,4 +472,7 @@ Vinternatten er smuk. Jeg mindes tilbage til dengang jeg var ung og sofie var sm
 
 ##### (69) Føulum 12. Maj 1753
 
-Jeg er blevet degn i Thiele. Jeg er flyttet hjem i min fars hus. Jeg er den eneste tilbage. Min slægt dør ud med mig. Jeg begraver min nye herre.**
+Jeg er blevet degn i Thiele. Jeg er flyttet hjem i min fars hus. Jeg er den eneste tilbage. Min slægt dør ud med mig. Jeg begraver min nye herre.
+
+---
+#dansk 

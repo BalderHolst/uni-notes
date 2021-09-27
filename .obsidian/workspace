@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3025cf18925f25",
+        "id": "02223073df7611a3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Når mennesker fødes.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0db13fbd58312ab0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Begreber i Relegion.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Inuit Relegion.md",
+            "mode": "source"
           }
         }
       }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Når mennesker fødes.md",
+                "file": "Skolerelevant/Inuit Relegion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Når mennesker fødes.md"
+                "file": "Skolerelevant/Inuit Relegion.md"
               }
             }
           },
@@ -143,17 +131,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "2d3025cf18925f25",
+  "active": "02223073df7611a3",
   "lastOpenFiles": [
+    "Skolerelevant/Inuit Relegion.md",
+    "Skolerelevant/Psykoanalyse.md",
+    "Skolerelevant/Typer Psykologi.md",
+    "Brudstykker af Landsbydegnens Dagbog.md",
+    "Inuit Relegion.md",
     "Når mennesker fødes.md",
-    "Skolerelevant/Begreber i Relegion.md",
+    "Untitled.md",
     "Knud Rasmussen.md",
     "Førstefangsrite.md",
-    "Untitled 1.md",
-    "Inuit Relegion.md",
-    "Untitled.md",
-    "Feuerbach.md",
-    "Karl Marx.md",
-    "Skolerelevant/Relegionsfænomenologi.md"
+    "Karl Marx.md"
   ]
 }
