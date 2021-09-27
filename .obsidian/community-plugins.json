@@ -5,7 +5,6 @@
   "obsidian-latex",
   "remember-cursor-position",
   "obsidian-admonition",
-  "sliding-panes-obsidian",
   "note-refactor-obsidian",
   "obsidian-comments",
   "obsidian-timelines",
@@ -14,5 +13,6 @@
   "obsidian-git",
   "url-into-selection",
   "pdf-to-markdown-plugin",
-  "darlal-switcher-plus"
+  "darlal-switcher-plus",
+  "sliding-panes-obsidian"
 ]

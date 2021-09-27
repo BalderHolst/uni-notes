@@ -165,21 +165,28 @@ Tabu er noget som er urørligt, farligt, unævneligt eller forbudt område. Grun
 
 Man kan også kalde tabu for regler for omgang med mana.
 
-  
 
-### Hvad er magi?
+### Manasphere
+De områder hvor en bestemt [[#Hvad er mana|mana]] har hjemme og er særlig stærk
+
+---  
+
+## Hvad er magi?
 
 Magi er overførsel af mana fra en ting til en anden.
 
 Magi er manipulation med mana.
 
-### Hvad er en shaman?
+- Berøringsmagi
+- Lighedmagi
+
+##### Hvad er en shaman?
 
 En shaman er en specialist, der menes at have kontakt mellem den fysiske og den metafysiske verden.
 
   
 
-### Hvad er hvid og sort magi?
+##### Hvad er hvid og sort magi?
 
 **Hvid magi** hjælper folk (kan for eksempel helbrede folk).
 
@@ -187,27 +194,29 @@ En shaman er en specialist, der menes at have kontakt mellem den fysiske og den 
 
 Kritik af denne måde at inddele magi på, at den er afhængig af, hvem der betragter og definerer.
 
-### Hvad betyder totem?
+##### Hvad betyder totem?
 
 Forhold eller slægtskabsforhold til for eksempel en bjørn, hvorved der også overføres noget mana eller egenskaber fra bjørnen til personen eller gruppen. Man kan aktivere en totem ved hjælp af en amulet.
 
-  
-
-### Hvad er en amulet?
+##### Hvad er en amulet?
 
 En amulet er en genstand, som menes at beskytte mod sygdom, farer og forbandelser og/eller giver lykke. Kan også bruges til at aktivere en totem.
 
 
-
-### Delen er lig helheden
+##### Delen er lig helheden
 
 Tanken er, at enhver lille del af en ting, dyr eller menneske er identisk med helheden, da de har samme mana. 
 
 **Eksempel:** En del af en helhed, for eksempel en bjørneklo fra en bjørn, indeholder hele bjørnens mana eller Jesu blod.
 
+---
+
+## Drama
+
+Drama er **hellige handlinger** (fx rituel dans, gestikuleren osv.) på kultpladsen. Dramaet gentager (og er derfor lig med) mytens urbegivenheder og skaber dermed fremtiden (fortid = nutid = fremtid).
 
 
-### Overgangsritual/Initiationsrite
+#### Overgangsritual/Initiationsrite
 
 Et overgangsritual (også kaldet initiationsrite) er et ritual, der udføres ved overgang fra et stadie til et andet (Fødsel, barn-voksen, bryllup, død; årstider, kalenderskift)
 
@@ -217,10 +226,6 @@ Et overgangsritual (også kaldet initiationsrite) er et ritual, der udføres ved
 
 3. Inkorporationsfasen (Man indvies i en ny manafase)
 
-
-### Hvad er et drama?
-
-Drama er **hellige handlinger** (fx rituel dans, gestikuleren osv.) på kultpladsen. Dramaet gentager (og er derfor lig med) mytens urbegivenheder og skaber dermed fremtiden (fortid = nutid = fremtid).
 
 
 #### Fortid = nutid = fremtid
@@ -234,17 +239,15 @@ Han er, hvad han fremstiller/forestiller
 Fx forestiller en bøffeldans med én, der er klædt ud som en bøffel og bliver nedlagt, den senere jagt på en rigtig bøffel. 
 
 
-### Helligt bryllup/sakralt samleje
+#### Helligt bryllup/sakralt samleje
 
 Rituelt samleje er enten konkret eller symbolsk. Det er en rituel handling, der sikrer frugtbarheden. 
 
-Hvordan definerer vi et
-
-### Offer
+#### Offer
 
 Et offer er et ritual, der forbruger et materiale.
 
-  
+---
 
 ### Sekularisering
 
