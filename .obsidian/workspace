@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3d281c22a36f9e9d",
+        "id": "9cb7e2f62c7dc102",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Bevægelse på Skråplan.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -132,9 +131,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "3d281c22a36f9e9d",
+  "active": "9cb7e2f62c7dc102",
   "lastOpenFiles": [
     "Bevægelse på Skråplan.md",
+    "J5 - Bevægelse på skråplan.md",
     "Jødeforfølgelse.md",
     "Krystalnatten.md",
     "Holocaust.md",
@@ -142,7 +142,6 @@
     "Untitled.md",
     "Skolerelevant/Kampen om Stalingrad.md",
     "Hilter.md",
-    "Skolerelevant/Anden Verdenskrig.md",
-    "Krystalnatten 1938.md"
+    "Skolerelevant/Anden Verdenskrig.md"
   ]
 }
