@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Begreber i Relegion.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cf51476888a50d68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projektion.md",
+            "mode": "source"
           }
         }
       }
@@ -136,6 +147,7 @@
   "active": "205a19ab32149d28",
   "lastOpenFiles": [
     "Skolerelevant/Begreber i Relegion.md",
+    "Projektion.md",
     "Brudstykker af Landsbydegnens Dagbog.md",
     "Brudstykker af Landsbydegnens Dagbog (edited).md",
     "Steen Steensen Blicher.md",
@@ -143,7 +155,6 @@
     "Euklid.md",
     "Klassisk Geometri 1.png",
     "Klassisk Geometri.md",
-    "Kongruent.md",
-    "Skolerelevant/Opdrift.md"
+    "Kongruent.md"
   ]
 }
