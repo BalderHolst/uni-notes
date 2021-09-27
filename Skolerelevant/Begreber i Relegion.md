@@ -177,7 +177,7 @@ Magi er overførsel af mana fra en ting til en anden.
 
 Magi er manipulation med mana.
 
-- Berøringsmagi
+- Berøringsmagi ^64ba5c
 - Lighedmagi
 
 ##### Hvad er en shaman?
