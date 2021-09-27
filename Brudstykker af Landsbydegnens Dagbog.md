@@ -32,7 +32,13 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 #### Føulum (1708 - 1709)
 Morten uddanner sig til præst og skal snart til Viborg for at fortsætte sin uddannelse. 
 
-Faren ([[#7 Föulum 18 februar 1709|7]]) dør og han kommer derfor aldrid til at studere i Viborg.
+Faren ([[#7 Föulum 18 februar 1709|7]]) dør og han kommer derfor aldrig til at studere i Viborg. Morten kan ikke blive præst.
+
+Morten tager til Thiele for at forsørge ham og hans mor
+
+#### Thiele (1709 - 1711)
+Morten er blevet tjener, og begynder at lære fransk 
+
 
 ---
 
@@ -63,7 +69,7 @@ Hr Søren ville ønske jeg var hans søn. Jens er vild.
 
 ##### (4) Föulum, Januar 1709
 
-Hr Søren er død. Han vil have at jeg giver Jens et retskaffent hjerte.
+Hr. Søren er død. Han vil have at jeg giver Jens et retskaffent hjerte.
 
   
 
