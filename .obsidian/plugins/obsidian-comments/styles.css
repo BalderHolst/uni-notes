@@ -1,4 +1,6 @@
 .ob-comment {
+  font-family: "Times New Roman", Times, serif;
+  
   position: relative;
   border-bottom: 1px dotted black;
   color: #8f0303;
