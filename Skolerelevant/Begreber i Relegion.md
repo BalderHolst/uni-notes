@@ -187,13 +187,13 @@ Man kan også kalde tabu for regler for omgang med mana.
 
   
 
-Hvad er magi?
+### Hvad er magi?
 
 Magi er overførsel af mana fra en ting til en anden.
 
 Magi er manipulation med mana.
 
-Hvad er en shaman?
+### Hvad er en shaman?
 
 En shaman er en specialist, der menes at have kontakt mellem den fysiske og den metafysiske verden.
 
@@ -217,17 +217,17 @@ Forhold eller slægtskabsforhold til for eksempel en bjørn, hvorved der også o
 
 En amulet er en genstand, som menes at beskytte mod sygdom, farer og forbandelser og/eller giver lykke. Kan også bruges til at aktivere en totem.
 
-Forklar udtrykket:
 
-Delen er lig helheden
 
-Tanken er, at enhver lille del af en ting, dyr eller menneske er identisk med helheden, da de har samme mana. Eksempel: En del af en helhed, for eksempel en bjørneklo fra en bjørn, indeholder hele bjørnens mana.
+### Delen er lig helheden
 
-Hvad er:
+Tanken er, at enhver lille del af en ting, dyr eller menneske er identisk med helheden, da de har samme mana. 
 
-Overgangsritual eller
+**Eksempel:** En del af en helhed, for eksempel en bjørneklo fra en bjørn, indeholder hele bjørnens mana eller Jesu blod.
 
-initiationsrite
+
+
+### Overgangsritual/Initiationsrite
 
 Et overgangsritual (også kaldet initiationsrite) er et ritual, der udføres ved overgang fra et stadie til et andet (Fødsel, barn-voksen, bryllup, død; årstider, kalenderskift)
 
@@ -239,8 +239,6 @@ Et overgangsritual (også kaldet initiationsrite) er et ritual, der udføres ved
 
 
 ### Hvad er et drama?
-
-Svar:
 
 Drama er **hellige handlinger** (fx rituel dans, gestikuleren osv.) på kultpladsen. Dramaet gentager (og er derfor lig med) mytens urbegivenheder og skaber dermed fremtiden (fortid = nutid = fremtid).
 
@@ -295,23 +293,19 @@ Hermed mente han, at Gud ikke længere har den betydning i samfundet, som han ha
 
 Et samfund, der er præget af sekularisering, religionskritik og differentiering. Differentiering forstås her som opdeling i videnskab, moral og kunst.
 
-Hvad er:
 
-Differentiering
 
-Differentiering forstås her som opdeling i videnskab, moral og kunst. Denne opdeling er formuleret af den tyske filosof Kant.
+### Differentiering
 
-Hvad er:
+Differentiering forstås her som opdeling i videnskab, moral og kunst. Denne opdeling er formuleret af den tyske filosof [[Immanuel Kant]].
 
-Senmodernitet
+
+### Senmodernitet
 
 Senmodernitet er udtryk for et aftraditionaliseret, afsekulariseret, individualiseret og globaliseret samfund. Den moderne differentiering bryder sammen. Videnskab, moral og kunst kan ikke længere holdes adskilte. I denne type samfund får religion en ny position.
 
-Fortæl om
 
-Feuerbach
-
-Feuerbach er en tysk filosof. Ifølge Feuerbach er al religion projektion, dvs. at menneskelige ønsker og behov overføres (_projiceres)_ til metafysiske magter. Gud er et menneskeligt ideal. Det er ikke Gud, der har skabt mennesket, men mennesket, der har skabt Gud.
+![[Feuerbach]]
 
 Fortæl om
 
@@ -319,12 +313,8 @@ Karl Marx
 
 Grundlæggeren af den videnskabelige socialisme. ”Religion er opium for folket!”. Dvs. at religion opstår pga. elendighed. Religion er de undertryktes middel til at finde sig i elendigheden ved at drømme om en fremtidig lykketilstand. Og religion er magthavernes middel til at undertrykke de lavere klasser.
 
-Fortæl om:
-
   
-Sigmund Freud
-
-Østrigsk-jødisk grundlægger af psykoanalysen. Religion er udtryk for illusion, en fejlopfattelse baseret på ønskedrømme. If. Freud skal oprindelsen til religion altså findes i psyken.
+![[Sigmund Freud]]
 
 
 ---

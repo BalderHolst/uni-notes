@@ -1,5 +1,5 @@
 ## Psykoanalyse
-*Folk: [[Freud]], [[Erikson]], [[Mahler]], [[Bowlby]], [[Stern]]*
+*Folk: [[Sigmund Freud]], [[Erikson]], [[Mahler]], [[Bowlby]], [[Stern]]*
 
 
 ![psykoanalyse](Psykoanalyse.jpg)

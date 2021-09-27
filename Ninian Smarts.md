@@ -1,11 +1,11 @@
-#  Immanuel Kant (1724-1604)
+## Ninian Smarts
 
 
 ---
 #### Nævnt
 ```dataview 
 list
-from [[Immanuel Kant]]
+from [[Ninian Smarts]]
 sort file.cdate
 ```
 ---
