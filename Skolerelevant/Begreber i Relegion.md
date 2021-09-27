@@ -22,7 +22,7 @@
 
 **Metafysiske verden:** Guder, Onder, Spirituelle, Kræfter, Forfædre
 
-**[[Relegionsfænomenologi]]** = En analyse af aspekterne der gør en relegion til en relegion
+**[[Relegionsfænomenologi]]**  = En analyse af aspekterne der gør en relegion til en relegion
 
 
 ---
@@ -69,41 +69,23 @@ En fodboldspiller binder sine fodboldstøvler på en bestemt måde og i en beste
 
 I kristendommen tænkes det, at barnet gennem ritualet barnedåben kommer til at tilhøre Gud.
 
-Forklar:
 
-Smarts religionsmodel
+### Smarts religionsmodel
 
-Hvor mange dimensioner har religion if. Ninian Smarts religionsmodel? Svar: 7
-
-Prøv at nævne dem alle syv!
-
-en dogmatisk
-
-en mytisk
-
-en etisk
-
-en rituel
-
-en erfarings- og følelsesmæssig
-
-en social og
-
-en materiel dimension.
-
-Giv eksempler på de forskellige dimensioner.
+se [[Relegionsfænomenologi]]
 
 ### Hvad er monoteisme?
 
-Monoteisme er troen på én Gud.
+Monoteisme er troen på **én** Gud.
 
-Eksempler er jødedom, kristendom og islam.
+Eksempler: [[Jødedom]], [[Kristendom]] og [[Islam]].
 
-Hvad er polyteisme?
 
-Polyteisme er anerkendelse af flere guders eksistens.
+### Hvad er polyteisme?
 
-Hvad er den metafysiske verden?
+Polyteisme er anerkendelse af **flere guders** eksistens.
+
+### Hvad er den metafysiske verden?
 
 Den metafysiske verden er den verden, som ligger over (’meta’) den fysiske verden. Dvs. den verden, der tænkes beboet af guder, ånder, magter og lign.
 
@@ -122,16 +104,15 @@ Et dogme er en trossætning, dvs. sætning eller formel, som udtrykker et elemen
 Etik er systematiske overvejelser af, hvad der er godt og ondt, og hvordan man bør handle.
 
 Vi skelner mellem
-
 - Nytteetik
-
 - Pligtetik
 
-Hvad betyder kosmos?
+
+### Hvad betyder kosmos?
 
 Kosmos betyder ’det velordnede’ i modsætning til ’kaos’.
 
-Hvad betyder kaos?
+### Hvad betyder kaos?
 
 Kaos betyder ’det uordnede’ i modsætning til ’kosmos’.
 
@@ -145,9 +126,8 @@ Eksempler: Den jødiske synagogetjeneste, den kristne gudstjeneste, den muslimsk
 
 NB: I hverdagssproget betyder ’kult’ og ’kultisk’ noget andet, og mange jøder, kristne og muslimer vil blive meget fornærmede, hvis vi kalder deres gudstjenester for kult, men sådan er det.
 
-**Forklar udtrykket:**
 
-Ligeartet fremkalder ligeartet
+### Ligeartet fremkalder ligeartet
 
 En ting eller handling påvirker det, det ligner.
 
@@ -242,15 +222,14 @@ Et overgangsritual (også kaldet initiationsrite) er et ritual, der udføres ved
 
 Drama er **hellige handlinger** (fx rituel dans, gestikuleren osv.) på kultpladsen. Dramaet gentager (og er derfor lig med) mytens urbegivenheder og skaber dermed fremtiden (fortid = nutid = fremtid).
 
-Forklar, hvad der menes med:
 
-Fortid = nutid = fremtid
+#### Fortid = nutid = fremtid
 
 Fortid, nutid og fremtid er et. Naturfolkene forener fortiden, nutiden og fremtiden, når de rekonstruerer myterne ved kultfester. Myterne handler om fortiden (urtiden). De fremføres i nutiden med henblik på at ændre fremtiden.
 
 Han er, hvad han fremstiller/forestiller
 
-Kult deltagerne påtager sig en mana.
+[[#Hvad betyder kult|Kult]] deltagerne påtager sig en [[#Hvad er mana|mana]].
 
 Fx forestiller en bøffeldans med én, der er klædt ud som en bøffel og bliver nedlagt, den senere jagt på en rigtig bøffel. 
 
@@ -304,16 +283,14 @@ Differentiering forstås her som opdeling i videnskab, moral og kunst. Denne opd
 
 Senmodernitet er udtryk for et aftraditionaliseret, afsekulariseret, individualiseret og globaliseret samfund. Den moderne differentiering bryder sammen. Videnskab, moral og kunst kan ikke længere holdes adskilte. I denne type samfund får religion en ny position.
 
+---
+
+# Personer
 
 ![[Feuerbach]]
 
-Fortæl om
+![[Karl Marx]]
 
-Karl Marx
-
-Grundlæggeren af den videnskabelige socialisme. ”Religion er opium for folket!”. Dvs. at religion opstår pga. elendighed. Religion er de undertryktes middel til at finde sig i elendigheden ved at drømme om en fremtidig lykketilstand. Og religion er magthavernes middel til at undertrykke de lavere klasser.
-
-  
 ![[Sigmund Freud]]
 
 

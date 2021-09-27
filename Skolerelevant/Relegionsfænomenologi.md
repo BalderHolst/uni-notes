@@ -1,5 +1,7 @@
 # Relegionsfænomenologi
+Et forsøg på at systematisere aspekter af relegion.
 
+---
 **[[Ninian Smarts]] Model**
 
 ![Relegionsfænomenologi model](Relegionsfænomenologi.jpg)

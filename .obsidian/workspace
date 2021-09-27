@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Førstefangsrite.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "da7eff7f80c06dd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Skolerelevant/Begreber i Relegion.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -129,19 +140,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "cbf3c90909400f2e",
+  "active": "da7eff7f80c06dd4",
   "lastOpenFiles": [
     "Skolerelevant/Begreber i Relegion.md",
-    "Ninian Smarts.md",
+    "Førstefangsrite.md",
+    "Untitled.md",
+    "Karl Marx.md",
     "Skolerelevant/Relegionsfænomenologi.md",
+    "Ninian Smarts.md",
     "Templates/Person.md",
     "Feuerbach.md",
     "Skolerelevant/Immanuel Kant.md",
-    "Projektion.md",
-    "Sigmund Freud.md",
-    "Brudstykker af Landsbydegnens Dagbog.md",
-    "Brudstykker af Landsbydegnens Dagbog (edited).md"
+    "Projektion.md"
   ]
 }
