@@ -1,6 +1,6 @@
 from readLines import *
 
-path = 'C:/Users/balde/OneDrive/Documents/Balders Noter/I en Landsbykirke (1837).md'
+path = 'C:/Users/balde/OneDrive/Documents/Balders Noter/Brudstykker af Landsbydegnens Dagbog.md'
 
 lines = read_lines(path)
 
@@ -12,7 +12,7 @@ for n in range(len(lines)):
 	place = line.find("##### ")
 
 	if(place >= 0):
-		print(f"#### ({i})" + line[place:])
+		print(f"#### ({i})" + line[place + 5:])
 		i += 1
 
 
