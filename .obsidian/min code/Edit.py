@@ -4,22 +4,19 @@ path = 'C:/Users/balde/OneDrive/Documents/Balders Noter/I en Landsbykirke (1837)
 
 lines = read_lines(path)
 
-def isValue(input):
-	try:
-		int(input)
-		return(True)
-
-	except ValueError:
-		return(False)
-
+i = 0
 
 for n in range(len(lines)):
 	line = lines[n]
 
-	if(line.find('.') >= 0):
-		lines[n] = '\t' + line
-	elif(line.find("NOTER") >= 0):
-		break
+	place = line.find("##### ")
+
+	if(place >= 0):
+		print(f"#### ({i})" + line[place:])
+		i += 1
+
+
+	
 
 		
 

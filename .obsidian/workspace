@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Klassisk Geometri.md",
-            "mode": "preview"
+            "file": "Brudstykker af Landsbydegnens Dagbog.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klassisk Geometri.md",
+                "file": "Brudstykker af Landsbydegnens Dagbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klassisk Geometri.md"
+                "file": "Brudstykker af Landsbydegnens Dagbog.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "257b840e88c23dfd",
   "lastOpenFiles": [
-    "Klassisk Geometri.md",
+    "Brudstykker af Landsbydegnens Dagbog.md",
+    "Steen Steensen Blicher.md",
+    "Untitled.md",
     "Euklid.md",
+    "Klassisk Geometri 1.png",
+    "Klassisk Geometri.md",
     "Kongruent.md",
     "Skolerelevant/Opdrift.md",
     "Aktiomer.md",
-    "Untitled.md",
-    "Aktioner.md",
-    "Skolerelevant/HFJKekhf.md",
-    "Skolerelevant/Bowlby.md",
-    "Skolerelevant/Euripides.md"
+    "Aktioner.md"
   ]
 }
