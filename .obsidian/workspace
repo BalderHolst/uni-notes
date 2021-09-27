@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02223073df7611a3",
+        "id": "d3c86ad1579ba4b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Jødeforfølgelse.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7e2615f024bc0351",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Krystalnatten.md",
             "mode": "source"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krystalnatten.md",
+                "file": "Jødeforfølgelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krystalnatten.md"
+                "file": "Jødeforfølgelse.md"
               }
             }
           },
@@ -143,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "7e2615f024bc0351",
+  "active": "d3c86ad1579ba4b0",
   "lastOpenFiles": [
+    "Jødeforfølgelse.md",
+    "Skolerelevant/Kampen om Stalingrad.md",
+    "Hilter.md",
+    "Krystalnatten.md",
+    "Skolerelevant/Anden Verdenskrig.md",
     "Krystalnatten 1938.md",
     "Skolerelevant/Det_tredie_Rige.md",
-    "Jødeforfølgelse.md",
     "Untitled.md",
     "Skolerelevant/Inuit Relegion.md",
-    "Skolerelevant/Psykoanalyse.md",
-    "Skolerelevant/Typer Psykologi.md",
-    "Brudstykker af Landsbydegnens Dagbog.md",
-    "Inuit Relegion.md",
-    "Når mennesker fødes.md"
+    "Skolerelevant/Psykoanalyse.md"
   ]
 }

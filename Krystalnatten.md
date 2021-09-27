@@ -1,10 +1,11 @@
 ---
-
-
+dato_start : 1938-11-9
+dato_slut : 1938-11-10
 ---
 
 ## Krystalnatten 1938 
 
+Nazisterne tog det på sig at ødelægge så mange jødiske foretninger som muligt så de havde svære ved at overleve.
 
 
 ---
@@ -22,3 +23,4 @@ Fra [[Det_tredie_Rige.pdf|Det Tredje Rige]]
 
 ---
 #historie
+#tidslinje 
