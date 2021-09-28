@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "da072a498b2566cb",
+        "id": "8363b61271c6e2f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Det_tredie_Rige.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e4a4b47dde71bbb6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Jødeforfølgelse.md",
-            "mode": "preview"
+            "file": "At følge føreren.md",
+            "mode": "source"
           }
         }
       }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Jødeforfølgelse.md",
+                "file": "At følge føreren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Jødeforfølgelse.md"
+                "file": "At følge føreren.md"
               }
             }
           },
@@ -143,17 +131,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "e4a4b47dde71bbb6",
+  "active": "8363b61271c6e2f7",
   "lastOpenFiles": [
+    "At følge føreren.md",
+    "Untitled.md",
     "Skolerelevant/Jødeforfølgelse.md",
+    "Skolerelevant/Krystalnatten.md",
     "Skolerelevant/Det_tredie_Rige.md",
     "Skolerelevant/Jødedom.md",
     "Skolerelevant/Opdrift.md",
     "Skolerelevant/Bevis for differentialligninger.md",
     "Skolerelevant/Differentialligninger.md",
-    "Bevis for differentialligninger.md",
-    "Differentialligninger.md",
-    "Bevægelse på Skråplan.md",
-    "Untitled.md"
+    "Bevis for differentialligninger.md"
   ]
 }

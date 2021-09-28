@@ -7,6 +7,10 @@ dato_slut : 1938-11-10
 
 Nazisterne tog det på sig at ødelægge så mange jødiske foretninger som muligt så de havde svære ved at overleve.
 
+---
+### Kilder
+- [[At følge føreren]]
+
 
 ---
 
