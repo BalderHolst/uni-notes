@@ -14,6 +14,9 @@ collapse:               # Create a collapsible admonition.
 
 ---
 
+## Beviser
+
+
 **Sætning 1:** to trekanter med parvis lige store sider og med lige stor mellemliggende vinkel er [[Kongruent|kongruente]].
 
 ![[Klassisk Geometri 1.png]]
@@ -21,6 +24,8 @@ collapse:               # Create a collapsible admonition.
 Aksiom 1 fortæller at der kun er *én* linje der kan gå gennem de to ender ($B$ og $C$), for at danne trekanten. 
 
 Dvs. at alle trekander med disse to sidelængder og vinkel, er den samme trekant
+
+
 
 ---
 

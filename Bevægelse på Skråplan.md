@@ -47,17 +47,13 @@ $$F_{res,x} = F_{1} - F_{\text{gnid}} = m \cdot g \cdot \sin(\alpha) - \mu \cdot
 
 Hvor vi igen ud fra [[Newtons Love#Newtons 2 lov Kraftloven|Newtons II lov]] lov kan finde accelerationen:
 
-$$m \cdot a = m \cdot g \cdot \sin(\alpha) - \mu \cdot m \cdot g \cdot \cos(\alpha) \Longleftrightarrow$$
-
-$$a = g \cdot \left( \sin(\alpha) - \mu \cdot \cos(\alpha) \right)$$
+$$m \cdot a = m \cdot g \cdot \sin(\alpha) - \mu \cdot m \cdot g \cdot \cos(\alpha) \s \Longleftrightarrow \s a = g \cdot \left( \sin(\alpha) - \mu \cdot \cos(\alpha) \right)$$
 
 Bevæger klodsen sig med konstant hastighed ned af skråplanet, dvs. med
 $a = 0$, kan vi bestemme gnidningskoefficienten, $\mu$, ud fra
 ovenstående formel:
 
-$$0 = \sin(\alpha) - \mu \cdot \cos(\alpha) \Longleftrightarrow$$
-
-$$\mu = \tan(\alpha)$$
+$$0 = \sin(\alpha) - \mu \cdot \cos(\alpha) \s \Longleftrightarrow \s \mu = \tan(\alpha)$$
 
 Ud fra ovenstående ses det altså, at vi ud fra vinklen, $\alpha$, kan
 bestemme henholdsvis acceleration på en plan klods uden

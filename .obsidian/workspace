@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb7e2f62c7dc102",
+        "id": "c26df422ed812a6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bevægelse på Skråplan.md",
+            "file": "Pythagoras Læresætning.md",
             "mode": "source"
           }
         },
-        "group": "4582745f6b55beed"
+        "group": "a3c0c8a087da96d0"
       },
       {
-        "id": "034e6a725bbe3451",
+        "id": "c08d6bd54a6aec95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bevægelse på Skråplan.md",
+            "file": "Pythagoras Læresætning.md",
             "mode": "preview"
           }
         },
-        "group": "4582745f6b55beed"
+        "group": "a3c0c8a087da96d0"
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bevægelse på Skråplan.md",
+                "file": "Pythagoras Læresætning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bevægelse på Skråplan.md"
+                "file": "Pythagoras Læresætning.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "034e6a725bbe3451",
+  "active": "c26df422ed812a6b",
   "lastOpenFiles": [
-    "Bevægelse på Skråplan.md",
-    "Skolerelevant/Newtons Love.md",
-    "J5 - Bevægelse på skråplan.md",
-    "Jødeforfølgelse.md",
-    "Krystalnatten.md",
-    "Holocaust.md",
-    "Rigsborgerloven.md",
+    "Pythagoras Læresætning.md",
     "Untitled.md",
-    "Skolerelevant/Kampen om Stalingrad.md",
-    "Hilter.md"
+    "Skolerelevant/Klassisk Geometri.md",
+    "Bevægelse på Skråplan.md",
+    "Skolerelevant/Skrå Kast.md",
+    "Skolerelevant/Holocaust.md",
+    "Nürberglovene.md",
+    "Skolerelevant/Jødeforfølgelse.md",
+    "Skolerelevant/Krystalnatten.md",
+    "Jødedom.md"
   ]
 }

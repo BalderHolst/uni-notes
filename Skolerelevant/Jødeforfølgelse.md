@@ -17,7 +17,7 @@ Jødehaddet eksisterede allerede i nazistpartiet i 1920'erne, men det var først
 >\- Side 75
 
 ##### Anden fase (1935 - 1938)
-- Indføring af [[Nürberglovene]], der bla. fratog jøderne deres tyske statsborgerskab
+- Indføring af [[Nürberglovene]] (1935), der bla. fratog jøderne deres tyske statsborgerskab
 
 ##### Tredje fase (1938 - 1941)
 - Indledes af [[Krystalnatten]]
