@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c26df422ed812a6b",
+        "id": "5ba0ec1d089167b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pythagoras Læresætning.md",
+            "file": "Bevis for differentialligninger.md",
             "mode": "source"
           }
         },
-        "group": "a3c0c8a087da96d0"
+        "group": "5e81e69d2c018328"
       },
       {
-        "id": "c08d6bd54a6aec95",
+        "id": "f133749558c07de4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pythagoras Læresætning.md",
+            "file": "Bevis for differentialligninger.md",
             "mode": "preview"
           }
         },
-        "group": "a3c0c8a087da96d0"
+        "group": "5e81e69d2c018328"
       }
     ],
     "direction": "vertical"
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pythagoras Læresætning.md",
+                "file": "Bevis for differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pythagoras Læresætning.md"
+                "file": "Bevis for differentialligninger.md"
               }
             }
           },
@@ -145,17 +144,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "c26df422ed812a6b",
+  "active": "5ba0ec1d089167b6",
   "lastOpenFiles": [
-    "Pythagoras Læresætning.md",
-    "Untitled.md",
-    "Skolerelevant/Klassisk Geometri.md",
+    "Bevis for differentialligninger.md",
+    "Differentialligninger.md",
     "Bevægelse på Skråplan.md",
+    "Untitled.md",
+    "Pythagoras Læresætning.md",
+    "Skolerelevant/Klassisk Geometri.md",
     "Skolerelevant/Skrå Kast.md",
     "Skolerelevant/Holocaust.md",
     "Nürberglovene.md",
-    "Skolerelevant/Jødeforfølgelse.md",
-    "Skolerelevant/Krystalnatten.md",
-    "Jødedom.md"
+    "Skolerelevant/Jødeforfølgelse.md"
   ]
 }
