@@ -24,16 +24,19 @@ f'(x) = k \cdot y ,\s y \ne 0 \\
 \frac{1}{y} \cdot f'(x) = k ,\s y \ne 0
 \end{align*}$$
 
-Det næste vi skal, er at bemærke et eksempel på en anden differentieret ligning. Nemlig ligningen $f(x) = ln(g(x))$. Det gør vi med regnereglen for differentiering af sammensatte funktioner.
+Det næste vi skal, er at bemærke et eksempel på en anden [[Differntialregning|differentieret]] ligning. Nemlig ligningen $f(x) = ln(g(x))$. Det gør vi med regnereglen for differentiering af sammensatte funktioner.
+
 $$f(g(x))' = f'(g(x)) \cdot g'(x) ,\s y \ne 0$$
-Med den regneregel differentierer vi vores funktion.
+
+Med den regneregel [[Differntialregning|differentierer]] vi vores funktion.
+
 $$ln(g(x))' = \frac{1}{g(x)} \cdot g'(x) ,\s y \ne 0$$
 
 Det interessante ved den højre side af formelen er at den har samme form som den venstre side af vores tidligere ligning. Derfor kan vi omskrive ligningen sådan.
 
 $$\frac{1}{y} \cdot f'(x) = k \s ln|y|' = k ,\s y \ne 0 $$
  
-Læg mærke til at vi ikke kan tage $ln$ til noget der er negativt, så derfor tager vi den absolutte værdi af $y$ først. Efter denne omskrivning kan vi integrere på begge sider for at ophæve mærket.
+Læg mærke til at vi ikke kan tage $ln$ til noget der er negativt, så derfor tager vi den absolutte værdi af $y$ først. Efter denne omskrivning kan vi [[Integralregning|integrere]] på begge sider for at ophæve mærket.
 
 $$\int ln|y|' = \int k \s ln|y| = kx + c ,\s y \ne 0 $$
 
@@ -68,4 +71,5 @@ Det betyder at vi kan opskrive ligningen uden nogle betingelser.
 $$y= C \cdot e^{kx}$$
 
 ---
+
 #matematik 

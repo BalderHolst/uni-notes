@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba0ec1d089167b6",
+        "id": "65e783ac4b956310",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bevis for differentialligninger.md",
-            "mode": "source"
-          }
-        },
-        "group": "5e81e69d2c018328"
-      },
-      {
-        "id": "f133749558c07de4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bevis for differentialligninger.md",
-            "mode": "preview"
-          }
-        },
-        "group": "5e81e69d2c018328"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -89,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bevis for differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bevis for differentialligninger.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +126,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "5ba0ec1d089167b6",
+  "active": "65e783ac4b956310",
   "lastOpenFiles": [
+    "Skolerelevant/Bevis for differentialligninger.md",
+    "Skolerelevant/Differentialligninger.md",
     "Bevis for differentialligninger.md",
     "Differentialligninger.md",
     "Bevægelse på Skråplan.md",
@@ -153,8 +137,6 @@
     "Pythagoras Læresætning.md",
     "Skolerelevant/Klassisk Geometri.md",
     "Skolerelevant/Skrå Kast.md",
-    "Skolerelevant/Holocaust.md",
-    "Nürberglovene.md",
-    "Skolerelevant/Jødeforfølgelse.md"
+    "Skolerelevant/Holocaust.md"
   ]
 }
