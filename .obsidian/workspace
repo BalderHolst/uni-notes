@@ -10,9 +10,22 @@
           "type": "markdown",
           "state": {
             "file": "Bevægelse på Skråplan.md",
+            "mode": "source"
+          }
+        },
+        "group": "4582745f6b55beed"
+      },
+      {
+        "id": "034e6a725bbe3451",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bevægelse på Skråplan.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "4582745f6b55beed"
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -134,6 +148,7 @@
   "active": "9cb7e2f62c7dc102",
   "lastOpenFiles": [
     "Bevægelse på Skråplan.md",
+    "Skolerelevant/Newtons Love.md",
     "J5 - Bevægelse på skråplan.md",
     "Jødeforfølgelse.md",
     "Krystalnatten.md",
@@ -141,7 +156,6 @@
     "Rigsborgerloven.md",
     "Untitled.md",
     "Skolerelevant/Kampen om Stalingrad.md",
-    "Hilter.md",
-    "Skolerelevant/Anden Verdenskrig.md"
+    "Hilter.md"
   ]
 }

@@ -23,7 +23,7 @@ $$F_{N} = F_{2}$$
 Ligger vi et koordinatsystem, så x-aksen følger skråplanet og y-aksen er
 vinkelret på skråplanet for vi således:
 
-$$F_{res,y} = F_{1} = m \cdot g \cdot \sin(\alpha)$$
+$$F_{res,x} = F_{1} = m \cdot g \cdot \sin(\alpha)$$
 
 $$F_{res,y} = F_{2} - F_{N} = 0$$
 
@@ -31,7 +31,9 @@ Ud fra [[Newtons Love#Newtons 2 lov Kraftloven|Newtons II lov]] kan vi bestemme 
 
 $$m \cdot a = m \cdot g \cdot \sin(\alpha) \s \Longleftrightarrow \s a = g \cdot \sin(\alpha)$$
 
+Her kan vi se at tyngdekraften virker i retninen $\alpha$. 
 
+---
 
 Ser vi nu på en plan klods på skråplanet med gnidning, får vi en
 gnidningskraft i modsatte retning af $F_{1}$, jf. Figur 2. Denne
