@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8363b61271c6e2f7",
+        "id": "6b77615f2301e6f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "At følge føreren.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -131,7 +132,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "8363b61271c6e2f7",
+  "active": "6b77615f2301e6f8",
   "lastOpenFiles": [
     "At følge føreren.md",
     "Untitled.md",
