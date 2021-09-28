@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -128,6 +127,7 @@
   },
   "active": "65e783ac4b956310",
   "lastOpenFiles": [
+    "Skolerelevant/Opdrift.md",
     "Skolerelevant/Bevis for differentialligninger.md",
     "Skolerelevant/Differentialligninger.md",
     "Bevis for differentialligninger.md",
@@ -136,7 +136,6 @@
     "Untitled.md",
     "Pythagoras Læresætning.md",
     "Skolerelevant/Klassisk Geometri.md",
-    "Skolerelevant/Skrå Kast.md",
-    "Skolerelevant/Holocaust.md"
+    "Skolerelevant/Skrå Kast.md"
   ]
 }
