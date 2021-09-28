@@ -12,19 +12,26 @@ Jødehaddet eksisterede allerede i nazistpartiet i 1920'erne, men det var først
 
 ## De fem faser
 
-##### Første fase (1933 - 1935)
+#### Første fase (1933 - 1935)
 >Den første fase fra 1933-35 var præget af en blanding af legalitet og spredte terrorhandlinger foretaget af SA. 
 >\- Side 75
 
-##### Anden fase (1935 - 1938)
+**Love**
+- d. 9. april 1933: Jøder kan ikke ansættes som embedsmænd 
+- d. 25. april 1933: Adgangsbegrænsning for jøder på højere læreanstalter 
+- d. 22. august 1933: Forbud mod jøders brug af offentlige badeanstalter 5. marts 
+- 1934: Jødiske kunstnere kan ikke optræde på tyske teatre
+
+
+#### Anden fase (1935 - 1938)
 - Indføring af [[Nürberglovene]] (1935), der bla. fratog jøderne deres tyske statsborgerskab
 
-##### Tredje fase (1938 - 1941)
+#### Tredje fase (1938 - 1941)
 - Indledes af [[Krystalnatten]]
 - Skærpet forfølgelse
 - Begyndelse på deportation til [[Koncentrationslejrene]]
 
-##### Sidste fase (1941 - 1945)
+#### Sidste fase (1941 - 1945)
 - [[Masseudrydelsen]]
 
 ---
@@ -38,12 +45,6 @@ Grunden til at **jøder var så nemme at hade** (selvom de kun udgjorde 1% af be
 
 
 
----
-## Love i løbet af 1933
-- d. 9. april 1933: Jøder kan ikke ansættes som embedsmænd 
-- d. 25. april 1933: Adgangsbegrænsning for jøder på højere læreanstalter 
-- d. 22. august 1933: Forbud mod jøders brug af offentlige badeanstalter 5. marts 
-- 1934: Jødiske kunstnere kan ikke optræde på tyske teatre
 
 ---
 ## 1935

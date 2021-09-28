@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "65e783ac4b956310",
+        "id": "da072a498b2566cb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Det_tredie_Rige.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e4a4b47dde71bbb6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Jødeforfølgelse.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -57,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -73,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Jødeforfølgelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Jødeforfølgelse.md"
+              }
             }
           },
           {
@@ -125,17 +143,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "65e783ac4b956310",
+  "active": "e4a4b47dde71bbb6",
   "lastOpenFiles": [
+    "Skolerelevant/Jødeforfølgelse.md",
+    "Skolerelevant/Det_tredie_Rige.md",
+    "Skolerelevant/Jødedom.md",
     "Skolerelevant/Opdrift.md",
     "Skolerelevant/Bevis for differentialligninger.md",
     "Skolerelevant/Differentialligninger.md",
     "Bevis for differentialligninger.md",
     "Differentialligninger.md",
     "Bevægelse på Skråplan.md",
-    "Untitled.md",
-    "Pythagoras Læresætning.md",
-    "Skolerelevant/Klassisk Geometri.md",
-    "Skolerelevant/Skrå Kast.md"
+    "Untitled.md"
   ]
 }
