@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "At følge føreren.md",
+            "file": "H. C. Andersen.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "At følge føreren.md",
+                "file": "H. C. Andersen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "At følge føreren.md"
+                "file": "H. C. Andersen.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "6b77615f2301e6f8",
   "lastOpenFiles": [
-    "At følge føreren.md",
+    "H. C. Andersen.md",
     "Untitled.md",
+    "Skolerelevant/Romantisme.md",
+    "At følge føreren.md",
     "Skolerelevant/Jødeforfølgelse.md",
     "Skolerelevant/Krystalnatten.md",
     "Skolerelevant/Det_tredie_Rige.md",
     "Skolerelevant/Jødedom.md",
     "Skolerelevant/Opdrift.md",
-    "Skolerelevant/Bevis for differentialligninger.md",
-    "Skolerelevant/Differentialligninger.md",
-    "Bevis for differentialligninger.md"
+    "Skolerelevant/Bevis for differentialligninger.md"
   ]
 }
