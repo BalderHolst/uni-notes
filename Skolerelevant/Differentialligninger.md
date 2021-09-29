@@ -5,6 +5,11 @@ Har altid en funktion som løsning.
 En ligning der indeholder en afledt funktion
 
 ---
+### Løsningsformlen
+
+$$y' = k \cdot y \s \Leftrightarrow \s f(x)=C \cdot e^{k \cdot x}$$
+
+---
 
 ### Løsninger
 
@@ -27,10 +32,40 @@ $$y=8x+21$$.
 
 ```
 
-- Find den _fuldstændige_ _løsning_ til $f'(x) = 3,5 \cdot f(x)$
 
-- Find den _partikulære løsning_ til  Tegn løsningskurven.
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Eksempel 2
+collapse:               # Create a collapsible admonition.
 
+**Find den _fuldstændige_ _løsning_ til $f'(x) = 3,5 \cdot f(x)$**
+
+Vi bruger [[#Løsningsformlen|løsningsformlen]] til at finde $k$ of opstille en forskrift for $f(x)$ 
+
+$$k = 3,5$$
+
+Med denne $k$-værdi kan vi opskrive $f(x)$
+
+$$f(x) = C \cdot e^{3,5x}$$
+
+Dette er den *fuldstændige løsning*
+
+---
+
+**Find den _partikulære løsning_ til $f'(t) = -0.12 \cdot f(t), \text{idet} f(0) = 20$ Tegn løsningskurven.**
+
+Igen bruger vi [[#Løsningsformlen|løsningsformlen]] til af finde $f(x)$
+
+$$f(x) = C \cdot e^{-0.12x}$$
+
+For at finde den fuldstændige løsning sætter vi punktet $(0,20)$ ind i formlen
+
+$$20 = C \cdot e^{-0.12 (0)} = C \cdot e^0 = C \s \Leftrightarrow \s C = 20$$
+
+Ved at sætte $C$ ind i formlen for $f(x)$ får vi den *patikulære løsning*
+
+$$f(x) = 20 \cdot e^{-0.12x}$$
+
+```
 
 ---
 
