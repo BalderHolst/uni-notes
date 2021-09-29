@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4c431341c8f3eef0",
+        "id": "9964f50531d69379",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+            "file": "Skolerelevant/Differentialligninger.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md"
+                "file": "Skolerelevant/Differentialligninger.md"
               }
             }
           },
@@ -133,8 +133,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "4c431341c8f3eef0",
+  "active": "9964f50531d69379",
   "lastOpenFiles": [
+    "Skolerelevant/Differentialligninger.md",
+    "Skolerelevant/Bevis for differentialligninger.md",
     "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
     "Media/Brudstykker af en Landsbydegns Dagbog.pdf",
     "Brudstykker af en Landsbydegns Dagbog.md",
@@ -142,8 +144,6 @@
     "Brudstykker af Landsbydegnens Dagbog.md",
     "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md",
     "Hjem og Hjemme.md",
-    "H. C. Andersen.md",
-    "Untitled.md",
-    "Skolerelevant/Romantisme.md"
+    "H. C. Andersen.md"
   ]
 }
