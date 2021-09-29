@@ -43,11 +43,20 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 | ------ | ------------------- | ----------- |
 | 1-8    | Føulum              | 1708 - 1709 |
 | 9-24   | Thiele              | 1709 - 1711 |
-| 25-28  | Rejsen              | 1711        |
+| 25-28  | København           | 1711        |
 | 29-51  | Thiele              | 1711 - 1713 |
 | 52-56  | Krigen              | 1713 - 1721 |
 | 57-64  | Falster/Corselidse  | 1743 - 1745 |
 | 65-69  | Rejse/Thiele/Føulum | 1745 - 1753 |
+
+1. Hjem = Føulum
+2. Hjem' = Thiele
+3. Ude = København
+4. Hjem = Thiele
+5. Ude = Krigen & Falster & <label class="ob-comment" title="" style=""> Corselidse <input type="checkbox"> <span style=""> han TROR han er hjemme indtil han ser sofie, hvorefter han opdager af han ikke har hjemme der </span></label>
+6. Hjem' = Thiele
+7. Hjem = Føulum 
+
 
 ---
 
