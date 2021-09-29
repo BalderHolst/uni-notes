@@ -1,5 +1,7 @@
 \usepackage{cancel}
 
+\usepackage[danish]{babel}
+
 %\newcommand{\name}[no_of_parameters]{defn_of_command}
 
 \newcommand{\s}{\:\:\:\:\:\:}
@@ -24,6 +26,10 @@
 	}
 }
 \newcommand{\atom}[3]{
-	\stack{#1}{#2} \ce{#3}
+	\substack{
+	#1 \\
+	#2
+	}
+	\ce{#3}
 	
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9964f50531d69379",
+        "id": "cdc63a39a7d33163",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,7 +12,20 @@
             "file": "Skolerelevant/Differentialligninger.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "547e1fcba579a594"
+      },
+      {
+        "id": "5445cb2d33b4905c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "source"
+          }
+        },
+        "group": "547e1fcba579a594"
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9964f50531d69379",
+  "active": "5445cb2d33b4905c",
   "lastOpenFiles": [
     "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Bevis for differentialligninger.md",

@@ -9,7 +9,7 @@ En ligning der indeholder en afledt funktion
 ### Løsninger
 
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  Eksempel med *Fuldstændig* og *Partikulær* løsning
+title:                  Eksempel 1
 collapse:               # Create a collapsible admonition.
 
 En simpel differentialligning kunne for eksempel være $y'=8$. Måden vi løser sådan en ligning, er ved at [[Integralregning|integrere]] på begge sider af ligningen. Hvis vi gør det, ser ligningen ud sådan
@@ -26,6 +26,11 @@ Vi har nu fundet vores $c$-værdi, og kan sætte den ind i vores funktion. Funkt
 $$y=8x+21$$.
 
 ```
+
+- Find den _fuldstændige_ _løsning_ til $f'(x) = 3,5 \cdot f(x)$
+
+- Find den _partikulære løsning_ til  Tegn løsningskurven.
+
 
 ---
 
@@ -51,6 +56,10 @@ collapse:               # Create a collapsible admonition.
 ![[Bevis for differentialligninger]]
 
 ```
+
+           
+
+
 
 
 ---
