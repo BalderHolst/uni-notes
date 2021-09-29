@@ -11,10 +11,11 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 ##### Morten
 - Hovedperson
 - Jamre
-- Lever i sine drømme
 - Søger accept
 - Forelsket i Sofie, men gør ingenting
 - Kan mange sprog.
+- **Dygtig til at få lært det han sætter sig for**
+- **Tager intet initiativ**, han venter hele tiden - ender med at vente på at dø.
 
 ##### Jens
 - Præstesøn
@@ -24,6 +25,8 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 - Doven i skolen
 - Udøver sine drømme
 - Alkoholiker til sidst
+- **Mere følelsesladet end Morten** (se [[#35 Thiele 8 December 1711]])
+
 
 ##### Frøken Sofie
 - Flot/Skøn
@@ -304,6 +307,8 @@ Gyldenløve er ikke så god til at jage.
 ##### (35) Thiele 8. December 1711
 
 Brylluppet skal stå om 8 dage. Jeg tror også Jens er ked af det. Vi ville ønske det var os. 
+
+>Jeg troer, Jens er ligesaadan faren som jeg; da jeg sagde ham det om Mariagen, stødte han sin Bøsse saadan imod Jorden, at Kolben sprang istykker, og derpaa rendte han med Stumpen ud i Heden. Saa er jeg da ikke den eneste Nar i Verden. 
 
   
 
