@@ -11,8 +11,10 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 ##### Morten
 - Hovedperson
 - Jamre
+- Drømmer om at være præst, men ender som degn, hvilket bare er en funktion. Vi kan også se i [[Erasmus Montanus]] at degne generelt ikke behøver at være specielt lærte.
+- Kan ikke blive bisp, da han ikke per præstesøn som [[#Jens]]
 - Søger accept
-- Forelsket i Sofie, men gør ingenting
+- Forelsket i Sofie, men gør ingenting (se [[#32 Thiele 14 November 1711]]). Den eneste gang kan opnår noget med hende, er ved en fejl: [[#43 Thiele 27 Februar 1713]] & [[#44 Thiele 5 Marts 1713]] & [[#45 Thiele 6 Marts 1713]].
 - Kan mange sprog.
 - **Dygtig til at få lært det han sætter sig for**
 - **Tager intet initiativ**, han venter hele tiden - ender med at vente på at dø.
@@ -68,7 +70,18 @@ Søren ville ønske at Morten har hans søn.
 6. Hjem' = Thiele
 7. Hjem = Føulum 
 
-
+##### Ulykker sker ofte den 13.
+- [[#15 Thiele 13 December 1709]]
+ 
+- [[#17 Thiele 13 Februar 1710]]
+- [[#18 Thiele 13 Marts 1710]]
+ 
+- [[#38 Thiele 13 Marts 1712]]
+- [[#42 Thiele 13 December 1712]]
+ 
+- [[#47 Thiele 13 April 1713]]
+- [[#51 Thiele 3 Maj 1713]]
+- [[#53 Sverige 13 Juni 1713]]
 
 ---
 
@@ -290,6 +303,7 @@ Hr. Gyldenløve kommer snart til gården. Han er er kongeligt blod og skal spise
 
 Gyldenløve ankommer. Sofie ænser mig ikke. Han virker flot og prangende, men der er noget lummert ved ham fornemmer jeg. Jeg er misundelig på Gyldenløve, da han får opmærksomhed fra Sofie.
 
+- Viser hvor lidt [[#Morten]] betyder for [[#Frøken Sofie]]. 
   
 
 ##### (33) Thiele 20. November 1711
@@ -354,7 +368,7 @@ Fruens pige (Sofie) har fået en søn, uden at være gift. Vi har alle på forne
 
   
 
-##### (43) Thiele 23. Februar 1713
+##### (43) Thiele 27. Februar 1713
 
 WE DIIIIID IT! Jeg har endelig gjort kur til Sofie, hun lå i mine arme og vi kyssede.
 

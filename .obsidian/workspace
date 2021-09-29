@@ -4,11 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "4c431341c8f3eef0",
+        "id": "57fb1e5466559cb9",
+        "type": "split",
+        "children": [
+          {
+            "id": "4c431341c8f3eef0",
+            "type": "leaf",
+            "dimension": 59.48717948717949,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "e3a0db11ddcf8afa",
+            "type": "leaf",
+            "dimension": 40.51282051282051,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "fc73d3dd187600ed",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Brudstykker af en Landsbydegns Dagbog.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3533f763eb7527e1",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Media/Brudstykker af en Landsbydegns Dagbog.pdf"
+          }
         }
       }
     ],
@@ -74,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md"
+              }
             }
           },
           {
@@ -129,9 +176,9 @@
   },
   "active": "4c431341c8f3eef0",
   "lastOpenFiles": [
-    "Media/Brudstykker af en Landsbydegns Dagbog.pdf",
-    "Brudstykker af en Landsbydegns Dagbog.md",
     "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+    "Brudstykker af en Landsbydegns Dagbog.md",
+    "Media/Brudstykker af en Landsbydegns Dagbog.pdf",
     "Autoconverterede/Matematik - Arbejdsark til OPTIMERING.md",
     "Brudstykker af Landsbydegnens Dagbog.md",
     "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md",
