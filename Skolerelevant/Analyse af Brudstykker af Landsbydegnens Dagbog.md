@@ -1,4 +1,4 @@
-# Brudstykker af Landsbydegnens Dagbog
+# Analyse af [[Brudstykker af en Landsbydegns Dagbog]]
 af [[Steen Steensen Blicher]]
 
 ---
@@ -34,20 +34,28 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 - Skuffet over Jens, og vil hellere have haft Morten
 
 
+#### Opmærksomhed fra Søren
+Søren ville ønske at Morten har hans søn.
+
+>Til mig talte han Latin; jeg hørte engang, at han sagde som for sig selv: »vellem hunc esse filium meum!« Det var mig han meente.
+>\- Fölum die St. Martini
+
+#### Opmærksomhed fra Sofie
+
 
 ---
 
 ### Komposition
 
-| Afsnit | Sted                | tid         |
-| ------ | ------------------- | ----------- |
-| 1-8    | Føulum              | 1708 - 1709 |
-| 9-24   | Thiele              | 1709 - 1711 |
-| 25-28  | København           | 1711        |
-| 29-51  | Thiele              | 1711 - 1713 |
-| 52-56  | Krigen              | 1713 - 1721 |
-| 57-64  | Falster/Corselidse  | 1743 - 1745 |
-| 65-69  | Rejse/Thiele/Føulum | 1745 - 1753 |
+| Afsnit | Sted                | tid         | år  |
+|:------:| ------------------- | ----------- |:---:|
+|  1-8   | Føulum              | 1708 - 1709 |  1  |
+|  9-24  | Thiele              | 1709 - 1711 |  2  |
+| 25-28  | København           | 1711        | 0.5 |
+| 29-51  | Thiele              | 1711 - 1713 | 1.5 |
+| 52-56  | Krigen              | 1713 - 1721 |  8  |
+| 57-64  | Falster/Corselidse  | 1743 - 1745 |  2  |
+| 65-69  | Rejse/Thiele/Føulum | 1745 - 1753 |  8  |
 
 1. Hjem = Føulum
 2. Hjem' = Thiele
@@ -56,6 +64,7 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 5. Ude = Krigen & Falster & <label class="ob-comment" title="" style=""> Corselidse <input type="checkbox"> <span style=""> han TROR han er hjemme indtil han ser sofie, hvorefter han opdager af han ikke har hjemme der </span></label>
 6. Hjem' = Thiele
 7. Hjem = Føulum 
+
 
 
 ---

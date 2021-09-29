@@ -4,13 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6b77615f2301e6f8",
+        "id": "a8d1b77697deb94c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md",
+            "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8994a1c3006c77b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brudstykker af en Landsbydegns Dagbog.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "437acad64ed2c98f",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Media/Brudstykker af en Landsbydegns Dagbog.pdf"
           }
         }
       }
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md",
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md"
+                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md"
               }
             }
           },
@@ -125,24 +146,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "6b77615f2301e6f8",
+  "active": "a8d1b77697deb94c",
   "lastOpenFiles": [
+    "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+    "Brudstykker af en Landsbydegns Dagbog.md",
+    "Media/Brudstykker af en Landsbydegns Dagbog.pdf",
+    "Autoconverterede/Matematik - Arbejdsark til OPTIMERING.md",
+    "Brudstykker af Landsbydegnens Dagbog.md",
     "Skolerelevant/Brudstykker af Landsbydegnens Dagbog.md",
+    "Hjem og Hjemme.md",
     "H. C. Andersen.md",
     "Untitled.md",
-    "Skolerelevant/Romantisme.md",
-    "At følge føreren.md",
-    "Skolerelevant/Jødeforfølgelse.md",
-    "Skolerelevant/Krystalnatten.md",
-    "Skolerelevant/Det_tredie_Rige.md",
-    "Skolerelevant/Jødedom.md",
-    "Skolerelevant/Opdrift.md"
+    "Skolerelevant/Romantisme.md"
   ]
 }
