@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trigonomitri.md",
+            "file": "Skolerelevant/Bevægelse på Skråplan.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonomitri.md",
+                "file": "Skolerelevant/Bevægelse på Skråplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trigonomitri.md"
+                "file": "Skolerelevant/Bevægelse på Skråplan.md"
               }
             }
           },
@@ -134,6 +135,8 @@
   },
   "active": "9c61548462034b8a",
   "lastOpenFiles": [
+    "Skolerelevant/Bevægelse på Skråplan.md",
+    "Autoconverterede/Fysik - J15 - Gnidning.md",
     "Untitled.md",
     "Skolerelevant/At følge føreren.md",
     "Skolerelevant/Holocaust.md",
@@ -141,8 +144,6 @@
     "Skolerelevant/Jødeforfølgelse.md",
     "Skolerelevant/Krystalnatten.md",
     "Media/Det_tredie_Rige.pdf",
-    "En tysk skolepiges syn på jøderne.md",
-    "Skolerelevant/Anden Verdenskrig.md",
-    "Skolerelevant/Det_tredie_Rige.md"
+    "En tysk skolepiges syn på jøderne.md"
   ]
 }
