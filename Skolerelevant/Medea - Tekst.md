@@ -28,23 +28,24 @@ _Otto Foss_
 
 ## PERSONERNE
 
-- Kreon konge i Korinth
+##### Kreon
+- konge i Korinth
 
-- Aigeus konge i Athen
+Aigeus konge i Athen
 
- - Iason
+ ##### Iason
 
-- Medea
+##### Medea
 
-- Ammen Medeas barnepige
+##### Ammen Medeas barnepige
 
-- Husslaven "pædagogen" for Medeas børn
+Husslaven "pædagogen" for Medeas børn
 
-- Iasons og Medeas to sønner
+Iasons og Medeas to sønner
 
-- Et sendebud
+Et sendebud
 
-- Kor af korinthiske kvinder
+Kor af korinthiske kvinder
 
 Tragedien er opført ved Dionysos-festen i foråret 431, som første del af en trilogi. Den fik kun tredieprisen, i konkurrence med Euforion, Aischylos' søn, og Sofokles.
 
@@ -595,7 +596,7 @@ til måltidets festlige fylde.
 
 _(g__år ind i huset)_
 
-KOR
+<label class="ob-comment" title="" style=""> KOR <input type="checkbox"> <span style=""> Medea drager mod Hellas </span></label>
 
 Epode
 
@@ -603,19 +604,19 @@ Skærende skrig,
 
 <sub><sup>205</sup></sub> grådfyldte sukke
 
-lød der til mig, da hun forbanded
+lød der til <label class="ob-comment" title="" style=""> mig <input type="checkbox"> <span style=""> byen </span></label>, da hun forbanded
 
-med afsky sin mand, den forræder.
+med afsky sin mand, <label class="ob-comment" title="" style=""> den forræder <input type="checkbox"> <span style=""> korret kan heller ikke lide [[#Iason]] </span></label>.
 
 Forsmået, foragtet hun råber på Themis,
 
 edernes vogter, til hvem hun satte sin lid,
 
-<sub><sup>210</sup></sub> da hun drog til det fjerne Hellas,
+<sub><sup>210</sup></sub> da hun drog til det fjerne <label class="ob-comment" title="" style=""> [[Hellas]] <input type="checkbox"> <span style=""> De mægtige krigere (Argonauterne) kommer fra Hellas </span></label>,
 
 over det natsorte hav
 
-mod strædet som aflåser Pontos
+mod strædet som aflåser [[Pontos]]
 
 fra de salte havbølgers brusen.
 
@@ -625,7 +626,7 @@ fra de salte havbølgers brusen.
 ---
 *Side 18*
 
-MEDEA _(kommer udfra huset)_
+<label class="ob-comment" title="" style=""> MEDEA _(kommer udfra huset)_ <input type="checkbox"> <span style=""> Hun er taler om mandens magt og at hun er uening med den måde samfundet fungerer på. Hun har *morderiske* planer </span></label>
 
 Jeg kommer til jer, kvinder af Korinth,
 
@@ -747,9 +748,9 @@ så ti! En kvinde er et frygtsomt væsen,
 
 og ikke skabt til blink af spyd og stål.
 
-<sub><sup>265</sup></sub> Men krænkes hendes hustruret og - ære,
+<sub><sup>265</sup></sub> ==Men krænkes hendes hustruret og - ære,==
 
-er intet rovdyr morderisk som hun.
+==er intet rovdyr morderisk som hun.==
 
 KOR
 
@@ -757,7 +758,7 @@ Det vil jeg. Du er blevet krænket blodigt,
 
 Medea. Helt forståelig er din harme.
 
-- Men se, der kommer Kreon, landets konge.
+Men se, der kommer Kreon, landets konge.
 
 <sub><sup>270</sup></sub> Jeg tror han har en vigtig sag på hjerte.
 
@@ -767,7 +768,7 @@ Medea. Helt forståelig er din harme.
 ---
 *Side 20*
 
-KREON _(kommer ind med v__åbnet følge)_
+<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> Han er sur over at [[#Medea]] lige har kritiseret hans lands kultur og bortviser hende </span></label> _(kommer ind med v__åbnet følge)_
 
 Du der Medea, du som skuler ondt
 

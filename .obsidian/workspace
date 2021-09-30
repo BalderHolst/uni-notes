@@ -8,22 +8,40 @@
         "type": "split",
         "children": [
           {
-            "id": "c9fc9b9045e9af7e",
-            "type": "leaf",
-            "dimension": 53.46153846153846,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
-                "mode": "preview"
+            "id": "b6c9546bf74e0bf0",
+            "type": "split",
+            "dimension": 56.33802816901409,
+            "children": [
+              {
+                "id": "c9fc9b9045e9af7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skolerelevant/Medea - Tekst.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "d6f34760813c8eaa"
+              },
+              {
+                "id": "9874a6dfac307edf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skolerelevant/Medea - Tekst.md",
+                    "mode": "source"
+                  }
+                }
               }
-            },
-            "group": "d6f34760813c8eaa"
+            ],
+            "direction": "vertical"
           },
           {
             "id": "097d20058b160676",
             "type": "split",
-            "dimension": 46.53846153846154,
+            "dimension": 43.66197183098591,
             "children": [
               {
                 "id": "969effddad51932a",
@@ -43,8 +61,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Skolerelevant/Medea - Analyse.md",
-                    "mode": "source"
+                    "file": "Skolerelevant/Sagnet til Medea.md",
+                    "mode": "preview"
                   }
                 }
               }
@@ -173,17 +191,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "969effddad51932a",
+  "active": "c9fc9b9045e9af7e",
   "lastOpenFiles": [
     "Skolerelevant/Medea - Tekst.md",
+    "Skolerelevant/Sagnet til Medea.md",
     "Skolerelevant/Medea - Analyse.md",
+    "Georg Brandes.md",
+    "Untitled.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Autoconverterede/Fysik - J15 - Gnidning.md",
-    "Untitled.md",
     "Skolerelevant/At følge føreren.md",
     "Skolerelevant/Holocaust.md",
-    "At følge føreren.md",
-    "Skolerelevant/Jødeforfølgelse.md",
-    "Skolerelevant/Krystalnatten.md"
+    "At følge føreren.md"
   ]
 }
