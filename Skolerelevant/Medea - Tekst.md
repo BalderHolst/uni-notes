@@ -214,9 +214,9 @@ AMMEN
 
 tal ud, og stol på jeg vil være tavs.
 
-HUSSLAVEN
+HUSSLAVEN ^71d24f
 
-Jeg stod og lytted - ubemærket selv -
+Jeg stod og lytted - ubemærket selv - 
 
 der hvor de gamle samler sig om brætspil
 
@@ -628,19 +628,21 @@ fra de salte havbølgers brusen.
 
 <label class="ob-comment" title="" style=""> MEDEA _(kommer udfra huset)_ <input type="checkbox"> <span style=""> Hun er taler om mandens magt og at hun er uening med den måde samfundet fungerer på. Hun har *morderiske* planer </span></label>
 
+****
+
 Jeg kommer til jer, kvinder af Korinth,
 
-<sub><sup>215</sup></sub> for ikke at forarge jer. For hovmod
+<sub><sup>215</sup></sub> for ikke at forarge jer. For <label class="ob-comment" title="" style=""> hovmod <input type="checkbox"> <span style=""> det er ikke godt at have hovmod </span></label>
 
 er en udbredt fejl, så vel hos dem der færdes
 
 på torv og gade, som hos den der lever
 
-tilbagetrukket. Den sagtmodige
+tilbagetrukket. Den <label class="ob-comment" title="" style=""> sagtmodige <input type="checkbox"> <span style=""> det er heller ikke godt at være stille </span></label>
 
 får dårligt ry for bondsk og dorsk natur.
 
-Hvis én er brav, men har sit ydre mod sig,
+Hvis én er <label class="ob-comment" title="" style=""> brav <input type="checkbox"> <span style=""> En modig er heller ikke god, da man sidder fast i sit ydre </span></label>, men har sit ydre mod sig,
 
 <sub><sup>220</sup></sub> fordømmes han, før man hans indre kender.
 
@@ -650,7 +652,7 @@ Især en gæst må te sig efter skik
 
 og brug. Nå, heller ikke finder jeg
 
-den borger god, som kror sig uden grund.
+den borger god, som <label class="ob-comment" title="" style=""> kror <input type="checkbox"> <span style=""> Comment </span></label> sig uden grund.
 
 <sub><sup>225</sup></sub> Mig selv har skæbnen truffet dybt i brystet,
 
@@ -768,7 +770,7 @@ Men se, der kommer Kreon, landets konge.
 ---
 *Side 20*
 
-<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> Han er sur over at [[#Medea]] lige har kritiseret hans lands kultur og bortviser hende </span></label> _(kommer ind med v__åbnet følge)_
+<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> Han er sur over at [[#Medea]] skaber sig. Kreons Datter se Husslavens [[#^71d24f|replik]] </span></label> _(kommer ind med v__åbnet følge)_
 
 Du der Medea, du som skuler ondt
 
@@ -782,7 +784,7 @@ og det på timen! Selv vil jeg se til
 
 før du er jaget over rigets grænser.
 
-MEDEA
+==MEDEA==
 
 Ah åh! Så er jeg redningsløst fortabt,
 
@@ -794,7 +796,7 @@ og jeg må se forgæves efter havn.
 
 kong Kreon: hvorfor jager du mig bort?
 
-KREON
+<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> han jæger hende bort fordi han er bange for hvad hun kan finde på </span></label>
 
 Nu vel, jeg tilstår åbent: jeg er bange
 
@@ -808,7 +810,7 @@ dit bitre savn ved tabet af din mand.
 
 Om dine trusler går der slemme rygter -
 
-om hævn du pønser på mod mig, mod ham
+om ==hævn== du pønser på mod mig, mod ham
 
 og mod hans brud. Det må jeg forebygge.
 
@@ -816,13 +818,13 @@ og mod hans brud. Det må jeg forebygge.
 
 end senere fortryde jeg var svag.
 
-MEDEA
+<label class="ob-comment" title="" style=""> MEDEA <input type="checkbox"> <span style=""> Tigger om at fo lov til at blive, mod at hun lover ikke at gøre noget </span></label>
 
 Kong Kreon! Det er ikke første gang
 
 at rygtet om min kløgt har skadet mig.
 
-<sub><sup>295</sup></sub> - Forældre med forstand bebyrder ikke
+<sub><sup>295</sup></sub> Forældre med forstand bebyrder ikke
 
 de børn de har, med alt for megen lærdom.
 
@@ -872,7 +874,7 @@ mig lov at blive. Jeg er slet behandlet,
 
 <sub><sup>315</sup></sub> men vil i tavshed bøje mig for magten.
 
-KREON
+<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> Men han siger NEJ </span></label>
 
 Det lyder smukt, men jeg må frygte
 
@@ -902,7 +904,7 @@ Ved dine knæ, ved din nygifte datter - -
 
 KREON
 
-<sub><sup>325</sup></sub> Du ber forgæves. Bort! Jeg g"r mig døv.
+<sub><sup>325</sup></sub> Du ber forgæves. Bort! Jeg gør mig døv.
 
 MEDEA
 
@@ -966,7 +968,7 @@ KREON
 
 Hvad da? Giv slip og pak dig ud af landet!
 
-MEDEA
+<label class="ob-comment" title="" style=""> MEDEA <input type="checkbox"> <span style=""> Lad mig blive en enkel dag mere for at finde ly til mine børn! </span></label>
 
 <sub><sup>340</sup></sub> Åh lad mig blive denne ene dag,
 
@@ -984,7 +986,7 @@ Mit eget vel bekymrer mig slet ikke,
 
 men deres modgang skærer mig i hjertet.
 
-KREON
+<label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> ok, men du har bare at holde dit løfte! </span></label>
 
 Tyran-natur, det er jeg mindst af alt,
 
@@ -1010,7 +1012,7 @@ _(ud med sin livvagt)_
 ---
 *Side 24*
 
-KOR
+==KOR==
 
 <sub><sup>355</sup></sub> Du stakkels kvinde, hvad må du dog lide!
 
@@ -1022,7 +1024,7 @@ eller land vil give dig tilflugt?
 
 har en Gud dig styrtet, Medea.
 
-MEDEA
+<label class="ob-comment" title="" style=""> MEDEA <input type="checkbox"> <span style=""> Hun vil dræbe alle tre med **gift** </span></label>
 
 Sort om mig allevegne - det er sandt!
 
@@ -1034,7 +1036,7 @@ og kongen vil få modgang - mer end nok.
 
 Hvor kan du tro jeg havde ydmygt krøbet
 
-for _ham,_ hvis ej det fremmed' mine planer?
+==for _ham,_ hvis ej det fremmed' mine planer?==
 
 <sub><sup>370</sup></sub> Nej, hverken hilset eller bønfaldt ham.
 
@@ -1046,7 +1048,7 @@ at han mig undte opholdsfrist een dag,
 
 den ene dag på hvilken man skal se mig
 
-<sub><sup>375</sup></sub> tilintetgøre mine ærkefjender:
+<sub><sup>375</sup></sub> ==tilintetgøre mine ærkefjender:==
 
 den unge pige, fa'ren og min mand.
 
@@ -1066,7 +1068,7 @@ i mit forsøg på listigt overfald,
 
 da dør jeg, under fjendens hån og latter.
 
-Nej, bedst er nok den lige vej jeg kender
+==Nej, bedst er nok den lige vej jeg kender==
 
 <sub><sup>385</sup></sub> og er fortrolig med fra ung: _ved gift._
 

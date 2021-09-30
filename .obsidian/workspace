@@ -10,7 +10,7 @@
           {
             "id": "b6c9546bf74e0bf0",
             "type": "split",
-            "dimension": 56.33802816901409,
+            "dimension": 54.929577464788736,
             "children": [
               {
                 "id": "c9fc9b9045e9af7e",
@@ -41,7 +41,7 @@
           {
             "id": "097d20058b160676",
             "type": "split",
-            "dimension": 43.66197183098591,
+            "dimension": 45.07042253521127,
             "children": [
               {
                 "id": "969effddad51932a",
@@ -191,7 +191,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "c9fc9b9045e9af7e",
+  "active": "969effddad51932a",
   "lastOpenFiles": [
     "Skolerelevant/Medea - Tekst.md",
     "Skolerelevant/Sagnet til Medea.md",
