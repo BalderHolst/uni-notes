@@ -26,7 +26,7 @@ Nu var det begravelsen der var problemet for under mavesækkenes forrådnelse h�
 Efter [[#Wannsee-konferencen 1942]] var der igen brug for en bedre metode, og de begyndte at gasse jøderne på udrydelseslejrene.
 
 #### Wannsee-konferencen (1942)
-**Formål:** Finde den endelige løsning på "jødeproblemet" (die Endlösung)
+**Formål:** Finde den endelige løsning på "jødeproblemet", altså hvordan udryder vi dem bedst muligt? (die Endlösung)
 
 Udvikler på metoden man henretter jøderne.
 
