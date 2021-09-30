@@ -780,7 +780,7 @@ Men se, der kommer Kreon, landets konge.
 
 <label class="ob-comment" title="" style=""> KREON <input type="checkbox"> <span style=""> Han er sur over at [[#Medea]] skaber sig. Kreons Datter se Husslavens [[#^71d24f|replik]] </span></label> _(kommer ind med v__åbnet følge)_
 
-Du der Medea, du som skuler ondt
+<label class="ob-comment" title="" style=""> Du der Medea <input type="checkbox"> <span style=""> Taler ned til hende </span></label>, du som skuler ondt
 
 og trodsigt mod din mand, bort fra mit land
 
@@ -788,9 +788,9 @@ med begge sønner i landflygtighed,
 
 og det på timen! Selv vil jeg se til
 
-<sub><sup>275</sup></sub> at ordren sker. Jeg vender ikke hjem,
+<sub><sup>275</sup></sub> at ordren sker. <label class="ob-comment" title="" style=""> Jeg vender ikke hjem, <input type="checkbox"> <span style=""> Ultimatum </span></label>
 
-før du er jaget over rigets grænser.
+<label class="ob-comment" title="" style="">før du er jaget over rigets grænser. <input type="checkbox"> <span style=""> Ultimatum </span></label>
 
 ==MEDEA==
 
@@ -998,7 +998,7 @@ men deres modgang skærer mig i hjertet.
 
 Tyran-natur, det er jeg mindst af alt,
 
-og for min mildhed har jeg ofte bødet.
+og <label class="ob-comment" title="" style=""> for min mildhed har jeg ofte bødet <input type="checkbox"> <span style=""> **Tragisk Ironi** = han ved ikke hvor meget han faktisk kommer til at bøde </span></label>.
 
 _(Medea rejser sig)_
 
@@ -1062,7 +1062,7 @@ den unge pige, fa'ren og min mand.
 
 Jeg kender mangen vej til deres død,
 
-- men hvilken skal jeg vælge? - dér jeg vakler.
+men hvilken skal jeg vælge? - dér jeg vakler.
 
 Om jeg skal stikke ild på brudehuset?
 
@@ -1076,9 +1076,9 @@ i mit forsøg på listigt overfald,
 
 da dør jeg, under fjendens hån og latter.
 
-==Nej, bedst er nok den lige vej jeg kender==
+Nej, bedst er nok den lige vej jeg kender
 
-<sub><sup>385</sup></sub> og er fortrolig med fra ung: _ved gift._
+<sub><sup>385</sup></sub> og er fortrolig med fra ung: ==_ved gift._==
 
 Nu vel.
 

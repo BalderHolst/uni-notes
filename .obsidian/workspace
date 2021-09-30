@@ -48,7 +48,7 @@
               {
                 "id": "969effddad51932a",
                 "type": "leaf",
-                "dimension": 54.268292682926834,
+                "dimension": 54.87804878048781,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -61,7 +61,7 @@
               {
                 "id": "58e151eb12899b67",
                 "type": "leaf",
-                "dimension": 45.73170731707317,
+                "dimension": 45.1219512195122,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Analyse.md",
+                "file": "Skolerelevant/Medea - Tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Analyse.md"
+                "file": "Skolerelevant/Medea - Tekst.md"
               }
             }
           },
@@ -195,17 +194,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "58e151eb12899b67",
+  "active": "c9fc9b9045e9af7e",
   "lastOpenFiles": [
+    "Skolerelevant/Medea - Tekst.md",
+    "Tragisk Ironi.md",
+    "Untitled.md",
     "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Sagnet til Medea.md",
-    "Skolerelevant/Medea - Tekst.md",
     "Georg Brandes.md",
-    "Untitled.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Autoconverterede/Fysik - J15 - Gnidning.md",
     "Skolerelevant/At følge føreren.md",
-    "Skolerelevant/Holocaust.md",
-    "At følge føreren.md"
+    "Skolerelevant/Holocaust.md"
   ]
 }
