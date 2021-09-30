@@ -22,17 +22,20 @@ Jødehaddet eksisterede allerede i nazistpartiet i 1920'erne, men det var først
 - d. 22. august 1933: Forbud mod jøders brug af offentlige badeanstalter 5. marts 
 - 1934: Jødiske kunstnere kan ikke optræde på tyske teatre
 
+[[Adolf Hitler|Hitler]] vil have jøderne til at rejse ud.
 
 #### Anden fase (1935 - 1938)
 - Indføring af [[Nürberglovene]] (1935), der bla. fratog jøderne deres tyske statsborgerskab
+- Mange jøder vil gerne ud, men andre lande har lukket deres grænser
 
 #### Tredje fase (1938 - 1941)
 - Indledes af [[Krystalnatten]]
 - Skærpet forfølgelse
 - Begyndelse på deportation til [[Koncentrationslejrene]]
+- Jøder MÅ ikke rejse
 
 #### Sidste fase (1941 - 1945)
-- [[Masseudrydelsen]]
+- [[Holocaust|Masseudrydelsen]]
 
 ---
 
