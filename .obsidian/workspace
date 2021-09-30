@@ -4,15 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9c61548462034b8a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Bevægelse på Skråplan.md",
-            "mode": "preview"
+        "id": "e76a90a8fe0007df",
+        "type": "split",
+        "children": [
+          {
+            "id": "c9fc9b9045e9af7e",
+            "type": "leaf",
+            "dimension": 53.46153846153846,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Medea - Tekst.md",
+                "mode": "preview"
+              }
+            },
+            "group": "d6f34760813c8eaa"
+          },
+          {
+            "id": "097d20058b160676",
+            "type": "split",
+            "dimension": 46.53846153846154,
+            "children": [
+              {
+                "id": "969effddad51932a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skolerelevant/Medea - Tekst.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "d6f34760813c8eaa"
+              },
+              {
+                "id": "58e151eb12899b67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skolerelevant/Medea - Analyse.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Bevægelse på Skråplan.md",
+                "file": "Skolerelevant/Medea - Tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Bevægelse på Skråplan.md"
+                "file": "Skolerelevant/Medea - Tekst.md"
               }
             }
           },
@@ -133,8 +173,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9c61548462034b8a",
+  "active": "969effddad51932a",
   "lastOpenFiles": [
+    "Skolerelevant/Medea - Tekst.md",
+    "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Autoconverterede/Fysik - J15 - Gnidning.md",
     "Untitled.md",
@@ -142,8 +184,6 @@
     "Skolerelevant/Holocaust.md",
     "At følge føreren.md",
     "Skolerelevant/Jødeforfølgelse.md",
-    "Skolerelevant/Krystalnatten.md",
-    "Media/Det_tredie_Rige.pdf",
-    "En tysk skolepiges syn på jøderne.md"
+    "Skolerelevant/Krystalnatten.md"
   ]
 }

@@ -25,11 +25,6 @@ _Otto Foss_
   
 
 ---
-*Side 8*
-
-```ad-example # Admonition type. See below for a list of available types.
-title:                  ##### Personerne
-collapse:               # Create a collapsible admonition.
 
 ## PERSONERNE
 
@@ -55,7 +50,6 @@ Tragedien er opført ved Dionysos-festen i foråret 431, som første del af en t
 
 Handlingen udspilles foran Iasons og Medeas hus i Korinth.
 
-```
 
 
 ---
@@ -399,7 +393,7 @@ når tiden er inde,
 
 <sub><sup>130</sup></sub> den vredladne daimon sit offer.
 
-PARADOS
+# PARODOS
 
 _(koret kommer ind, best__ående af to halvkor på 12 kvinder hver, og en korf__ører)_
 
@@ -451,9 +445,7 @@ udfri mig nådigt
 
 fra et liv jeg afskyer og hader!
 
-KOR
-
-Strofe
+<label class="ob-comment" title="" style=""> KOR <input type="checkbox"> <span style=""> Sympati med Medea, men har en mere passiv tilgang til problemet: man må finde sig i hvad der sker </span></label>
 
 _(lyriske rytmer, anapaster fremtr__ædende)_
 
@@ -481,7 +473,7 @@ Bid smerten i dig!
 
 Og spar dine tårer for Iasons svig!
 
-MEDEA _(indefra)_
+==MEDEA== _(indefra)_
 
 <sub><sup>160</sup></sub> Du vældige Themis,
 
@@ -551,7 +543,7 @@ på dem derinde.
 
 Hendes harme er uden grænser og mål.
 
-AMMEN
+==AMMEN==
 
 Nu vel, jeg forsøger, omend mine ord
 
@@ -571,7 +563,7 @@ og som stirrer med glødende blikke mod den
 
 der med smigrende ord vil sig nærme.
 
-<sub><sup>190</sup></sub> Med urette priser man digternes kløgt
+<sub><sup>190</sup></sub> <label class="ob-comment" title="" style=""> Med urette priser man digternes kløgt <input type="checkbox"> <span style=""> Hun forstår ikke at folk ser op til myter om slag og heltegerninger (kritik af hele den Græske kultur!) </span></label>
 
 fra fortidens dage, og kalder dem viise.
 
@@ -581,7 +573,7 @@ og forgyldte måltidets glæder med sang,
 
 og kildrede gæsternes øren.
 
-Men sorger og modgang og livets besvær
+<label class="ob-comment" title="" style=""> Men sorger og modgang og livets besvær <input type="checkbox"> <span style=""> Dette er hvad men skal skrive om i stedet ("problemer skal sættes under debat" - [[]])</span></label>
 
 <sub><sup>195</sup></sub> som truer med død og husets ruin,
 
@@ -595,7 +587,7 @@ musik som den højeste vinding.
 
 <sub><sup>200</sup></sub> Men når bordene bugner, og glæden får lyd**,**
 
-hvortil da den sang?
+<label class="ob-comment" title="" style=""> hvortil da den sang? <input type="checkbox"> <span style=""> Hvorfor synge når man allerede er glad? </span></label>
 
 For gæsterne selv bringer livsglæden med
 
