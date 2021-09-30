@@ -652,7 +652,9 @@ Især en gæst må te sig efter skik
 
 og brug. Nå, heller ikke finder jeg
 
-den borger god, som <label class="ob-comment" title="" style=""> kror <input type="checkbox"> <span style=""> Comment </span></label> sig uden grund.
+den borger god, som <label class="ob-comment" title="" style=""> kror <input type="checkbox"> <span style=""> puste sig op</span></label> sig uden grund.
+
+==**hun taler om sig selv og hendes skæbne**==
 
 <sub><sup>225</sup></sub> Mig selv har skæbnen truffet dybt i brystet,
 
@@ -663,6 +665,8 @@ tiltrækning mer. Jeg ønsker kun at dø.
 For han på hvem jeg bygged' helt _og_ fuldt,
 
 min mand, har vist sig som den værste pjalt.
+
+**==Kvindernes undertrykkelse (kvinden er underlagt manden) - Patreakalsk samfund==**
 
 <sub><sup>230</sup></sub> Af alle skabninger med liv og ånd
 
@@ -716,13 +720,15 @@ bag hjemmets vægge, medens manden må
 
 med spyd i hånd gå fjenden kækt imøde - -
 
-<sub><sup>250</sup></sub> åh snak! Nej, heller stå bag skjold tre gange,
+<sub><sup>250</sup></sub> åh snak! ==Nej, heller stå bag skjold tre gange,==
 
-end blot en enkelt gang at føde børn.
+==end blot en enkelt gang at føde børn.==
 
-Og eet endnu: den stilling _du_ indtar
 
-i byen her, og _min_ - hvor vidt forskellig!
+
+Og eet endnu: den stilling <label class="ob-comment" title="" style=""> _du_ <input type="checkbox"> <span style=""> Kvinderne i Korinth </span></label> indtar
+
+i byen her, og _min_ - <label class="ob-comment" title="" style=""> hvor vidt forskellig <input type="checkbox"> <span style=""> De er forskellige fordi at [[#Medea]] dobbelt ramt: [[#Iason]] har forladt hende og hun er fremmet i Korinth </span></label>!
 
 Her har du stad og fædrehjem! du har
 
@@ -738,6 +744,8 @@ Og ingen moder - broder - slægtning har jeg
 
 at søge havn hos under livets storme.
 
+**==Ønske om hævn - beder kvinderne om at tie stille==**
+
 Nu ber jeg jer om dette ene, kvinder:
 
 <sub><sup>260</sup></sub> hvis der på nogen vis frembyder sig
@@ -746,7 +754,7 @@ en gunstig lejlighed til hævn, så jeg
 
 kan gi' ham mønt for mønt hvad han fortjener,
 
-så ti! En kvinde er et frygtsomt væsen,
+så ==ti!== En kvinde er et frygtsomt væsen,
 
 og ikke skabt til blink af spyd og stål.
 
@@ -754,7 +762,7 @@ og ikke skabt til blink af spyd og stål.
 
 ==er intet rovdyr morderisk som hun.==
 
-KOR
+<label class="ob-comment" title="" style=""> KOR <input type="checkbox"> <span style=""> Medea har overtalt kvinderne fra at finde sig i sin skæbne, til at ville tie stille om Medeas planer </span></label>
 
 Det vil jeg. Du er blevet krænket blodigt,
 

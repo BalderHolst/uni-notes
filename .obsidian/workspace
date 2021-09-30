@@ -15,6 +15,7 @@
               {
                 "id": "c9fc9b9045e9af7e",
                 "type": "leaf",
+                "dimension": 54.74254742547425,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -27,6 +28,7 @@
               {
                 "id": "9874a6dfac307edf",
                 "type": "leaf",
+                "dimension": 45.25745257452575,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -46,6 +48,7 @@
               {
                 "id": "969effddad51932a",
                 "type": "leaf",
+                "dimension": 54.268292682926834,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -58,10 +61,11 @@
               {
                 "id": "58e151eb12899b67",
                 "type": "leaf",
+                "dimension": 45.73170731707317,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Skolerelevant/Sagnet til Medea.md",
+                    "file": "Skolerelevant/Medea - Analyse.md",
                     "mode": "preview"
                   }
                 }
@@ -135,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
+                "file": "Skolerelevant/Medea - Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md"
+                "file": "Skolerelevant/Medea - Analyse.md"
               }
             }
           },
@@ -191,11 +195,11 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "969effddad51932a",
+  "active": "58e151eb12899b67",
   "lastOpenFiles": [
-    "Skolerelevant/Medea - Tekst.md",
-    "Skolerelevant/Sagnet til Medea.md",
     "Skolerelevant/Medea - Analyse.md",
+    "Skolerelevant/Sagnet til Medea.md",
+    "Skolerelevant/Medea - Tekst.md",
     "Georg Brandes.md",
     "Untitled.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
