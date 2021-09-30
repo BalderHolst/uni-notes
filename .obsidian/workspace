@@ -7,8 +7,11 @@
         "id": "9c61548462034b8a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Trigonomitri.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trigonomitri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trigonomitri.md"
+              }
             }
           },
           {
@@ -128,6 +134,7 @@
   },
   "active": "9c61548462034b8a",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/At følge føreren.md",
     "Skolerelevant/Holocaust.md",
     "At følge føreren.md",
@@ -136,7 +143,6 @@
     "Media/Det_tredie_Rige.pdf",
     "En tysk skolepiges syn på jøderne.md",
     "Skolerelevant/Anden Verdenskrig.md",
-    "Skolerelevant/Det_tredie_Rige.md",
-    "H. C. Andersen.md"
+    "Skolerelevant/Det_tredie_Rige.md"
   ]
 }
