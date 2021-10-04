@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "eff831f0431a0356",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Differentialligninger.md",
-            "mode": "source"
-          }
-        },
-        "group": "6a6916c17cf52dde"
-      },
-      {
         "id": "9716f077c1acad01",
         "type": "leaf",
         "state": {
@@ -24,8 +12,7 @@
             "file": "Skolerelevant/Differentialligninger.md",
             "mode": "preview"
           }
-        },
-        "group": "6a6916c17cf52dde"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#personer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -146,17 +133,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "eff831f0431a0356",
+  "active": "9716f077c1acad01",
   "lastOpenFiles": [
     "Skolerelevant/Differentialligninger.md",
+    "Autoconverterede/Matematik - Regneregler diffenciering af funktioner.md",
+    "Autoconverterede/Matematik - Mundtlig årsprøve 2x MA 2021.md",
+    "Autoconverterede/Matematik - Mundtlig årsprøve - Matematik - ala Kamille.md",
+    "Skolerelevant/Differntialregning Regneregler.md",
+    "Skolerelevant/Differntialregning.md",
     "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Medea - Tekst.md",
     "Tragisk Ironi.md",
-    "Untitled.md",
-    "Skolerelevant/Sagnet til Medea.md",
-    "Georg Brandes.md",
-    "Skolerelevant/Bevægelse på Skråplan.md",
-    "Autoconverterede/Fysik - J15 - Gnidning.md",
-    "Skolerelevant/At følge føreren.md"
+    "Untitled.md"
   ]
 }

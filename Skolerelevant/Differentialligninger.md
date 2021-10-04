@@ -2,7 +2,7 @@
 # Differentialligninger
 Har altid en funktion som løsning.
 
-En ligning der indeholder en afledt funktion
+En ligning der indeholder en [[Differntialregning|afledt funktion]]
 
 ---
 ### Løsningsformlen (eksponentielle funktioner)
