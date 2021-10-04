@@ -5,7 +5,7 @@ Har altid en funktion som løsning.
 En ligning der indeholder en afledt funktion
 
 ---
-### Løsningsformlen
+### Løsningsformlen (eksponentielle funktioner)
 
 $$y' = k \cdot y \arrows f(x)=C \cdot e^{k \cdot x}$$
 
@@ -15,7 +15,7 @@ $y'$ er ligefrem proportional med $y$.
 
 ##### $k$-værdien
 
-$k$ er en konstant, og kan derfor ikke indeholde $x$.
+$k$ er en konstant, og kan derfor ikke indeholde $x$. Den har altid enheden $\frac{1}{[\text{tidsenhed}]}$.
 
 $$\frac{y'}{y} = k$$
 
@@ -24,7 +24,7 @@ Dette er den relative væksthastighed. Viser hvor stor væksthastigheden er i fo
 **Eks.**
 Smittemodel : $s(t)$
 
-$$\frac{s'(3)}{s(3)} = 0.25 \arrows \frac{s'(x)}{s(x)} = 0.25$$
+$$\frac{s'(3)}{s(3)} = 0.25 \arrows \frac{s'(t)}{s(t)} = 0.25$$
 
 hver person smitter $0.25$ personer.
 
