@@ -600,7 +600,7 @@ _(g__år ind i huset)_
 
 <label class="ob-comment" title="" style=""> KOR <input type="checkbox"> <span style=""> Medea drager mod Hellas </span></label>
 
-Epode
+## Epode 1
 
 Skærende skrig,
 
@@ -4217,7 +4217,7 @@ Koret består af korinthiske kvinder, der udtaler deres medfølelse med Medea.
 
 ###### C.
 
-<sub><sup>214-409</sup></sub> _F__ørste epeisodion_
+<sub><sup>214-409</sup></sub> _Første epeisodion_
 
 Epeisodion betyder _indskud_ mellem to korsange, d.v.s. afsnit i dialogform, ofte dog med lange enetaler (monologer), men altid henvendt til en anden person eller til koret (i modsætning til prologen).
 
@@ -4231,7 +4231,7 @@ Koret (d.v.s. korføreren) kan deltage i dialogen, men da altid på talevers - h
 
 ###### D.
 
-<sub><sup>410-445</sup></sub> _F__ørste stasimon_
+<sub><sup>410-445</sup></sub> _Første stasimon_
 
 _Stasimon_ ("ståsang") kaldes alle korsange efter parodos. En regulær korsang med to dobbeltstrofer, der handler om kvindens stilling i almindelighed og Medeas i særdeleshed.
 

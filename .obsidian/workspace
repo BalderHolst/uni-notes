@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f0bbf3f966c30d2a",
+        "id": "e0ce480758bbf740",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Medea - Tekst.md",
+            "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
+                "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md"
+                "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md"
               }
             }
           },
@@ -132,17 +133,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "f0bbf3f966c30d2a",
+  "active": "e0ce480758bbf740",
   "lastOpenFiles": [
-    "Skolerelevant/Medea - Tekst.md",
+    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
     "Foibos.md",
+    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.pdf",
+    "Skolerelevant/Medea - Tekst.md",
     "^^side 18.md",
     "Skolerelevant/Hukommelsen.md",
     "Skolerelevant/Forskningsnyt - Falske erindringer.md",
     "Skolerelevant/Falske erindringer.md",
     "Media/Formelsamling.pdf",
-    "Skolerelevant/Differentialregning Regneregler.md",
-    "Skolerelevant/Differntialregning Regneregler.md",
-    "Skolerelevant/Differntialregning.md"
+    "Skolerelevant/Differentialregning Regneregler.md"
   ]
 }
