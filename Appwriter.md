@@ -1,3 +1,5 @@
 # Complaints
-- tager lang til at starte op
-- Skal bruge internetforbindelse hele tiden
+- [ ] tager lang til at starte op
+- [ ] Skal bruge internetforbindelse hele tiden
+
+- [ ] Flimren
