@@ -7,7 +7,26 @@ En ligning der indeholder en afledt funktion
 ---
 ### Løsningsformlen
 
-$$y' = k \cdot y \s \Leftrightarrow \s f(x)=C \cdot e^{k \cdot x}$$
+$$y' = k \cdot y \arrows f(x)=C \cdot e^{k \cdot x}$$
+
+Løsningerne til differentialligningen vil altid være [[Eksponentielle Funktioner]].
+
+$y'$ er ligefrem proportional med $y$. 
+
+##### $k$-værdien
+
+$k$ er en konstant, og kan derfor ikke indeholde $x$.
+
+$$\frac{y'}{y} = k$$
+
+Dette er den relative væksthastighed. Viser hvor stor væksthastigheden er i forhold til 
+
+**Eks.**
+Smittemodel : $s(t)$
+
+$$\frac{s'(3)}{s(3)} = 0.25 \arrows \frac{s'(x)}{s(x)} = 0.25$$
+
+hver person smitter $0.25$ personer.
 
 ---
 

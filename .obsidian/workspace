@@ -4,77 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e76a90a8fe0007df",
-        "type": "split",
-        "children": [
-          {
-            "id": "b6c9546bf74e0bf0",
-            "type": "split",
-            "dimension": 54.929577464788736,
-            "children": [
-              {
-                "id": "c9fc9b9045e9af7e",
-                "type": "leaf",
-                "dimension": 54.74254742547425,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Tekst.md",
-                    "mode": "preview"
-                  }
-                },
-                "group": "d6f34760813c8eaa"
-              },
-              {
-                "id": "9874a6dfac307edf",
-                "type": "leaf",
-                "dimension": 45.25745257452575,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Tekst.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "097d20058b160676",
-            "type": "split",
-            "dimension": 45.07042253521127,
-            "children": [
-              {
-                "id": "969effddad51932a",
-                "type": "leaf",
-                "dimension": 54.87804878048781,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Tekst.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "d6f34760813c8eaa"
-              },
-              {
-                "id": "58e151eb12899b67",
-                "type": "leaf",
-                "dimension": 45.12195121951219,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Analyse.md",
-                    "mode": "preview"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "eff831f0431a0356",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "6a6916c17cf52dde"
+      },
+      {
+        "id": "9716f077c1acad01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6a6916c17cf52dde"
       }
     ],
     "direction": "vertical"
@@ -122,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -138,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
+                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md"
+                "file": "Skolerelevant/Differentialligninger.md"
               }
             }
           },
@@ -194,17 +146,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "c9fc9b9045e9af7e",
+  "active": "eff831f0431a0356",
   "lastOpenFiles": [
+    "Skolerelevant/Differentialligninger.md",
+    "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Medea - Tekst.md",
     "Tragisk Ironi.md",
     "Untitled.md",
-    "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Sagnet til Medea.md",
     "Georg Brandes.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Autoconverterede/Fysik - J15 - Gnidning.md",
-    "Skolerelevant/At følge føreren.md",
-    "Skolerelevant/Holocaust.md"
+    "Skolerelevant/At følge føreren.md"
   ]
 }
