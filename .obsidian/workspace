@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Differentialligninger.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Differentialregning Regneregler.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "919c619cf83a8ffb",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Media/Formelsamling.pdf"
           }
         }
       }
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Differentialligninger.md",
+                "file": "Skolerelevant/Differentialregning Regneregler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Differentialligninger.md"
+                "file": "Skolerelevant/Differentialregning Regneregler.md"
               }
             }
           },
@@ -135,15 +146,15 @@
   },
   "active": "9716f077c1acad01",
   "lastOpenFiles": [
+    "Skolerelevant/Differentialregning Regneregler.md",
+    "Media/Formelsamling.pdf",
+    "Skolerelevant/Differntialregning Regneregler.md",
+    "Skolerelevant/Differntialregning.md",
     "Skolerelevant/Differentialligninger.md",
+    "Untitled.md",
     "Autoconverterede/Matematik - Regneregler diffenciering af funktioner.md",
     "Autoconverterede/Matematik - Mundtlig årsprøve 2x MA 2021.md",
     "Autoconverterede/Matematik - Mundtlig årsprøve - Matematik - ala Kamille.md",
-    "Skolerelevant/Differntialregning Regneregler.md",
-    "Skolerelevant/Differntialregning.md",
-    "Skolerelevant/Medea - Analyse.md",
-    "Skolerelevant/Medea - Tekst.md",
-    "Tragisk Ironi.md",
-    "Untitled.md"
+    "Skolerelevant/Medea - Analyse.md"
   ]
 }

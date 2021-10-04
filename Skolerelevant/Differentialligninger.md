@@ -2,7 +2,7 @@
 # Differentialligninger
 Har altid en funktion som løsning.
 
-En ligning der indeholder en [[Differntialregning|afledt funktion]]
+En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
 ### Løsningsformlen (eksponentielle funktioner)
@@ -90,7 +90,7 @@ $$f(x) = 20 \cdot e^{-0.12x}$$
 
 ### At Gøre Prøve
 
-At gøre prøve er en måde at teste om en bestemt funktion, er en løsning for en given differentialligning. Eksempelvis kunne man spørge: er $f(x) = 2e^{16x}$ en gyldig løsning på differentialligningen $y' = 16y$? Det første skridt mod at besvare spørgsmålet er at [[Differntialregning|differentiere]] funktionen.
+At gøre prøve er en måde at teste om en bestemt funktion, er en løsning for en given differentialligning. Eksempelvis kunne man spørge: er $f(x) = 2e^{16x}$ en gyldig løsning på differentialligningen $y' = 16y$? Det første skridt mod at besvare spørgsmålet er at [[Differentialregning|differentiere]] funktionen.
 
 
 $$f'(x)=32e^{16x}$$

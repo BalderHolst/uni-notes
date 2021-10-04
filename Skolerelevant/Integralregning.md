@@ -1,5 +1,5 @@
 # Integralregning
-I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differntialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
+I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
 $$\int f(x) \,dx = F(x) + k$$
 

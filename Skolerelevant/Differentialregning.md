@@ -21,11 +21,15 @@ Dette er nu funktionen for [[Sekanter og Tangenter#Tangent|tangenten]] i $x_0$'s
 
 Hvis man skal differentiere den funktion i hånden på denne måde kan man bruge [[Tretrinsraketten]].
 
+
+
 ---
 
 ### Se også
-- [[Differntialregning Regneregler]]
+- [[Differentialligninger]]
+- [[Differentialregning Regneregler]]
 - [[Integralregning]]
+- [Differentialkvotient og differenskvotient](https://www.webmatematik.dk/lektioner/matematik-b/differentialregning/differenskvotient-og-differentialkvotient)
 
 ---
 ##### Tags

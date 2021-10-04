@@ -24,11 +24,11 @@ f'(x) = k \cdot y ,\s y \ne 0 \\
 \frac{1}{y} \cdot f'(x) = k ,\s y \ne 0
 \end{align*}$$
 
-Det næste vi skal, er at bemærke et eksempel på en anden [[Differntialregning|differentieret]] ligning. Nemlig ligningen $f(x) = ln(g(x))$. Det gør vi med regnereglen for differentiering af sammensatte funktioner.
+Det næste vi skal, er at bemærke et eksempel på en anden [[Differentialregning|differentieret]] ligning. Nemlig ligningen $f(x) = ln(g(x))$. Det gør vi med regnereglen for differentiering af sammensatte funktioner.
 
 $$f(g(x))' = f'(g(x)) \cdot g'(x) ,\s y \ne 0$$
 
-Med den regneregel [[Differntialregning|differentierer]] vi vores funktion.
+Med den regneregel [[Differentialregning|differentierer]] vi vores funktion.
 
 $$ln(g(x))' = \frac{1}{g(x)} \cdot g'(x) ,\s y \ne 0$$
 

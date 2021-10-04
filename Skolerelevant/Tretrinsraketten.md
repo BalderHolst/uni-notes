@@ -1,5 +1,5 @@
 # Tretrinsraketten
-En metode til at differentiere funktioner i hånden der gør brug af [[Differntialregning#Definition af et Differentiale|definitionen af en differentieret funktion]].
+En metode til at differentiere funktioner i hånden der gør brug af [[Differentialregning#Definition af et Differentiale|definitionen af en differentieret funktion]].
 
 I dette eksempel vil jeg bruge funktionen $f(x) = 3x^2$
 
@@ -30,7 +30,7 @@ $$f'(x) = 6x$$
 
 ---
 
-Dette er en ret besværlig måde at regne differentialer ud i hånden, man kan med fordel bruge [[Differntialregning Regneregler|regneregler]] i stedet.
+Dette er en ret besværlig måde at regne differentialer ud i hånden, man kan med fordel bruge [[Differentialregning Regneregler|regneregler]] i stedet.
 
 
 

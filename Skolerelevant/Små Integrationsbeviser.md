@@ -48,10 +48,10 @@ done
 
 ### Bevis for udtrykket $\int f(x)+g(x)\,dx = \int f(x)\,dx + \int g(x)\,dx$
 
-Vi [[Differntialregning|differentierer]] det HELE
+Vi [[Differentialregning|differentierer]] det HELE
 $$(\int f(x)+g(x)\,dx)' = (\int f(x)\,dx + \int g(x)\,dx)'$$
 
-Bruger [[Differntialregning Regneregler]]
+Bruger [[Differentialregning Regneregler]]
 
 $$(\int f(x)+g(x)\,dx)' = (\int f(x)\,dx)' + (\int g(x)\,dx)'$$
 
