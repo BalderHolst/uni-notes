@@ -37,6 +37,7 @@ _Otto Foss_
  ##### Iason
 
 ##### Medea
+- Medea udlægger sine planer på side 18
 
 ##### Ammen Medeas barnepige
 
@@ -625,11 +626,10 @@ fra de salte havbølgers brusen.
 
 
 ---
-*Side 18*
+*Side 18* ^1ab502
 
 <label class="ob-comment" title="" style=""> MEDEA _(kommer udfra huset)_ <input type="checkbox"> <span style=""> Hun er taler om mandens magt og at hun er uening med den måde samfundet fungerer på. Hun har *morderiske* planer </span></label>
 
-****
 
 Jeg kommer til jer, kvinder af Korinth,
 
@@ -1167,9 +1167,7 @@ fra mørket hæves til herligt ry,
 
 *Modstrofe I*
 
-Om kvindernes troløshed toned i fordums
-
-dage
+Om kvindernes troløshed toned i fordums dage
 
 så mangt et kvad. Den tid er forbi.
 
@@ -1257,13 +1255,11 @@ Trods alt vil jeg ej svigte gamle venner,
 
 at ikke du i nød og trang skal flakke
 
-omkring med dine børn; en landsforvist
+omkring med ==dine børn==; en landsforvist
 
 må døje meget ondt. Som nu du ser
 
-gengælder jeg dit had med venlighed.
-
-  
+gengælder jeg dit had med venlighed.  
 
 
 ---
