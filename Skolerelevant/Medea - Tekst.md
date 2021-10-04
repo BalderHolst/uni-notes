@@ -31,7 +31,8 @@ _Otto Foss_
 ##### Kreon
 - konge i Korinth
 
-Aigeus konge i Athen
+##### Aigeus 
+- konge i Athen
 
  ##### Iason
 
@@ -39,13 +40,13 @@ Aigeus konge i Athen
 
 ##### Ammen Medeas barnepige
 
-Husslaven "pædagogen" for Medeas børn
+##### Husslaven "pædagogen" for Medeas børn
 
-Iasons og Medeas to sønner
+##### Iasons og Medeas to sønner
 
-Et sendebud
+##### Et sendebud
 
-Kor af korinthiske kvinder
+##### Kor af korinthiske kvinder
 
 Tragedien er opført ved Dionysos-festen i foråret 431, som første del af en trilogi. Den fik kun tredieprisen, i konkurrence med Euforion, Aischylos' søn, og Sofokles.
 
@@ -1148,11 +1149,9 @@ men fødte mestre i at øve ondt.
 
 KOR
 
-Strofe I
+*Strofe I*
 
-<sub><sup>410</sup></sub> Nu strømmer de hellige **floder tilbage** mod
-
-kilden,
+<sub><sup>410</sup></sub> Nu strømmer de hellige **floder tilbage** mod kilden,
 
 og verdens orden er søndret og brudt.
 
@@ -1166,7 +1165,7 @@ fra mørket hæves til herligt ry,
 
 <sub><sup>420</sup></sub> og forsmædelig snak om vort køn skal forstumme.
 
-Modstrofe I
+*Modstrofe I*
 
 Om kvindernes troløshed toned i fordums
 
@@ -1186,7 +1185,7 @@ Mænd har vel laster i mængde, så vel som
 
 kvinder.
 
-Strofe II
+*Strofe II*
 
 På Argo gik du ombord og sejled med ham
 
@@ -1208,7 +1207,7 @@ bitter i sind. Som hjælpeløs flygtning
 ---
 *Side 27*
 
-Mod strofe II
+*Mod strofe II*
 
 Al ærefrygt for eder er svundet, og Blu
 

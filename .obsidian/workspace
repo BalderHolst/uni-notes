@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9716f077c1acad01",
+        "id": "ae37591285f36724",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Differentialregning Regneregler.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "919c619cf83a8ffb",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Media/Formelsamling.pdf"
+            "file": "Skolerelevant/Hukommelsen.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Differentialregning Regneregler.md",
+                "file": "Skolerelevant/Hukommelsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Differentialregning Regneregler.md"
+                "file": "Skolerelevant/Hukommelsen.md"
               }
             }
           },
@@ -144,17 +134,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9716f077c1acad01",
+  "active": "ae37591285f36724",
   "lastOpenFiles": [
-    "Skolerelevant/Differentialregning Regneregler.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Skolerelevant/Forskningsnyt - Falske erindringer.md",
+    "Skolerelevant/Falske erindringer.md",
+    "Skolerelevant/Medea - Tekst.md",
     "Media/Formelsamling.pdf",
+    "Skolerelevant/Differentialregning Regneregler.md",
     "Skolerelevant/Differntialregning Regneregler.md",
     "Skolerelevant/Differntialregning.md",
     "Skolerelevant/Differentialligninger.md",
-    "Untitled.md",
-    "Autoconverterede/Matematik - Regneregler diffenciering af funktioner.md",
-    "Autoconverterede/Matematik - Mundtlig årsprøve 2x MA 2021.md",
-    "Autoconverterede/Matematik - Mundtlig årsprøve - Matematik - ala Kamille.md",
-    "Skolerelevant/Medea - Analyse.md"
+    "Untitled.md"
   ]
 }
