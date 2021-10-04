@@ -1147,7 +1147,7 @@ men fødte mestre i at øve ondt.
 ---
 *Side 26*
 
-KOR
+KOR - udvider perspektivet - dette er et grundproblem i HELE Grækenland.
 
 *Strofe I - kaos - Manden nedgøres - Kvinder hæves*
 
@@ -1183,7 +1183,7 @@ Vi havde ellers i bitre ord
 
 kvinder.
 
-*Strofe II - Det var blind kærlighed der ledte Medea til den situation hun er i*
+*Strofe II - Det var blind kærlighed der ledte Medea til den situation hun er i - besktivelse (det er ukke hendes skyld)*
 
 På Argo gik du ombord og sejled med ham
 
@@ -1205,9 +1205,9 @@ bitter i sind. Som hjælpeløs flygtning
 ---
 *Side 27*
 
-*Mod strofe II*
+*Mod strofe II - stadig ikke Medeas skyld*
 
-Al ærefrygt for eder er svundet, og Blu
+Al ærefrygt for eder er svundet, og <label class="ob-comment" title="" style=""> Blu <input type="checkbox"> <span style=""> skam </span></label>
 
 findes ej mer i Hellas. Til himlen den fløj.
 
@@ -1221,7 +1221,7 @@ hersker i dag en fyrstelig kvinde,
 
 <sub><sup>445</sup></sub> som røved dig ære og seng, Medea.
 
-IASON _(ind)_
+IASON _(ind)_ - vred på Medea 
 
 Her ses på ny hvad jeg erfared før:
 
@@ -1257,9 +1257,9 @@ at ikke du i nød og trang skal flakke
 
 omkring med ==dine børn==; en landsforvist
 
-må døje meget ondt. Som nu du ser
+må døje meget ondt. ==Som nu du ser==
 
-gengælder jeg dit had med venlighed.  
+==gengælder jeg dit had med venlighed.==  
 
 
 ---
@@ -1327,7 +1327,7 @@ der råder andre guder nu end før?
 
 at gammel sæd og vedtægt intet gælder?
 
-<sub><sup>495</sup></sub> Eet ved du: imod mig er du meneder.
+<sub><sup>495</sup></sub> Eet ved du: imod mig er du <label class="ob-comment" title="" style=""> meneder <input type="checkbox"> <span style=""> En der sværver falsk </span></label>.
 
 Se denne hånd som du så tit har trykket,
 
@@ -1365,7 +1365,7 @@ men dem jeg ikke burde krænke, har jeg,
 
 tjenstvillig for dit vel, nu fået til fjender.
 
-Men lykkelig som få, det har du gjort **mig,**
+Men lykkelig som få, det har du gjort mig,
 
 <sub><sup>510</sup></sub> ja vist, misundt af Hellas' kvinder, du
 
@@ -1389,7 +1389,7 @@ Gid der var stempel på hvert menneske sat,
 
 så straks man kendte hædersmand fra skurk.
 
-KOR
+KOR - konklusion
 
 <sub><sup>520</sup></sub> Når gammelt venskab brat slår om til fjendskab,
 
@@ -1409,7 +1409,7 @@ Som en erfaren skipper må jeg søge
 
 at bringe mig med rebet sejl i læ
 
-<sub><sup>525</sup></sub> for stormen fra din hadske talestrøm.
+<sub><sup>525</sup></sub> for stormen fra din **hadske talestrøm**.
 
 Din godhed for mig hæver du til himlen,
 
@@ -1429,7 +1429,7 @@ Nå, derpå vil jeg ikke indgå nøje,
 
 ej heller skal du utak ha' til løn.
 
-<sub><sup>535</sup></sub> Men eet er klart: du vandt langt mer end tabte,
+<sub><sup>535</sup></sub> ==Men eet er klart: du vandt langt mer end tabte==,
 
 den gang du frelste mig: du kom til Hellas,
 
@@ -1445,7 +1445,7 @@ ved verdens rand, hvem aned da dit navn?
 
 Selv ønsker jeg mig ikke gyldne skatte,
 
-ej heller Orfeus overgå i sang,
+ej heller [[Orfeus]] overgå i sang,
 
 hvis ryet ikke gav min skæbne glans.
 
@@ -1489,7 +1489,7 @@ Nej, hovedsagen for mig, det var velstand,
 
 <sub><sup>560</sup></sub> og ikke trange kår; for jeg har lært
 
-at fattig mand blir venneløs og ensom.
+==at fattig mand blir venneløs og ensom.==
 
 Og mine sønner ville jeg opdrage
 
@@ -1507,9 +1507,9 @@ så gerne de to brødrekuld forenet
 
 til fælles gavn. Var det en dårlig plan?
 
-Vist ej, men jalousi forblinder dig.
+Vist ej, men ==jalousi forblinder dig==.
 
-Så vidt er det nu kommet med jer kvinder,
+Så vidt er det nu kommet med **jer kvinder**,
 
 at holdes ægtesengen blot i agt,
 
@@ -1521,13 +1521,13 @@ Og når man vil jert vel på bedste måde,
 
 betragter I det kun med fjendtlig mistro.
 
-Åh, kunne man få børn på anden vis
+==Åh, kunne man få børn på anden vis==
 
-og kvindekønnet ej var til - så ville
+==og kvindekønnet ej var til== - så ville
 
 <sub><sup>575</sup></sub> vi men'sker være alle plager kvit.
 
-KOR
+KOR - *Iason er stadig ond*
 
 Din tale, Iason, har du føjet meget snildt.
 
@@ -1623,7 +1623,7 @@ mens jeg, for alting blottet, tvinges bort.
 
 IASON
 
-<sub><sup>605</sup></sub> Du valgte selv. Giv ingen anden skylden.
+<sub><sup>605</sup></sub> ==Du valgte selv.== Giv ingen anden skylden.
 
 MEDEA
 
@@ -1689,9 +1689,9 @@ Gå blot. Du savner din nygifte brud
 
 og finder tiden lang før I kan genses.
 
-<sub><sup>625</sup></sub> Hold bryllup! Med guds hjælp skal "bryllup" blive
+<sub><sup>625</sup></sub> Hold bryllup! ==Med guds hjælp skal "bryllup" blive==
 
-et sådant ord at du det må forbande!
+==et sådant ord at du det må forbande!==
 
 KOR
 

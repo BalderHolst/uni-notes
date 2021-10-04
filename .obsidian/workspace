@@ -4,44 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0d451f5c5f90fac6",
-        "type": "split",
-        "children": [
-          {
-            "id": "f0bbf3f966c30d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
-                "mode": "preview"
-              }
-            },
-            "group": "86b004ea71430113"
-          },
-          {
-            "id": "ae37591285f36724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
-                "mode": "source"
-              }
-            },
-            "group": "86b004ea71430113"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "80016f2b918dfa99",
+        "id": "f0bbf3f966c30d2a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Medea - Tekst.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -87,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
