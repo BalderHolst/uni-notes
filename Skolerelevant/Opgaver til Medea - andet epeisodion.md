@@ -2,9 +2,34 @@
 
 #### Vers 446-464
  1) Hvad er indholdet i Jasons replik? Hvordan iscenesætter han sig? Er han troværdig? Hvorfor? 
+ 	   
+
+       Han mener at han har gjort det rigtige for hans slægt og ført rigdom og magt til børnene. Han mener, at Medea har redt sin egen seng, da hun har truet kongen. Han siger, han stadig gerne vil vise nåde. 
+    
+       Han iscenesætter sig som nådig, kløgtig og vis. 
+
+       Nej han ser det fra hans eget perspektiv og vil tale sit forræderi til gode.
+
+
 
 ####  Vers 465-519
  2) Hvad er indholdet af Medeas svar til Jason? Hvordan iscenesætter hun sig selv? Er hun troværdig? Hvorfor? 3) Rammer Medeas kritik plet? Hvor ligger forfattersympatien? 
+
+
+    Hun hader ham stadig og kalder ham forræder.
+    
+
+    Hun siger endda, at hun har frelst ham som Hellerne.
+
+    Hun kalder endda sig selv lidt naiv (483), da hun villigt fulgte ham.
+
+    Hun spørger Iason om hun skal tage hjem til dem hun svigtede.
+
+    Hun iscenesætter sig selv i et positivt syn. Og gør sig selv lidt til offer over for Iason, da han har manipuleret hende eller misbrugt hende. Hun er ikke rigtig troværdig, da hun selvfølgelig prøver at sætte sig selv i et bedre lys. 
+    
+    Da hun gør det, er hun nødt til at fordreje nogle af de her episoder sin fordel, så hun på en måde bliver lidt manipulerende. Hun vil vil selvfølgelig gerne have, at hun bliver set som den gode.
+    
+
 
 #### Vers 522-575
  4) (frivilligt) Vers 522-525 : Hvilken metaforik bruger Jason? Hvad er effekten? 5) 

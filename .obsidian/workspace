@@ -7,8 +7,11 @@
         "id": "e0ce480758bbf740",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Opgaver til Medea - andet epeisodion.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Opgaver til Medea - andet epeisodion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Opgaver til Medea - andet epeisodion.md"
+              }
             }
           },
           {
@@ -128,6 +134,7 @@
   },
   "active": "e0ce480758bbf740",
   "lastOpenFiles": [
+    "Skolerelevant/Opgaver til Medea - andet epeisodion.md",
     "Skolerelevant/Sigmund Freud.md",
     "Trigonomitri.md",
     "Georg Brandes.md",
@@ -136,7 +143,6 @@
     "Skolerelevant/Medea - Tekst.md",
     "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.pdf",
     "^^side 18.md",
-    "Skolerelevant/Hukommelsen.md",
-    "Skolerelevant/Forskningsnyt - Falske erindringer.md"
+    "Skolerelevant/Hukommelsen.md"
   ]
 }
