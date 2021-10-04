@@ -11,6 +11,20 @@
  5) (frivilligt) Vers 526-534 : Jason forklarer Medeas handlinger metafysisk. Oversæt det til moderne dansk? Hvad er effekten? 
  6) Vers 535-541 : Hvad er indholdet her? 
  7) Vers 542-567 : Hvad er Jasons argumentation her? 
+       Det er ikke fordi Iason hader Medea at han gifter sig på ny, men fordi det er en klog financiel
+	   beslutning. 
+	   
+	   >"Slet ikke, som du skinsygt tror, fordi
+	   >jeg væmmes ved din seng, og nu er fyr
+	   >og flamme for min nye brud. Slet ikke!"
+	   >\-555
+
+       >"Nej, hovedsagen for mig, det var velstand
+       >og ikke trange kår; for jeg har lært
+       >at fattig mand blir venneløs og ensom."
+       >\-559
+	   
+ 
  8) Vers 569-575 : Hvilket kvindesyn kommer til udtryk her? Er det også forfatterens (Euripides’) syn? Argumentér! 
 
 #### Vers 579-626

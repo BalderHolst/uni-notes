@@ -7,11 +7,8 @@
         "id": "e0ce480758bbf740",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -60,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,15 +128,15 @@
   },
   "active": "e0ce480758bbf740",
   "lastOpenFiles": [
-    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
+    "Skolerelevant/Sigmund Freud.md",
+    "Trigonomitri.md",
+    "Georg Brandes.md",
     "Foibos.md",
-    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.pdf",
+    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md",
     "Skolerelevant/Medea - Tekst.md",
+    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.pdf",
     "^^side 18.md",
     "Skolerelevant/Hukommelsen.md",
-    "Skolerelevant/Forskningsnyt - Falske erindringer.md",
-    "Skolerelevant/Falske erindringer.md",
-    "Media/Formelsamling.pdf",
-    "Skolerelevant/Differentialregning Regneregler.md"
+    "Skolerelevant/Forskningsnyt - Falske erindringer.md"
   ]
 }
