@@ -1149,7 +1149,7 @@ men fødte mestre i at øve ondt.
 
 KOR
 
-*Strofe I*
+*Strofe I - kaos - Manden nedgøres - Kvinder hæves*
 
 <sub><sup>410</sup></sub> Nu strømmer de hellige **floder tilbage** mod kilden,
 
@@ -1167,11 +1167,11 @@ fra mørket hæves til herligt ry,
 
 *Modstrofe I*
 
-Om kvindernes troløshed toned i fordums dage
+<label class="ob-comment" title="" style=""> Om kvindernes troløshed toned i fordums dage <input type="checkbox"> <span style=""> Der er mange digte om kvinders toløshed fra gamle dage </span></label>
 
 så mangt et kvad. Den tid er forbi.
 
-Foibos var ikke kvinderne huld,
+[[Foibos]] var ikke kvinderne huld,
 
 nægted os sangens gyldne gave.
 
@@ -1179,11 +1179,11 @@ Vi havde ellers i bitre ord
 
 <sub><sup>425</sup></sub> anklaget mændenes falskhed og svig.
 
-Mænd har vel laster i mængde, så vel som
+<label class="ob-comment" title="" style=""> Mænd har vel laster i mængde, så vel som <input type="checkbox"> <span style=""> Mænd har vel lige så mange problemer som kvinderne </span></label>
 
 kvinder.
 
-*Strofe II*
+*Strofe II - Det var blind kærlighed der ledte Medea til den situation hun er i*
 
 På Argo gik du ombord og sejled med ham
 
@@ -1211,7 +1211,7 @@ Al ærefrygt for eder er svundet, og Blu
 
 findes ej mer i Hellas. Til himlen den fløj.
 
-Du har ikke far, ikke hjemlig havn
+<label class="ob-comment" title="" style=""> Du <input type="checkbox"> <span style=""> [[#Medea]] </span></label> har ikke far, ikke hjemlig havn
 
 <sub><sup>440</sup></sub> hvor du kan kaste dit anker i læ.
 
