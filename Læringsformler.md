@@ -12,5 +12,8 @@ Eks. Hvis man får god feedback i skolen siger man nok mere.
 -> belønning
 -> Trial and error
 
+##### Imitation
+Vi lærer ved at observere og efterligne andre
+
 ---
 #psykologi 

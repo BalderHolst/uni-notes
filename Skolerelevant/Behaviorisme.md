@@ -5,9 +5,9 @@ Måden vi [[Læringsformler|lærer]] på
 
 ### Klassisk betingning
 
-	- Ubetinget, medfødt reaktion
+- Ubetinget, medfødt reaktion
 
-	- Betinget, lærd reaktion
+- Betinget, lærd reaktion
 
 ### Operant betingning [[Skinner]]
 Hvis en reaktion giver *beløning*, så gør vi det mere.
@@ -18,6 +18,11 @@ Hvis en reaktion giver *beløning*, så gør vi det mere.
 efterlignine
 
 ### [[Ivan Pavlov]]s forsøg
+1. Hunde lærer at deres skål betyder mad - *Betinget* reaktion
+
+2. Mad får hunden til at savle - *Ubetinget* reaktion
+
+3. Skålen for hunden til at savle - en kombination af de to 
 
 ---
 #psykologi 
