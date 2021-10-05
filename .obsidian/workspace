@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1325cc7bcc7fe79c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Læringsformler.md",
-            "mode": "source"
+        "id": "99394588a3fc7b0b",
+        "type": "split",
+        "children": [
+          {
+            "id": "99b1743cf87711cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Læringsformler.md",
+                "mode": "preview"
+              }
+            },
+            "group": "8f8441e2a7c9d440"
+          },
+          {
+            "id": "1325cc7bcc7fe79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Læringsformler.md",
+                "mode": "source"
+              }
+            },
+            "group": "8f8441e2a7c9d440"
           }
-        },
-        "group": "3284091b5ce2f703"
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "95db445eaa2c65fb",
@@ -25,18 +44,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "b8a3fd6863308257",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Læringsformler.md",
-            "mode": "source"
-          }
-        },
-        "group": "3284091b5ce2f703"
       }
     ],
     "direction": "vertical"
@@ -160,6 +167,7 @@
   "active": "95db445eaa2c65fb",
   "lastOpenFiles": [
     "Skolerelevant/Behaviorisme.md",
+    "Læringsformler.md",
     "Untitled 1.md",
     "Sproglig og Tavs Viden.md",
     "Skolerelevant/Hukommelsen.md",
@@ -167,7 +175,6 @@
     "Opmærksomhed.md",
     "Appwriter.md",
     "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
-    "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md",
-    "Den fødende kvinde Piserajik.md"
+    "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md"
   ]
 }
