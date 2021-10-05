@@ -17,16 +17,20 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ---
 
 ### Generelt
-
 - [ ] Indstillinger!
 - [ ] Flimren
 	- [ ] lås den så den ikke forsvinder
 	- [ ] indstillinger for blåt highlight
 	- [ ] indstillinger til antal af forslag
+- [ ] Placer startup i et hjøne, helt det modsatte at hjørnet med [luk program] x'et. Så man kan lave noget mens det åbner.
+
+##### Oplæsning
 - [ ] Læs ikke linjetal op
+- [ ] Læs ikke formler op, eventuelt indsæt linje: "formel" i stedet.
 
 ##### Brugervenlighed
 - [ ] **shortcuts** (genveje)!!!!!!
+	- [ ] Eksisterende shortcuts clasher med navigationsgenveje som 
 	- [ ] Justerbare (brugerdefinerede) shortcuts
 	- [ ] skjul/vis forslag
 	- [ ] tændsluk fagordbog
