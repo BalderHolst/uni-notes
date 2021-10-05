@@ -105,7 +105,8 @@ Der kommer en masse følelser i spil der gør sproget mere romantiserende
 
 Vejret viser også Mortens humør
 
-
+##### Slutningen
+Man har "blomsterperioden" og efter bliver man blæst væk. Ting sker som de nu gør. 
 
 ---
 
