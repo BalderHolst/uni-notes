@@ -3,7 +3,6 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 
 Der burde være mere fokus på at udvikle den *generelle* version
 
-
 ---
 
 ### Online
