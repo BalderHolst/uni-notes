@@ -14,7 +14,7 @@
 
 Folk med depression har tendens til at tænke særligt negativt om deres omverden og dem selv i den. Man tænker i dag at der er to grunde til disse tanker:
 - dysfunktionelle basale antagelser = antagelser om hvordan man *burde* leve. -  Startes ofte af måden har omgået dem før i tiden.
-- dysfunktionelle skemaer = *"jeg er ikke værd at elske"*
+- dysfunktionelle [[Kognitive Skemaer|skemaer]] = *"jeg er ikke værd at elske"*
 
 ![[Udvikling-af-dysfunktionelle-skemaer.jpg|380]]
 
@@ -70,7 +70,7 @@ Dette er med til at give klienten e overblik over de grunde der er til at de har
 
 *registrering* = klienten noterer hyppige problemer i hverdagen, mens han/hun gennemgår oplevelser
 
-Ved kognitiv omstrukturering bliver klienten klar over deres skemaer og antagelser og kan derfor vælge af afprøve nye måder at reagere på deres omgivelser.
+Ved kognitiv omstrukturering bliver klienten klar over deres [[Kognitive Skemaer|skemaer]] og antagelser og kan derfor vælge af afprøve nye måder at reagere på deres omgivelser.
 
 Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem til svaret på deres lidelser. (samme metode som [[Sokrates]] brugte i sin filosofi)
 

@@ -16,4 +16,16 @@ Eks. Hvis man får god feedback i skolen siger man nok mere.
 Vi lærer ved at observere og efterligne andre
 
 ---
+
+## Den kognitive Læringsteori
+
+### Asimilation 
+Vi indarbejder nye ting i vores [[Kognitive Skemaer]] ([[Top-Down]])
+
+
+### Akumulation
+vi reviderer vores [[Kognitive Skemaer|skemaer]]
+
+
+---
 #psykologi 

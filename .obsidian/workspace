@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "694a8cc6d1aeae26",
+        "id": "a7ad6336e1c10121",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asimilation og Akumulation.md",
+            "file": "Appwriter.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "151b3cf601bfb060",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Hukommelsen.md",
-            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kognitive skemaer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asimilation og Akumulation.md",
+                "file": "Appwriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asimilation og Akumulation.md"
+                "file": "Appwriter.md"
               }
             }
           },
@@ -144,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "694a8cc6d1aeae26",
+  "active": "a7ad6336e1c10121",
   "lastOpenFiles": [
-    "Asimilation og Akumulation.md",
-    "Skolerelevant/Hukommelsen.md",
-    "Untitled 1.md",
-    "Skolerelevant/Behaviorisme.md",
-    "Bandura Bobo Doll Experiment.md",
-    "Læringsformler.md",
-    "Sproglig og Tavs Viden.md",
-    "Viden.md",
+    "Appwriter.md",
+    "Skolerelevant/Læringsformler.md",
+    "Skolerelevant/Perception.md",
+    "Friederich Nietzsche.md",
+    "Untitled.md",
+    "Den fødende kvinde Piserajik.md",
+    "Rosenthal Effekten.md",
     "Opmærksomhed.md",
-    "Appwriter.md"
+    "Perception.md",
+    "Sproglig og Tavs Viden.md"
   ]
 }

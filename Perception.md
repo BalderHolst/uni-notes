@@ -1,5 +1,0 @@
-# Perception
-
-
----
-#psykologi 

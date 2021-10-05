@@ -1,5 +1,5 @@
 # Kritik
-I det hele taget ville det være bedst hvis den lokale version af programmet kunne mest muligt, da det er **irriterende at skulle skifte** til et andet program, der ikke virker heeelt på samme måde, hvis man vil skrive i word. Det gør brugeren usikker på hvad programmet der bruges rent faktisk kan. 
+I det hele taget ville det være bedst hvis den lokale version af programmet kunne mest muligt, da det er **irriterende at skulle skifte** til et andet program, der ikke virker heeelt på samme måde, hvis man vil skrive i word. Det gør brugeren usikker på hvad programmet der bruges, rent faktisk kan. 
 
 Der burde være mere fokus på at udvikle den *generelle* version
 
