@@ -4,26 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "141ba244c43b06a2",
+        "id": "1325cc7bcc7fe79c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Appwriter.md",
+            "file": "Læringsformler.md",
+            "mode": "source"
+          }
+        },
+        "group": "3284091b5ce2f703"
+      },
+      {
+        "id": "95db445eaa2c65fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Behaviorisme.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "a935f3065f68281d",
+        "id": "b8a3fd6863308257",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+            "file": "Læringsformler.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "3284091b5ce2f703"
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+                "file": "Skolerelevant/Behaviorisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md"
+                "file": "Skolerelevant/Behaviorisme.md"
               }
             }
           },
@@ -144,17 +157,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "a935f3065f68281d",
+  "active": "95db445eaa2c65fb",
   "lastOpenFiles": [
-    "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
-    "Appwriter.md",
-    "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md",
-    "Den fødende kvinde Piserajik.md",
-    "Skolerelevant/Begreber i Relegion.md",
+    "Skolerelevant/Behaviorisme.md",
     "Untitled 1.md",
-    "Skolerelevant/Når mennesker fødes.md",
-    "Friederich Nietzsche.md",
-    "Untitled.md",
-    "Skolerelevant/Bevægelse på Skråplan.md"
+    "Sproglig og Tavs Viden.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Viden.md",
+    "Opmærksomhed.md",
+    "Appwriter.md",
+    "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+    "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md",
+    "Den fødende kvinde Piserajik.md"
   ]
 }
