@@ -73,7 +73,7 @@ Søren ville ønske at Morten har hans søn.
 ##### Sproget ændres
 - Da [[#Frøken Sofie]] kysser [[#Morten]]
 - Da kan opdager af kysset var en fejltagelse
-- Da han ser [[]] igen efter 32 år
+- Da han ser [[#Frøken Sofie]] igen efter 32 år
 
 
 ##### Ulykker sker ofte den 13.
@@ -88,6 +88,12 @@ Søren ville ønske at Morten har hans søn.
 - [[#47 Thiele 13 April 1713]]
 - [[#51 Thiele 3 Maj 1713]]
 - [[#53 Sverige 13 Juni 1713]]
+
+##### Mettes Fremhævede dage
+
+[[#16 Thiele 11 Januar 1710]]
+[[#24 Thiele 23 Januar 1711]]
+[[#68 Thiele 12 Januar 1751]]
 
 ---
 

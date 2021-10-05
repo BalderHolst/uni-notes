@@ -14,6 +14,7 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ### Offline
 
 - [ ] Skal bruge internetforbindelse hele tiden, gør hele oplevelsen langsom og sløv.
+- [ ] Diktering!!!
 
 ---
 
@@ -30,6 +31,7 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ##### Oplæsning
 - [ ] Læs ikke linjetal op
 - [ ] Læs ikke formler op, eventuelt indsæt linje: "formel" i stedet.
+- [ ] Orddelingsbindestreje
 
 
 
@@ -49,3 +51,6 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 - [ ] Deling/udgivelse af fagorbøger
 - [ ] Vis at jeg søger efter fagordbøger
 - [ ] Fagordbøger i offlineversion, måske fra **ordbogsfil**?
+
+##### OCR
+- [ ] hvis man ocr-scanner en pdf, skal man først ind og ocr-behandle og derefter åbne den IGEN, denne gang den ocr behandlede 

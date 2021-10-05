@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+            "file": "Appwriter.md",
             "mode": "source"
           }
-        },
-        "group": "60aaa64760005cd5"
-      },
-      {
-        "id": "9dff3e019cfa05bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
-            "mode": "preview"
-          }
-        },
-        "group": "60aaa64760005cd5"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
+                "file": "Appwriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md"
+                "file": "Appwriter.md"
               }
             }
           },
@@ -148,9 +135,9 @@
   },
   "active": "141ba244c43b06a2",
   "lastOpenFiles": [
+    "Appwriter.md",
     "Skolerelevant/Analyse af Brudstykker af Landsbydegnens Dagbog.md",
     "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md",
-    "Appwriter.md",
     "Den fødende kvinde Piserajik.md",
     "Skolerelevant/Begreber i Relegion.md",
     "Untitled 1.md",
