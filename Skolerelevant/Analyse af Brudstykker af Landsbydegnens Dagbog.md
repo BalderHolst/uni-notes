@@ -42,7 +42,7 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 #### Opmærksomhed fra Søren
 Søren ville ønske at Morten har hans søn.
 
->Til mig talte han Latin; jeg hørte engang, at han sagde som for sig selv: »vellem hunc esse filium meum!« Det var mig han meente.
+>"Til mig talte han Latin; jeg hørte engang, at han sagde som for sig selv: »vellem hunc esse filium meum!« Det var mig han meente."
 >\- Fölum die St. Martini
 
 #### Opmærksomhed fra Sofie
@@ -69,6 +69,12 @@ Søren ville ønske at Morten har hans søn.
 5. Ude = Krigen & Falster & <label class="ob-comment" title="" style=""> Corselidse <input type="checkbox"> <span style=""> han TROR han er hjemme indtil han ser sofie, hvorefter han opdager af han ikke har hjemme der </span></label>
 6. Hjem' = Thiele
 7. Hjem = Føulum 
+
+##### Sproget ændres
+- Da [[#Frøken Sofie]] kysser [[#Morten]]
+- Da kan opdager af kysset var en fejltagelse
+- Da han ser [[]] igen efter 32 år
+
 
 ##### Ulykker sker ofte den 13.
 - [[#15 Thiele 13 December 1709]]

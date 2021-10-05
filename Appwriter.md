@@ -25,9 +25,13 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 	- [ ] indstillinger til antal af forslag
 - [ ] Placer startup i et hjøne, helt det modsatte at hjørnet med [luk program] x'et. Så man kan lave noget mens det åbner.
 
+
+
 ##### Oplæsning
 - [ ] Læs ikke linjetal op
 - [ ] Læs ikke formler op, eventuelt indsæt linje: "formel" i stedet.
+
+
 
 ##### Brugervenlighed
 - [ ] **shortcuts** (genveje)!!!!!!
@@ -37,7 +41,9 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 	- [ ] tændsluk fagordbog
 	- [ ] Start/stop oplæsning
 	- [ ] Ordbogsopslag
+	- [ ] Online - opslag i sprogordbog i kombination med at gemme UI'et
 - [ ] kan appen bo nede til højre? i stedet for at være i vejen hvorend man placerer den. Dette ville gøre det muligt at holde programmet åbent, også mens man bruger andre programmer.
+
 
 ##### Fagbøger
 - [ ] Deling/udgivelse af fagorbøger
