@@ -5,7 +5,7 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ---
 
 ### Online
-- [ ] Hold mig logget ind
+- [ ] Hold mig logget ind, fjern popup
 - [ ] ELSKER ordbogen
 
 ---

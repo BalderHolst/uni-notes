@@ -12,7 +12,20 @@
             "file": "Appwriter.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "88f7bc71591b1ddb"
+      },
+      {
+        "id": "141ba244c43b06a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Appwriter.md",
+            "mode": "preview"
+          }
+        },
+        "group": "88f7bc71591b1ddb"
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "db861b0bfb27bc29",
+  "active": "141ba244c43b06a2",
   "lastOpenFiles": [
     "Appwriter.md",
     "Den fødende kvinde Piserajik.md",
