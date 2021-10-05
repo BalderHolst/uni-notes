@@ -4,12 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ce480758bbf740",
+        "id": "be529c80160c328b",
+        "type": "split",
+        "children": [
+          {
+            "id": "f122d79e59303399",
+            "type": "leaf",
+            "dimension": 68.02721088435374,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Når mennesker fødes.md",
+                "mode": "preview"
+              }
+            },
+            "group": "7547fe9536bbd0ab"
+          },
+          {
+            "id": "6c089091c1bbd792",
+            "type": "leaf",
+            "dimension": 31.97278911564626,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Når mennesker fødes.md",
+                "mode": "source"
+              }
+            },
+            "group": "7547fe9536bbd0ab"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "e6eded69d3316a9c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Bevægelse på Skråplan.md",
+            "file": "Skolerelevant/Begreber i Relegion.md",
             "mode": "preview"
           }
         }
@@ -60,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Bevægelse på Skråplan.md",
+                "file": "Skolerelevant/Begreber i Relegion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Bevægelse på Skråplan.md"
+                "file": "Skolerelevant/Begreber i Relegion.md"
               }
             }
           },
@@ -132,17 +166,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "e0ce480758bbf740",
+  "active": "e6eded69d3316a9c",
   "lastOpenFiles": [
+    "Skolerelevant/Begreber i Relegion.md",
+    "Skolerelevant/Når mennesker fødes.md",
+    "Untitled.md",
+    "Appwriter.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Skolerelevant/Rapportskabelon Fysik.md",
-    "Appwriter.md",
-    "Untitled.md",
     "Skolerelevant/Opgaver til Medea - andet epeisodion.md",
     "Skolerelevant/Sigmund Freud.md",
     "Trigonomitri.md",
-    "Georg Brandes.md",
-    "Foibos.md",
-    "Opgaver til Medea - andet epeisodion - vers 446-626 - Otto Foss' oversættelse.md"
+    "Georg Brandes.md"
   ]
 }
