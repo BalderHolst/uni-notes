@@ -10,6 +10,7 @@ Blev originalt udgivet i en avis, hvor et par vers kom med i hvert tryk.
 ### Personer
 ##### Morten
 - Hovedperson
+- Upålidelig fortæller
 - Jamre
 - Drømmer om at være præst, men ender som degn, hvilket bare er en funktion. Vi kan også se i [[Erasmus Montanus]] at degne generelt ikke behøver at være specielt lærte.
 - Kan ikke blive bisp, da han ikke per præstesøn som [[#Jens]]
@@ -94,7 +95,7 @@ Søren ville ønske at Morten har hans søn.
 - [[#16 Thiele 11 Januar 1710]] - godt vejr - uerkendt forelskelse
 	- Morten er mentalt 8, da han ikke tør røre ved hende.
 - [[#24 Thiele 23 Januar 1711]] - Dårligt vejr - erkendt forelskele
-	- Morten romantiserer kaneturen under måneskind, selvom kaneturen var om dagen. 
+	- Morten romantiserer kaneturen under måneskind, selvom kaneturen var om dagen. Altså er Morten er upålidelig fortæller
 - [[#68 Thiele 12 Januar 1751]] - Mørkt
 
 
