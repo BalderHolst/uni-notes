@@ -57,4 +57,4 @@ Der burde være mere fokus på at udvikle den *generelle* version
 ##### OCR
 - [ ] hvis man ocr-scanner en pdf, skal man først ind og ocr-behandle og derefter åbne den IGEN, denne gang den ocr behandlede  (Mette)
 - [ ] OCR strækker siden (Isabella)
-- [ ] At OCR-behandlingen 
+- [ ] At OCR-behandlingen kan rotere pdf sider? (nok svært at implementere)
