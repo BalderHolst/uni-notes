@@ -53,4 +53,6 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 - [ ] Fagordbøger i offlineversion, måske fra **ordbogsfil**?
 
 ##### OCR
-- [ ] hvis man ocr-scanner en pdf, skal man først ind og ocr-behandle og derefter åbne den IGEN, denne gang den ocr behandlede 
+- [ ] hvis man ocr-scanner en pdf, skal man først ind og ocr-behandle og derefter åbne den IGEN, denne gang den ocr behandlede  (Mette)
+- [ ] OCR strækker siden (Isabella)
+- [ ] At OCR-behandlingen 

@@ -91,9 +91,20 @@ Søren ville ønske at Morten har hans søn.
 
 ##### Mettes Fremhævede dage
 
-[[#16 Thiele 11 Januar 1710]]
-[[#24 Thiele 23 Januar 1711]]
-[[#68 Thiele 12 Januar 1751]]
+- [[#16 Thiele 11 Januar 1710]] - godt vejr - uerkendt forelskelse
+	- Morten er mentalt 8, da han ikke tør røre ved hende.
+- [[#24 Thiele 23 Januar 1711]] - Dårligt vejr - erkendt forelskele
+	- Morten romantiserer kaneturen under måneskind, selvom kaneturen var om dagen. 
+- [[#68 Thiele 12 Januar 1751]] - Mørkt
+
+
+Her bliver sproget mere beskrivende og smukt.
+
+Der kommer en masse følelser i spil der gør sproget mere romantiserende
+
+Vejret viser også Mortens humør
+
+
 
 ---
 
