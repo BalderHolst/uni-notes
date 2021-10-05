@@ -5,8 +5,9 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ---
 
 ### Online
-- [ ] Hold mig logget ind, fjern popup
-- [ ] ELSKER ordbogen
+- [ ] Hold mig logget ind efter at have lukket browseren.
+- [ ] Fjern popup efter login, for gamle brugere.
+- [ ] ELSKER ordbogen (den man kan slå ord direkte op i)
 
 ---
 
@@ -17,7 +18,7 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 ---
 
 ### Generelt
-- [ ] Indstillinger!
+- [ ] Indstillinger! - en række lokale indstillinger til shortcuts og andre generelle preferencer.
 - [ ] Flimren
 	- [ ] lås den så den ikke forsvinder
 	- [ ] indstillinger for blåt highlight
@@ -36,8 +37,9 @@ I det hele taget ville det være bedst hvis den lokale version af programmet kun
 	- [ ] tændsluk fagordbog
 	- [ ] Start/stop oplæsning
 	- [ ] Ordbogsopslag
-- [ ] kan appen bo nede til højre? i stedet for at være i vejen hvorend man placerer den.
+- [ ] kan appen bo nede til højre? i stedet for at være i vejen hvorend man placerer den. Dette ville gøre det muligt at holde programmet åbent, også mens man bruger andre programmer.
 
 ##### Fagbøger
 - [ ] Deling/udgivelse af fagorbøger
+- [ ] Vis at jeg søger efter fagordbøger
 - [ ] Fagordbøger i offlineversion, måske fra **ordbogsfil**?
