@@ -263,7 +263,7 @@ Ved renæssancen kommer mennesket i centrum, hvor det i middelalderen var Gud. M
 
 
 > "Gud er død!"
-> \-Friederich Nietzsche (1883).
+> \-[[Friederich Nietzsche]] (1883).
 
 Hermed mente han, at Gud ikke længere har den betydning i samfundet, som han havde tidligere. Det er nu klart for ethvert fornuftigt menneske, at alle tanker om ’gud’ er et menneskeligt fantasifoster. Sekulariseringen er en realitet!
 

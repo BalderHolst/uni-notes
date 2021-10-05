@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "be529c80160c328b",
+        "id": "e6d7a2a2860ed9bb",
         "type": "split",
         "children": [
           {
-            "id": "f122d79e59303399",
+            "id": "db861b0bfb27bc29",
             "type": "leaf",
-            "dimension": 68.02721088435374,
+            "dimension": 64.1399416909621,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skolerelevant/Når mennesker fødes.md",
+                "file": "Den fødende kvinde Piserajik.md",
                 "mode": "preview"
               }
             },
-            "group": "7547fe9536bbd0ab"
+            "group": "2d89fd90e292a359"
           },
           {
             "id": "6c089091c1bbd792",
             "type": "leaf",
-            "dimension": 31.97278911564626,
+            "dimension": 35.8600583090379,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skolerelevant/Når mennesker fødes.md",
+                "file": "Den fødende kvinde Piserajik.md",
                 "mode": "source"
               }
             },
-            "group": "7547fe9536bbd0ab"
+            "group": "2d89fd90e292a359"
           }
         ],
         "direction": "horizontal"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md",
+                "file": "Den fødende kvinde Piserajik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md"
+                "file": "Den fødende kvinde Piserajik.md"
               }
             }
           },
@@ -166,17 +166,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "e6eded69d3316a9c",
+  "active": "db861b0bfb27bc29",
   "lastOpenFiles": [
-    "Skolerelevant/Begreber i Relegion.md",
+    "Den fødende kvinde Piserajik.md",
+    "Untitled 1.md",
     "Skolerelevant/Når mennesker fødes.md",
+    "Skolerelevant/Begreber i Relegion.md",
+    "Friederich Nietzsche.md",
     "Untitled.md",
     "Appwriter.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Skolerelevant/Rapportskabelon Fysik.md",
-    "Skolerelevant/Opgaver til Medea - andet epeisodion.md",
-    "Skolerelevant/Sigmund Freud.md",
-    "Trigonomitri.md",
-    "Georg Brandes.md"
+    "Skolerelevant/Opgaver til Medea - andet epeisodion.md"
   ]
 }
