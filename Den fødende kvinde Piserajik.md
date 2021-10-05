@@ -6,11 +6,8 @@ Den 31.
 Da jeg i dag kom over til hytten, lå der udenfor på sneen flere sammenrullede skindpakker og nogle kasser osv. Det så ud, som om folkene ville til at flytte. På mit forbavsede spørgsmål om, hvad det skulle betyde, svarede en ung fyr mig, at det var, fordi Piserajik skulle til at føde. Skønt jeg vel efter denne meddelelse burde være gået hjem igen, gik jeg dog ind i det håb mulig at kunne få et eller andet ejendommeligt at se. Alle brikse-skindene i hele huset var fjernede på nær nogle enkelte, som Piserajik selv stod og pakkede sammen!
 
 „Hvordan hun havde det?“
-
 „Jo, det gjorde noget ondt."
-
 „Hvorfor de således holdt udflytning?"
-
 „Fordi således bar de sig alle ad her."
 
 Da Piserajik havde fået de sidste skind ud, satte hun sig på hug på de bare brikse-brædder og <label class="ob-comment" title="" style=""> løste sit hår helt op <input type="checkbox"> <span style=""> Kvinden kan nu lukke al sin mana ud, uden fare for mændene. </span></label>. Så kom en ældre kvinde hen og satte sig lige overfor hende i samme stilling og løste også sit hår. Denne hårudslagning skulle fremme fødslen! Denne sidste dame skulle tillige være <label class="ob-comment" title="" style=""> fødselshjælperske <input type="checkbox"> <span style=""> Inuitterne kunne måske tro at det var derfor at babyen døde. fra [[Når mennesker fødes]] </span></label>.

@@ -4,46 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d7a2a2860ed9bb",
-        "type": "split",
-        "children": [
-          {
-            "id": "db861b0bfb27bc29",
-            "type": "leaf",
-            "dimension": 64.1399416909621,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Den fødende kvinde Piserajik.md",
-                "mode": "preview"
-              }
-            },
-            "group": "2d89fd90e292a359"
-          },
-          {
-            "id": "6c089091c1bbd792",
-            "type": "leaf",
-            "dimension": 35.8600583090379,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Den fødende kvinde Piserajik.md",
-                "mode": "source"
-              }
-            },
-            "group": "2d89fd90e292a359"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "e6eded69d3316a9c",
+        "id": "db861b0bfb27bc29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Begreber i Relegion.md",
-            "mode": "preview"
+            "file": "Appwriter.md",
+            "mode": "source"
           }
         }
       }
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Den fødende kvinde Piserajik.md",
+                "file": "Appwriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Den fødende kvinde Piserajik.md"
+                "file": "Appwriter.md"
               }
             }
           },
@@ -168,13 +135,13 @@
   },
   "active": "db861b0bfb27bc29",
   "lastOpenFiles": [
+    "Appwriter.md",
     "Den fødende kvinde Piserajik.md",
+    "Skolerelevant/Begreber i Relegion.md",
     "Untitled 1.md",
     "Skolerelevant/Når mennesker fødes.md",
-    "Skolerelevant/Begreber i Relegion.md",
     "Friederich Nietzsche.md",
     "Untitled.md",
-    "Appwriter.md",
     "Skolerelevant/Bevægelse på Skråplan.md",
     "Skolerelevant/Rapportskabelon Fysik.md",
     "Skolerelevant/Opgaver til Medea - andet epeisodion.md"
