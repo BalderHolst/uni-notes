@@ -15,7 +15,9 @@ Der burde være mere fokus på at udvikle den *generelle* version
 ### Skrivebord (generelle)
 
 - [ ] Skal bruge internetforbindelse hele tiden, gør hele oplevelsen langsom og sløv.
-- [ ] Diktering!!!
+- [x] Diktering!!!
+
+
 
 ---
 
