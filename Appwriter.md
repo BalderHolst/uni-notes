@@ -25,7 +25,6 @@ Der burde være mere fokus på at udvikle den *generelle* version
 	- [ ] lås den så den ikke forsvinder
 	- [ ] indstillinger for blåt highlight
 	- [ ] indstillinger til antal af forslag
-- [ ] Placer startup i et hjøne, helt det modsatte at hjørnet med [luk program] x'et. Så man kan lave noget mens det åbner.
 
 
 
@@ -39,13 +38,15 @@ Der burde være mere fokus på at udvikle den *generelle* version
 ##### Brugervenlighed
 - [ ] **shortcuts** (genveje)!!!!!!
 	- [ ] Eksisterende shortcuts clasher med navigationsgenveje som 
-	- [ ] Justerbare (brugerdefinerede) shortcuts
+	- [ ] Justerbare (brugerdefinerede) shortcuts! (burde være forholdsvis nemt at programere)
 	- [ ] skjul/vis forslag
 	- [ ] tændsluk fagordbog
+	- [ ] Inkorboration af fagordbog i den normale ordbog
 	- [ ] Start/stop oplæsning
 	- [ ] Ordbogsopslag
 	- [ ] Online - opslag i sprogordbog i kombination med at gemme UI'et
 - [ ] kan appen bo nede til højre? i stedet for at være i vejen hvorend man placerer den. Dette ville gøre det muligt at holde programmet åbent, også mens man bruger andre programmer.
+- [ ] Placer startup i et hjøne, helt det modsatte at hjørnet med [luk program] x'et. Så man kan lave noget mens det åbner.
 
 
 ##### Fagbøger
