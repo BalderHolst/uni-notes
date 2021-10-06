@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Newtons Love.md",
+            "file": "Appwriter.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Newtons Love.md",
+                "file": "Appwriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Newtons Love.md"
+                "file": "Appwriter.md"
               }
             }
           },
@@ -136,12 +136,12 @@
   },
   "active": "a7ad6336e1c10121",
   "lastOpenFiles": [
+    "Appwriter.md",
     "Skolerelevant/Newtons Love.md",
     "Skolerelevant/Begreber i Relegion.md",
     "Skolerelevant/Sigmund Freud.md",
     "Skolerelevant/Psykoanalyse.md",
     "Skolerelevant/Omdrejningslegne.md",
-    "Appwriter.md",
     "Untitled.md",
     "Skolerelevant/Læringsformler.md",
     "Skolerelevant/Perception.md",
