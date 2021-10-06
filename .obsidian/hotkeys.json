@@ -43,5 +43,13 @@
       "key": "L"
     }
   ],
-  "periodic-notes:next-daily-note": []
+  "periodic-notes:next-daily-note": [],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
 }
