@@ -7,8 +7,11 @@
         "id": "d1ac5738c2b29153",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Appwriter.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Appwriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Appwriter.md"
+              }
             }
           },
           {
@@ -130,6 +136,7 @@
   },
   "active": "d1ac5738c2b29153",
   "lastOpenFiles": [
+    "Appwriter.md",
     "Skolerelevant/Differentialligninger.md",
     "Jævn Cirkelbevægelse.md",
     "Tyngdekraften.md",
@@ -138,7 +145,6 @@
     "Jævn Cirkelbevægelse.png",
     "Pasted image 20211007104426.png",
     "Untitled.md",
-    "Appwriter.md",
     "Skolerelevant/Medea - Tekst.md"
   ]
 }
