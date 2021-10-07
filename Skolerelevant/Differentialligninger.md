@@ -5,7 +5,7 @@ Har altid en funktion som løsning.
 En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
-## Løsningsformel 1 (eksponentielle funktioner)
+## Løsningsformel 1
 
 $$y' = k \cdot y \arrows f(x)=C \cdot e^{k \cdot x}$$
 
@@ -123,6 +123,10 @@ $$\lim\limits_{x \to \infty}(f(x)) =  \frac{b}{a}, \s 0<a$$
 $$\lim\limits_{x \to -\infty}(f(x)) =  \frac{b}{a}, \s a<0$$
 
 
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Bevis
+collapse:               # Create a collapsible admonition.
+
 #### Bevis
 **Fuldstændig løsning:** $f(x)=\frac{b}{a} + C \cdot e^{-ax}$
 
@@ -140,17 +144,31 @@ $$f'(x) = -a \left(f(x)-\frac{b}{a} \right)$$
 
 God ide
 
-$$g(x) = f(x) - \frac{b}{a}$$
+$$g(x) = f(x) - \frac{b}{a}, \s \text{der kan differentieres til } f'(x)$$
 
 Vi sætter $g(x)$ ind i stedet for $f(x) - \frac{b}{a}$
 
 $$g'(x) = -a \cdot g(x)$$
 
----
-Vi differentierer
+Hvis vi siger at $-a = k$, kan vi se at $g(x)$ er løsningen på differentialligningen $y'=k \cdot y$.
 
-$$g'(x) = \left(f(x) - \frac{b}{a}\right)'=f'(x)$$
+Den fuldstændige løsning på differentialligningen ([[#Løsningsformel 1]]) er $g(x) = C \cdot e^{-ax}$
+
+Vi vender tilbage til den gode ide
+
+$$g(x) = f(x) - \frac{b}{a}$$
+
+Nu kan vi erstatte det med løsningen for $g(x)$
+
+$$C \cdot e^{-ax} = f(x) - \frac{b}{a}$$
+
+vi isolerer $f(x)$
+
+$$f(x) = \frac{b}{a} + C \cdot e^{-ax}$$
+
+```
 
 ---
+
 #matematik 
 

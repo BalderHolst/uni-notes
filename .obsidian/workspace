@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "361f56254d40ad28",
+        "id": "d1ac5738c2b29153",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Differentialligninger.md",
-            "mode": "source"
-          }
-        },
-        "group": "c0f7469a44b75e13"
-      },
-      {
-        "id": "55873d95d7325017",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Differentialligninger.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c0f7469a44b75e13"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skolerelevant/Differentialligninger.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +128,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "361f56254d40ad28",
+  "active": "d1ac5738c2b29153",
   "lastOpenFiles": [
     "Skolerelevant/Differentialligninger.md",
     "Jævn Cirkelbevægelse.md",
