@@ -52,4 +52,24 @@ $$F_N \cdot sin(\alpha) + \mu \cdot F_N \cdot cos(\alpha) = F_{res}$$
 
 Vi kan nu sætte $F_N$ ind i formlen for $F_{res}$
 
-$$F_N \cdot sin(\alpha) + \mu \cdot F_N \cdot cos(\alpha) = F_{res}$$
+$$F_{res} =  \frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot m \cdot g$$
+
+vi ved at den resulterende kraft skal være lig [[Centripetalkraft|centripetalkraften]]
+
+$$F_{res} = m \cdot  \frac{v^2}{r} $$
+
+Derfor må dette være sandt for at bilen bliver på banen
+
+$$\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot m \cdot g \s \le \s m \cdot  \frac{v^2}{r}$$
+ 
+ Isolerer $v$...
+ 
+ $$\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot \bcancel{m} \cdot g \s \le \s \bcancel{m} \cdot  \frac{v^2}{r}$$
+ 
+ $$\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot g \cdot r \s \le \s v^2$$
+ 
+  $$\sqrt{\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot} \sqrt{g \cdot r} \s \le \s v$$
+  
+  Derfor må $v_{maks}$ kunne beskrives således
+
+$$v_{maks} = \sqrt{\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot} \sqrt{g \cdot r}$$
