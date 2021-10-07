@@ -1906,7 +1906,7 @@ Ja, han er viis, og kyndig just i sligt.
 
 AIGEUS
 
-- og våbenfælle af mig, tro som få.
+-og våbenfælle af mig, tro som få.
 
 MEDEA
 
@@ -2180,7 +2180,7 @@ Jeg ser, veninder, vejen åben
 
 for hævn på dem som hårdest stod imod mig.
 
-Nu viste sig den mand der redder mig
+==Nu viste sig den mand der redder mig==
 
 fra skibbrud, just da det så mørkest ud.
 
@@ -2188,7 +2188,7 @@ fra skibbrud, just da det så mørkest ud.
 
 så snart jeg er i Pallas' by og borg.
 
-Nu skal jeg lægge frem hvad jeg har udtænkt -
+==Nu skal jeg lægge frem hvad jeg har udtænkt -==
 
 men lysteligt at høre blir det ikke.
 
@@ -2212,7 +2212,7 @@ i fjendevold, her i Korinth, og udsat
 
 for hån, mishandling - nej, det er min agt
 
-ved svig og list at dræbe Iasons brud.
+ved svig og list at ==dræbe Iasons brud==.
 
 <sub><sup>785</sup></sub> For mine børn skal overbringe gaver:
 
@@ -2226,9 +2226,9 @@ en grufuld død. Så kraftig tryllesaft
 
 <sub><sup>790</sup></sub> bestryger jeg dem med. Alt nok herom.
 
-Men så - jeg gruer for det svære værk
+Men så - jeg <label class="ob-comment" title="" style=""> gruer <input type="checkbox"> <span style=""> Frygter for </span></label> for det svære værk
 
-jeg da skal øve: dræbe mine børn!
+jeg da skal øve: ==dræbe mine børn!==
 
 Og ingen jordisk magt kan frelse dem.
 

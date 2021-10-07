@@ -20,34 +20,16 @@
             "group": "05c7081559610e0f"
           },
           {
-            "id": "9f7832f36dd16278",
-            "type": "split",
-            "children": [
-              {
-                "id": "2f4775ab0fe90b50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Tekst.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "05c7081559610e0f"
-              },
-              {
-                "id": "5d12a33d53faed07",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skolerelevant/Medea - Tekst.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "2f4775ab0fe90b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Medea - Tekst.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            },
+            "group": "05c7081559610e0f"
           }
         ],
         "direction": "horizontal"
