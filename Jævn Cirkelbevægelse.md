@@ -22,7 +22,7 @@ Derfor må $v_{maks}$ kunne findes således:
 $$v_{maks} = \sqrt{\mu_s \cdot r \cdot g}$$
 
 ---
-### Bejsving med hældning
+### Vejsving med hældning
 ![[Pasted image 20211007104426.png]]
 
 Vi begynder med at opdele alle [[Vektorer|vektore]] i deres vandrette og lodrette komposanter.

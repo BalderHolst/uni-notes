@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3edebe21e6df7770",
+        "id": "0f1e1b59de26af90",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Jævn Cirkelbevægelse.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jævn Cirkelbevægelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jævn Cirkelbevægelse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +128,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "3edebe21e6df7770",
+  "active": "0f1e1b59de26af90",
   "lastOpenFiles": [
     "Jævn Cirkelbevægelse.md",
     "Tyngdekraften.md",
