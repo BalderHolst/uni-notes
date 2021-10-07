@@ -27,4 +27,18 @@ $$v_{maks} = \sqrt{\mu_s \cdot r \cdot g}$$
 
 Vi begynder med at opdele alle [[Vektorer|vektore]] i deres vandrette og lodrette komposanter.
 
-$$F_{N_x} = F_N \cdot sin(\alpha) \s \text{og} \s F_{N_x} = F_N \cdot sin(\alpha)$$
+$$F_{N_x} = F_N \cdot sin(\alpha) \s \text{og} \s F_{N_y} = F_N \cdot cos(\alpha)$$
+
+$$F_{\mu_x} = \mu \cdot F_N \cdot cos(\alpha) \s \text{og} \s F_{\mu_y} = \mu \cdot F_N \cdot sin(\alpha)$$
+
+Da den resulterende kraft skal pege mod midten af svinget, må krafterne i $y$-retningen gå ud med hinanden.
+
+$$F_g + F_{\mu_y} - F_{N_y} = 0$$
+
+Vi sætter variabler ind. ([[Tyngdekraften]])
+
+
+Og den resulterende kraft, må være resultanten af krafterne i $x$-retningen.
+
+$$F_{N_x}+= F_{\mu_x} = F_{res}$$
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jævn Cirkelbevægelse.md",
+            "file": "Tyngdekraften.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jævn Cirkelbevægelse.md",
+                "file": "Tyngdekraften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jævn Cirkelbevægelse.md"
+                "file": "Tyngdekraften.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "3edebe21e6df7770",
   "lastOpenFiles": [
+    "Tyngdekraften.md",
     "Jævn Cirkelbevægelse.md",
     "Centripetalkraft.md",
     "Untitled.md",
@@ -144,7 +145,6 @@
     "Afrodite.md",
     "Skolerelevant/Newtons Love.md",
     "Skolerelevant/Begreber i Relegion.md",
-    "Skolerelevant/Sigmund Freud.md",
-    "Skolerelevant/Psykoanalyse.md"
+    "Skolerelevant/Sigmund Freud.md"
   ]
 }
