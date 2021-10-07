@@ -5,7 +5,7 @@
 ## Kurvekørsel og Loop
 
 ### Vejsving uden hældning
-![[Pasted image 20211007102139.png]]
+![[Jævn Cirkelbevægelse 2.png]]
 
 Bilen accelereres mod midten af cirkelbuen. Derfor må den resulterende kraft peje ind mod midten.
 
@@ -23,7 +23,7 @@ $$v_{maks} = \sqrt{\mu_s \cdot r \cdot g}$$
 
 ---
 ### Vejsving med hældning
-![[Pasted image 20211007104426.png]]
+![[Jævn Cirkelbevægelse 1.png]]
 
 Vi begynder med at opdele alle [[Vektorer|vektore]] i deres vandrette og lodrette komposanter.
 
@@ -73,3 +73,6 @@ $$\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)
   Derfor må $v_{maks}$ kunne beskrives således
 
 $$v_{maks} = \sqrt{\frac{sin(\alpha) + \mu \cdot cos(\alpha)}{cos(\alpha) - \mu \cdot sin(\alpha)} \cdot} \sqrt{g \cdot r}$$
+
+---
+#fysik 

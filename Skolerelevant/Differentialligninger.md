@@ -5,7 +5,7 @@ Har altid en funktion som løsning.
 En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
-### Løsningsformlen (eksponentielle funktioner)
+## Løsningsformel 1 (eksponentielle funktioner)
 
 $$y' = k \cdot y \arrows f(x)=C \cdot e^{k \cdot x}$$
 
@@ -101,7 +101,6 @@ $$y = 16y  \s f'(x) = 16 \cdot f(x) \s 32e^{16x} = 16 \cdot 2e^{16x} \s 32e^{16x
 
 Her kan det ses at funktionen $f(x) = 2e^{16x}$ er en løsning på differencialligningen $y'=16y$, fordi at at vi ender med et sandt udtryk. På den måde kan man afgøre om en funktion er en løsning på en given differentialligning, ved at gøre prøve.
 
----
 
 ```ad-example # Admonition type. See below for a list of available types.
 title:                  Bevis
@@ -112,9 +111,45 @@ collapse:               # Create a collapsible admonition.
 ```
 
            
+---
+## Løsningsformel 2
+
+$$y'=b-a \cdot y \Arrows f(x) =  \frac{b}{a} + C  \cdot e^{-ax}, \s a \neq0$$
+
+$f(x)$ vil altid gå mod $y$-værdien $\frac{b}{a}$, retningen er forekellig alt efter forteget på $a$.
+
+$$\lim\limits_{x \to \infty}(f(x)) =  \frac{b}{a}, \s 0<a$$
+
+$$\lim\limits_{x \to -\infty}(f(x)) =  \frac{b}{a}, \s a<0$$
+
+
+#### Bevis
+**Fuldstændig løsning:** $f(x)=\frac{b}{a} + C \cdot e^{-ax}$
+
+$a$, $b$ og $c$ er konstanter og $a \neq 0$
 
 
 
+Hvis $f(x)$ er løsning til differentialligningen $y'=b-a \cdot y$, så må dette være sandt
+
+$$f'(x) = b-a \cdot f(x)$$
+
+vi sætter $a$ uden for parantesen
+
+$$f'(x) = -a \left(f(x)-\frac{b}{a} \right)$$
+
+God ide
+
+$$g(x) = f(x) - \frac{b}{a}$$
+
+Vi sætter $g(x)$ ind i stedet for $f(x) - \frac{b}{a}$
+
+$$g'(x) = -a \cdot g(x)$$
+
+---
+Vi differentierer
+
+$$g'(x) = \left(f(x) - \frac{b}{a}\right)'=f'(x)$$
 
 ---
 #matematik 

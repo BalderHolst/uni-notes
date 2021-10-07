@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1e1b59de26af90",
+        "id": "361f56254d40ad28",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Skolerelevant/Differentialligninger.md",
             "mode": "source"
           }
         },
-        "group": "7678ac0d6131d503"
+        "group": "c0f7469a44b75e13"
       },
       {
-        "id": "3dc39a0510c30b6f",
+        "id": "55873d95d7325017",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Skolerelevant/Differentialligninger.md",
             "mode": "preview"
           }
         },
-        "group": "7678ac0d6131d503"
+        "group": "c0f7469a44b75e13"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancel",
+                "query": "$$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Skolerelevant/Differentialligninger.md"
               }
             }
           },
@@ -145,17 +147,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "0f1e1b59de26af90",
+  "active": "361f56254d40ad28",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Skolerelevant/Differentialligninger.md",
     "Jævn Cirkelbevægelse.md",
     "Tyngdekraften.md",
     "Centripetalkraft.md",
+    "Pasted image 20211007102139.png",
+    "Jævn Cirkelbevægelse.png",
+    "Pasted image 20211007104426.png",
+    "Untitled.md",
     "Appwriter.md",
-    "Skolerelevant/Medea - Tekst.md",
-    "Afrodite.md",
-    "Skolerelevant/Newtons Love.md",
-    "Skolerelevant/Begreber i Relegion.md",
-    "Skolerelevant/Sigmund Freud.md"
+    "Skolerelevant/Medea - Tekst.md"
   ]
 }
