@@ -7,9 +7,25 @@
         "id": "0f1e1b59de26af90",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        },
+        "group": "7678ac0d6131d503"
+      },
+      {
+        "id": "3dc39a0510c30b6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7678ac0d6131d503"
       }
     ],
     "direction": "vertical"
@@ -53,13 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -75,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -130,10 +147,10 @@
   },
   "active": "0f1e1b59de26af90",
   "lastOpenFiles": [
+    "Untitled.md",
     "Jævn Cirkelbevægelse.md",
     "Tyngdekraften.md",
     "Centripetalkraft.md",
-    "Untitled.md",
     "Appwriter.md",
     "Skolerelevant/Medea - Tekst.md",
     "Afrodite.md",
