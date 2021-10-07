@@ -2016,7 +2016,7 @@ at ikke jeg skal flygte, udstødt, ussel,
 
 af landet, men tag mod mig i Athen,
 
-og giv mig tryghed ved din egen arne,
+<label class="ob-comment" title="" style=""> og giv mig tryghed ved din egen arne <input type="checkbox"> <span style=""> Giv mig ly i Athen </span></label>,
 
 så sandt jeg ønsker guderne vil skænke
 
@@ -2226,13 +2226,13 @@ en grufuld død. Så kraftig tryllesaft
 
 <sub><sup>790</sup></sub> bestryger jeg dem med. Alt nok herom.
 
-Men så - jeg <label class="ob-comment" title="" style=""> gruer <input type="checkbox"> <span style=""> Frygter for </span></label> for det svære værk
+Men så - jeg <label class="ob-comment" title="" style=""> gruer <input type="checkbox"> <span style=""> Frygter for</span></label> for det svære værk
 
 jeg da skal øve: ==dræbe mine børn!==
 
 Og ingen jordisk magt kan frelse dem.
 
-Er sådan hele Iasons hus lagt øde,
+<label class="ob-comment" title="" style=""> Er sådan hele Iasons hus lagt øde <input type="checkbox"> <span style=""> Hun vil dræbe sine børn for at skede Iason </span></label>,
 
 <sub><sup>795</sup></sub> så bort! Fra mine elskte drenges blod
 
