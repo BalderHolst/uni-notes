@@ -35,10 +35,21 @@ Da den resulterende kraft skal pege mod midten af svinget, må krafterne i $y$-r
 
 $$F_g + F_{\mu_y} - F_{N_y} = 0$$
 
-Vi sætter variabler ind. ([[Tyngdekraften]])
+Vi sætter variabler ind. ([[Tyngdekraften]],[[Gnidning]])
+$$m \cdot g + \mu \cdot F_N \cdot sin(\alpha) - F_N \cdot cos(\alpha)$$
 
+Normalkraften kan altså beskrives således 
+
+$$F_N =  \frac{m \cdot g}{cos(\alpha) - \mu \cdot sin(\alpha)} $$
 
 Og den resulterende kraft, må være resultanten af krafterne i $x$-retningen.
 
-$$F_{N_x}+= F_{\mu_x} = F_{res}$$
+$$F_{N_x} + F_{\mu_x} = F_{res}$$
 
+variabler sættes ind: 
+
+$$F_N \cdot sin(\alpha) + \mu \cdot F_N \cdot cos(\alpha) = F_{res}$$
+
+Vi kan nu sætte $F_N$ ind i formlen for $F_{res}$
+
+$$F_N \cdot sin(\alpha) + \mu \cdot F_N \cdot cos(\alpha) = F_{res}$$

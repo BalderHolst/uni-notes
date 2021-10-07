@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tyngdekraften.md",
+            "file": "Jævn Cirkelbevægelse.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tyngdekraften.md",
+                "file": "Jævn Cirkelbevægelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tyngdekraften.md"
+                "file": "Jævn Cirkelbevægelse.md"
               }
             }
           },
@@ -136,8 +136,8 @@
   },
   "active": "3edebe21e6df7770",
   "lastOpenFiles": [
-    "Tyngdekraften.md",
     "Jævn Cirkelbevægelse.md",
+    "Tyngdekraften.md",
     "Centripetalkraft.md",
     "Untitled.md",
     "Appwriter.md",
