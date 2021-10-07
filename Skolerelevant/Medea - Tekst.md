@@ -1,4 +1,4 @@
-# Medea
+# Medea - Tekst
 Se analysen [[Medea - Analyse|her]].
 
 ---
@@ -48,6 +48,9 @@ _Otto Foss_
 ##### Et sendebud
 
 ##### Kor af korinthiske kvinder
+- Sympaterer med Medea
+
+---
 
 Tragedien er opført ved Dionysos-festen i foråret 431, som første del af en trilogi. Den fik kun tredieprisen, i konkurrence med Euforion, Aischylos' søn, og Sofokles.
 
@@ -1715,7 +1718,7 @@ fra din gyldne bue med ufejlbarlige
 
 elskovspile,
 
-forgifted' med hjertets ubændige
+<label class="ob-comment" title="" style=""> forgifted' med hjertets ubændige <input type="checkbox"> <span style=""> Forelskelse er ikke en god ide </span></label>
 
 higen mod vellyst!
 
@@ -1735,7 +1738,7 @@ fra gudernes hånd. Men ufred og splid
 
 og galdesyg stridslyst,
 
-Afrodite, du grumme, sindsro-forstyrrende,
+<label class="ob-comment" title="" style=""> [[Afrodite]], du grumme, sindsro-forstyrrende <input type="checkbox"> <span style=""> Hvis man nu bare kunne holde det nede ville det være meget bedre </span></label>,
 
 holde du fjern!
 
@@ -1745,7 +1748,7 @@ hjertets begær efter lovløst favntag.
 
 Nej, blot du vil hegne
 
-<sub><sup>640</sup></sub> om hengivne hustruers fredlyste
+<sub><sup>640</sup></sub> <label class="ob-comment" title="" style=""> om hengivne hustruers fredlyste <input type="checkbox"> <span style=""> kærlighed er fint, hvis det er i gifte og fredfulde forhold </span></label>
 
 ægteskabs-leje.
 
@@ -1775,11 +1778,11 @@ Modstrofe II
 
 Af selvsyn taler jeg her,
 
-bringer ingen løse rygter,
+bringer <label class="ob-comment" title="" style=""> ingen løse rygter <input type="checkbox"> <span style=""> taler sandt </span></label>,
 
 <sub><sup>655</sup></sub> sandhed kun som vækker eftertanke.
 
-Så dybt du led som næppe fattes,
+Så dybt <label class="ob-comment" title="" style=""> du <input type="checkbox"> <span style=""> [[#Medea]] </span></label> led som næppe fattes,
 
   
 
@@ -1797,7 +1800,7 @@ til hvis rene tankers lønlige gem han fik indgang.
 
 Ubegrædt, tåreløs gå han til grunde!
 
-AIGEUS _(rejsekl__ædt, kommer ind medfølge)_
+AIGEUS _(rejseklædt, kommer ind medfølge)_
 
 Medea, lykke med dig! Intet ord
 
@@ -1807,7 +1810,7 @@ MEDEA
 
 <sub><sup>665</sup></sub> Tag samme hilsen, Aigeus, Pandion
 
-den Vises søn. Men hvorfra kommer du**?**
+den Vises søn. Men hvorfra kommer du?
 
 AIGEUS
 
@@ -1819,7 +1822,7 @@ Hvad førte dig til Jordens navlesten?
 
 AIGEUS
 
-At søge råd imod min barnløshed. * '
+At søge råd imod min barnløshed.
 
 MEDEA
 
