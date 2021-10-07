@@ -1752,7 +1752,7 @@ Nej, blot du vil hegne
 
 ægteskabs-leje.
 
-Strofe II
+<label class="ob-comment" title="" style=""> Strofe <input type="checkbox"> <span style=""> Det er godt hvis man elsker sin mand og dør før man opdager at han er utro </span></label> II
 
 Ah, fædreland, fædrene hus!
 
@@ -1868,7 +1868,7 @@ Så sandt det ej er hemmeligt, så tal!
 
 AIGEUS
 
-"Løs ikke op for gedesækkens fod -
+"<label class="ob-comment" title="" style=""> Løs ikke op for gedesækkens fod <input type="checkbox"> <span style=""> Bold ikke udenom </span></label> -
 
 MEDEA
 
