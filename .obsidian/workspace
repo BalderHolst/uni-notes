@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "56b4f0d6c330c405",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Læringsformer.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6340389c4b2f09fa",
+        "id": "5f008c7c7b4513a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Viden.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -145,17 +134,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "6340389c4b2f09fa",
+  "active": "5f008c7c7b4513a0",
   "lastOpenFiles": [
     "Skolerelevant/Viden.md",
     "Skolerelevant/Læringsformer.md",
+    "Robert Rosenthal.md",
+    "Skolerelevant/Rosenthal Effekten.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Skolerelevant/Kognitive Skemaer.md",
+    "Skolerelevant/Semantiske skemaer.md",
     "Skolerelevant/Læringsformler.md",
     "Thomas Ziehe.md",
-    "Skolerelevant/Perception.md",
-    "Skolerelevant/Hukommelsen.md",
-    "Skolerelevant/Sigmund Freud.md",
-    "Untitled.md",
-    "Skolerelevant/Jævn Cirkelbevægelse 2.png",
-    "Skolerelevant/Jævn Cirkelbevægelse 1.png"
+    "Skolerelevant/Perception.md"
   ]
 }

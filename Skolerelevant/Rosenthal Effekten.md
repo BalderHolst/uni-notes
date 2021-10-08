@@ -1,4 +1,4 @@
-# Rosenthal Effekten
+# [[Robert Rosenthal|Rosenthal]] Effekten
 Effekten der gør at ens forventninger til andre, har der med at blive opfyldt. 
 
 #### Eksempel

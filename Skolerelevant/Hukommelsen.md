@@ -41,7 +41,7 @@ her kan også ligge [[Falske erindringer]]
 #### Semantisk Hukommelse
 Den semantiske hukommelse bruger vi til at forbinde relevant viden. Det er den vi bruger til at huske emner vi har gennemgået i fysik, eller til at lave en liste med frugter. Det er også her vores faktaviden gemmer sig, som vi bruger til at gemme på meget af det viden vi lærer i skolen (se [[Husker vi bedre, når vi tager noter|husker vi bedre når vi tager noter?]]).
 
-se [[Semantiske skemaer]].
+se [[Kognitive Skemaer]].
 
 
 ## Den Implicitte Langtidshukommelse
