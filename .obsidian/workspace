@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Viden.md",
-            "mode": "preview"
+            "file": "Autoconverterede/Dansk - Dokumentarfilm.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Viden.md",
+                "file": "Autoconverterede/Dansk - Dokumentarfilm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Viden.md"
+                "file": "Autoconverterede/Dansk - Dokumentarfilm.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "5f008c7c7b4513a0",
   "lastOpenFiles": [
+    "Autoconverterede/Dansk - Dokumentarfilm.md",
     "Skolerelevant/Viden.md",
     "Skolerelevant/Læringsformer.md",
     "Robert Rosenthal.md",
@@ -144,7 +145,6 @@
     "Skolerelevant/Kognitive Skemaer.md",
     "Skolerelevant/Semantiske skemaer.md",
     "Skolerelevant/Læringsformler.md",
-    "Thomas Ziehe.md",
-    "Skolerelevant/Perception.md"
+    "Thomas Ziehe.md"
   ]
 }
