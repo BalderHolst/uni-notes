@@ -85,4 +85,6 @@ Gennem en *sokratisk dialog* kan terapeuten få klienten til selv at komme frem 
 
 ---
 
+
+
 #psykologi 

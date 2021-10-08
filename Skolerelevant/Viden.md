@@ -1,9 +1,48 @@
+# Viden
+
+#### Fakta viden
+Faktaviden er viden om reelle fakta
+
+Grundforudsætninen for kompetancer og kreativitet 
+
+#### Færdighedsviden
+
+---
+
+#### Kvalifikationer
+- data/fakta
+- paratviden
+
+#### Kompetancer
+- viden om hvordan vi udnytter vores viden
+
+#### Kreativitet
+- Evnen til at omtænke sin viden
+- Viden om forudsætningerne for den måde man tænker
+
+---
+
+##### Undervisningsformer
+
+- Gruppearbejde
+		- Kvalifikationer
+		- Kompancer
+- Tavleundervisning
+		- Kvalifikationer
+		- Kompancer
+- SRP
+		- Kreativetet!
+
+
+
+---
+
 ## Sproglig og Tavs Viden
 *Personer: [[Michael Polanyi]]*
 
 Viden læres i [[Hukommelsen]]
 
----
+
 
 ![[Sproglig og Tavs viden.png]]
 

@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "byModifiedTime",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
