@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "95d1c8939cedac67",
+        "id": "56b4f0d6c330c405",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Afrodite.md",
+            "file": "Skolerelevant/Læringsformer.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6340389c4b2f09fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Viden.md",
             "mode": "source"
           }
         }
@@ -56,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afrodite.md",
+                "file": "Skolerelevant/Viden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afrodite.md"
+                "file": "Skolerelevant/Viden.md"
               }
             }
           },
@@ -129,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "95d1c8939cedac67",
+  "active": "6340389c4b2f09fa",
   "lastOpenFiles": [
-    "Afrodite.md",
-    "Jævn Cirkelbevægelse.md",
-    "Undervisningsformer.md",
-    "Tyngdekraften.md",
-    "Jævn Cirkelbevægelse 1.png",
-    "Skolerelevant/Læringsformler.md",
-    "Skolerelevant/Den Kognitive Terapi.md",
     "Skolerelevant/Viden.md",
-    "Untitled 1.md",
-    "Skolerelevant/Sproglig og Tavs Viden.md"
+    "Skolerelevant/Læringsformer.md",
+    "Skolerelevant/Læringsformler.md",
+    "Thomas Ziehe.md",
+    "Skolerelevant/Perception.md",
+    "Skolerelevant/Hukommelsen.md",
+    "Skolerelevant/Sigmund Freud.md",
+    "Untitled.md",
+    "Skolerelevant/Jævn Cirkelbevægelse 2.png",
+    "Skolerelevant/Jævn Cirkelbevægelse 1.png"
   ]
 }

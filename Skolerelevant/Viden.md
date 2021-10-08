@@ -1,4 +1,5 @@
 # Viden
+se også [[Læringsformer]]
 
 #### Fakta viden
 Faktaviden er viden om reelle fakta

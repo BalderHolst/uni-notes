@@ -1,7 +1,7 @@
 ## Behaviorisme
 *Folk: [[Watson]], [[Skinner]], [[Bandura]],[[Ivan Pavlov]] *
 
-Måden vi [[Læringsformler|lærer]] på
+Måden vi [[Læringsformer|lærer]] på
 
 ### Klassisk betingning
 
