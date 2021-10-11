@@ -1,4 +1,9 @@
-# Tekst 57 
+# Sagn om Misfangst
+**Krise:** misfangst
+
+- Ekstanse: Begynder i starten af andet afsnit
+
+---
 
 <label class="ob-comment" title="" style="">Man fortæller, at Uitsataqangitsoq, „Den Blinde", bestemte sig til at fare ned til Havets Moder, der hersker over alle sødyr og søfugle. Han var en stor åndemaner, og hans landsmænd havde bedt ham om at foretage denne åndeflugt,  **fordi bopladsen i lang tid havde lidt under misfangst** <input type="checkbox"> <span style=""> Offer </span></label>. 
 

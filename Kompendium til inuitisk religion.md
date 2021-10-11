@@ -172,4 +172,4 @@ For den primitive er FORTID = NUTID = FREMTID.
 
 ---
 
-[[Tekst 57]]
+[[Sagn om Misfangst]]

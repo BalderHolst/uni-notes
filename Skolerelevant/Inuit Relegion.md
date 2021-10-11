@@ -6,6 +6,6 @@
 ### Tekster
 - [[Førstefangsrite]]
 - [[Når mennesker fødes]]
-- [[Tekst 57]]
+- [[Sagn om Misfangst]]
 ---
 #relegion

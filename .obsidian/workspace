@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tekst 57.md",
+            "file": "Sagn om Misfangst.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tekst 57.md",
+            "file": "Sagn om Misfangst.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tekst 57",
+                "query": "ekstase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tekst 57.md",
+                "file": "Sagn om Misfangst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tekst 57.md"
+                "file": "Sagn om Misfangst.md"
               }
             }
           },
@@ -148,6 +149,7 @@
   },
   "active": "158232fa4737bc81",
   "lastOpenFiles": [
+    "Sagn om Misfangst.md",
     "Tekst 57.md",
     "Skolerelevant/Inuit Relegion.md",
     "Kompendium til inuitisk religion.md",
@@ -156,7 +158,6 @@
     "Strindberg, August - Af Frk Julie, forord og slutningen.pdf",
     "Strindberg, August - Af Frk Julie, forord og slutningen - tekst.md",
     "Untitled.md",
-    "Det Morderne Gennembrud.md",
-    "Strindberg, August - Af Frk Julie, forord og slutningen.md"
+    "Det Morderne Gennembrud.md"
   ]
 }
