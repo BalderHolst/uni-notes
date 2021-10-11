@@ -4,13 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd41281ae595bb7",
+        "id": "e4367741fcf45451",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/DE TRE KLASSISKE DOKUMENTARGENRER.md",
-            "mode": "preview"
+            "file": "Strindberg, August - Af Frk Julie, forord og slutningen - tekst.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5c42dd9ea4c344d5",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Strindberg, August - Af Frk Julie, forord og slutningen.pdf"
           }
         }
       }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/DE TRE KLASSISKE DOKUMENTARGENRER.md",
+                "file": "Strindberg, August - Af Frk Julie, forord og slutningen - tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/DE TRE KLASSISKE DOKUMENTARGENRER.md"
+                "file": "Strindberg, August - Af Frk Julie, forord og slutningen - tekst.md"
               }
             }
           },
@@ -133,17 +143,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9dd41281ae595bb7",
+  "active": "e4367741fcf45451",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Strindberg, August - Af Frk Julie, forord og slutningen.pdf",
+    "Det Morderne Gennembrud.md",
+    "Strindberg, August - Af Frk Julie, forord og slutningen.md",
+    "Skolerelevant/Georg Brandes.md",
     "Skolerelevant/DE TRE KLASSISKE DOKUMENTARGENRER.md",
     "Media/Syv gode råd til idéudvikling.pdf",
     "Skolerelevant/Klassisk Geometri.md",
     "Skolerelevant/Sigmund Freud.md",
-    "Skolerelevant/Rosenthal Effekten.md",
-    "Skolerelevant/Læringsformer.md",
-    "Thomas Ziehe.md",
-    "Syv gode råd til idéudvikling.pdf",
-    "Autoconverterede/Dansk - Dokumentarfilm.md",
-    "Skolerelevant/Viden.md"
+    "Skolerelevant/Rosenthal Effekten.md"
   ]
 }
