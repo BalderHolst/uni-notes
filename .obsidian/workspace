@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ekstase",
+                "query": "kosmos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "158232fa4737bc81",
+  "active": "9160dbc0e06c5f01",
   "lastOpenFiles": [
     "Sagn om Misfangst.md",
     "Tekst 57.md",
