@@ -4,25 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b17cffa12d285636",
+        "id": "158232fa4737bc81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
+            "file": "Tekst 57.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d58698a091f4b910"
       },
       {
-        "id": "6c4db4d6dae718a1",
+        "id": "9160dbc0e06c5f01",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Strindberg, August - Af Frk Julie, forord og slutningen.pdf"
+            "file": "Tekst 57.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "d58698a091f4b910"
       }
     ],
     "direction": "vertical"
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tekst 57",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
+                "file": "Tekst 57.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md"
+                "file": "Tekst 57.md"
               }
             }
           },
@@ -143,17 +146,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "b17cffa12d285636",
+  "active": "158232fa4737bc81",
   "lastOpenFiles": [
+    "Tekst 57.md",
+    "Skolerelevant/Inuit Relegion.md",
+    "Kompendium til inuitisk religion.md",
     "Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
+    "Kompendium til inuitisk religion.pdf",
     "Strindberg, August - Af Frk Julie, forord og slutningen.pdf",
     "Strindberg, August - Af Frk Julie, forord og slutningen - tekst.md",
     "Untitled.md",
     "Det Morderne Gennembrud.md",
-    "Strindberg, August - Af Frk Julie, forord og slutningen.md",
-    "Skolerelevant/Georg Brandes.md",
-    "Skolerelevant/DE TRE KLASSISKE DOKUMENTARGENRER.md",
-    "Media/Syv gode råd til idéudvikling.pdf",
-    "Skolerelevant/Klassisk Geometri.md"
+    "Strindberg, August - Af Frk Julie, forord og slutningen.md"
   ]
 }
