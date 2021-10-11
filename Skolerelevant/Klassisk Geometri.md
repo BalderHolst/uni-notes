@@ -29,3 +29,4 @@ Dvs. at alle trekander med disse to sidelængder og vinkel, er den samme trekant
 
 ---
 
+#matematik 
