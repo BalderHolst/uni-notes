@@ -46,8 +46,6 @@ if __name__ == "__main__":
 	#puts files in the files variable
 	convertFiles(root_dir)
 
-	
-
 	for file in files:
 
 		out_path = file
