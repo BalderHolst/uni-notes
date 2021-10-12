@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "83de2ea3744bf212",
+        "id": "bea8402b191c565b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vold skaber opmærksomhed.md",
-            "mode": "preview"
+            "file": "Frøkenen - Analyse.md",
+            "mode": "source"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vold skaber opmærksomhed.md",
+                "file": "Frøkenen - Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vold skaber opmærksomhed.md"
+                "file": "Frøkenen - Analyse.md"
               }
             }
           },
@@ -132,17 +131,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "83de2ea3744bf212",
+  "active": "bea8402b191c565b",
   "lastOpenFiles": [
-    "Vold skaber opmærksomhed.md",
+    "Frøkenen - Analyse.md",
+    "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
-    "Templates/Kildekritik.md",
-    "Skolerelevant/Anden Verdenskrig.md",
+    "Vold skaber opmærksomhed.md",
     "Nynazisme.md",
     "Untitled.md",
-    "Skolerelevant/Det_tredie_Rige.md",
-    "Den tyske kapitulation.md",
-    "TEKST 3 Den tyske kapitulation.md",
-    "Skolerelevant/Hældningsfelt.md"
+    "Bang, Herman - Frøkenen.md",
+    "Skolerelevant/Isaac Newton.md",
+    "Skolerelevant/Newtons Love.md",
+    "Templates/Kildekritik.md"
   ]
 }

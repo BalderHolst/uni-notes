@@ -21,3 +21,6 @@ England, USA og Rusland mødes i Potsdam for at bestemme hvad der konkret skulle
 - Tyskland skulle betale erstatning.
 
 Afnazificering, genopstartning af økonomi
+
+---
+#historie 

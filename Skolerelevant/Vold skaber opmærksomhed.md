@@ -27,3 +27,8 @@ Hvad er jeres mening om republikanerne og Deutsche Volksunion, som i mellemtiden
  Hvordan reagerer jeres skolekammerater og lærere på jeres politiske overbevisninger? Anne: En lærer sagde engang til mig: Jeg akcepterer din mening, men jeg tolererer den ikke. Det kan jeg oven i købet forstå. Henry: På gymnasiet er der mange, der er uenige med mig, men jeg snakker fint med dem. 
 
  Hvordan har du det med de jødiske borgere? Anne: Jødedommen eller en hr. Ignatz Bubis skulle hellere beskæftige sig med det, jøderne gør mod palæstinenserne, end med at kræve penge fra unge tyskere for evt. tidligere ugerninger. ==Jøderne kontrollerer verdens rigeste land, USA, samler rigdomme sammen og udnytter det arbejde, der udføres af andre folkeslag, som så må betale kæmpestore renter.== Det betyder dog ikke, at jeg af den grund overfuser eller angriber individuelle jøder, som jeg træffer. Det ville være åndssvagt.
+ 
+ ---
+ #tekst 
+ #historie 
+ 
