@@ -7,6 +7,9 @@ dato_slut : 1945
 
 # Anden Verdenskrig
 
+
+slut: [[Den Tyske Kapitulation]]
+
 ---
 
 ### Kilder

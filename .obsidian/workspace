@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "178ee4d2bfc058aa",
+        "id": "83de2ea3744bf212",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Hældningsfelt.md",
+            "file": "Vold skaber opmærksomhed.md",
             "mode": "source"
           }
-        },
-        "group": "9590c74db8573016"
+        }
       },
       {
-        "id": "4552fcd5719860e5",
+        "id": "e60b68789d53265a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Hældningsfelt.md",
-            "mode": "preview"
+            "file": "Den Tyske Kapitulation.md",
+            "mode": "source"
           }
-        },
-        "group": "9590c74db8573016"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Hældningsfelt.md",
+                "file": "Den Tyske Kapitulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Hældningsfelt.md"
+                "file": "Den Tyske Kapitulation.md"
               }
             }
           },
@@ -137,25 +136,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "4552fcd5719860e5",
+  "active": "e60b68789d53265a",
   "lastOpenFiles": [
+    "Den Tyske Kapitulation.md",
+    "Skolerelevant/Anden Verdenskrig.md",
+    "Vold skaber opmærksomhed.md",
+    "Nynazisme.md",
+    "Untitled.md",
+    "Skolerelevant/Det_tredie_Rige.md",
+    "Den tyske kapitulation.md",
+    "TEKST 3 Den tyske kapitulation.md",
     "Skolerelevant/Hældningsfelt.md",
-    "Strindberg, August - Af Frk Julie, forord og slutningen.pdf",
-    "Pasted image 20211012113512.png",
-    "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Det Morderne Gennembrud.md",
-    "Skolerelevant/Robert Rosenthal.md",
-    "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen.md",
-    "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
-    "Skolerelevant/Kompendium til inuitisk religion.md",
-    "Skolerelevant/Sagn om Misfangst.md"
+    "Strindberg, August - Af Frk Julie, forord og slutningen.pdf"
   ]
 }
