@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Newtons Afkølingslov.md",
+            "file": "Skolerelevant/Hældningsfelt.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Newtons Afkølingslov.md",
+            "file": "Skolerelevant/Hældningsfelt.md",
             "mode": "preview"
           }
         },
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Newtons Afkølingslov.md",
+                "file": "Skolerelevant/Hældningsfelt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Newtons Afkølingslov.md"
+                "file": "Skolerelevant/Hældningsfelt.md"
               }
             }
           },
@@ -148,15 +147,15 @@
   },
   "active": "4552fcd5719860e5",
   "lastOpenFiles": [
+    "Skolerelevant/Hældningsfelt.md",
+    "Strindberg, August - Af Frk Julie, forord og slutningen.pdf",
+    "Pasted image 20211012113512.png",
     "Skolerelevant/Newtons Afkølingslov.md",
     "Skolerelevant/Det Morderne Gennembrud.md",
     "Skolerelevant/Robert Rosenthal.md",
     "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen.md",
     "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
     "Skolerelevant/Kompendium til inuitisk religion.md",
-    "Skolerelevant/Sagn om Misfangst.md",
-    "Skolerelevant/Hældningsfelt.md",
-    "Hældningsfelt.md",
-    "Newtons Afkølingslov.md"
+    "Skolerelevant/Sagn om Misfangst.md"
   ]
 }

@@ -5,7 +5,9 @@
 
 
 ### Maple
-![[Hældningsfelt i maple.png]]
+![[Media/Hældningsfelt i maple.png]]
+
+![[Hældningsfelt i maple 2.png]]
 
 ---
 #matematik 
