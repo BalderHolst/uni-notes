@@ -24,4 +24,24 @@ $$a = k, \s\s b = k \cdot T_{omg}$$
 
 $$T = \frac{b}{a} + C  \cdot e^{-at} = \frac{\cancel{k} \cdot T_{omg}}{\cancel{k}}+C \cdot e^{-kt} = T_{omg} + C \cdot e^{-kt}$$
 
-Vi kan altså finde $T(x)$ ved at bruge denne formel
+Vi kan altså finde $T(x)$ ved at bruge denne formel.
+
+##### $k$-værdien
+
+$k$-værdien er en proportionalskonstant, der beskriver hvor hurtigt elementet optager eller afgiver varme. Jo højere $k$, jo hurtigere ændre temperaturen sig.
+
+### Afkøling og Hældningsfelt
+Vi kan se hvordan temperaturen går mod omgivelsernes temperatur, hvis vi tegner et [[Hældningsfelt]] for differentialligningen $T' = -k \cdot (T-T_{omg})$
+
+![[Newtons Afkølingslov Hældningsfelt.png]]
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Maple udregninger
+collapse:
+
+![[Newtons Afkølingslov Hældningsfelt Udregning.png]]
+
+```
+
+---
+#matematik 

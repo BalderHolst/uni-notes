@@ -13,6 +13,7 @@ højre og venstre
 
 Så rejste „Den Blinde" til Havets Moder, idet han nøje fulgte de ==dødes vej==; det varede ikke længe, før han nåede frem til en anden vej, som gik til venstre, og den slog han ind på. Den var lang, og det varede længe, og alle hans *hjælpeånder* fulgte ham. Han for stadig fremover, da en stærk brusen nåede hans ører; det var bruset fra den elv, der løber gennem husgangen i huset, som Havets Moder bebor. „Den Blinde" fortsatte sin vej og nærmede sig mere og mere sit mål, indtil han endelig nåede frem til den store elv. Her var der lavet en overgang af tre store sten, som man kunne springe hen over; men de var så bedækkede med glatte alger, at den, som sprang, måtte glide ud i fossen. „Den Blinde" stod længe rådvild, uden at turde springe, indtil alle hans *hjælpeånder* var ovre på den anden side; da først gjorde han selv et forsøg, sprang uden at falde og kom vel over. 
 
+
 Atter for han videre og fik endelig langt om længe det hus i sigte, hvor Havets Moder bor. Han kom derhen, men så nu, at indgangen var spærret af en skummende elv, der syntes ganske ufarbar. Langt om længe blev dog endelig en overgang fundet, og til sidst stod „Den Blinde’ foran huset. Her standsede hans *hjælpeånder* ham og talte således til ham: 
 
 *„Så snart du kommer ind til Havets Moder, må du øjeblikkelig springe ind på livet af hende og straks gribe fat i hendes hår og vikle din højre arm ind i det; thi hun vil gøre et forsøg på at kaste dig ind i baggrunden af sin briks. Lykkes det hende, vil du blive kvalt derinde i mørket." *
@@ -23,8 +24,8 @@ Så snart „Den Blinde" kom frem af husgangen, sprang han straks ind på livet 
 
 *„Vær dog rolig, vær dog stille, han kommer jo kun for at rense dig, for at rede dit hår og lyske dig for utøj." *
 
-Men Havets Moder hørte intet i sin vrede og anstrengte sig blot for at få ham kastet ind i afgrunden bag briksen; efterhånden begyndte hun dog at blive træt, og da var det, som om hun pludselig hørte, hvad *hjælpeånder*ne råbte ind i ørerne på hende. <label class="ob-comment" title="" style=""> Straks blev hun stille og rolig og sagde blot <input type="checkbox"> <span style=""> Mærkelig overgang 
-
+Men Havets Moder hørte intet i sin vrede og anstrengte sig blot for at få ham kastet ind i afgrunden bag briksen; efterhånden begyndte hun dog at blive træt, og da var det, som om hun pludselig hørte, hvad *hjælpeånder*ne råbte ind i ørerne på hende. Straks blev hun stille og rolig og sagde blot 
+	
 *„Megen glæde volder det mig at høre disse ord. Her ligger jeg og er ved at bukke under for menneskenes smuds. Jeres overtrædelsers urenhed besmitter mig. Skynd dig, skynd dig, rens mit hoved og red mit hår!" *
 
 Derpå lagde hun sig på sin vældige briks, og „Den Blinde" gav sig til at rede hendes hår. Det var et besværligt arbejde, fordi det var så langt, så stridt og så indfiltret. Så langt var det, at han måtte måle det to gange med sin favn for at få længden. 
@@ -62,3 +63,7 @@ Atter tav han, og der var stilhed blandt de lyttende, da han sagde sine sidste o
 Alt gik nu, som han havde sagt og spået: Det faldt ind med mildning og regn, en sydvest brød ud og flåede isen op, og alle fangstdyrene kom med det åbne vand. Så snart vinden stilnede af, gik alle i kajak og rettede sig nøje efter „Den Blindes” forskrifter. Kun én mand fangede i sin grådighed mere end én sæl, og han fik aldrig siden mere end én sæl, selv om alle andre fik lige så mange, de kunne bugsere hjem. 
 
 Men den første sæl, som „Den Blinde" fangede, var netop den lille sortside, der havde vendt sig smilende om imod ham, da han forlod Imap Ukûa, Havets Moder.
+	
+---
+#tekst 
+#relegion 

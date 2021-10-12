@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c18c024907817d",
+        "id": "178ee4d2bfc058aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hældningsfelt.md",
+            "file": "Skolerelevant/Newtons Afkølingslov.md",
+            "mode": "source"
+          }
+        },
+        "group": "9590c74db8573016"
+      },
+      {
+        "id": "4552fcd5719860e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Newtons Afkølingslov.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "9590c74db8573016"
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hældningsfelt.md",
+                "file": "Skolerelevant/Newtons Afkølingslov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hældningsfelt.md"
+                "file": "Skolerelevant/Newtons Afkølingslov.md"
               }
             }
           },
@@ -133,17 +146,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "f9c18c024907817d",
+  "active": "4552fcd5719860e5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Skolerelevant/Differentialligninger.md",
-    "Newtons Afkølingslov.md",
-    "Skolerelevant/Adolf Hitler.md",
-    "Skolerelevant/Jævn Cirkelbevægelse.md",
-    "Skolerelevant/Bevægelse på Skråplan.md",
-    "Sagn om Misfangst.md",
-    "Tekst 57.md",
-    "Skolerelevant/Inuit Relegion.md",
-    "Kompendium til inuitisk religion.md"
+    "Skolerelevant/Newtons Afkølingslov.md",
+    "Skolerelevant/Det Morderne Gennembrud.md",
+    "Skolerelevant/Robert Rosenthal.md",
+    "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen.md",
+    "Skolerelevant/Strindberg, August - Af Frk Julie, forord og slutningen - analyse.md",
+    "Skolerelevant/Kompendium til inuitisk religion.md",
+    "Skolerelevant/Sagn om Misfangst.md",
+    "Skolerelevant/Hældningsfelt.md",
+    "Hældningsfelt.md",
+    "Newtons Afkølingslov.md"
   ]
 }

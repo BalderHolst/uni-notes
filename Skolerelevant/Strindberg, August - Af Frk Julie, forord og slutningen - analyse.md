@@ -29,3 +29,5 @@ Jean mener at han sagtens kan formane Julie om hendes mangel på stanhaftighed.
 ### Kvindebilledet
 Julie er forvirret og ude nogen større viljekraft. Hun bliver let overbevist.
 
+---
+#dansk
