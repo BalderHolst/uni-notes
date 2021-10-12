@@ -1,6 +1,6 @@
 # Vold skaber opmærksomhed 
 
-*Den følgende tekst er et interview med tre unge fra Dresden i det tidligere DDR, der var tilsluttet Nationale Offensive, som blev forbudt i 1992. Interviewet blev foretaget kort tid efter mordbranden i Mölln i november 1992, hvor tre tyrkiske kvinder blev dræbt. Interviewet blev offentliggjort i Der Spiegel i december 1992. *
+*Den følgende tekst er et interview med tre unge fra Dresden i det tidligere [[DDR]], der var tilsluttet Nationale Offensive, som blev forbudt i 1992. Interviewet blev foretaget kort tid efter mordbranden i Mölln i november 1992, hvor tre tyrkiske kvinder blev dræbt. Interviewet blev offentliggjort i Der Spiegel i december 1992. *
 
  Højreradikale unge fra Dresden fortæller om deres verdensbillede, om sig selv og den tyske fremtid. Franz, Henry og Anne (navnene er opdigtede) er 17 år og tilhører den højreekstremistiske fløj. I Radebeul ved Dresden stiftede de i 1990 efter »die Wende« et højreorienteret »kammeratskab«, og i oktober slutttede de sig til Nationale Offensive (NO), der er en landsdækkende [[Nynazisme|nynazistisk]] organisation. 
 

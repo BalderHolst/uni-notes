@@ -7,6 +7,7 @@ Afholdt i febuar 1945
 >Her bestemte man at tyskland skulle opdeles i besættelseszoner for at sikre "sikre at Tyskland aldrig mere vil blive i stand til at true verdensfreden"
 >\-[[Det_tredie_Rige.pdf#page=122|Det tredge tige]]
 
+Mere i grove træk
 
 ### Tyskland overgiver sig (juli)
 Kapitulation!
@@ -18,3 +19,5 @@ England, USA og Rusland mødes i Potsdam for at bestemme hvad der konkret skulle
 - Tyskland skulle opdeles.
 - Berlin skulle opdeles mellem de allierede, selvom det lå midt i den sovijetiske zone.
 - Tyskland skulle betale erstatning.
+
+Afnazificering, genopstartning af økonomi
