@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5942a6d07a8dfb3f",
+        "id": "35603fff94372cb1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personligt/Dagbog/13-10-2021.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/13-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personligt/Dagbog/13-10-2021.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +126,7 @@
     "direction": "horizontal",
     "width": 212.61581420898438
   },
-  "active": "5942a6d07a8dfb3f",
+  "active": "35603fff94372cb1",
   "lastOpenFiles": [
     "Personligt/Dagbog/13-10-2021.md",
     "Personligt/Dagbog/14-10-2021.md",
