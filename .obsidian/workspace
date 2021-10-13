@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frøkenen - Analyse.md",
+            "file": "Personligt/Dagbog/13-10-2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frøkenen - Analyse.md",
+                "file": "Personligt/Dagbog/13-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frøkenen - Analyse.md"
+                "file": "Personligt/Dagbog/13-10-2021.md"
               }
             }
           },
@@ -124,15 +124,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
   "active": "bea8402b191c565b",
   "lastOpenFiles": [
+    "Personligt/Dagbog/13-10-2021.md",
     "Frøkenen - Analyse.md",
     "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
@@ -141,7 +142,6 @@
     "Untitled.md",
     "Bang, Herman - Frøkenen.md",
     "Skolerelevant/Isaac Newton.md",
-    "Skolerelevant/Newtons Love.md",
-    "Templates/Kildekritik.md"
+    "Skolerelevant/Newtons Love.md"
   ]
 }
