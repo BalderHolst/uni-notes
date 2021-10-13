@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49cf0f0a1e3e5537",
+        "id": "e7405cc26141e2ff",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
-          "state": {
-            "file": "Test.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,13 +126,13 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "49cf0f0a1e3e5537",
+  "active": "e7405cc26141e2ff",
   "lastOpenFiles": [
+    "Personligt/Dagbog/13-10-2021.md",
     "Test.md",
     "Media/Bang, Herman - Frøkenen.pdf",
     "Frøkenen - Analyse.md",
     "Untitled.md",
-    "Personligt/Dagbog/13-10-2021.md",
     "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
     "Vold skaber opmærksomhed.md",
