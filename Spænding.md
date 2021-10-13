@@ -1,0 +1,6 @@
+# Spænding
+Symbol: $U$
+
+---
+
+### Spændingsfald
