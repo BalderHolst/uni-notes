@@ -44,5 +44,14 @@
     }
   ],
   "periodic-notes:next-daily-note": [],
-  "editor:insert-embed": []
+  "editor:insert-embed": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
 }

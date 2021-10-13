@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bea8402b191c565b",
+        "id": "49cf0f0a1e3e5537",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Dagbog/13-10-2021.md",
-            "mode": "preview"
+            "file": "Frøkenen - Analyse.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vejsving",
+                "query": "tag:#dansk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/13-10-2021.md",
+                "file": "Frøkenen - Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Dagbog/13-10-2021.md"
+                "file": "Frøkenen - Analyse.md"
               }
             }
           },
@@ -129,19 +129,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "bea8402b191c565b",
+  "active": "49cf0f0a1e3e5537",
   "lastOpenFiles": [
-    "Personligt/Dagbog/13-10-2021.md",
+    "Untitled.md",
+    "Media/Bang, Herman - Frøkenen.pdf",
     "Frøkenen - Analyse.md",
+    "Personligt/Dagbog/13-10-2021.md",
     "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
     "Vold skaber opmærksomhed.md",
     "Nynazisme.md",
-    "Untitled.md",
     "Bang, Herman - Frøkenen.md",
-    "Skolerelevant/Isaac Newton.md",
-    "Skolerelevant/Newtons Love.md"
+    "Skolerelevant/Isaac Newton.md"
   ]
 }
