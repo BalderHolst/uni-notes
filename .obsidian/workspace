@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "812125eca37aa894",
+        "id": "5942a6d07a8dfb3f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spænding.md",
+            "file": "Personligt/Dagbog/14-10-2021.md",
             "mode": "source"
           }
-        },
-        "group": "54fff136fc178eaf"
-      },
-      {
-        "id": "28a0ec697877719c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Spænding.md",
-            "mode": "preview"
-          }
-        },
-        "group": "54fff136fc178eaf"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spænding.md",
+                "file": "Personligt/Dagbog/14-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spænding.md"
+                "file": "Personligt/Dagbog/14-10-2021.md"
               }
             }
           },
@@ -143,20 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "812125eca37aa894",
+  "active": "5942a6d07a8dfb3f",
   "lastOpenFiles": [
+    "Personligt/Dagbog/14-10-2021.md",
+    "Parallelforbindelser.md",
+    "Untitled 1.md",
     "Spænding.md",
     "Effekt.md",
     "Emner i Fysik.md",
     "Specifik Fordampningsvarme.md",
     "Specifik Smeltevarme.md",
     "Varmekapacitet.md",
-    "Untitled 1.md",
-    "Skolerelevant/Differentialligninger.md",
-    "Untitled.md",
-    "Bang, Herman - Frøkenen.pdf"
+    "Skolerelevant/Differentialligninger.md"
   ]
 }
