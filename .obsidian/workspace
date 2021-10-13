@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e7405cc26141e2ff",
+        "id": "a2aae83e5fc8dd9e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Differentialligninger.md"
+              }
             }
           },
           {
@@ -126,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "e7405cc26141e2ff",
+  "active": "a2aae83e5fc8dd9e",
   "lastOpenFiles": [
+    "Skolerelevant/Differentialligninger.md",
+    "Untitled.md",
+    "Bang, Herman - Frøkenen.pdf",
+    "Frøkenen - Analyse.md",
     "Personligt/Dagbog/13-10-2021.md",
     "Test.md",
     "Media/Bang, Herman - Frøkenen.pdf",
-    "Frøkenen - Analyse.md",
-    "Untitled.md",
-    "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
     "Vold skaber opmærksomhed.md",
-    "Nynazisme.md",
-    "Bang, Herman - Frøkenen.md"
+    "Nynazisme.md"
   ]
 }
