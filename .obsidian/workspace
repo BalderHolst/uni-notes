@@ -7,10 +7,9 @@
         "id": "49cf0f0a1e3e5537",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Frøkenen - Analyse.md",
-            "mode": "source"
+            "file": "Test.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frøkenen - Analyse.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frøkenen - Analyse.md"
+                "file": "Test.md"
               }
             }
           },
@@ -134,15 +133,15 @@
   },
   "active": "49cf0f0a1e3e5537",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Test.md",
     "Media/Bang, Herman - Frøkenen.pdf",
     "Frøkenen - Analyse.md",
+    "Untitled.md",
     "Personligt/Dagbog/13-10-2021.md",
     "Bang, Herman - Frøkenen.pdf",
     "Den Tyske Kapitulation.md",
     "Vold skaber opmærksomhed.md",
     "Nynazisme.md",
-    "Bang, Herman - Frøkenen.md",
-    "Skolerelevant/Isaac Newton.md"
+    "Bang, Herman - Frøkenen.md"
   ]
 }

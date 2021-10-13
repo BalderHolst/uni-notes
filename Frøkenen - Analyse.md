@@ -22,7 +22,7 @@ Teksten kan findes [[Bang, Herman - Frøkenen.pdf|her]]
 - Vinter
 
 ##### Blomster
-Blomser tører ind og bliver til sidst 
+Blomser tører ind og bliver til sidst visne.
 
 ---
 #tekst 
