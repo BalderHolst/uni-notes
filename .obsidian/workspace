@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Begreber i Relegion.md",
+            "file": "Skolerelevant/Parallelforbindelser.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md",
+                "file": "Skolerelevant/Parallelforbindelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md"
+                "file": "Skolerelevant/Parallelforbindelser.md"
               }
             }
           },
@@ -134,11 +134,11 @@
   },
   "active": "35603fff94372cb1",
   "lastOpenFiles": [
+    "Parallelforbindelser.md",
     "Skolerelevant/Begreber i Relegion.md",
     "install.md",
     "Personligt/Dagbog/13-10-2021.md",
     "Personligt/Dagbog/14-10-2021.md",
-    "Parallelforbindelser.md",
     "Untitled 1.md",
     "Spænding.md",
     "Effekt.md",
