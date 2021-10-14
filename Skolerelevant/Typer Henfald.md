@@ -5,13 +5,26 @@ Skemaer er fra [[Fysik_i_overblik.pdf#page=16|formelsamlingen]]
 
 $$\atom{A}{Z}{X} \rightarrow \atom{A-4}{Z-2}{Y} + \atom{4}{2}{He}$$
 
-For moderkerne udsender en heliumkerne, som består af 2 protoner og 2 neutroner, så datterkernen får 4 færre nukleoner. 2 lavere ladningstal. Herved er nukleontallet, ladningen og leptontallet bevaret. Energi og impult er også bevaret, men dette kan ikke ses i vores reaktionsskema.
+For moderkerne udsender en heliumkerne, som består af 2 protoner og 2 neutroner, så datterkernen får 4 færre nukleoner. 2 lavere ladningstal. Herved er nukleontallet, ladningen og leptontallet bevaret. Energi og impuls er også bevaret, men dette kan ikke ses i vores reaktionsskema.
 
 ## $\beta^-$-henfald
 
 $$\atom{A}{Z}{X} \rightarrow \atom{A}{Z + 1}{Y} + \atom{0}{-1}{e} + \overline{\text{v}_e}$$
 
 En neutron fra moderkernen omdannes til en proton, en elektron og en antineutrino. 
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Eksempel
+collapse:               # Create a collapsible admonition.
+
+$\beta^-$-henfald:
+$\atom{A}{Z}{X} \rightarrow \atom{A}{Z + 1}{Y} + \atom{0}{-1}{e} + \overline{\text{v}_e}$
+
+Vores specifikke henfald
+$\atom{67}{29}{Cu} \rightarrow \atom{67}{30}{Zn} + \atom{0}{-1}{e} + \overline{\text{v}_e}$
+
+En neutron fra moderkernen omdannes til en proton, en elektron og en antineutrino. Derved er nukleontallet, ladningen og leptontallet bevaret.
+```
 
 ## $\beta^+$-henfald
 
