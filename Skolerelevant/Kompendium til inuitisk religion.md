@@ -1,8 +1,4 @@
-# Kompendium 
-
-## til 
-
-# inuitisk religion 
+# Kompendium til inuitisk religion 
 
 Fra: Brandsen og Josephsen: Eskimoerne, side 46. 
 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "89f483c03d398a40",
+        "id": "e73431b401894823",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Det Periodiske System.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Kompendium til inuitisk religion.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Det Periodiske System.md",
+                "file": "Skolerelevant/Kompendium til inuitisk religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Det Periodiske System.md"
+                "file": "Skolerelevant/Kompendium til inuitisk religion.md"
               }
             }
           },
@@ -132,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "89f483c03d398a40",
+  "active": "e73431b401894823",
   "lastOpenFiles": [
+    "Skolerelevant/Kompendium til inuitisk religion.md",
+    "Det Periodiske System.md",
+    "Bang, Herman - Frøkenen.pdf",
+    "Frøkenen - Analyse.md",
+    "install.md",
+    "Untitled.md",
+    "Skolerelevant/Begreber i Relegion.md",
     "Untitled 1.md",
     "Det Periodiske System.png",
-    "Personligt/Dagbog/14-10-2021.md",
-    "Untitled.md",
-    "Skolerelevant/Typer Henfald.md",
-    "hefald.md",
-    "Skolerelevant/Centripetalkraft.md",
-    "Skolerelevant/Jævn Cirkelbevægelse.md",
-    "Skolerelevant/Parallelforbindelser.md",
-    "Parallelforbindelser.md"
+    "Personligt/Dagbog/14-10-2021.md"
   ]
 }

@@ -10,7 +10,7 @@
 
 **Verdensrelegioner**
 
-![Title: Illustration](Verdensrelegioner.jpg)
+![](Verdensrelegioner.jpg)
 
 **Mana:** Ideen om at naturen har en bestemt energi. Eks. Bjørneklog = Styrke.
 
@@ -39,6 +39,8 @@ Religion kan defineres som ’et sammenhængende system af forestillinger og pra
 
 - Vigtig er aspektet: Den metafysiske verden. Sport og politik kan ligne religion, men er det pr. definition ikke.
 
+### Udefra/Indefra-kilde?
+
 ### Hvad er religiøsitet?
 
 _Religiøsitet_ er religiøse fænomener, der ikke indgår i ’et sammenhængende system af forestillinger og praksis, der forholder sig til den metafysiske verden’.
@@ -62,6 +64,11 @@ Myten er således en førvidenskabelig måde at forstå verden på. Myter bruges
 ### Hvad er et ritual?
 
 Et ritual er en symbolsk handling, der tænkes at bevirke noget. Et ritual har en teknisk side og en kommunikativ side. Ritualets betydning ligger i det kommunikative, ikke i det tekniske.
+
+##### Kultplads
+Et sted der ritualer. Dette er en lille verden (microkosmos) der skal påvirke hele verden (makrokosmos).
+
+$$\text{microkosmos} \s = \s \text{makrokosmos}$$
 
 **Eksempler:**
 
@@ -125,7 +132,7 @@ Kult betyder ’dyrkelse’ fx af guder, ånder, naturen osv. Kult er altså den
 Eksempler: Den jødiske synagogetjeneste, den kristne gudstjeneste, den muslimske fredagsbøn.
 
 NB: I hverdagssproget betyder ’kult’ og ’kultisk’ noget andet, og mange jøder, kristne og muslimer vil blive meget fornærmede, hvis vi kalder deres gudstjenester for kult, men sådan er det.
-
+ 
 
 ### Ligeartet fremkalder ligeartet
 
