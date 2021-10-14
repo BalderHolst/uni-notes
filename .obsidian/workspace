@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Parallelforbindelser.md",
+            "file": "Skolerelevant/Centripetalkraft.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Parallelforbindelser.md",
+                "file": "Skolerelevant/Centripetalkraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Parallelforbindelser.md"
+                "file": "Skolerelevant/Centripetalkraft.md"
               }
             }
           },
@@ -134,15 +135,15 @@
   },
   "active": "35603fff94372cb1",
   "lastOpenFiles": [
+    "Skolerelevant/Centripetalkraft.md",
+    "Skolerelevant/Jævn Cirkelbevægelse.md",
+    "Skolerelevant/Parallelforbindelser.md",
     "Parallelforbindelser.md",
     "Skolerelevant/Begreber i Relegion.md",
     "install.md",
     "Personligt/Dagbog/13-10-2021.md",
     "Personligt/Dagbog/14-10-2021.md",
     "Untitled 1.md",
-    "Spænding.md",
-    "Effekt.md",
-    "Emner i Fysik.md",
-    "Specifik Fordampningsvarme.md"
+    "Spænding.md"
   ]
 }
