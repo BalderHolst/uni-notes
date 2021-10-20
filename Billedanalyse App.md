@@ -3,10 +3,10 @@
 
 ### ToDo
 - [x] ruler popup on select/deselect
-- [ ] implement selected lines
-	- [ ] select them
-	- [ ] render selection
-- [ ] draw lines from points (via line tool)
+- [x] implement selected lines
+	- [x] select them
+	- [x] render selection
+- [x] draw lines from points (via line tool)
 - [ ] angles
 	- [ ] from points/lines
 - [ ] save
