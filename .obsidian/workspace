@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Dagbog/14-10-2021.md",
+            "file": "Skolerelevant/Projektion.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/14-10-2021.md",
+                "file": "Skolerelevant/Projektion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Dagbog/14-10-2021.md"
+                "file": "Skolerelevant/Projektion.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "e73431b401894823",
   "lastOpenFiles": [
+    "Skolerelevant/Projektion.md",
+    "Skolerelevant/Differentialligninger.md",
+    "Skolerelevant/Newtons Afkølingslov.md",
+    "Skolerelevant/Isaac Newton.md",
+    "Untitled.md",
     "Personligt/Dagbog/14-10-2021.md",
     "Aristoteles.md",
     "Skolerelevant/Kompendium til inuitisk religion.md",
     "Det Periodiske System.md",
-    "Bang, Herman - Frøkenen.pdf",
-    "Frøkenen - Analyse.md",
-    "install.md",
-    "Untitled.md",
-    "Skolerelevant/Begreber i Relegion.md",
-    "Untitled 1.md"
+    "Bang, Herman - Frøkenen.pdf"
   ]
 }
