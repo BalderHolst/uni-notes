@@ -2,7 +2,7 @@
 
 
 ### ToDo
-- [ ] ruler popup on select/deselect
+- [x] ruler popup on select/deselect
 - [ ] implement selected lines
 	- [ ] select them
 	- [ ] render selection
