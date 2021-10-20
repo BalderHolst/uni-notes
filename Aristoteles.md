@@ -1,3 +1,0 @@
-# Aristoteles
-
-#### værkestetik

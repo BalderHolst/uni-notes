@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9a55fb7ebffc7ac2",
+        "id": "620246b27892b1ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -132,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9a55fb7ebffc7ac2",
+  "active": "620246b27892b1ab",
   "lastOpenFiles": [
+    "Billedanalyse App.md",
+    "install.md",
+    "Skolerelevant/Det Periodiske System.md",
+    "Skolerelevant/Aristoteles.md",
     "Untitled.md",
     "Skolerelevant/Projektion.md",
     "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
     "Skolerelevant/Isaac Newton.md",
-    "Personligt/Dagbog/14-10-2021.md",
-    "Aristoteles.md",
-    "Skolerelevant/Kompendium til inuitisk religion.md",
-    "Det Periodiske System.md",
-    "Bang, Herman - Frøkenen.pdf"
+    "Personligt/Dagbog/14-10-2021.md"
   ]
 }
