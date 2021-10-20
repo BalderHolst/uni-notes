@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e73431b401894823",
+        "id": "9a55fb7ebffc7ac2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Projektion.md",
+            "file": "Billedanalyse App.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Projektion.md",
+                "file": "Billedanalyse App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Projektion.md"
+                "file": "Billedanalyse App.md"
               }
             }
           },
@@ -132,13 +132,13 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "e73431b401894823",
+  "active": "9a55fb7ebffc7ac2",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/Projektion.md",
     "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
     "Skolerelevant/Isaac Newton.md",
-    "Untitled.md",
     "Personligt/Dagbog/14-10-2021.md",
     "Aristoteles.md",
     "Skolerelevant/Kompendium til inuitisk religion.md",
