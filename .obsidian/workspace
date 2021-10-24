@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Billedanalyse App.md",
-            "mode": "preview"
+            "file": "Personligt/Dagbog/25-10-2021.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Billedanalyse App.md",
+                "file": "Personligt/Dagbog/25-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Billedanalyse App.md"
+                "file": "Personligt/Dagbog/25-10-2021.md"
               }
             }
           },
@@ -129,20 +129,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
   "active": "620246b27892b1ab",
   "lastOpenFiles": [
+    "Personligt/Dagbog/25-10-2021.md",
+    "Templates/Kildekritik.md",
+    "Untitled.md",
     "Billedanalyse App.md",
     "install.md",
     "Skolerelevant/Det Periodiske System.md",
     "Skolerelevant/Aristoteles.md",
-    "Untitled.md",
     "Skolerelevant/Projektion.md",
     "Skolerelevant/Differentialligninger.md",
-    "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Isaac Newton.md",
-    "Personligt/Dagbog/14-10-2021.md"
+    "Skolerelevant/Newtons Afkølingslov.md"
   ]
 }
