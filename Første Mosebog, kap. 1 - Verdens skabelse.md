@@ -1,34 +1,30 @@
-## Første Mosebog, kap. 1 - Verdens skabelse 
-1) Læs kapitel 1 og inddel det i afsnit! Giv afsnittene overskrifter! I hvilken rækkefølge skabes ’tingene’?
-	- v1 - v2: grundskitse
-	- v3 - v5: lys/mørke | nat/dag
-	- v6 - v8: himmel og hav
-	- v9 - v10: land og hav
-	- v11 - v13: Gud skaber liv, og **det er godt!** | ==liv er godt==
-	- v14 - v19: Stjerner, måne og sol, gør det muligt at måle tiden. Dette er altså **tidens** skabelse.
-	- 
+## [[Første Mosebog]], kap. 1 - Verdens skabelse 
 
-2) Hvordan beskrives Gud i kapitel 1?
+#### Indhold
+- v1 - v2: grundskitse
+- v3 - v5: lys/mørke | nat/dag
+- v6 - v8: himmel og hav
+- v9 - v10: land og hav
+- v11 - v13: Gud skaber liv, og **det er godt!** 
+- v14 - v19: Stjerner, måne og sol, gør det muligt at måle tiden. Dette er altså **tidens** skabelse.
+- v20 - v23: havdyr og fugle
+- v24 - v25: landdyr
+- v26: MENNESKENE i sit billedet
 
-3) Hvordan skabes og beskrives mennesket/menneskene i kapitel 1?
+#### Gud
+- Almægtig
+- Skaber
+- Glad for sin kreation
 
-4) Hvilken rolle spiller elementet vand i kapitel 1?
+#### Mennesket
+Mennesket skabes i Guds billede. Altså har mennesker guddommelige egenskaber. De er skabt til at **herske** jorden.
 
-5) Læs kapitel 2. Hvad skabes i kap. 2?
 
-6) Hvordan beskrives Gud i kapitel 2?
+#### Vand
+Vand er en byggesten for alt. Både himlen og landet skabes fra himlen.
 
-7) Hvordan skabes og beskrives mennesket/menneskene i kapitel 2?
-
-8) Hvilken rolle spiller elementet vand i kapitel 2?
-
-9) Kapitelinddelingen stammer fra middelalderen. Den stammer altså ikke fra den eller de ’oprindelige’ forfatter/forfattere. Hvor ville du lave kapitelinddelingen? Hvorfor?
-
-10) Hvilken genre tilhører teksten? Hvorfor?
-
-11) Giv gerne bud på tekstens tilblivelse ud fra din analyse og fortolkning! (svært)
-
-12) Hvad tænkte du om teksten, inden du gik i gang med analysen (forforståelse)? Er din forståelse af teksten blevet ændret under og efter analysen?
+>*Gud skabte hvælvingen, som skilte vandet under hvælvingen fra vandet over hvælvingen. Gud kaldte hvælvingen himmel.*
+>v6 - v8
 
 ### Tekst
 v1 I begyndelsen skabte Gud himlen og jorden. 
@@ -49,4 +45,4 @@ v20 Gud sagde: »Vandet skal vrimle med levende væsener, og fugle skal flyve ov
 
 v24 Gud sagde: »Jorden skal frembringe alle slags levende væsener, kvæg, krybdyr og alle slags vilde dyr!« Og det skete; v25 Gud skabte alle slags vilde dyr, al slags kvæg og alle slags krybdyr. Gud så, at det var ==godt==. 
 
-v26 Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« v27 Gud skabte mennesket i sit billede; i Guds billede skabte han det, som mand og kvinde skabte han dem. v28 Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« v29 Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. v30 Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. v31 Gud så alt, hvad han havde skabt, og han så, hvor ==godt== det var. Så blev det aften, og det blev morgen, den sjette dag.
+v26 Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« v27 ==Gud skabte mennesket i sit billede==; i Guds billede skabte han det, som mand og kvinde skabte han dem. v28 Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« v29 Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. v30 Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. v31 Gud så alt, hvad han havde skabt, og han så, hvor ==godt== det var. Så blev det aften, og det blev morgen, den sjette dag.
