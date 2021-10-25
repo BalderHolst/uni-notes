@@ -1,27 +1,44 @@
 ## [[Første Mosebog]], kap. 1 - Verdens skabelse 
+Det hele er godt!
 
 #### Indhold
-- v1 - v2: grundskitse
+- v1: opsumering/overskrift
+- v2: grundskitse - [[Begreber i Relegion#Hvad betyder kaos|kaos]]
+**Første dag**
 - v3 - v5: lys/mørke | nat/dag
+**Anden dag**
 - v6 - v8: himmel og hav
-- v9 - v10: land og hav
-- v11 - v13: Gud skaber liv, og **det er godt!** 
-- v14 - v19: Stjerner, måne og sol, gør det muligt at måle tiden. Dette er altså **tidens** skabelse.
+**Tredje dag**
+- v9 - v10: vandet samler sig, og det tøre land viser sig
+- v11 - v13: Gud skaber liv (planter og træer), og **det er godt!** 
+**Fjerde dag**
+- v14 - v19: Stjerner, måne og sol, gør det muligt at måle tiden. Dette er altså **tidens** (kronologiens) skabelse. Teksten er meget **konkret**
+**Femte dag**
 - v20 - v23: havdyr og fugle
+**Sjæte dag**
 - v24 - v25: landdyr
-- v26: MENNESKENE i sit billedet
+- v26: MENNESKENE i sit billedet (mand og kvinde)
+**Syvne dag - se [[Første Mosebog, kap. 2 - Adam og Eva|kapittel 2]]**
+- Gud hviler sig og bliver gjodt hellig
+
+**Symmetri i temaer**
+v1 : v4
+v2 : v5
+v3 : v6
 
 #### Gud
 - Almægtig
-- Skaber
+- Skaber kosmos
 - Glad for sin kreation
+
+Gud skaber ikke alt, men skaber [[Begreber i Relegion#Kosmos|kosmos]]
 
 #### Mennesket
 Mennesket skabes i Guds billede. Altså har mennesker guddommelige egenskaber. De er skabt til at **herske** jorden.
 
 
 #### Vand
-Vand er en byggesten for alt. Både himlen og landet skabes fra himlen.
+Vand er en byggesten for alt og var der i forvejen.
 
 >*Gud skabte hvælvingen, som skilte vandet under hvælvingen fra vandet over hvælvingen. Gud kaldte hvælvingen himmel.*
 >v6 - v8

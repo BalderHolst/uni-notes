@@ -115,11 +115,11 @@ Vi skelner mellem
 - Pligtetik
 
 
-### Hvad betyder kosmos?
+### Kosmos
 
 Kosmos betyder ’det velordnede’ i modsætning til ’kaos’.
 
-### Hvad betyder kaos?
+### Kaos
 
 Kaos betyder ’det uordnede’ i modsætning til ’kosmos’.
 
