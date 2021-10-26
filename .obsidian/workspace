@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Jødeforfølgelse.md",
+            "file": "Personligt/Dagbog/26-10-2021.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Jødeforfølgelse.md",
+                "file": "Personligt/Dagbog/26-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Jødeforfølgelse.md"
+                "file": "Personligt/Dagbog/26-10-2021.md"
               }
             }
           },
@@ -135,6 +135,7 @@
   },
   "active": "1c5c5ed9fc89d1c1",
   "lastOpenFiles": [
+    "Personligt/Dagbog/26-10-2021.md",
     "Skolerelevant/Jødeforfølgelse.md",
     "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
     "Skolerelevant/Integralregning.md",
@@ -143,7 +144,6 @@
     "Første Mosebog, kap. 1 - Verdens skabelse.md",
     "Skolerelevant/Begreber i Relegion.md",
     "Første Mosebog.md",
-    "Første Mosebog, kap. 2 - Adam og Eva.md",
-    "Bibelkompendium - samlet af AR.md"
+    "Første Mosebog, kap. 2 - Adam og Eva.md"
   ]
 }
