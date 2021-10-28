@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Dagbog/26-10-2021.md",
-            "mode": "preview"
+            "file": "Personligt/Dagbog/28-10-2021.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/26-10-2021.md",
+                "file": "Personligt/Dagbog/28-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Dagbog/26-10-2021.md"
+                "file": "Personligt/Dagbog/28-10-2021.md"
               }
             }
           },
@@ -135,6 +135,7 @@
   },
   "active": "1c5c5ed9fc89d1c1",
   "lastOpenFiles": [
+    "Personligt/Dagbog/28-10-2021.md",
     "Personligt/Dagbog/26-10-2021.md",
     "Skolerelevant/Jødeforfølgelse.md",
     "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
@@ -143,7 +144,6 @@
     "Skolerelevant/Differentialregning.md",
     "Første Mosebog, kap. 1 - Verdens skabelse.md",
     "Skolerelevant/Begreber i Relegion.md",
-    "Første Mosebog.md",
-    "Første Mosebog, kap. 2 - Adam og Eva.md"
+    "Første Mosebog.md"
   ]
 }
