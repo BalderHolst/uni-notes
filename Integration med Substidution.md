@@ -7,4 +7,6 @@ Vi definerer u som den inderste funktion. Hvis det er en brøk er $u$ altid næv
 $$u = 2t + \pi$$
 
 Isolerer $dt$
-$$
+$$dt = $$
+
+
