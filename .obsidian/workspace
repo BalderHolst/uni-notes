@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "a1e7457dfb4781b9",
+    "id": "ba8bf19bba640d30",
     "type": "split",
     "children": [
       {
-        "id": "735268d5b780b8a1",
+        "id": "659745f8de03636d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,20 +12,7 @@
             "file": "Skolerelevant/Medea - Tekst.md",
             "mode": "source"
           }
-        },
-        "group": "2dbf7bf4157bd630"
-      },
-      {
-        "id": "5c4bf217985cec0c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Medea - Tekst.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2dbf7bf4157bd630"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -146,17 +132,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "735268d5b780b8a1",
+  "active": "659745f8de03636d",
   "lastOpenFiles": [
     "Skolerelevant/Medea - Tekst.md",
-    "daimon.md",
-    "Skolerelevant/Linære førsteordens differentialligninger.md",
-    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
-    "Personligt/Billedanalyse App.md",
-    "Bibelkompendium - samlet af AR.pdf",
-    "Skolerelevant/Bibelkompendium - samlet af AR.md",
-    "Untitled.md",
-    "Skolerelevant/Differentialregning.md",
-    "Skolerelevant/Differentialligninger.md"
+    "Skolerelevant/Nemises.md",
+    "Skolerelevant/Sagnet til Medea.md",
+    "Skolerelevant/Ate.md",
+    "Skolerelevant/Hybris.md",
+    "Skolerelevant/Drama.md",
+    "Græske.md",
+    "Skolerelevant/Dike.md",
+    "Ordbog/daimon.md",
+    "Skolerelevant/Linære førsteordens differentialligninger.md"
   ]
 }

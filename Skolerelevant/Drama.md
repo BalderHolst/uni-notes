@@ -30,6 +30,14 @@ Alvorlig, [[Klassisk tid]]
  4. Exodos
 
 
+#### Drametisk Stryktur
+1. Desis - "knude"
+2. Peripiti - vendepunkt
+3. Klimax
+4. Anagnorisis - Annerkendelse (se [her](https://www.wordnik.com/words/anagnorisis))
+5. Lysis - Forløsning
+
+
 #### Forfattere
 - [[Aischylos]]
 - [[Sofokles]]

@@ -455,7 +455,7 @@ fra et liv jeg afskyer og hader!
 
 _(lyriske rytmer, anapaster fremtr__ædende)_
 
-Hører du, Zeus og Dagslys og Jord,
+Hører du, [[Zeus]] og Dagslys og Jord,
 
 <sub><sup>150</sup></sub> den forladte kvindes fortvivlede skrig?
 
@@ -473,7 +473,7 @@ hos nyvundet brud -
 
 det er verdens gang.
 
-Zeus vil dømme med retfærd og skel.
+[[Zeus]] vil dømme med retfærd og skel.
 
 Bid smerten i dig!
 
@@ -485,7 +485,7 @@ Og spar dine tårer for Iasons svig!
 
 mægtige Artemis,
 
-datter af Zeus!
+datter af [[Zeus]]!
 
 Se hvad uret jeg lider!
 
@@ -513,7 +513,7 @@ Sig, hører I hende påkalde med fynd
 
 den Themis som hævnende våger,
 
-og Zeus der blandt mennesker holdes i agt
+og [[Zeus]] der blandt mennesker holdes i agt
 
 <sub><sup>170</sup></sub> som vogter og hævner af edernes pagt?
 
@@ -944,7 +944,7 @@ KREON
 
 MEDEA
 
-Zeus! Glem ej ham der bærer hele skylden!
+[[Zeus]]! Glem ej ham der bærer hele skylden!
 
 KREON
 
@@ -1384,7 +1384,7 @@ Se her, en hæder for en nygift mand:
 
 de flakker landet rundt med tiggerstav!
 
-Åh Zeus! Du gav os mennesker sikre tegn
+Åh [[Zeus]]! Du gav os mennesker sikre tegn
 
 hvorved vi skelner ægte guld fra falsk.
 
@@ -2172,7 +2172,7 @@ Som en højsindet mand har du vist dig.
 
 MEDEA
 
-Ah Zeus! Åh retfærds Dike! Solens lys!
+Ah [[Zeus]]! Åh retfærds [[Dike]]! Solens lys!
 
 <sub><sup>765</sup></sub> Triumf! Nu får jeg bugt med mine fjender!
 
@@ -2256,7 +2256,7 @@ Mit fejltrin var at jeg forlod mit hjem
 
 og satte lid til en _Helleners_ løfter.
 
-Om Zeus det vil, dem skal han dyrt betale!
+Om [[Zeus]] det vil, dem skal han dyrt betale!
 
 For aldrig skal han gense sine børn
 
@@ -3299,7 +3299,6 @@ så lang tid gik som når en hurtig løber
 *Side 61*
 
 sin banes længde halvt tilbagelægger.
-
 Da vågner, med en kvalfuld stønnen, staklen
 
 som før med lukte øjne målløs lå:
@@ -3478,7 +3477,7 @@ Solskabte er de, og gudeblod tør ej
 
 af dødeligs våben udgydes.
 
-Zeusfødte lys,
+[[Zeus]]fødte lys,
 
 brems, stands, jag hende af gårde!
 
@@ -3540,7 +3539,7 @@ redde de drenge fra døden?
 
 <sub><sup>1.</sup></sub> DRENG
 
-Ved Zeus, ja, frels os! Det er høje tid!
+Ved [[Zeus]], ja, frels os! Det er høje tid!
 
 <sub><sup>2.</sup></sub> DRENG
 
@@ -3702,7 +3701,7 @@ Så blodbesudlet tør du se mod solen
 
 og denne jord, du ryggesløse kvinde!
 
-Pest ramme dig! Sent fik jeg øjet op:
+Pest ramme dig! <label class="ob-comment" title="" style=""> Sent fik jeg øjet op: <input type="checkbox"> <span style=""> [[Ate]] </span></label>
 
 <sub><sup>1330</sup></sub> for jeg var blind da jeg dig bragte hjem
 
@@ -3760,7 +3759,7 @@ MEDEA
 
 Med lethed kunne jeg dig svare vidt
 
-og bredt - men fader Zeus ved meget vel
+og bredt - men fader [[Zeus]] ved meget vel
 
 hvad jeg har ydet, og hvad løn jeg fik.
 
@@ -3886,7 +3885,7 @@ IASON
 
 Udslettelse ramme dig!
 
-<sub><sup>1390</sup></sub> Dike straffe dig, blodskyldens hævner.
+<sub><sup>1390</sup></sub> [[Dike]] straffe dig, blodskyldens hævner.
 
 MEDEA
 
@@ -3956,7 +3955,7 @@ Nej aldrig. Forgæves og spildt er din bøn.
 
 IASON
 
-<sub><sup>1405</sup></sub> Hører du, [[Zeus]], hvor hun støder mig bort?
+<sub><sup>1405</sup></sub> Hører du, [[[[Zeus]]]], hvor hun støder mig bort?
 
 hvad den glubende skabning mig volder af ve,
 
@@ -3990,7 +3989,7 @@ _(Iason og Medea ud til hver sin side)_
 
 KOR
 
-Stor er Zeus', Olympierens magt.
+Stor er [[Zeus]]', Olympierens magt.
 
 Hvad ingen har drømt lader guderne ske,
 
@@ -4112,7 +4111,7 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
 <sub><sup>543</sup></sub> _Orfeus:_ sagnagtig mester i sang og lyrespil.
 
-<sub><sup>613</sup></sub> _g__æstetegn:_ en itubrudt knogle, hvoraf to partnere der sluttede gæstevenskab hver beholdt sin del; den tjente i givet fald som attest (identifikation). Gæstevenskabet var helligt og stod under Zeus' beskyttelse.
+<sub><sup>613</sup></sub> _g__æstetegn:_ en itubrudt knogle, hvoraf to partnere der sluttede gæstevenskab hver beholdt sin del; den tjente i givet fald som attest (identifikation). Gæstevenskabet var helligt og stod under [[Zeus]]' beskyttelse.
 
 <sub><sup>630</sup></sub> _Afrodite:_ Afrodites dyrkelse var mangeartet; mest kendt og dyrket var hun i form af guddom for elskov, vellyst og sanserus.
 
@@ -4130,7 +4129,7 @@ spand (heste, muldyr etc.) under åg (sml. "trække på samme hammel").
 
 <sub><sup>722</sup></sub> _arvinger:_ sagnet melder intet om at Aigus fik efterkommere ved Medeas hjælp. Derimod besvangrede han under sit ophold hos Pittheus i Troizen datteren Aithra, der blev mor til Athens særlige heros Theseus.
 
-<sub><sup>764</sup></sub> _Dike:_ er ikke meget forskellig fra Themis (se note til v. 160). Dike er dog en grad mere guddommelig end Themis.
+<sub><sup>764</sup></sub> _[[Dike]]:_ er ikke meget forskellig fra Themis (se note til v. 160). [[Dike]] er dog en grad mere guddommelig end Themis.
 
 <sub><sup>771</sup></sub> _Pallas:_ Pallas Athene.
 
@@ -4162,7 +4161,7 @@ blive grebet af en uforklarlig angst ("panisk skræk", "panik"), så var det Pan
 
 <sub><sup>1265</sup></sub> _Symplegadernes trusselsport:_ se "Sagnet" s. 73.
 
-<sub><sup>1284</sup></sub> _Ino:_ datter af Thebens grundlægger Kadmos og gift med kong Athamas i Boiotien. Hun vakte Heras vrede, fordi hun havde taget sin søster Semeles søn med Zeus, Dionysos, til sig. Hera slog hende med vanvid, så hun dræbte sine to sønner og derefter styrtede sig i havet, hvor hun forvandledes til havnymfen Leukothea; det var hende der reddede Odysseus, så han kom i land på Faiakernes 0 (Odysseen V, 333 fi).
+<sub><sup>1284</sup></sub> _Ino:_ datter af Thebens grundlægger Kadmos og gift med kong Athamas i Boiotien. Hun vakte Heras vrede, fordi hun havde taget sin søster Semeles søn med [[Zeus]], Dionysos, til sig. Hera slog hende med vanvid, så hun dræbte sine to sønner og derefter styrtede sig i havet, hvor hun forvandledes til havnymfen Leukothea; det var hende der reddede Odysseus, så han kom i land på Faiakernes 0 (Odysseen V, 333 fi).
 
 <sub><sup>1335</sup></sub> _ved hjemmets alter:_ jvf. "Sagnet" s. 74. Ifl. en anden variant af sagnet dræbte Medea altså sin bror hjemme. Hvorfor Euripides har valgt denne variant her, ved vi ikke.
 
@@ -4440,4 +4439,4 @@ T. B. L. Webster, _The Tragedies of Euripides,_ London 1967
 
 ---
 #tekst 
-#old 
+#old
