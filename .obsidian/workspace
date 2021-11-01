@@ -10,7 +10,39 @@
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Medea - Tekst.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "78a5920102537a65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Medea - Analyse.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "deb2f1084ffc7e3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Akedemisk Analyse af Medea.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6e7369a79a978c94",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Media/MEDEA Tilbage til de dybblå symplegader.pdf"
           }
         }
       }
@@ -76,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md",
+                "file": "Akedemisk Analyse af Medea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Medea - Tekst.md"
+                "file": "Akedemisk Analyse af Medea.md"
               }
             }
           },
@@ -132,17 +164,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "659745f8de03636d",
+  "active": "deb2f1084ffc7e3c",
   "lastOpenFiles": [
+    "Akedemisk Analyse af Medea.md",
+    "Skolerelevant/Medea - Analyse.md",
+    "Media/MEDEA Tilbage til de dybblå symplegader.pdf",
+    "Bibelkompendium - samlet af AR.pdf",
     "Skolerelevant/Medea - Tekst.md",
     "Skolerelevant/Nemises.md",
     "Skolerelevant/Sagnet til Medea.md",
     "Skolerelevant/Ate.md",
     "Skolerelevant/Hybris.md",
-    "Skolerelevant/Drama.md",
-    "Græske.md",
-    "Skolerelevant/Dike.md",
-    "Ordbog/daimon.md",
-    "Skolerelevant/Linære førsteordens differentialligninger.md"
+    "Skolerelevant/Drama.md"
   ]
 }

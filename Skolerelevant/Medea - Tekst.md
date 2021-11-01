@@ -3729,7 +3729,7 @@ Nej, aldrig voved en hellenisk kvinde
 
 for dig - til eget vanheld og fordærv.
 
-Løvinde, ikke kvinde! Mere vild
+Løvinde, ikke kvinde! Mere vild ^8ce793
 
 og morderisk end den tyrrhenske Skylla.
 
