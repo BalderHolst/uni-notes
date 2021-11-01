@@ -112,7 +112,7 @@ collapse:               # Create a collapsible admonition.
 
            
 ---
-## Løsningsformel 2
+## Løsningsformel 2 - [[Isaac Newton|Newtons]] afkølingslov
 
 $$y'=b-a \cdot y \Arrows f(x) =  \frac{b}{a} + C  \cdot e^{-ax}, \s a \neq0$$
 
@@ -169,6 +169,67 @@ $$f(x) = \frac{b}{a} + C \cdot e^{-ax}$$
 ```
 
 ---
+## Løsningsformel 3 - linære førsteordens differentialligninger
 
+$$y' + a(x)  \cdot y = b(x) \arrows y' = b(x) - a(x) \cdot y$$
+
+**Førsteordensdifferentialligninger** = ligninger hvor der altid kun er **et** mærke (eks $y'$ og ikke $y''$)
+
+**Linæredifferentialligninger** = alle differentialligninger, der kan beskrives på denne ligning.
+
+**Variabler** *(disse funktioner kan godt være konstanter)*
+$a(x)$: en funktion af $x$
+$b(x)$: en anden funktion af $x$
+
+
+#### Løsningsformel
+$$f(x) = e^{-A(x)} \cdot \int e^{A(x)} \cdot b(x)dx$$
+
+***Husk integrationskonstanten når du integrere***
+
+**Variabler**
+$A(x)$: **en** stamfunktion for $a(x)$
+
+
+
+##### Eksempel  1
+$$y' = \frac{1}{x} \cdot y = 5x^3$$
+
+*Løsning:*
+
+$a(x) = \frac{1}{x}$
+$b(x) = 5x^3$
+
+Jeg skal finde $A(x)$, hvilket jeg gør ved at integere $a(x)$
+$$A(x) = \int \frac{1}{x}dx = ln(x)$$
+
+Sætter $A(x)$ ind
+$$f(x) = e^{-ln(x)} \cdot \int e^{ln(x)} \cdot 5x^3dx$$
+
+Simplificerer første led:
+$e^{-ln(x)} = \frac{1}{e^{ln(x)}} = \frac{1}{x}$
+
+Sætter det ind
+$$f(x) = \frac{1}{x} \cdot \int e^{ln(x)} \cdot 5x^3dx$$
+
+Reducerer andet led:
+$e^{ln(x)} = x$
+
+$$f(x) = \frac{1}{x} \cdot \int x \cdot 5x^3dx \Arrows f(x) = \frac{1}{x} \cdot \int 5x^4dx$$
+
+Integrerer
+$$\frac{1}{x}  \cdot (x^5 + k) \s = \s x^4 + \frac{k}{x}$$
+
+Altså er løsningen
+$$f(x) = x^4 + \frac{k}{x}$$
+
+##### Eksempel 2
+$$\frac{dy}{dx} - \frac{2}{x} \cdot y = e^x$$
+
+##### Eksempel 3
+$$y' = sin(x) - 5y$$
+
+
+---
 #matematik 
 

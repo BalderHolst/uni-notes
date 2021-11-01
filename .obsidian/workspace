@@ -4,35 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "32d2e9b71be81658",
-        "type": "split",
-        "children": [
-          {
-            "id": "1c08b2eaf238da51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integration med Substidution.md",
-                "mode": "preview"
-              }
-            },
-            "group": "fbd1ba598ba6997e"
-          },
-          {
-            "id": "1c5c5ed9fc89d1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integration med Substidution.md",
-                "mode": "source"
-              }
-            },
-            "group": "fbd1ba598ba6997e"
+        "id": "1c08b2eaf238da51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "5a5cadc57bf72620"
+      },
+      {
+        "id": "f9e0ea1bcbe9bd15",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Differentialligninger.md",
+            "mode": "preview"
+          }
+        },
+        "group": "5a5cadc57bf72620"
       }
     ],
     "direction": "vertical"
@@ -97,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integration med Substidution.md",
+                "file": "Skolerelevant/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integration med Substidution.md"
+                "file": "Skolerelevant/Differentialligninger.md"
               }
             }
           },
@@ -153,8 +146,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "1c5c5ed9fc89d1c1",
+  "active": "1c08b2eaf238da51",
   "lastOpenFiles": [
+    "Skolerelevant/Differentialligninger.md",
+    "Skolerelevant/Integraler Regneregler.md",
     "Integration med Substidution.md",
     "Skolerelevant/Integrationsprøven.md",
     "Personligt/Dagbog/28-10-2021.md",
@@ -162,8 +157,6 @@
     "Skolerelevant/Jødeforfølgelse.md",
     "Skolerelevant/Hitlers krig - 2. verdenskrig i Europa.md",
     "Skolerelevant/Integralregning.md",
-    "Skolerelevant/Linære Funktioner.md",
-    "Skolerelevant/Differentialregning.md",
-    "Første Mosebog, kap. 1 - Verdens skabelse.md"
+    "Skolerelevant/Linære Funktioner.md"
   ]
 }
