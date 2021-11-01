@@ -5,7 +5,7 @@
 
 
 ### Maple
-![[Media/Hældningsfelt i maple.png]]
+![[Hældningsfelt i maple.png]]
 ![[Hældningsfelt i maple 2.png]]
 
 ---

@@ -4,47 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "659745f8de03636d",
+        "id": "9a6eb7c2b23dd1bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Medea - Tekst.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "78a5920102537a65",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Medea - Analyse.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "deb2f1084ffc7e3c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Akedemisk Analyse af Medea.md",
+            "file": "Skolerelevant/Parallelforbindelser.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "6e7369a79a978c94",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Media/MEDEA Tilbage til de dybblå symplegader.pdf"
+        "id": "c0bf9f5c3d053eb0",
+        "type": "split",
+        "children": [
+          {
+            "id": "6dbd6dab8ae27e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serieforbindelser.md",
+                "mode": "preview"
+              }
+            },
+            "group": "b3d787df24b548fa"
+          },
+          {
+            "id": "88ea409a2cf762d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serieforbindelser.md",
+                "mode": "source"
+              }
+            },
+            "group": "b3d787df24b548fa"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akedemisk Analyse af Medea.md",
+                "file": "Skolerelevant/Parallelforbindelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akedemisk Analyse af Medea.md"
+                "file": "Skolerelevant/Parallelforbindelser.md"
               }
             }
           },
@@ -164,17 +164,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "deb2f1084ffc7e3c",
+  "active": "9a6eb7c2b23dd1bb",
   "lastOpenFiles": [
-    "Akedemisk Analyse af Medea.md",
-    "Skolerelevant/Medea - Analyse.md",
-    "Media/MEDEA Tilbage til de dybblå symplegader.pdf",
-    "Bibelkompendium - samlet af AR.pdf",
-    "Skolerelevant/Medea - Tekst.md",
-    "Skolerelevant/Nemises.md",
-    "Skolerelevant/Sagnet til Medea.md",
-    "Skolerelevant/Ate.md",
-    "Skolerelevant/Hybris.md",
-    "Skolerelevant/Drama.md"
+    "Skolerelevant/Parallelforbindelser.md",
+    "Serieforbindelser.md",
+    "Skolerelevant/Akedemisk Analyse af Medea.md",
+    "PDF/Formelsamling.pdf",
+    "Billeder/Ableton 11 - manual.pdf",
+    "PDF/Fysik_i_overblik.pdf",
+    "PDF/Bang, Herman - Frøkenen.pdf",
+    "PDF/MEDEA Tilbage til de dybblå symplegader.pdf",
+    "PDF/Brudstykker af en Landsbydegns Dagbog.pdf",
+    "PDF/Det_tredie_Rige.pdf"
   ]
 }
