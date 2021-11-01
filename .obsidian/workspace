@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cb19866e31115ce4",
+        "id": "735268d5b780b8a1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Medea - Tekst.md",
+            "mode": "source"
+          }
+        },
+        "group": "2dbf7bf4157bd630"
+      },
+      {
+        "id": "5c4bf217985cec0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Medea - Tekst.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2dbf7bf4157bd630"
       }
     ],
     "direction": "vertical"
@@ -74,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Medea - Tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Medea - Tekst.md"
+              }
             }
           },
           {
@@ -127,17 +146,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "cb19866e31115ce4",
+  "active": "735268d5b780b8a1",
   "lastOpenFiles": [
-    "Linære førsteordens differentialligninger.md",
+    "Skolerelevant/Medea - Tekst.md",
+    "daimon.md",
+    "Skolerelevant/Linære førsteordens differentialligninger.md",
+    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
+    "Personligt/Billedanalyse App.md",
+    "Bibelkompendium - samlet af AR.pdf",
+    "Skolerelevant/Bibelkompendium - samlet af AR.md",
+    "Untitled.md",
     "Skolerelevant/Differentialregning.md",
-    "Skolerelevant/Differentialligninger.md",
-    "Skolerelevant/Linære Funktioner.md",
-    "Skolerelevant/Newtons Afkølingslov.md",
-    "Newtons afkølingslov.md",
-    "Skolerelevant/Leningrad.md",
-    "Skolerelevant/Aksiomer.md",
-    "Skolerelevant/Integration med Substidution.md",
-    "Untitled.md"
+    "Skolerelevant/Differentialligninger.md"
   ]
 }

@@ -397,7 +397,7 @@ jo mere man mægter, des hårdere slår,
 
 når tiden er inde,
 
-<sub><sup>130</sup></sub> den vredladne daimon sit offer.
+<sub><sup>130</sup></sub> den vredladne [[daimon]] sit offer.
 
 # PARODOS
 
@@ -3592,6 +3592,8 @@ hvad ondt har du ikke forvoldt
 
 de dødeliges æt?
 
+#### 5. Episidon
+
 IASON _(ind i stor hast)_
 
 I kvinder foran porten, sig mig straks:
@@ -3664,7 +3666,7 @@ I slaver, hurtigt! Bort med lås og slå!
 
 de arme børn. Men hun skal bøde dyrt.
 
-_(Medea viser sig p__å bygningens tag på en vogn, forspændt med to drager. Hun har sine døde drenge i favnen)_
+_(Medea viser sig på bygningens tag på en vogn, forspændt med to drager. Hun har sine døde drenge i favnen)_
 
   
 
@@ -3734,7 +3736,7 @@ og morderisk end den tyrrhenske Skylla.
 
 <sub><sup>1345</sup></sub> Men tusind skældsord ville prelle af
 
-på die, din spot og hånlige natur.
+på dig, din spot og hånlige natur.
 
   
 
@@ -3832,7 +3834,7 @@ Hvem først forbrød sig her, véd alle guder.
 
 IASON
 
-- og kender din fordærvede natur.
+-og kender din fordærvede natur.
 
 MEDEA
 
@@ -3954,7 +3956,7 @@ Nej aldrig. Forgæves og spildt er din bøn.
 
 IASON
 
-<sub><sup>1405</sup></sub> Hører du, Zeus, hvor hun støder mig bort?
+<sub><sup>1405</sup></sub> Hører du, [[Zeus]], hvor hun støder mig bort?
 
 hvad den glubende skabning mig volder af ve,
 
@@ -3984,7 +3986,7 @@ for i dag kun at se dem
 
 _(Iason og Medea ud til hver sin side)_
 
-EXODOS
+##### EXODOS
 
 KOR
 
