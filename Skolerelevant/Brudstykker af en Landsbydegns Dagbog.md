@@ -192,3 +192,8 @@ Thiele, den 12te Januar 1751. En stille, herlig Vinternat! Alt hvad jeg seer, Bl
 
 Føulum, den 12te Mai 1753. I Søndags forrettede jeg førstegang mit Embede som Degn til Thiele og Vinge. Den naadige Herre kaldte mig paa sin Dødsseng. Her boer jeg nu i min Faders Huus; men jeg boer her allene. Alle mine Ungdomsvenner ere forlængst gangne til Hvile; jeg er endnu tilbage, som et skaldet Træe paa Heden; men om føie Tid skal jeg samles til dem, og være den sidste af min Slægt. Disse Blade skulle være det eneste Mærke om mig. Om Nogen engang, naar jeg er død og borte læser dem, da skal han sukke og sige: »Anlangendes et Menneske, hans Dage ere som Græs; som et Blomster paa Marken, saa skal han blomstre. Naar Veiret farer over det, da er det ikke mere, og dets Sted kjender det ikke mere. Men Herrens Miskundhed er fra Evighed og indtil Evighed.« 
 
+---
+#dansk 
+#tekst 
+
+

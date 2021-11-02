@@ -22,7 +22,7 @@ Mennesket er et biologisk væsen. Vi interasserer os ikke for ond.
 
 ### Tekster
 - [[Strindberg, August - Af Frk Julie, forord og slutningen.pdf]]
-- 
+- [[Af Fru Marie Grubbe]]
 
 
 ---

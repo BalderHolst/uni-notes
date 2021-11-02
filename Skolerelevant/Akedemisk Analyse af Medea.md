@@ -66,7 +66,7 @@ ammen udtrykker en forundring overfor medeas følelser og uformindskede voldsomh
 
 -   Der er en skarp kontrast til, hvordan de andre roller i Medea beskriver Medea og i forhold til hvordan hun virkelig er, når hun træder ind på scenen.
    
--   Hun prøver at overtale koret, som er kvinder, til at holde med hende, da de derfor får medynk ([[eleos]]) for hende og frygt ([[fobos]]) for Iason.
+-   Hun prøver at overtale koret, som er kvinder, til at holde med hende, da de derfor får medynk ([[Eleos]]) for hende og frygt ([[fobos]]) for Iason.
    
 -   Medea får nogle mandlige egenskaber som Iason ikke kan lide. 
    
