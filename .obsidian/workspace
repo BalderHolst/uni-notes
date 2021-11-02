@@ -10,40 +10,20 @@
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Parallelforbindelser.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "c0bf9f5c3d053eb0",
-        "type": "split",
-        "children": [
-          {
-            "id": "6dbd6dab8ae27e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serieforbindelser.md",
-                "mode": "preview"
-              }
-            },
-            "group": "b3d787df24b548fa"
-          },
-          {
-            "id": "88ea409a2cf762d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serieforbindelser.md",
-                "mode": "source"
-              }
-            },
-            "group": "b3d787df24b548fa"
+        "id": "6dbd6dab8ae27e52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Serieforbindelser.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
