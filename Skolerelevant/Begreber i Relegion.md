@@ -24,7 +24,7 @@
 ---
 
           
-### Hvad er [[religion]]?
+### Hvad er [[Religion]]?
 
 ### Udefra/Indefra-kilde? 
 se [[Typer kilder#Relegion]]
@@ -35,19 +35,7 @@ _Religiøsitet_ er religiøse fænomener, der ikke indgår i ’et sammenhængen
 
 Fx at krydse fingre, at undgå sorte katte, at kaste salt over skulderen eller banke under bordet. På nogle hoteller er der ikke en 13. etage. Nogle mennesker undgår at gå ud fredag den 13. Alt sammen gøres for at opnå en særlig magisk virkning).
 
-### Hvad er en myte?
-
-En myte er en fortælling om urtiden, hvor de nuværende ting og deres orden blev til.
-
-Myten er altså en fortælling
-
-1) uden for tid og rum
-
-2) med et særligt _indhold_ i form af en afgørende begivenhed i urtiden, historisk tid eller ved verdens afslutning
-
-3) med en særlig _ætiologisk funktion,_ dvs. at den _forklarer_, hvorfor noget er som det er, fx himmel og jord, arbejdsdelingen mellem mand og kvinde eller hvor ilden kommer fra.
-
-Myten er således en førvidenskabelig måde at forstå verden på. Myter bruges som grundlag for ritualer, som genopliver myten.
+### Hvad er en [[Myter]]?
 
 ### Hvad er et ritual?
 
@@ -132,7 +120,7 @@ Tanken er, at alt er besjælet. Et eksempel er den opfattelse, at en sten, der f
 
   
 
-### Hvad er [[mana]]?
+### Hvad er [[Mana]]?
 
 ### Hvad betyder tabu?
 

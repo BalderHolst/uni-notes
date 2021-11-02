@@ -17,30 +17,12 @@
       "key": "H"
     }
   ],
-  "starred:star-current-file": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "S"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
     }
   ],
   "periodic-notes:next-daily-note": [],
@@ -71,6 +53,23 @@
         "Shift"
       ],
       "key": "Delete"
+    }
+  ],
+  "outline:open-for-current": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
     }
   ]
 }

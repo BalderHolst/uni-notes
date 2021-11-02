@@ -2976,7 +2976,7 @@ at give feje, slappe tanker rum.
 
 her afsky ved det offer jeg må bringe,
 
-<sub><sup>1055</sup></sub> det blir hans sag. Min hånd skal ikke ryste,
+<sub><sup>1055</sup></sub> det blir hans sag. Min hånd skal ikke ryste, ^83aebc
 
 Åh -
 
@@ -3593,6 +3593,8 @@ de dødeliges æt?
 
 #### 5. Episidon
 
+^b1fc17
+
 IASON _(ind i stor hast)_
 
 I kvinder foran porten, sig mig straks:
@@ -3701,7 +3703,7 @@ Så blodbesudlet tør du se mod solen
 
 og denne jord, du ryggesløse kvinde!
 
-Pest ramme dig! <label class="ob-comment" title="" style=""> Sent fik jeg øjet op: <input type="checkbox"> <span style=""> [[Arte]] </span></label>
+Pest ramme dig! <label class="ob-comment" title="" style=""> Sent fik jeg øjet op: <input type="checkbox"> <span style=""> [[Ate]] </span></label>
 
 <sub><sup>1330</sup></sub> for jeg var blind da jeg dig bragte hjem
 
