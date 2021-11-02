@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Parallelforbindelser.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "6dbd6dab8ae27e52",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Serieforbindelser.md",
+            "file": "Skolerelevant/Newtons Afkølingslov.md",
             "mode": "preview"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dansk",
+                "query": "integral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +56,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -87,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Parallelforbindelser.md",
+                "file": "Skolerelevant/Newtons Afkølingslov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Parallelforbindelser.md"
+                "file": "Skolerelevant/Newtons Afkølingslov.md"
               }
             }
           },
@@ -136,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,15 +136,15 @@
   },
   "active": "9a6eb7c2b23dd1bb",
   "lastOpenFiles": [
+    "Skolerelevant/Newtons Afkølingslov.md",
+    "Skolerelevant/Førstefangsrite.md",
+    "Skolerelevant/Inuit Relegion.md",
     "Skolerelevant/Parallelforbindelser.md",
     "Serieforbindelser.md",
-    "Skolerelevant/Akedemisk Analyse af Medea.md",
-    "PDF/Formelsamling.pdf",
-    "Billeder/Ableton 11 - manual.pdf",
-    "PDF/Fysik_i_overblik.pdf",
-    "PDF/Bang, Herman - Frøkenen.pdf",
-    "PDF/MEDEA Tilbage til de dybblå symplegader.pdf",
-    "PDF/Brudstykker af en Landsbydegns Dagbog.pdf",
-    "PDF/Det_tredie_Rige.pdf"
+    "Billeder/Jævn Cirkelbevægelse 1.png",
+    "Ellære.md",
+    "Billeder/Ellære opgave 1 - udregning.png",
+    "Ellære.md",
+    "Billeder/Ennæreopgave 1.png"
   ]
 }
