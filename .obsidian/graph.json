@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 13408767
       }
+    },
+    {
+      "query": "tag:#filosofi",
+      "color": {
+        "a": 1,
+        "rgb": 6922667
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.19388292181058636,
+  "scale": 0.12684375483492955,
   "close": true
 }

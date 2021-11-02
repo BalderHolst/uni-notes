@@ -5,7 +5,7 @@
 $$f(x) = ax +b$$
 
 ### To-punktsformlen
-Vi kan finde forskriften for en [[Linære Funktioner|linær funktion]] ved hjælp af to punkter.
+Vi kan finde forskriften for en Linære Funktioner ved hjælp af to punkter.
 
 Hældningen 
 

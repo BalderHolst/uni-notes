@@ -1,5 +1,5 @@
 # J. P. Jacobsen: Af Fru Marie Grubbe (1876) 
-Analyse: [[Af Fru Marie Grubbe]]
+Analyse: [[Uddrag fra Fru Marie Grubbe]]
 
 ##### Kapitel I (1)
 

@@ -1,10 +1,8 @@
-# Af Fru Marie Grubbe
+# Uddrag fra Fru Marie Grubbe
 af [[Jacobsen J.P.]]
 
 Teksten er [[Jacobsen J.P. - Af Fru Marie Grubbe|her]]
 
-
-## Symboer 
 
 
 ## Kapittel 1
@@ -15,7 +13,7 @@ Teksten er [[Jacobsen J.P. - Af Fru Marie Grubbe|her]]
 		- nydelig
 		- smuk
 		- styrke
-- 14. år
+- 14 år
 - Datter af Hr. Erik Gruppe
 - Velhavende
 >*"Ellers var der intet Klosterligt ved Dragten; en bred og ligeskaaren Lærredskrave slog ned over en lavendelblaa Hvergarnskjole med korte og vide, opskaarne Ærmer; ud af dem brusede et Par store Poseærmer af fint, hollandsk Lin."*
@@ -39,6 +37,12 @@ Teksten er [[Jacobsen J.P. - Af Fru Marie Grubbe|her]]
 [[Jacobsen J.P. - Af Fru Marie Grubbe#^bda5a5|på Side 2]]
 
 Der hvor hun lukker sine øjne, og dagdrømmer
+
+## Kapittel 16
+
+Sprudlende pige $\rightarrow$ Tyk, gammel, tom og bleg
+
+Hendes blik bliver "udtryksløst og tomt"
 
 ---
 #dansk 

@@ -15,3 +15,6 @@ Myten er altså en fortælling
 3) med en særlig _ætiologisk funktion,_ dvs. at den _forklarer_, hvorfor noget er som det er, fx himmel og jord, arbejdsdelingen mellem mand og kvinde eller hvor ilden kommer fra.
 
 Myten er således en førvidenskabelig måde at forstå verden på. Myter bruges som grundlag for ritualer, som genopliver myten.
+
+---
+#relegion 

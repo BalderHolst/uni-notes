@@ -2857,18 +2857,20 @@ Præampel (: indledning) Aktionsfront Nationaler Sozialisten er sammenslutningen
  TEKST 58 [[Vold skaber opmærksomhed]]
 
 ---
-
+	
 Hvem er hvem? 
 
  Blomberg, Werner von: 1878-1946. Tysk generalfeltmarskal. Rigsværnsminister 1933-35, krigsminister og øverstbefalende for værnemagten 1935-38. 
 
+	
  Chamberlain, Neville 1869-1940. Engelsk premierminister 1937-1940. 
 
  Churchill, Winston: 1874-1965. Engelsk premierminister 1940-45 og 1951-55. 
 
  Dolfuss, Engelbert: 1892-1934. Østrigs forbundskansler og udenrigsminister 
 
-1932. Leder af fascistisk styre 1934. Myrdet under det nazis- tiske kupforsøg samme år. 
+1932.Leder af fascistisk styre 1934. Myrdet under det nazis- tiske kupforsøg samme år. 
+
 
  Ebert, Friedrich: 1871-1925. Weimarrepublikkens første præsident 1919-1925. Socialdemokrat. 
 
@@ -3141,4 +3143,6 @@ Illustrationer
 1940. Her efter Niels Senius Clausen og Bent Fausing: "Fascismens billeder", Dan- marks Radio, 1980. s. 67: 2 tegninger af George Grosz: "Am Kanal" og "Erinnerung an New York". © 
 
  George Grosz/Copy-Dan, Billedkunst, 1998 s. 68 øv: Maleri af Ernst Ludwig Kirchner: "Bauernmahlzeit". © by Ingeborg & Dr. Wolfgang Henze-Ketterer, Wichtrach/ Bern. s. 68 ned.: Adolf Wissel: "Kalenberger Bauernfamilie". Her efter Niels Senius Clausen og Bent Fausing: "Fascismens billeder", Danmarks Radio, 1980. s. 69, 70: Foto: Archiv des pädagogischen Instituts der Stadt Nürnberg. Her efter Bernd Ogan og Wolfgang W. Weiß "Faszination und Gewalt Zur politischen Ästhetik des Nationalsozialismus", W. Tümmels Buchdruckerei und Verlag GmbH, Nürnberg. s. 71: Kilde: Bildstelle der Stadt Nürnberg. s. 72,73: Foto: Archiv Loiperdinger. s. 88: Foto: Gyldendals Billedbibliotek. s. 91: Foto: Hanns Hubmann, s. 94: Foto: Bent Mann Fotografi. s. 105,123,163,164,166: Foto: Orbis Photo, Berlin. s. 106,111: Foto: Pressebureauet APN. s. 108: Foto: George Rodger. s. 112, 120, 121: Foto Robert Capa, Magnum/Focus. Her efter Klaus Honnef und Ursula Breymayer: "Ende und Anfang Photographien in Deutschland um 1945", Deutsches Historisches Museum, 1995. s. 116: Foto: Margaret Bourke-White. Her efter Klaus Honnef und Ursula Breymayer: "Ende und Anfang Photographen in Deutschland um 1945", Deutsches Historisches Museum, 1995. s. 117: Foto: Fred Ramage. s. 118: Det kgl. Bibliotek, Kortog billedafdelingen. s. 145, 167: Foto: Atlantic Photo-Verlag, Berlin. s. 199: Foto: National Archives, Washington. 
-
+	
+---
+#historie 

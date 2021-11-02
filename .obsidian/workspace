@@ -7,8 +7,11 @@
         "id": "f21eced6ef789d92",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -42,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -58,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md"
+              }
             }
           }
         ],
@@ -115,19 +122,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "f21eced6ef789d92",
   "lastOpenFiles": [
-    "Skolerelevant/Hjemme - Ude - Hjem.md",
-    "Skolerelevant/Untitled.md",
-    "Skolerelevant/Kompendium til inuitisk religion.md",
-    "Skolerelevant/Eleos.md",
-    "Skolerelevant/Pythagoras Læresætning.md",
-    "Skolerelevant/Brudstykker af en Landsbydegns Dagbog.md",
-    "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md",
-    "Skolerelevant/Af Fru Marie Grubbe.md",
-    "Skolerelevant/Tekster.md",
-    "Skolerelevant/fobos.md"
+    "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+    "Skolerelevant/Differentialregning.md",
+    "Impressionisme.md",
+    "Skolerelevant/Sekanter og Tangenter.md",
+    "Skolerelevant/Linære Funktioner.md",
+    "Skolerelevant/Aksiomer.md",
+    "Skolerelevant/Hvad er Oplysning - Kant.md",
+    "Skolerelevant/Religion.md",
+    "Skolerelevant/Etik.md",
+    "Skolerelevant/Kaos.md"
   ]
 }

@@ -7,3 +7,6 @@ Naturfolkene fremkalder en situation, som man gennemspiller. Den situation, man 
 Fx: Bøffeldansen; en bøffel nedlægges i skuespillet – det fører til succesfuld jagt.
 
 Fx: En kvinde løsner sit bælte, og så løsnes harpunstrengen også.
+
+---
+#relegion 
