@@ -7,8 +7,21 @@
         "id": "88953c4287199693",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Det Morderne Gennembrud.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4b9934bac971f366",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDF/Jacobsen J.P. - Af Fru Marie Grubbe.pdf"
+          }
         }
       }
     ],
@@ -42,7 +55,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -58,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Det Morderne Gennembrud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tekst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Det Morderne Gennembrud.md"
+              }
             }
           }
         ],
@@ -120,15 +137,15 @@
   },
   "active": "88953c4287199693",
   "lastOpenFiles": [
+    "Skolerelevant/Det Morderne Gennembrud.md",
+    "Af Fru Marie Grubbe.md",
+    "PDF/Jacobsen J.P. - Af Fru Marie Grubbe.pdf",
+    "Jacobsen J.P..md",
+    "Tekster.md",
+    "Skolerelevant/Seneca.md",
     "Skolerelevant/Monotoniforhold.md",
     "Skolerelevant/eleos.md",
     "Skolerelevant/Kosmos.md",
-    "Skolerelevant/Akedemisk Analyse af Medea.md",
-    "Skolerelevant/fobos.md",
-    "Skolerelevant/Medea - Tekst.md",
-    "Skolerelevant/Hjemme - Ude - Hjem.md",
-    "Skolerelevant/Seneca.md",
-    "Skolerelevant/Untitled.md",
-    "Skolerelevant/Ate.md"
+    "Skolerelevant/Akedemisk Analyse af Medea.md"
   ]
 }
