@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6eb7c2b23dd1bb",
+        "id": "da534773b7abeccb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Newtons Afkølingslov.md",
+            "file": "Skolerelevant/Typer Henfald.md",
+            "mode": "source"
+          }
+        },
+        "group": "06a7e102c98845fe"
+      },
+      {
+        "id": "7b0152375a630315",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Typer Henfald.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "06a7e102c98845fe"
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Newtons Afkølingslov.md",
+                "file": "Skolerelevant/Typer Henfald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Newtons Afkølingslov.md"
+                "file": "Skolerelevant/Typer Henfald.md"
               }
             }
           },
@@ -134,8 +147,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "9a6eb7c2b23dd1bb",
+  "active": "7b0152375a630315",
   "lastOpenFiles": [
+    "Skolerelevant/Typer Henfald.md",
+    "Untitled.md",
     "Skolerelevant/Newtons Afkølingslov.md",
     "Skolerelevant/Førstefangsrite.md",
     "Skolerelevant/Inuit Relegion.md",
@@ -143,8 +158,6 @@
     "Serieforbindelser.md",
     "Billeder/Jævn Cirkelbevægelse 1.png",
     "Ellære.md",
-    "Billeder/Ellære opgave 1 - udregning.png",
-    "Ellære.md",
-    "Billeder/Ennæreopgave 1.png"
+    "Billeder/Ellære opgave 1 - udregning.png"
   ]
 }
