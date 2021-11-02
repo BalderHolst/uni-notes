@@ -16,7 +16,7 @@ $$\atom{A}{Z}{X} \rightarrow \atom{A}{Z + 1}{Y} + \atom{0}{-1}{e} + \overline{\t
 En neutron fra moderkernen omdannes til en proton, en elektron og en antineutrino. Derved er nukleontallet, ladningen og leptontallet bevaret. Energi og impuls er også bevaret selvom det ikke kan ses på reaktionsskemaet.
 
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  Eksempeler
+title:                  Eksempler
 collapse:               # Create a collapsible admonition.
 
 ### Eksempel 1

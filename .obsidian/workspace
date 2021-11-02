@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da534773b7abeccb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Typer Henfald.md",
-            "mode": "source"
-          }
-        },
-        "group": "06a7e102c98845fe"
-      },
-      {
         "id": "7b0152375a630315",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Typer Henfald.md",
+            "file": "Skolerelevant/Akedemisk Analyse af Medea.md",
             "mode": "preview"
           }
-        },
-        "group": "06a7e102c98845fe"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Typer Henfald.md",
+                "file": "Skolerelevant/Akedemisk Analyse af Medea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Typer Henfald.md"
+                "file": "Skolerelevant/Akedemisk Analyse af Medea.md"
               }
             }
           },
@@ -140,15 +127,16 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
   "active": "7b0152375a630315",
   "lastOpenFiles": [
+    "Skolerelevant/Akedemisk Analyse af Medea.md",
+    "Skolerelevant/Medea - Analyse.md",
     "Skolerelevant/Typer Henfald.md",
     "Untitled.md",
     "Skolerelevant/Newtons Afkølingslov.md",
@@ -156,8 +144,6 @@
     "Skolerelevant/Inuit Relegion.md",
     "Skolerelevant/Parallelforbindelser.md",
     "Serieforbindelser.md",
-    "Billeder/Jævn Cirkelbevægelse 1.png",
-    "Ellære.md",
-    "Billeder/Ellære opgave 1 - udregning.png"
+    "Billeder/Jævn Cirkelbevægelse 1.png"
   ]
 }
