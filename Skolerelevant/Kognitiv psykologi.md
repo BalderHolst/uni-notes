@@ -2,7 +2,7 @@
 *Folk: [[Hermann Ebbinghaus]], [[Bartlett]], [[Wertheimer]], [[Piaget]]*
 
 
-**Fokus:** Opmærksomhed, Perseption, Hukommelse, tænkning og sprog
+**Fokus:** [[Opmærksomhed]], [[Perception]], [[Hukommelsen]], tænkning og sprog
 
 Personlighed = den måde vi tænker, oplever og handler på
 

@@ -6,7 +6,7 @@ Opmærksomhed er styret af *indre* og *ydre* faktorer.
 - Sult
 - Tanker
 
-### Udrefaktorer
+### Ydrefaktorer
 - Larm
 - Notifikationer
 - Mad

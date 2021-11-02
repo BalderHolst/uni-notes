@@ -4,13 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f21eced6ef789d92",
+        "id": "e5306034e6d62379",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+            "file": "Psykologoprøve.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f4f7abe6037da464",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Læringsformer.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2ba7d73095cd982f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Behaviorisme.md",
+            "mode": "source"
           }
         }
       }
@@ -62,14 +84,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+                "file": "Psykologoprøve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "julie",
+                "query": "tag:#dansk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,29 +135,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md"
+                "file": "Psykologoprøve.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "f21eced6ef789d92",
+  "active": "e5306034e6d62379",
   "lastOpenFiles": [
-    "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
-    "Skolerelevant/Differentialregning.md",
-    "Impressionisme.md",
-    "Skolerelevant/Sekanter og Tangenter.md",
-    "Skolerelevant/Linære Funktioner.md",
-    "Skolerelevant/Aksiomer.md",
-    "Skolerelevant/Hvad er Oplysning - Kant.md",
-    "Skolerelevant/Religion.md",
-    "Skolerelevant/Etik.md",
-    "Skolerelevant/Kaos.md"
+    "Psykologoprøve.md",
+    "Skolerelevant/Opmærksomhed.md",
+    "Skolerelevant/Viden.md",
+    "Skolerelevant/Kognitiv psykologi.md",
+    "Skolerelevant/Behaviorisme.md",
+    "Skolerelevant/Læringsformer.md",
+    "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md",
+    "Billeder/Newtons Afkølingslov Hældningsfelt.png",
+    "Charles Darwin.md",
+    "Skolerelevant/Jacobsen J.P..md"
   ]
 }
