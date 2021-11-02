@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Akedemisk Analyse af Medea.md",
+            "file": "Skolerelevant/Begreber i Relegion.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4138f97615c8a49e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Etik.md",
+            "mode": "source"
           }
         }
       }
@@ -34,21 +45,6 @@
             }
           },
           {
-            "id": "973d7d9fdc0f3744",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "integral",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
-          {
             "id": "996144d572ae40ea",
             "type": "leaf",
             "state": {
@@ -56,8 +52,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Akedemisk Analyse af Medea.md",
+                "file": "Skolerelevant/Begreber i Relegion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,16 +96,6 @@
             }
           },
           {
-            "id": "13ea487c6cc1c378",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Skolerelevant/Akedemisk Analyse af Medea.md"
-              }
-            }
-          },
-          {
             "id": "b5c2b239df605047",
             "type": "leaf",
             "state": {
@@ -119,31 +104,39 @@
             }
           },
           {
-            "id": "29ac6924dafdb6d6",
+            "id": "973d7d9fdc0f3744",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "kosmos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "7b0152375a630315",
   "lastOpenFiles": [
-    "Skolerelevant/Akedemisk Analyse af Medea.md",
-    "Skolerelevant/Medea - Analyse.md",
-    "Skolerelevant/Typer Henfald.md",
-    "Untitled.md",
-    "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Førstefangsrite.md",
-    "Skolerelevant/Inuit Relegion.md",
-    "Skolerelevant/Parallelforbindelser.md",
-    "Serieforbindelser.md",
-    "Billeder/Jævn Cirkelbevægelse 1.png"
+    "Skolerelevant/Begreber i Relegion.md",
+    "Etik.md",
+    "Religion.md",
+    "Skolerelevant/Durkheim.md",
+    "Typer kilder.md",
+    "Mana.md",
+    "Skolerelevant/Medea - Tekst.md",
+    "Ligeartet fremkalder ligeartet.md",
+    "Kaos.md",
+    "Kosmos.md"
   ]
 }

@@ -1,4 +1,4 @@
-### [[Ate]] $\rightarrow$ Hybris $\rightarrow$ [[Nemises]]
+### [[Arte]] $\rightarrow$ Hybris $\rightarrow$ [[Nemesis]]
 
 ---
 

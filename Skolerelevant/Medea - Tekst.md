@@ -3665,13 +3665,13 @@ I slaver, hurtigt! Bort med lås og slå!
 
 de arme børn. Men hun skal bøde dyrt.
 
-_(Medea viser sig på bygningens tag på en vogn, forspændt med to drager. Hun har sine døde drenge i favnen)_
+<label class="ob-comment" title="" style=""> _(Medea viser sig på bygningens tag på en vogn, forspændt med to drager. Hun har sine døde drenge i favnen)_ <input type="checkbox"> <span style=""> Her bliver Medea til Gudinde igen. Artiklen [[MEDEA Tilbage til de dybblå symplegader.pdf]] der er analyseret i [[Akedemisk Analyse af Medea]] mener at Medea her, er iført et orientalt kostume.</span></label>
 
   
 
 
 ---
-*Side 67*
+*Side 67* ^2fc457
 
 MEDEA
 
@@ -3701,7 +3701,7 @@ Så blodbesudlet tør du se mod solen
 
 og denne jord, du ryggesløse kvinde!
 
-Pest ramme dig! <label class="ob-comment" title="" style=""> Sent fik jeg øjet op: <input type="checkbox"> <span style=""> [[Ate]] </span></label>
+Pest ramme dig! <label class="ob-comment" title="" style=""> Sent fik jeg øjet op: <input type="checkbox"> <span style=""> [[Arte]] </span></label>
 
 <sub><sup>1330</sup></sub> for jeg var blind da jeg dig bragte hjem
 

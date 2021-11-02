@@ -2,8 +2,6 @@
 
 # Begreber i Religion
 
-**Relegion** = Det sammenhængende system af forestillinger og praksis, der forholder sig til den metafysiske verden. ([[Durkheim]])
-
 **Synkretisme** = når man er tilhænger af flere relegioner
 
 **Civilrelegion** = man samler folk om noget der ikke direkte er en relegion. F.eks. Nationalisme, Grundlovsfejringer, flag og kongehus.
@@ -12,11 +10,9 @@
 
 ![](Verdensrelegioner.jpg)
 
-**Mana:** Ideen om at naturen har en bestemt energi. Eks. Bjørneklog = Styrke.
-
 **Magi:** Manipulering af Mana
 
-**[[Etik]]:** Det gode/onde
+**[[Etik]]**
 
 **Fysiske Verden:** Den verden vi lever i
 
@@ -27,19 +23,11 @@
 
 ---
 
-           
+          
+### Hvad er [[religion]]?
 
-### Hvad er religion?
-
-Religion kan defineres som ’et sammenhængende system af forestillinger og praksis, der forholder sig til den metafysiske verden’ (delvis efter Durkheim 1912)
-
-- Vigtigt er det, at religion er ’et sammenhængende system’. Overtro (fx at banke tre gange under bordet) er religiøst, men det er ikke en religion.
-
-- Vigtigt er det, at religion består af ’forestillinger og praksis’. Religion er ikke bare ’tro’, dvs. noget indvortes, intellektuelt eller følelsesmæssigt; religion er også noget man ’gør’. Og i nogle religioner er det i højere grad noget man ’gør’, end noget man ’tror’.
-
-- Vigtig er aspektet: Den metafysiske verden. Sport og politik kan ligne religion, men er det pr. definition ikke.
-
-### Udefra/Indefra-kilde?
+### Udefra/Indefra-kilde? 
+se [[Typer kilder#Relegion]]
 
 ### Hvad er religiøsitet?
 
@@ -115,15 +103,9 @@ Vi skelner mellem
 - Pligtetik
 
 
-### Kosmos
+### [[Kosmos]]
 
-Kosmos betyder ’det velordnede’ i modsætning til ’kaos’.
-
-### Kaos
-
-Kaos betyder ’det uordnede’ i modsætning til ’kosmos’.
-
-  
+### [[Kaos]]
 
 ### Hvad betyder kult?
 
@@ -134,17 +116,7 @@ Eksempler: Den jødiske synagogetjeneste, den kristne gudstjeneste, den muslimsk
 NB: I hverdagssproget betyder ’kult’ og ’kultisk’ noget andet, og mange jøder, kristne og muslimer vil blive meget fornærmede, hvis vi kalder deres gudstjenester for kult, men sådan er det.
  
 
-### Ligeartet fremkalder ligeartet
-
-En ting eller handling påvirker det, det ligner.
-
-Naturfolkene fremkalder en situation, som man gennemspiller. Den situation, man fremkalder i skuespillet, kommer så til at ske i virkeligheden.
-
-Fx: Bøffeldansen; en bøffel nedlægges i skuespillet – det fører til succesfuld jagt.
-
-Fx: En kvinde løsner sit bælte, og så løsnes harpunstrengen også.
-
-  
+### [[Ligeartet fremkalder ligeartet]]
 
 ### Hvad er naturfolk?
 
@@ -160,11 +132,7 @@ Tanken er, at alt er besjælet. Et eksempel er den opfattelse, at en sten, der f
 
   
 
-### Hvad er mana?
-
-Alle dele i universet besidder en kraft i større eller mindre grad. Det er overalt og i alt.
-
-En høvdings mana er forskellig fra fangerens mana. Sproget har mana, træer, sten, personer osv. har mana.
+### Hvad er [[mana]]?
 
 ### Hvad betyder tabu?
 

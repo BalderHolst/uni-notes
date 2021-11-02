@@ -18,3 +18,6 @@ collapse:               # Create a collapsible admonition.
 ![[Ellære opgave 1 - udregning.png]]
 
 ```
+
+---
+#fysik 
