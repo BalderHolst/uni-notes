@@ -15,5 +15,6 @@
   "pdf-to-markdown-plugin",
   "darlal-switcher-plus",
   "sliding-panes-obsidian",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-pandoc"
 ]

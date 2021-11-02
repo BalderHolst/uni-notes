@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e5306034e6d62379",
+        "id": "3e374e9e827bde40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Psykologoprøve.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a359fbb77a33b418",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Behaviorisme.md",
             "mode": "source"
           }
         }
@@ -133,11 +122,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
-  "active": "e5306034e6d62379",
+  "active": "3e374e9e827bde40",
   "lastOpenFiles": [
     "Psykologoprøve.md",
+    "Personligt/Dagbog/02-11-2021.md",
     "Skolerelevant/Behaviorisme.md",
     "Skolerelevant/Husker vi bedre, når vi tager noter.md",
     "Skolerelevant/Læringsformer.md",
@@ -145,7 +136,6 @@
     "Skolerelevant/Viden.md",
     "Skolerelevant/Kognitiv psykologi.md",
     "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md",
-    "Billeder/Newtons Afkølingslov Hældningsfelt.png",
-    "Charles Darwin.md"
+    "Billeder/Newtons Afkølingslov Hældningsfelt.png"
   ]
 }

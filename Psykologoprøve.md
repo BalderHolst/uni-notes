@@ -19,6 +19,6 @@ Grafen viser hvor mange procent af dem de har spurgt, der checker deres telefon 
 ##### Konklusioner
 Hvis vi ser bort fra disse svagheder, kan vi alligevel drage et par konklusioner. Vi kan for eksempel se at over 10% af den danske befolkning checker deres telefon mere end 50 gange dagligt. Det er mange gange hvis man hver gang bliver forstyrret i det men burde lave, eller hvis det optager den tid, man ellers havde allokeret til at være produktiv. 
 
-
+Appen ville nok ikke gavne alle lige meget, da størstedelen af folk allerede er forholdsvis påpasselige med deres telefonforbrug. Undersøgelsen er dog fra 2017, og der kan sagtens være sket store ændringer, i denne type statistikker fra der og til nu. 
 
 
