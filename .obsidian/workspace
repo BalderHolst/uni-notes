@@ -15,18 +15,7 @@
         }
       },
       {
-        "id": "f4f7abe6037da464",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Læringsformer.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "2ba7d73095cd982f",
+        "id": "a359fbb77a33b418",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -120,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dansk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +128,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,14 +138,14 @@
   "active": "e5306034e6d62379",
   "lastOpenFiles": [
     "Psykologoprøve.md",
+    "Skolerelevant/Behaviorisme.md",
+    "Skolerelevant/Husker vi bedre, når vi tager noter.md",
+    "Skolerelevant/Læringsformer.md",
     "Skolerelevant/Opmærksomhed.md",
     "Skolerelevant/Viden.md",
     "Skolerelevant/Kognitiv psykologi.md",
-    "Skolerelevant/Behaviorisme.md",
-    "Skolerelevant/Læringsformer.md",
     "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md",
     "Billeder/Newtons Afkølingslov Hældningsfelt.png",
-    "Charles Darwin.md",
-    "Skolerelevant/Jacobsen J.P..md"
+    "Charles Darwin.md"
   ]
 }
