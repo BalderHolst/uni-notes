@@ -24,7 +24,7 @@ $$f(x) = e^{-A(x)} \cdot \int e^{A(x)} \cdot b(x)dx$$
 $A(x)$: **en** stamfunktion for $a(x)$
 
 
-
+### Bevis
 
 
 
