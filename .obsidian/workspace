@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3e374e9e827bde40",
+        "id": "0f73467f6a98d8ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Psykologoprøve.md",
-            "mode": "source"
+            "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+            "mode": "preview"
           }
         }
       }
@@ -45,8 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psykologoprøve.md",
+                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,29 +112,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psykologoprøve.md"
+                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "3e374e9e827bde40",
+  "active": "0f73467f6a98d8ab",
   "lastOpenFiles": [
-    "Psykologoprøve.md",
+    "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+    "Skolerelevant/Charles Darwin.md",
     "Personligt/Dagbog/02-11-2021.md",
-    "Skolerelevant/Behaviorisme.md",
-    "Skolerelevant/Husker vi bedre, når vi tager noter.md",
-    "Skolerelevant/Læringsformer.md",
-    "Skolerelevant/Opmærksomhed.md",
-    "Skolerelevant/Viden.md",
-    "Skolerelevant/Kognitiv psykologi.md",
-    "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md",
-    "Billeder/Newtons Afkølingslov Hældningsfelt.png"
+    "hskfhskjf.md",
+    "Skolerelevant/Impressionisme.md",
+    "Skolerelevant/Typer Henfald.md",
+    "Skolerelevant/Differentialregning.md",
+    "Skolerelevant/Bølger.md",
+    "Skolerelevant/Jacobsen J.P..md",
+    "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md"
   ]
 }
