@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+            "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
             "mode": "preview"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Uddrag fra Fru Marie Grubbe.md"
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md"
               }
             }
           }
@@ -125,6 +125,8 @@
   },
   "active": "0f73467f6a98d8ab",
   "lastOpenFiles": [
+    "Skolerelevant/Linære førsteordens differentialligninger.md",
+    "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
     "Skolerelevant/Charles Darwin.md",
     "Personligt/Dagbog/02-11-2021.md",
@@ -132,8 +134,6 @@
     "Skolerelevant/Impressionisme.md",
     "Skolerelevant/Typer Henfald.md",
     "Skolerelevant/Differentialregning.md",
-    "Skolerelevant/Bølger.md",
-    "Skolerelevant/Jacobsen J.P..md",
-    "Skolerelevant/Jacobsen J.P. - Af Fru Marie Grubbe.md"
+    "Skolerelevant/Bølger.md"
   ]
 }

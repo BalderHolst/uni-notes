@@ -155,7 +155,7 @@ $$f(x) = 20 \cdot e^{-0.12x}$$
 ```
 
 ---
-## 3. Løsningsformel
+## 3. Løsningsformel ([[Newtons Afkølingslov]])
 
 $$y'=b-a \cdot y \Arrows f(x) =  \frac{b}{a} + C  \cdot e^{-ax}, \s a \neq0$$
 
@@ -210,9 +210,6 @@ vi isolerer $f(x)$
 $$f(x) = \frac{b}{a} + C \cdot e^{-ax}$$
 
 ```
-
----
-## 4. [[Newtons Afkølingslov]]
 
 
 ---
