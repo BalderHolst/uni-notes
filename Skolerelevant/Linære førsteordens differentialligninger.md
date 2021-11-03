@@ -26,6 +26,7 @@ $A(x)$: **en** stamfunktion for $a(x)$
 
 ### Bevis
 
+Vi beviser at $f(x) = e^{-A(x)} \cdot \int b(x)  \cdot e^{A(x)}dx$ er en løsning på differentialligningen $y' = a(x)$
 
 
 ```ad-example # Admonition type. See below for a list of available types.

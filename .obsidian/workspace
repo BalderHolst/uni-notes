@@ -4,28 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "01de55ab77a96216",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
-            "mode": "source"
+        "id": "dbfd2ed289c02fae",
+        "type": "split",
+        "children": [
+          {
+            "id": "52b4931dd63f69b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
+                "mode": "preview"
+              }
+            },
+            "group": "29e2c82d15e154b7"
+          },
+          {
+            "id": "01de55ab77a96216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
+                "mode": "source"
+              }
+            },
+            "group": "29e2c82d15e154b7"
           }
-        },
-        "group": "29e2c82d15e154b7"
-      },
-      {
-        "id": "52b4931dd63f69b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
-            "mode": "preview"
-          }
-        },
-        "group": "29e2c82d15e154b7"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -75,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md"
+                "file": "Skolerelevant/Linære førsteordens differentialligninger.md"
               }
             }
           }
@@ -140,8 +147,8 @@
   },
   "active": "01de55ab77a96216",
   "lastOpenFiles": [
-    "Skolerelevant/Gnidningsmordstand gennem Luft.md",
     "Skolerelevant/Linære førsteordens differentialligninger.md",
+    "Skolerelevant/Gnidningsmordstand gennem Luft.md",
     "Bevis.md",
     "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
