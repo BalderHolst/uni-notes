@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
+            "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
+            "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Linære førsteordens differentialligninger.md",
+                "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Linære førsteordens differentialligninger.md"
+                "file": "Skolerelevant/Gnidningsmordstand gennem Luft.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "01de55ab77a96216",
   "lastOpenFiles": [
+    "Skolerelevant/Gnidningsmordstand gennem Luft.md",
     "Skolerelevant/Linære førsteordens differentialligninger.md",
     "Bevis.md",
     "Skolerelevant/Differentialligninger.md",
@@ -148,7 +149,6 @@
     "Personligt/Dagbog/02-11-2021.md",
     "hskfhskjf.md",
     "Skolerelevant/Impressionisme.md",
-    "Skolerelevant/Typer Henfald.md",
-    "Skolerelevant/Differentialregning.md"
+    "Skolerelevant/Typer Henfald.md"
   ]
 }
