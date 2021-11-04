@@ -30,7 +30,7 @@ $A(x)$: **en** stamfunktion for $a(x)$
 title:                  Bevis
 collapse:               # Create a collapsible admonition.
 
-![[Bevis for den Gennerelle Løsningsformel til Førsteordensdifferentialligninger]]
+![[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger]]
 
 ```
 
@@ -226,10 +226,38 @@ Man "separerer" $x$ og $y$.
 Kan bruges når en differentialligning har formen $\frac{dy}{dx} = g(x) \cdot h(y)$.
 
 
-##### Eksemper
-$y'=3 \cdot y \cdot sin()$
+```ad-example # Admonition type. See below for a list of available types.
+title: 			Eksempler
+collapse:               # Create a collapsible admonition.
+
+##### Eksemper på egnede differentialligninger
+$y'=3 \cdot y \cdot sin(x)$
 $y'=x \cdot y-\sqrt{x} \cdot y = y  \cdot (\cdot x-\sqrt{x})$
 
+**ikke-eksempler**
+$y'=x^2-2y$
+$y'=cos(x-y)$
+
+##### Eksempelløsning
+Løs differentialligningen $y'=e^{-y} \cdot 2x$ (da der ikke er noget punkt eller lignende, finder jeg den fuldstændige løsning).
+
+Vi sætter *alt* med $y$ over på ventre, og *alt* med $x$ til højre.
+
+$$y'=e^{-y} \cdot 2x \arrows dy = \frac{1}{e^y} \cdot 2x \cdot dx \arrows e^y \cdot dy = 2x \cdot dx$$
+
+Vi kan nu integrere på begge sider 
+
+$$\int e^y \cdot dy = \int 2x \cdot dx \arrows e^y + k_1 = x^2 + k_2 \arrows e^y = x^2+k_1-k_2$$
+
+Laver en ny konstant $c$ der summen af de andre konstanter
+
+$$c=k_1-k_2$$
+
+Sætter $c$ ind og reducerer videre
+
+$$e^y = x^2+c = ln(e^y) = ln(x^2+c) \arrows y = ln(x^2+c)$$
+
+```
 
 ---
 
