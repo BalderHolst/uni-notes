@@ -3,6 +3,8 @@
 Husk at lægge $k$ til alle ubestemte integraler
 
 ### Integration af Led
+led er sepereret af $+$
+
 | $$f(x)$$                     | $$\int f(x)\,dx$$                                   |
 | -------------------------- | ------------------------------------------------- |
 | $$a$$                        | $$a \cdot x$$                                       |

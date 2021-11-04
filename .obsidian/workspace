@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b642b1a46c5b52c7",
+        "id": "511209089d7bc90e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
+            "file": "Potensregneregler.md",
             "mode": "preview"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
+                "file": "Potensregneregler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md"
+                "file": "Potensregneregler.md"
               }
             }
           }
@@ -125,17 +125,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "b642b1a46c5b52c7",
+  "active": "511209089d7bc90e",
   "lastOpenFiles": [
+    "Potensregneregler.md",
+    "Skolerelevant/Integraler Regneregler.md",
+    "PDF/Formelsamling.pdf",
+    "Skolerelevant/Differentialregning Regneregler.md",
     "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Seperation af de variable.md",
     "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
     "Skolerelevant/Hældningsfelt.md",
-    "Skolerelevant/Differentialregning Regneregler.md",
-    "Skolerelevant/Gnidningsmordstand gennem Luft.md",
-    "Skolerelevant/Differentialligninger.md",
-    "Skolerelevant/Uddrag fra Fru Marie Grubbe.md",
-    "Skolerelevant/Charles Darwin.md"
+    "Skolerelevant/Gnidningsmordstand gennem Luft.md"
   ]
 }
