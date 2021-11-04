@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Potensregneregler.md",
+            "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
             "mode": "preview"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potensregneregler.md",
+                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potensregneregler.md"
+                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md"
               }
             }
           }
@@ -127,11 +127,11 @@
   },
   "active": "511209089d7bc90e",
   "lastOpenFiles": [
+    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Potensregneregler.md",
     "Skolerelevant/Integraler Regneregler.md",
     "PDF/Formelsamling.pdf",
     "Skolerelevant/Differentialregning Regneregler.md",
-    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Seperation af de variable.md",
     "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
