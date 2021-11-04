@@ -12,6 +12,8 @@
 | $$a^x$$           | $$a^x \cdot ln(a)$$        |
 | x^a               |                            |
 
+![[Pasted image 20211104120032.png]]
+
 ![[Løsning på differentialligninger.png|450]]
 
 
