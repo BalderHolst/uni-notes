@@ -12,19 +12,19 @@ $k$ er en konstant
 
 ---
 ### Afkølingsloven og differentialligninger
-Denne model passer på [[Differentialligninger#Løsningsformel 2|differentialligningen]] $y'=b-a \cdot y$.
+Denne model passer på differentialligningen $y'=b-a \cdot y$. (se [[Linære førsteordensdifferentialligninger#3 Løsningsformel Newtons Afkølingslov]])
 
 Dette kan vi se hvis vi ganger parantesen ud
 
-$$T' = -k \cdot (T-T_{omg}) \arrows T' = -k \cdot T + k \cdot T_{omg}$$
+$$T' = -k \cdot (T-T_{omg}) \arrows T' = -k \cdot T + k \cdot T_{omg} \arrows T' = k \cdot T_{omg} -k \cdot T$$
 
-Da løsningen til den gennerelle differentialligning er $f(x) =  \frac{b}{a} + C  \cdot e^{-ax}$, kan ved vi at $T$ kan regnes således:
+Da løsningen til den gennerelle differentialligning er $f(x) =  \frac{b}{a} + C  \cdot e^{-ax}$, ved vi at $T$ kan regnes således:
 
 $$a = k, \s\s b = k \cdot T_{omg}$$
 
 $$T = \frac{b}{a} + C  \cdot e^{-at} = \frac{\cancel{k} \cdot T_{omg}}{\cancel{k}}+C \cdot e^{-kt} = T_{omg} + C \cdot e^{-kt}$$
 
-Vi kan altså finde $T(x)$ ved at bruge denne formel.
+Vi kan altså finde $T(t)$ ved at bruge denne formel.
 
 ##### $k$-værdien
 

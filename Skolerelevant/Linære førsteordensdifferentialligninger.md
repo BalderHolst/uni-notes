@@ -1,4 +1,6 @@
-# Linære førsteordens [[differentialligninger]]
+# Linære førsteordensdifferentialligninger
+[[Differentialligninger]]
+[[Seperation af de variable]]
 
 ---
 
@@ -6,9 +8,9 @@
 
 $$y' + a(x)  \cdot y = b(x) \arrows y' = b(x) - a(x) \cdot y$$
 
-**Førsteordensdifferentialligninger** = ligninger hvor der altid kun er **et** mærke (eks $y'$ og ikke $y''$)
+**Førsteordensdifferentialligninger** = ligninger hvor der altid kun er *et* mærke (eks $y'$ og ikke $y''$)
 
-**Linæredifferentialligninger** = alle differentialligninger, der kan beskrives på denne ligning.
+**Linæredifferentialligninger** = alle differentialligninger, der kan beskrives med denne ligning.
 
 **Variabler** *(disse funktioner kan godt være konstanter)*
 $a(x)$: en funktion af $x$
@@ -24,29 +26,13 @@ $$f(x) = e^{-A(x)} \cdot \int e^{A(x)} \cdot b(x)dx$$
 $A(x)$: **en** stamfunktion for $a(x)$
 
 
-### Bevis
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Bevis
+collapse:               # Create a collapsible admonition.
 
-Vi beviser at $f(x) = e^{-A(x)} \cdot \int b(x)  \cdot e^{A(x)}dx$ er en løsning på differentialligningen $y' = a(x)$
+![[Bevis for den Gennerelle Løsningsformel til Førsteordensdifferentialligninger]]
 
-Hvis $f(x)$ er en løsning til $y' + a(x) \cdot y = b(x)$, må det gælde at $f'(x) + a(x) \cdot f(x) = b(x)$.
-
-**God ide:** gang med $e^{A(x)}$ på begge sider.
-
-$$f'(x) \cdot e^{A(x)} + a(x) \cdot f(x) \cdot e^{A(x)} = b(x) \cdot e^{A(x)}$$
-
-**Anden god ide:** nu ser vi på hjælpefunktionen $g(x) = e^{A(x)}$
-
-Vi differentierer hjælpefunktionen (det er to funktiner, se [[Differentialregning Regneregler]])
-
-$$\left(g(x)  \cdot  e^{A(x)}\right)' = g'(x) \cdot e^{A(x)} + g(x) \cdot e^{A(x)} \cdot a(x)$$
-
-Vi kan nu se at dette differentierede udtryk, er præcis det samme som venstresiden i vores ligning
-
-
----
-
-
-
+```
 
 
 ```ad-example # Admonition type. See below for a list of available types.
@@ -231,6 +217,18 @@ vi isolerer $f(x)$
 $$f(x) = \frac{b}{a} + C \cdot e^{-ax}$$
 
 ```
+
+---
+
+### 4. løsningsformel - Separation af de variable
+Man "separerer" $x$ og $y$.
+
+Kan bruges når en differentialligning har formen $\frac{dy}{dx} = g(x) \cdot h(y)$.
+
+
+##### Eksemper
+$y'=3 \cdot y \cdot sin()$
+$y'=x \cdot y-\sqrt{x} \cdot y = y  \cdot (\cdot x-\sqrt{x})$
 
 
 ---

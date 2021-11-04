@@ -6,7 +6,7 @@ En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
 ### Til løsning af alle linære førsteordensdifferentialligninger
-[[Linære førsteordens differentialligninger]]
+[[Linære førsteordensdifferentialligninger]]
 
 
 ---
