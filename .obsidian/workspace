@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "511209089d7bc90e",
+        "id": "7aeae5e0fe52c201",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
-            "mode": "preview"
+            "file": "Personligt/Dagbog/06-11-2021.md",
+            "mode": "source"
           }
         }
       }
@@ -45,8 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
+                "file": "Personligt/Dagbog/06-11-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md"
+                "file": "Personligt/Dagbog/06-11-2021.md"
               }
             }
           }
@@ -122,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "511209089d7bc90e",
+  "active": "7aeae5e0fe52c201",
   "lastOpenFiles": [
-    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
-    "Potensregneregler.md",
+    "Personligt/Dagbog/06-11-2021.md",
+    "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Sammensatte Integrerede Funktioner.png",
     "Skolerelevant/Integraler Regneregler.md",
-    "PDF/Formelsamling.pdf",
     "Skolerelevant/Differentialregning Regneregler.md",
-    "Seperation af de variable.md",
-    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Integraler Regneregler.png",
+    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Hældningsfelt.md",
-    "Skolerelevant/Gnidningsmordstand gennem Luft.md"
+    "Skolerelevant/Isaac Newton.md",
+    "Skolerelevant/Tretrinsraketten.md"
   ]
 }

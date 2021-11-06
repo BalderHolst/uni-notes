@@ -14,11 +14,6 @@
 
 ---
 
-### Differentiation af sammensatte funktioner
-![[Pasted image 20211104120032.png|450]]
-
----
-
 ### Differentialligninger
 ![[Løsning på differentialligninger.png|450]]
 
@@ -30,4 +25,3 @@ scource: [[Formelsamling.pdf#page=25|formelsamling]]
 ---
 ##### Tags
 #matematik 
-#todo

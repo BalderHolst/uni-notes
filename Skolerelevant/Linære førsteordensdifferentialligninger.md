@@ -1,6 +1,5 @@
 # Linære førsteordensdifferentialligninger
 [[Differentialligninger]]
-[[Seperation af de variable]]
 
 ---
 

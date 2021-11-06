@@ -37,8 +37,6 @@ led er sepereret af $+$
 | $$\int_{a}^{b} f(g(x))\cdot g'(x)\,dx = \int_{g(a)}^{g(b)} f(t)\,dt \text{, hvor }  t=g(x)$$ | Sætning til [[Integration med Substidution]]                  |     |
 
 
-
-
 ---
 ##### Se også
 - [[Integralregning]]
