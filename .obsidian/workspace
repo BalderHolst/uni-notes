@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Dagbog/06-11-2021.md",
+            "file": "SRP.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/06-11-2021.md",
+                "file": "SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Dagbog/06-11-2021.md"
+                "file": "SRP.md"
               }
             }
           }
@@ -125,6 +125,7 @@
   },
   "active": "7aeae5e0fe52c201",
   "lastOpenFiles": [
+    "SRP.md",
     "Personligt/Dagbog/06-11-2021.md",
     "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Sammensatte Integrerede Funktioner.png",
@@ -133,7 +134,6 @@
     "Integraler Regneregler.png",
     "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Isaac Newton.md",
-    "Skolerelevant/Tretrinsraketten.md"
+    "Skolerelevant/Isaac Newton.md"
   ]
 }
