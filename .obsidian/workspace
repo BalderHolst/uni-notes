@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bdc3eda653bf19e",
+        "id": "915bb35029553b76",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personligt/Dagbog/09-11-2021.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/09-11-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personligt/Dagbog/09-11-2021.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -124,8 +118,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "7bdc3eda653bf19e",
+  "active": "915bb35029553b76",
   "lastOpenFiles": [
+    "Billeder/Jævn Cirkelbevægelse med lod.png",
+    "SRP.md",
     "Personligt/Dagbog/09-11-2021.md",
     "Untitled.md",
     "Personligt/Musik/Ideer/Album Ide.md",
@@ -133,8 +129,6 @@
     "Personligt/Musik/Ideer/Recording 20211109152335.webm",
     "Recording 20211109153105.webm",
     "Personligt/Musik/Ideer/Recording 20211109152549.webm",
-    "Skolerelevant/Differentialligninger.md",
-    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
-    "Skolerelevant/Newtons Afkølingslov.md"
+    "Skolerelevant/Differentialligninger.md"
   ]
 }
