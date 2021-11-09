@@ -201,7 +201,7 @@ $$g'(x) = -a \cdot g(x)$$
 
 Hvis vi siger at $-a = k$, kan vi se at $g(x)$ er løsningen på differentialligningen $y'=k \cdot y$.
 
-Den fuldstændige løsning på differentialligningen ([[#Løsningsformel 1]]) er $g(x) = C \cdot e^{-ax}$
+Den fuldstændige løsning på differentialligningen ([[#]]) er $g(x) = C \cdot e^{-ax}$
 
 Vi vender tilbage til den gode ide
 

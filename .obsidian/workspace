@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Opdrift.md",
+            "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
             "mode": "preview"
           }
         }
@@ -45,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -61,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Opdrift.md",
+                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Opdrift.md"
+                "file": "Skolerelevant/Linære førsteordensdifferentialligninger.md"
               }
             }
           }
@@ -121,19 +122,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "7aeae5e0fe52c201",
   "lastOpenFiles": [
+    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
+    "Skolerelevant/Newtons Afkølingslov.md",
+    "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Opdrift.md",
     "Skolerelevant/Jævn Cirkelbevægelse.md",
     "SRP.md",
     "Jævn Cirkelbevægelse med lod.png",
     "Personligt/Dagbog/06-11-2021.md",
     "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
-    "Sammensatte Integrerede Funktioner.png",
-    "Skolerelevant/Integraler Regneregler.md",
-    "Skolerelevant/Differentialregning Regneregler.md",
-    "Integraler Regneregler.png"
+    "Sammensatte Integrerede Funktioner.png"
   ]
 }
