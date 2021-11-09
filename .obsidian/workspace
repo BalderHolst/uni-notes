@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRP.md",
-            "mode": "source"
+            "file": "Skolerelevant/Opdrift.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRP.md",
+                "file": "Skolerelevant/Opdrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRP.md"
+                "file": "Skolerelevant/Opdrift.md"
               }
             }
           }
@@ -125,15 +125,15 @@
   },
   "active": "7aeae5e0fe52c201",
   "lastOpenFiles": [
+    "Skolerelevant/Opdrift.md",
+    "Skolerelevant/Jævn Cirkelbevægelse.md",
     "SRP.md",
+    "Jævn Cirkelbevægelse med lod.png",
     "Personligt/Dagbog/06-11-2021.md",
     "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Sammensatte Integrerede Funktioner.png",
     "Skolerelevant/Integraler Regneregler.md",
     "Skolerelevant/Differentialregning Regneregler.md",
-    "Integraler Regneregler.png",
-    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
-    "Skolerelevant/Newtons Afkølingslov.md",
-    "Skolerelevant/Isaac Newton.md"
+    "Integraler Regneregler.png"
   ]
 }

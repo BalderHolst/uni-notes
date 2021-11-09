@@ -2,6 +2,17 @@
 
 ---
 
+## Jævn Cirkelbevægelse med lod
+![[Jævn Cirkelbevægelse med lod.png]]
+
+**Formel**
+$$L=\frac{g}{4 \pi ^2 \cdot cos(\theta)} \cdot T^2$$
+
+$L$: Længden af snoren
+$T$: Perioden
+$\theta$: Vinklen fra lodret
+
+
 ## Kurvekørsel og Loop
 
 ### Vejsving uden hældning
