@@ -5,6 +5,16 @@ Har altid en funktion som løsning.
 En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
+### Førsteordensdifferentialligninger
+$$y'=y \cdot (b-ay) \arrows y'=ay \cdot (M-y), \text{ hvor } M = \frac{b}{a}$$
+
+##### Løsning
+$$f(x)=\frac{\frac{b}{a}}{1+C \cdot e^{-bx}} \arrows f(x)=\frac{M}{1+C \cdot e^{-bx}}$$
+
+**Variabler**
+$M$: grenseværdien
+
+
 ### Til løsning af alle linære førsteordensdifferentialligninger
 [[Linære førsteordensdifferentialligninger]]
 
