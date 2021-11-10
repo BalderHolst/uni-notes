@@ -1,14 +1,16 @@
 {
   "main": {
-    "id": "ba8bf19bba640d30",
+    "id": "2febb29e9e084784",
     "type": "split",
     "children": [
       {
-        "id": "915bb35029553b76",
+        "id": "32ab9bd032866871",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Billeder/Jævn Cirkelbevægelse med lod.png"
+          }
         }
       }
     ],
@@ -58,6 +60,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Billeder/Jævn Cirkelbevægelse med lod.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Billeder/Jævn Cirkelbevægelse med lod.png"
+              }
             }
           }
         ],
@@ -118,7 +123,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "915bb35029553b76",
+  "active": "32ab9bd032866871",
   "lastOpenFiles": [
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "SRP.md",
