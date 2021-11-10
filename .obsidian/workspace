@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "32ab9bd032866871",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skolerelevant/Differentialligninger.md",
-            "mode": "source"
-          }
-        },
-        "group": "72def30ac7b83d3b"
-      },
-      {
-        "id": "bf43ecb22860eeed",
+        "id": "ff3681d9da0710c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,8 +12,7 @@
             "file": "Skolerelevant/Differentialligninger.md",
             "mode": "preview"
           }
-        },
-        "group": "72def30ac7b83d3b"
+        }
       }
     ],
     "direction": "vertical"
@@ -58,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -137,9 +125,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "32ab9bd032866871",
+  "active": "ff3681d9da0710c6",
   "lastOpenFiles": [
     "Skolerelevant/Differentialligninger.md",
+    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "SRP.md",
     "Personligt/Dagbog/09-11-2021.md",
@@ -147,7 +136,6 @@
     "Personligt/Musik/Ideer/Album Ide.md",
     "Personligt/Billedanalyse App.md",
     "Personligt/Musik/Ideer/Recording 20211109152335.webm",
-    "Recording 20211109153105.webm",
-    "Personligt/Musik/Ideer/Recording 20211109152549.webm"
+    "Recording 20211109153105.webm"
   ]
 }
