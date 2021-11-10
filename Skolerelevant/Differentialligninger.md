@@ -15,6 +15,26 @@ $$f(x)=\frac{\frac{b}{a}}{1+C \cdot e^{-bx}} \arrows f(x)=\frac{M}{1+C \cdot e^{
 $M$: grenseværdien
 
 
+##### Bevis
+ Bevis for at dette er løsningen på differentialligningen
+ 
+ $$f(x)=\frac{\frac{b}{a}}{1+C \cdot e^{-bx}}, \s f(x) \ne 0$$
+
+Hvis $f(x)$ er en løsning til differentialligningen $y'=y \cdot (b-ay)$, må dette gælde (har bare sat $f(x)$ ind på $y$'s plads)
+
+$$y'=y \cdot (b-ay) \arrows f'(x)=f(x) \cdot (b-a \cdot f(x))$$
+
+Ganger $f(x)$ ind i parantesen
+
+$$f'(x)=f(x) \cdot b-a \cdot f(x)^2$$
+
+**God ide:** ganger med $-\frac{1}{f(x)^2}$ på begge sider
+
+$$-\frac{1}{f(x)^2} \cdot f'(x)=-\frac{1}{f(x)^{\c{2}}} \cdot \c{f(x)} \cdot b-\left(-\frac{1}{\c{f(x)^2}}\right) \cdot a \cdot \c{f(x)^2}$$
+
+
+
+
 ### Til løsning af alle linære førsteordensdifferentialligninger
 [[Linære førsteordensdifferentialligninger]]
 
