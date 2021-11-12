@@ -1,6 +1,6 @@
 
 # Differentialligninger
-Har altid en funktion som løsning.
+En ligning med en funktion som løsning.
 
 En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
@@ -16,7 +16,17 @@ $$y'=y \cdot (b-ay) \arrows y'=ay \cdot (M-y), \text{ hvor } M = \frac{b}{a}$$
 $$f(x)=\frac{\frac{b}{a}}{1+C \cdot e^{-bx}} \arrows f(x)=\frac{M}{1+C \cdot e^{-bx}}$$
 
 **Variabler**
-$M$: grenseværdien
+$M$: grenseværdien/bærekapaciteten
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Plot
+collapse:               # Create a collapsible admonition.
+
+![[Pasted image 20211112124909.png]]
+
+```
+
+
 
 ```ad-example # Admonition type. See below for a list of available types.
 title:                  Bevis
@@ -106,13 +116,13 @@ collapse:               # Create a collapsible admonition.
 ---
 
 ### *Fuldstændig* og *partikulær* løsning
-##### Fuldstændig Løsning
-En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integralregning]].
+En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentiallignenen $y'=k \cdot y$.
 
-**Eks.**
+$$f(x)=C \cdot e^{k \cdot x}$$
 
+Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabel, der kan være **alle** tal. For at visualsiere den fuldstændige funktions natur, kan man tegne et [[hældningsfelt]].
 
-
+For at finde den ***partikulære*** løsning
 
 
 ---
