@@ -22,7 +22,13 @@ $M$: grenseværdien/bærekapaciteten
 title:                  Plot
 collapse:               # Create a collapsible admonition.
 
-![[Pasted image 20211112124909.png]]
+Plot af en [[#Fuldstændig og partikulær løsning|partikulær løsning]]
+
+![[Logistisk Vækst.png]]
+
+[[Hældningsfelt]]
+
+![[Logistisk Hældnningsfelt.png]]
 
 ```
 

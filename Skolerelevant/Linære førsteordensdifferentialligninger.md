@@ -1,15 +1,17 @@
 # Linære førsteordensdifferentialligninger
 [[Differentialligninger]]
 
+**Førsteordensdifferentialligninger** = ligninger hvor der altid kun er *et* mærke (eks $y'$ og ikke $y''$)
+
+**Linæredifferentialligninger** = alle differentialligninger, der kan beskrives med den [[#1 Gennerel løsningsformel|generelle løsningsformel]].
+
 ---
 
 ## 1. Gennerel løsningsformel
 
 $$y' + a(x)  \cdot y = b(x) \arrows y' = b(x) - a(x) \cdot y$$
 
-**Førsteordensdifferentialligninger** = ligninger hvor der altid kun er *et* mærke (eks $y'$ og ikke $y''$)
 
-**Linæredifferentialligninger** = alle differentialligninger, der kan beskrives med denne ligning.
 
 **Variabler** *(disse funktioner kan godt være konstanter)*
 $a(x)$: en funktion af $x$
@@ -191,7 +193,7 @@ vi sætter $a$ uden for parantesen
 
 $$f'(x) = -a \left(f(x)-\frac{b}{a} \right)$$
 
-God ide
+**God ide**
 
 $$g(x) = f(x) - \frac{b}{a}, \s \text{der kan differentieres til } f'(x)$$
 
@@ -201,7 +203,7 @@ $$g'(x) = -a \cdot g(x)$$
 
 Hvis vi siger at $-a = k$, kan vi se at $g(x)$ er løsningen på differentialligningen $y'=k \cdot y$.
 
-Den fuldstændige løsning på differentialligningen ([[#]]) er $g(x) = C \cdot e^{-ax}$
+Den fuldstændige løsning på differentialligningen ([[#2 Løsningsformel]]) er $g(x) = C \cdot e^{-ax}$
 
 Vi vender tilbage til den gode ide
 
