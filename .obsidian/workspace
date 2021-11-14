@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5384687774f24f50",
+        "id": "637bf0159c125a69",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 1.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -45,8 +42,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -125,10 +118,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "5384687774f24f50",
+  "active": "637bf0159c125a69",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled.md",
+    "Untitled 1.md",
     "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Skolerelevant/Differentialligninger.md",
     "Skolerelevant/Hældningsfelt.md",
