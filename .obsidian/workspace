@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "2febb29e9e084784",
+    "id": "49411f65b64b39ee",
     "type": "split",
     "children": [
       {
-        "id": "637bf0159c125a69",
+        "id": "08a2ed08fb43e33e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personligt/Musik/Ideer/Album Ide.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,6 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personligt/Musik/Ideer/Album Ide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personligt/Musik/Ideer/Album Ide.md"
+              }
             }
           }
         ],
@@ -118,8 +124,9 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "637bf0159c125a69",
+  "active": "08a2ed08fb43e33e",
   "lastOpenFiles": [
+    "Personligt/Musik/Ideer/Album Ide.md",
     "Untitled.md",
     "Untitled 1.md",
     "Skolerelevant/Linære førsteordensdifferentialligninger.md",
@@ -128,7 +135,6 @@
     "Billeder/Logistisk Vækst.png",
     "Billeder/Logistisk Hældnningsfelt.png",
     "SRP.md",
-    "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
-    "Billeder/Jævn Cirkelbevægelse med lod.png"
+    "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md"
   ]
 }
