@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Musik/Ideer/Album Ide.md",
+            "file": "SRP.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Musik/Ideer/Album Ide.md",
+                "file": "SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Musik/Ideer/Album Ide.md"
+                "file": "SRP.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "08a2ed08fb43e33e",
   "lastOpenFiles": [
+    "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -134,7 +135,6 @@
     "Skolerelevant/Hældningsfelt.md",
     "Billeder/Logistisk Vækst.png",
     "Billeder/Logistisk Hældnningsfelt.png",
-    "SRP.md",
     "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md"
   ]
 }
