@@ -15,4 +15,5 @@
 
 - What is Big O Notation?
 	https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
-- https://youtu.be/Ee0HzlnIYWQ | https://nedbatchelder.com/text/bigo.html
+- https://youtu.be/Ee0HzlnIYWQ | https://nedbatchelder.com/text/bigo.html'
+
