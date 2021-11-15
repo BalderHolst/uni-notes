@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Skolerelevant/Første Mosebog.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -45,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -116,19 +117,17 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
   "active": "08a2ed08fb43e33e",
   "lastOpenFiles": [
     "Skolerelevant/Første Mosebog.md",
-    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
     "Skolerelevant/Første Mosebog, kap. 1 - Verdens skabelse.md",
+    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Untitled.md",

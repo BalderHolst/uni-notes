@@ -4,7 +4,7 @@ v1 Således blev himlen og jorden og hele himlens hær fuldendt. v2 På den syve
 
 v4 Det var himlens og jordens skabelseshistorie. 
 
-[[Adam og Eva ]]
+[[Adam og Eva]]
 
 Dengang Gud Herren skabte jord og himmel, v5 var der endnu ingen buske på jorden, og ingen planter var spiret frem, for Gud Herren havde ikke ladet det regne på jorden, og der var ingen mennesker til at dyrke agerjorden, v6 men en kilde brød frem af jorden og vandede hele agerjorden. v7 Da formede Gud Herren mennesket af jord og blæste livsånde i hans næsebor, så mennesket blev et levende væsen. v8 Gud Herren plantede en have i Eden ude mod øst, og der satte han det menneske, han havde formet. v9 Gud Herren lod alle slags træer, der var dejlige at se på og gode at spise af, vokse frem af jorden, også livets træ midt i haven og træet til kundskab om godt og ondt. 
 
