@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRP.md",
-            "mode": "source"
+            "file": "Skolerelevant/Første Mosebog.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRP.md",
+                "file": "Skolerelevant/Første Mosebog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRP.md"
+                "file": "Skolerelevant/Første Mosebog.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "08a2ed08fb43e33e",
   "lastOpenFiles": [
+    "Skolerelevant/Første Mosebog.md",
+    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
+    "Skolerelevant/Første Mosebog, kap. 1 - Verdens skabelse.md",
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Untitled.md",
     "Untitled 1.md",
     "Skolerelevant/Linære førsteordensdifferentialligninger.md",
     "Skolerelevant/Differentialligninger.md",
-    "Skolerelevant/Hældningsfelt.md",
-    "Billeder/Logistisk Vækst.png",
-    "Billeder/Logistisk Hældnningsfelt.png",
-    "Skolerelevant/Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md"
+    "Skolerelevant/Hældningsfelt.md"
   ]
 }
