@@ -1,6 +1,6 @@
 ### Todo
-- [ ] setup LaTeX
-- [ ] Find programeringssprog
+- [x] setup LaTeX
+- [x] Find programeringssprog
 	-Javascript?
 	-C++?
 - [ ] Skriv problemformulering
