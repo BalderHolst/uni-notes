@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Første Mosebog.md",
+            "file": "SRP.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Første Mosebog.md",
+                "file": "SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Første Mosebog.md"
+                "file": "SRP.md"
               }
             }
           }
@@ -125,10 +125,10 @@
   },
   "active": "08a2ed08fb43e33e",
   "lastOpenFiles": [
+    "SRP.md",
     "Skolerelevant/Første Mosebog.md",
     "Skolerelevant/Første Mosebog, kap. 1 - Verdens skabelse.md",
     "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md",
-    "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Untitled.md",
     "Untitled 1.md",
