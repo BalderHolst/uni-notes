@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "30b36e5c158f4eaf",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Et_dukkehjem.pdf"
-          }
-        }
-      },
-      {
         "id": "713a06d82e600dcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Et dukkehjem - tekst.md",
+            "file": "Mary Ainsworth.md",
             "mode": "source"
           }
         }
@@ -71,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Et dukkehjem - tekst.md",
+                "file": "Mary Ainsworth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Et dukkehjem - tekst.md"
+                "file": "Mary Ainsworth.md"
               }
             }
           }
@@ -135,15 +125,15 @@
   },
   "active": "713a06d82e600dcd",
   "lastOpenFiles": [
+    "Mary Ainsworth.md",
+    "Tilknytningsteorien.md",
+    "Erikson.md",
+    "Konrad Loranz.md",
+    "John Bowlby.md",
+    "Untitled.md",
     "Et dukkehjem - tekst.md",
     "Et_dukkehjem.md",
     "Et_dukkehjem.pdf",
-    "test.md",
-    "Transaktionsanalyse.md",
-    "Et dukkehjem - Analyse.md",
-    "SRP.md",
-    "Skolerelevant/Første Mosebog.md",
-    "Skolerelevant/Første Mosebog, kap. 1 - Verdens skabelse.md",
-    "Skolerelevant/Første Mosebog, kap. 2 - Adam og Eva.md"
+    "test.md"
   ]
 }

@@ -1,6 +1,6 @@
 ## Evolutionær psykologi (lidt forældet)
 
-*Folk: [[Charles Darwin]], [[Lorenz]], [[Bowlby]], [[Buss]], [[Leda Cosmides]], [[John Tooby]], [[Steven Pinker]]*
+*Folk: [[Charles Darwin]], [[Lorenz]], [[John Bowlby]], [[Buss]], [[Leda Cosmides]], [[John Tooby]], [[Steven Pinker]]*
 
 - Survival og the fittest
 
