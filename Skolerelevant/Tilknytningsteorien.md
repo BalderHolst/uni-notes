@@ -2,7 +2,7 @@
 af [[John Bowlby]], grundet i [[Psykoanalyse]]
 
 ### Tilknytnings- og udforskningsadfærden
-- er modsatrettende grundlæggende systemer
+- er modsatrettende grundlæggende systemer (skal helst være i balance)
 - Aktiveres ved træthed, smårte, usikkerhed eller frygt
 
 ### Faser
@@ -13,14 +13,23 @@ af [[John Bowlby]], grundet i [[Psykoanalyse]]
 	- Forstærker forældrenes roller som omsorgspersoner
 3. Selektiv tilknytning (7 - 24 måneder)
 	- barnet begynder selv at vælge hvem de tilknytter til til (typisk omsorgspersonerne
-	- barnet udvikler [[Seperationsangt]]
+	- barnet udvikler [[seperationsangt]]
 	- barnet kan **[[genkalde]]** omsorgspersoner. De er altså læret i den [[Hukommelsen#Den Implicitte Langtidshukommelse| implicitte langtidshukommelse]]
 
 ##### Adoption
-Et barn skal helst adopteres før de
+Et barn skal helst adopteres før de 7 måneder, så barnet kan nå at tilnkytte sig de nye forældre som omsorgspersoner.
+
+##### Børn der ikke kan tilknytte sig omsorgspersoner
+Gruppe 5 i [[The Strange Situation]] eksperimentet. 
+
+Kan også grundes i omsorgssvigt.
+
+Disse børn har svært ved at udvise tillid.
+
+Det kan også ændre **udforsningsadfærden**
 
 
-##### Barnets middler
+### Barnets middler til tilknytning
 - smil
 - gråd
 - grin
