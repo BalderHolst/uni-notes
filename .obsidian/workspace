@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Tilknytningsteorien.md",
-            "mode": "preview"
+            "file": "SRP.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Tilknytningsteorien.md",
+                "file": "SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Tilknytningsteorien.md"
+                "file": "SRP.md"
               }
             }
           }
@@ -135,6 +135,7 @@
   },
   "active": "9676961f42ff4669",
   "lastOpenFiles": [
+    "SRP.md",
     "Skolerelevant/Tilknytningsteorien.md",
     "Skolerelevant/Chieko - Case.md",
     "Et dukkehjem - Analyse.md",
@@ -143,7 +144,6 @@
     "Et_dukkehjem.md",
     "PDF/Et dukkehjem - tekst.pdf",
     "Skolerelevant/Tekster.md",
-    "Skolerelevant/John Bowlby.md",
-    "[Zeus.md"
+    "Skolerelevant/John Bowlby.md"
   ]
 }
