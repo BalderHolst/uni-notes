@@ -1,16 +1,16 @@
-## Erikson
-
-##### Faser
+## Erik Erikson
 
 
 ---
 #### Nævnt
 ```dataview 
 list
-from [[Erikson]]
+from [[Erik Erikson]]
 sort file.cdate
 ```
 ---
 #personer
+
+
 
 

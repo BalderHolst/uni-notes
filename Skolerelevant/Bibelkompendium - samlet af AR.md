@@ -320,3 +320,5 @@ Paulus, Romerbrevet 3,28: For vi mener, at et menneske gøres retfærdigt ved tr
 
 Jakobsbrevet 2,24: I ser altså, at mennesket bliver gjort retfærdigt af gerninger, og ikke af tro alene. 
 
+---
+#relegion 

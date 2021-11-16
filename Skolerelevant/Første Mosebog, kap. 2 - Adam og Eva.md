@@ -19,3 +19,6 @@ v21 Da lod Gud Herren en tung søvn falde over Adam, og mens han sov, tog han et
 og kød af mit kød. Hun skal kaldes kvinde, for af manden er hun taget.« v24 Derfor forlader en mand sin far og mor og binder sig til sin hustru, og de bliver ét kød. 
 
 v25 Adam og hans kvinde var nøgne, men de skammede sig ikke.
+
+---
+#relegion 

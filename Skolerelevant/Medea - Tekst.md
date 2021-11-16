@@ -3957,7 +3957,7 @@ Nej aldrig. Forgæves og spildt er din bøn.
 
 IASON
 
-<sub><sup>1405</sup></sub> Hører du, [[[[Zeus]]]], hvor hun støder mig bort?
+<sub><sup>1405</sup></sub> Hører du, [[Zeus]], hvor hun støder mig bort?
 
 hvad den glubende skabning mig volder af ve,
 

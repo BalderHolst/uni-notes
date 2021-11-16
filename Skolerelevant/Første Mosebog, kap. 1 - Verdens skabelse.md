@@ -63,3 +63,6 @@ v20 Gud sagde: »Vandet skal vrimle med levende væsener, og fugle skal flyve ov
 v24 Gud sagde: »Jorden skal frembringe alle slags levende væsener, kvæg, krybdyr og alle slags vilde dyr!« Og det skete; v25 Gud skabte alle slags vilde dyr, al slags kvæg og alle slags krybdyr. Gud så, at det var ==godt==. 
 
 v26 Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« v27 ==Gud skabte mennesket i sit billede==; i Guds billede skabte han det, som mand og kvinde skabte han dem. v28 Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« v29 Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. v30 Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. v31 Gud så alt, hvad han havde skabt, og han så, hvor ==godt== det var. Så blev det aften, og det blev morgen, den sjette dag.
+
+---
+#relegion 

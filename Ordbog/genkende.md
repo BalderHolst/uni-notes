@@ -1,0 +1,1 @@
+at vide hvem en person er, ud fra deres ansigt
