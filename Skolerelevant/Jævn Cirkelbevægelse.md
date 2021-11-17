@@ -12,6 +12,13 @@ $L$: Længden af snoren
 $T$: Perioden
 $\theta$: Vinklen fra lodret
 
+##### Vinklens indvirkning på perioden
+$$L=\frac{g}{4 \pi ^2 \cdot cos(\theta)} \cdot T^2$$
+$$\Updownarrow$$
+$$\frac{1}{T}=\frac{g}{4 \pi ^2 \cdot cos(\theta) \cdot L} \cdot T^2$$
+
+
+---
 
 ## Kurvekørsel og Loop
 

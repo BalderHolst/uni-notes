@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRP.md",
+            "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "e1f9cef0039016ed"
+      },
+      {
+        "id": "02b799f22c9b01ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e1f9cef0039016ed"
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRP.md",
+                "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRP.md"
+                "file": "Skolerelevant/Jævn Cirkelbevægelse.md"
               }
             }
           }
@@ -120,10 +133,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "9676961f42ff4669",
   "lastOpenFiles": [
+    "Skolerelevant/Jævn Cirkelbevægelse.md",
+    "Billeder/Jævn Cirkelbevægelse med lod.png",
     "SRP.md",
     "Skolerelevant/Chieko - Case.md",
     "Skolerelevant/Tilknytningsteorien.md",
@@ -131,8 +147,6 @@
     "Bibelkompendium - samlet af AR.pdf",
     "Skolerelevant/Transaktionsanalyse.md",
     "Et_dukkehjem.md",
-    "PDF/Et dukkehjem - tekst.pdf",
-    "Skolerelevant/Tekster.md",
-    "Skolerelevant/John Bowlby.md"
+    "PDF/Et dukkehjem - tekst.pdf"
   ]
 }
