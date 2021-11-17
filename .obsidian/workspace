@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Ønskeliste.md",
-            "mode": "source"
+            "file": "SRP.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Ønskeliste.md",
+                "file": "SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Ønskeliste.md"
+                "file": "SRP.md"
               }
             }
           }
@@ -125,12 +125,12 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
-    "Personligt/Ønskeliste.md",
+    "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
+    "Personligt/Ønskeliste.md",
     "Personligt/Musik/Ideer/Recording 20211109152549.webm",
     "Skolerelevant/Jævn Cirkelbevægelse.md",
     "Billeder/Jævn Cirkelbevægelse med lod.png",
-    "SRP.md",
     "Skolerelevant/Chieko - Case.md",
     "Skolerelevant/Tilknytningsteorien.md",
     "Et dukkehjem - Analyse.md",
