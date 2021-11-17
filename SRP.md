@@ -1,17 +1,14 @@
 
 ## Problemformulering
 **Hvordan kan store O-notaion bruges til at bestemme køretiden af sorteringsalgoritmer?**
-- Hvad er den formelle definition af store O-notation? (bevis)
-- Hvad er en algorithme?
-- Hvad er store O-notaion? (redegørende)
-- Hvad er en sorteringsalgoritme?
-	- Hvilke typer finds der?
+- Hvad er en algorithmer, og mere specifikt sorteringsalgoritmer?
+- Hvad er store O-notaion og hvad er den formelle definition?
 - Hvordan kan man bruge store O-notation til teoretisk at bestemme en algoritmes store O?
 - Hvordan kan man opstille et forsøg der kan teste de teoretiske store O for forskellige sorteringsalgoritmer?
 	- Gennemgang af sorteringsalgoritmerne og hvordan 
 	- "Opstilling"
-- Analyser datane og sammenlign resultaterne for de forskellige algoritmer
-- Hvilke konklusioner kan man drage ud fra datane?
+- Analyser data og sammenlign resultaterne for de forskellige algoritmer
+- Hvilke konklusioner kan man drage ud fra disse data?
 - Hvad kan store O-notation sige om algoritmer generelt og hvordan de bedst kan konstrueres?
 
 ---
