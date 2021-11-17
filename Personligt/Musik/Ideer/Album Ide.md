@@ -6,6 +6,8 @@
 #### Can i breathe?
 Starter med en sovs a lyd.
 
+Sovsen cutter ind og ud. Det føles nogen gange næsten som om man kan få luft.
+
 Langsomt kan man høre ordende "can i breathe?"
 ![[Recording 20211109152335.webm]]
 
