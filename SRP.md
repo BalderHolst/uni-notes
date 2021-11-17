@@ -11,6 +11,7 @@
 - Hvilke konklusioner kan man drage ud fra disse data?
 - Hvad kan store O-notation sige om algoritmer generelt og hvordan de bedst kan konstrueres?
 
+
 ---
 
 ### Todo
