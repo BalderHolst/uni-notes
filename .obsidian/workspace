@@ -7,10 +7,9 @@
         "id": "07118c4c0a5de16a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Salmernes Bog.md",
-            "mode": "source"
+            "file": "Bibelkompendium.pdf"
           }
         }
       }
@@ -61,7 +60,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salmernes Bog.md",
+                "file": "Bibelkompendium.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salmernes Bog.md"
+                "file": "Bibelkompendium.pdf"
               }
             }
           }
@@ -125,6 +124,7 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
+    "Bibelkompendium.pdf",
     "Salmernes Bog.md",
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
@@ -133,7 +133,6 @@
     "Skolerelevant/Jævn Cirkelbevægelse.md",
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "Skolerelevant/Chieko - Case.md",
-    "Skolerelevant/Tilknytningsteorien.md",
-    "Et dukkehjem - Analyse.md"
+    "Skolerelevant/Tilknytningsteorien.md"
   ]
 }
