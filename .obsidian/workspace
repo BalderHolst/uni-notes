@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRP.md",
-            "mode": "preview"
+            "file": "Salmernes Bog.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRP.md",
+                "file": "Salmernes Bog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRP.md"
+                "file": "Salmernes Bog.md"
               }
             }
           }
@@ -125,6 +125,7 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
+    "Salmernes Bog.md",
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Personligt/Ønskeliste.md",
@@ -133,7 +134,6 @@
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "Skolerelevant/Chieko - Case.md",
     "Skolerelevant/Tilknytningsteorien.md",
-    "Et dukkehjem - Analyse.md",
-    "Bibelkompendium - samlet af AR.pdf"
+    "Et dukkehjem - Analyse.md"
   ]
 }
