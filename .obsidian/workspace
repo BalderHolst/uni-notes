@@ -7,9 +7,10 @@
         "id": "07118c4c0a5de16a",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Bibelkompendium.pdf"
+            "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibelkompendium.pdf",
+                "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibelkompendium.pdf"
+                "file": "Skolerelevant/Jævn Cirkelbevægelse.md"
               }
             }
           }
@@ -124,13 +125,13 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
+    "Skolerelevant/Jævn Cirkelbevægelse.md",
     "Bibelkompendium.pdf",
     "Salmernes Bog.md",
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Personligt/Ønskeliste.md",
     "Personligt/Musik/Ideer/Recording 20211109152549.webm",
-    "Skolerelevant/Jævn Cirkelbevægelse.md",
     "Billeder/Jævn Cirkelbevægelse med lod.png",
     "Skolerelevant/Chieko - Case.md",
     "Skolerelevant/Tilknytningsteorien.md"
