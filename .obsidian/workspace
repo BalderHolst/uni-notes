@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Den Kolde Krig.md",
-            "mode": "preview"
+            "file": "Småbarnet.md",
+            "mode": "source"
           }
         }
       }
@@ -45,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -61,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Den Kolde Krig.md",
+                "file": "Småbarnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Den Kolde Krig.md"
+                "file": "Småbarnet.md"
               }
             }
           }
@@ -125,6 +126,7 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
+    "Småbarnet.md",
     "Den Kolde Krig.md",
     "Skolerelevant/Anden Verdenskrig.md",
     "Skolerelevant/Jævn Cirkelbevægelse.md",
@@ -133,7 +135,6 @@
     "SRP.md",
     "Personligt/Musik/Ideer/Album Ide.md",
     "Personligt/Ønskeliste.md",
-    "Personligt/Musik/Ideer/Recording 20211109152549.webm",
-    "Billeder/Jævn Cirkelbevægelse med lod.png"
+    "Personligt/Musik/Ideer/Recording 20211109152549.webm"
   ]
 }
