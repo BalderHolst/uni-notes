@@ -12,7 +12,7 @@ se [[typer psykologi (skema)|skemaet]].
 
 ---
 
-![[Evolutionær psykologi (lidt forældet)]]
+![[Evolutionær psykologi]]
 
 ---
 

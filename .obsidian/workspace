@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07118c4c0a5de16a",
+        "id": "f22c99d876244e16",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Småbarnet.md",
+            "file": "Skolerelevant/Småbarnet.md",
             "mode": "source"
           }
         }
@@ -45,8 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Småbarnet.md",
+                "file": "Skolerelevant/Småbarnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genkende",
+                "query": "imitation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Småbarnet.md"
+                "file": "Skolerelevant/Småbarnet.md"
               }
             }
           }
@@ -121,20 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "07118c4c0a5de16a",
+  "active": "f22c99d876244e16",
   "lastOpenFiles": [
-    "Småbarnet.md",
-    "Den Kolde Krig.md",
-    "Skolerelevant/Anden Verdenskrig.md",
-    "Skolerelevant/Jævn Cirkelbevægelse.md",
-    "Bibelkompendium.pdf",
-    "Salmernes Bog.md",
-    "SRP.md",
-    "Personligt/Musik/Ideer/Album Ide.md",
-    "Personligt/Ønskeliste.md",
-    "Personligt/Musik/Ideer/Recording 20211109152549.webm"
+    "Skolerelevant/Småbarnet.md",
+    "The Marshmello Experiment.md",
+    "Personligt/Dagbog/19-11-2021.md",
+    "Skolerelevant/Prosocial adfærd.md",
+    "Agression.md",
+    "Skolerelevant/Andrea.md",
+    "Skolerelevant/The Strange Situation.md",
+    "Skolerelevant/Evolutionær psykologi.md",
+    "Skolerelevant/Sprogudvikling.md",
+    "Den Kolde Krig.md"
   ]
 }
