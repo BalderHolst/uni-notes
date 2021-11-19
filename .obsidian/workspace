@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
+            "file": "Den Kolde Krig.md",
             "mode": "preview"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Jævn Cirkelbevægelse.md",
+                "file": "Den Kolde Krig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Jævn Cirkelbevægelse.md"
+                "file": "Den Kolde Krig.md"
               }
             }
           }
@@ -125,6 +125,8 @@
   },
   "active": "07118c4c0a5de16a",
   "lastOpenFiles": [
+    "Den Kolde Krig.md",
+    "Skolerelevant/Anden Verdenskrig.md",
     "Skolerelevant/Jævn Cirkelbevægelse.md",
     "Bibelkompendium.pdf",
     "Salmernes Bog.md",
@@ -132,8 +134,6 @@
     "Personligt/Musik/Ideer/Album Ide.md",
     "Personligt/Ønskeliste.md",
     "Personligt/Musik/Ideer/Recording 20211109152549.webm",
-    "Billeder/Jævn Cirkelbevægelse med lod.png",
-    "Skolerelevant/Chieko - Case.md",
-    "Skolerelevant/Tilknytningsteorien.md"
+    "Billeder/Jævn Cirkelbevægelse med lod.png"
   ]
 }
