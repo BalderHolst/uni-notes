@@ -7,10 +7,9 @@
         "id": "f91890486236e29b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Bestemt lille dreng.md",
-            "mode": "source"
+            "file": "PDF/Et dukkehjem - tekst.pdf"
           }
         }
       }
@@ -62,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestemt lille dreng.md",
+                "file": "PDF/Et dukkehjem - tekst.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestemt lille dreng.md"
+                "file": "PDF/Et dukkehjem - tekst.pdf"
               }
             }
           }
@@ -127,6 +126,8 @@
   },
   "active": "f91890486236e29b",
   "lastOpenFiles": [
+    "PDF/Et dukkehjem - tekst.pdf",
+    "Et dukkehjem - Analyse.md",
     "Bestemt lille dreng.md",
     "Skolerelevant/Læringsformer.md",
     "Skolerelevant/Småbarnet.md",
@@ -134,8 +135,6 @@
     "Agression.md",
     "Personligt/Dagbog/19-11-2021.md",
     "Skolerelevant/Prosocial adfærd.md",
-    "Skolerelevant/Andrea.md",
-    "Skolerelevant/The Strange Situation.md",
-    "Skolerelevant/Evolutionær psykologi.md"
+    "Skolerelevant/Andrea.md"
   ]
 }
