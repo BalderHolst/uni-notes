@@ -4,3 +4,7 @@ Symbol: $U$
 ---
 
 ### Spændingsfald
+
+
+---
+#fysik 

@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f91890486236e29b",
+        "id": "6073566399adb447",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDF/Et dukkehjem - tekst.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/Et dukkehjem - tekst.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PDF/Et dukkehjem - tekst.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -124,17 +119,17 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "f91890486236e29b",
+  "active": "6073566399adb447",
   "lastOpenFiles": [
-    "PDF/Et dukkehjem - tekst.pdf",
-    "Et dukkehjem - Analyse.md",
-    "Bestemt lille dreng.md",
-    "Skolerelevant/Læringsformer.md",
-    "Skolerelevant/Småbarnet.md",
-    "The Marshmello Experiment.md",
-    "Agression.md",
-    "Personligt/Dagbog/19-11-2021.md",
-    "Skolerelevant/Prosocial adfærd.md",
-    "Skolerelevant/Andrea.md"
+    "Skolerelevant/Jacobsen J.P..md",
+    "Skolerelevant/Charles Darwin.md",
+    "Skolerelevant/Opdrift.md",
+    "Skolerelevant/Varmekapacitet.md",
+    "Skolerelevant/Specifik Smeltevarme.md",
+    "Skolerelevant/Specifik Fordampningsvarme.md",
+    "Skolerelevant/Emner i Fysik.md",
+    "Skolerelevant/Effekt.md",
+    "Skolerelevant/Spænding.md",
+    "Skolerelevant/Lebensraum.md"
   ]
 }

@@ -322,3 +322,4 @@ Jakobsbrevet 2,24: I ser altså, at mennesket bliver gjort retfærdigt af gernin
 
 ---
 #relegion 
+#tekst 

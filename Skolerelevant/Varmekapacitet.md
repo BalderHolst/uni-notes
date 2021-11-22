@@ -23,3 +23,6 @@ $$E_{term} = C  \cdot \Delta T$$
 $E_{term}$ er den [[Energi|energi]] der skal tilføres et system, med den specifikke varmekapacietet $C$.
 
 $\Delta T$ er temperaturforskellen ved en energitilførsel på $E_{term}$
+
+---
+#fysik

@@ -5,6 +5,8 @@ Var træt af den tidligere litteratur, der i følge ham var kedelig. I følge ha
 
 >"Det der viser at litteraturen lever, er at den sætter problemer under debat"
 
+
+
 ---
 #### Nævnt
 ```dataview 

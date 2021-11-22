@@ -10,3 +10,6 @@ collapse:               # Create a collapsible admonition.
 ![[Specifik Smeltevarme]]
 
 ```
+
+---
+#fysik
