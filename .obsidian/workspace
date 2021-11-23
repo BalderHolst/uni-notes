@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "49411f65b64b39ee",
+    "id": "5a209c11d3475821",
     "type": "split",
     "children": [
       {
-        "id": "6073566399adb447",
+        "id": "7dd31ef4b89614ab",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skolerelevant/Jacobsen J.P..md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -59,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skolerelevant/Jacobsen J.P..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skolerelevant/Jacobsen J.P..md"
+              }
             }
           }
         ],
@@ -119,7 +125,7 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "6073566399adb447",
+  "active": "7dd31ef4b89614ab",
   "lastOpenFiles": [
     "Skolerelevant/Jacobsen J.P..md",
     "Skolerelevant/Charles Darwin.md",
