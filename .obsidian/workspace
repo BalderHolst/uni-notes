@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Dagbog/23-11-2021.md",
+            "file": "Bevægelsesmængde.md",
             "mode": "preview"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Dagbog/23-11-2021.md",
+                "file": "Bevægelsesmængde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Dagbog/23-11-2021.md"
+                "file": "Bevægelsesmængde.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "a5712a52d06c0804",
   "lastOpenFiles": [
+    "Bevægelsesmængde.md",
+    "Stød.md",
+    "Agression.md",
     "Personligt/Dagbog/23-11-2021.md",
     "Personligt/Dagbog/11-09-2021.md",
     "Personligt/Dagbog/12-09-2021.md",
     "Personligt/Dagbog/13-09-2021.md",
     "Gæster til Nyt.md",
-    "Bevægelsesmængde.md",
-    "Stød.md",
     "Skolerelevant/Jacobsen J.P..md",
-    "Skolerelevant/Charles Darwin.md",
-    "Skolerelevant/Opdrift.md"
+    "Skolerelevant/Charles Darwin.md"
   ]
 }
