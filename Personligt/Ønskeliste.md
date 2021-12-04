@@ -1,4 +1,4 @@
 # Ønskeliste
 - [ ] Skraldespand
 - [ ] Brugt Cykel
-- [ ] Ekstern harddisk
+- [ ] Mekanisk keyboard
