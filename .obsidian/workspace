@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bevægelsesmængde.md",
-            "mode": "preview"
+            "file": "Skolerelevant/Hellenistisk tid.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bevægelsesmængde.md",
+                "file": "Skolerelevant/Hellenistisk tid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bevægelsesmængde.md"
+                "file": "Skolerelevant/Hellenistisk tid.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "a5712a52d06c0804",
   "lastOpenFiles": [
+    "Skolerelevant/Hellenistisk tid.md",
     "Bevægelsesmængde.md",
     "Stød.md",
     "Agression.md",
@@ -134,7 +135,6 @@
     "Personligt/Dagbog/12-09-2021.md",
     "Personligt/Dagbog/13-09-2021.md",
     "Gæster til Nyt.md",
-    "Skolerelevant/Jacobsen J.P..md",
-    "Skolerelevant/Charles Darwin.md"
+    "Skolerelevant/Jacobsen J.P..md"
   ]
 }
