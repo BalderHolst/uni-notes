@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Begreber i Relegion.md",
+            "file": "Personligt/Ønskeliste.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md",
+                "file": "Personligt/Ønskeliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Begreber i Relegion.md"
+                "file": "Personligt/Ønskeliste.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "119b7f8641b7a654",
   "lastOpenFiles": [
+    "Personligt/Ønskeliste.md",
+    "SRP.md",
     "Skolerelevant/Begreber i Relegion.md",
     "Skolerelevant/Sigmund Freud.md",
     "Niels Holst.md",
     "Skolerelevant/Agression.md",
     "Skolerelevant/Den Kolde Krig.md",
-    "Personligt/Ønskeliste.md",
     "Skolerelevant/Hellenistisk tid.md",
     "Skolerelevant/Bevægelsesmængde.md",
-    "Skolerelevant/Stød.md",
-    "Personligt/Dagbog/23-11-2021.md"
+    "Skolerelevant/Stød.md"
   ]
 }
