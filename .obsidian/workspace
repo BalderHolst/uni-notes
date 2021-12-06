@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personligt/Ønskeliste.md",
-            "mode": "source"
+            "file": "Skolerelevant/Bevægelsesmængde.md",
+            "mode": "preview"
           }
         }
       }
@@ -45,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -61,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personligt/Ønskeliste.md",
+                "file": "Skolerelevant/Bevægelsesmængde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personligt/Ønskeliste.md"
+                "file": "Skolerelevant/Bevægelsesmængde.md"
               }
             }
           }
@@ -126,6 +127,8 @@
   },
   "active": "119b7f8641b7a654",
   "lastOpenFiles": [
+    "Skolerelevant/Bevægelsesmængde.md",
+    "Skolerelevant/Skrå Kast.md",
     "Personligt/Ønskeliste.md",
     "SRP.md",
     "Skolerelevant/Begreber i Relegion.md",
@@ -133,8 +136,6 @@
     "Niels Holst.md",
     "Skolerelevant/Agression.md",
     "Skolerelevant/Den Kolde Krig.md",
-    "Skolerelevant/Hellenistisk tid.md",
-    "Skolerelevant/Bevægelsesmængde.md",
-    "Skolerelevant/Stød.md"
+    "Skolerelevant/Hellenistisk tid.md"
   ]
 }
