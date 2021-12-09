@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "119b7f8641b7a654",
+        "id": "712481338844d656",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "Skolerelevant/Bibelkompendium - samlet af AR.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Skolerelevant/Bibelkompendium - samlet af AR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Skolerelevant/Bibelkompendium - samlet af AR.md"
               }
             }
           }
@@ -125,8 +125,10 @@
     "width": 212.61581420898438,
     "collapsed": true
   },
-  "active": "119b7f8641b7a654",
+  "active": "712481338844d656",
   "lastOpenFiles": [
+    "Skolerelevant/Bibelkompendium - samlet af AR.md",
+    "Bibelkompendium.pdf",
     "Untitled.md",
     "Skolerelevant/Hældningsfelt.md",
     "Skolerelevant/Stød.md",
@@ -134,8 +136,6 @@
     "Skolerelevant/Skrå Kast.md",
     "Personligt/Ønskeliste.md",
     "SRP.md",
-    "Skolerelevant/Begreber i Relegion.md",
-    "Skolerelevant/Sigmund Freud.md",
-    "Niels Holst.md"
+    "Skolerelevant/Begreber i Relegion.md"
   ]
 }
