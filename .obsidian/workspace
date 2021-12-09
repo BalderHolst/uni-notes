@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "712481338844d656",
+        "id": "ee618e234ba99634",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Bibelkompendium - samlet af AR.md",
-            "mode": "preview"
+            "file": "Ordkort til Iliaden.md",
+            "mode": "source"
           }
         }
       }
@@ -45,8 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
-    "collapsed": true
+    "width": 245.00078010559082
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Bibelkompendium - samlet af AR.md",
+                "file": "Ordkort til Iliaden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "betingning",
+                "query": "athene zeus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,29 +112,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Bibelkompendium - samlet af AR.md"
+                "file": "Ordkort til Iliaden.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
-    "collapsed": true
+    "width": 212.61581420898438
   },
-  "active": "712481338844d656",
+  "active": "ee618e234ba99634",
   "lastOpenFiles": [
+    "Ordkort til Iliaden.md",
+    "Athene.md",
+    "Personligt/Dagbog/09-12-2021.md",
+    "Historien om stridens æble og Paris’ dom!.md",
+    "Ordkort til epos.pdf",
     "Skolerelevant/Bibelkompendium - samlet af AR.md",
     "Bibelkompendium.pdf",
-    "Untitled.md",
     "Skolerelevant/Hældningsfelt.md",
     "Skolerelevant/Stød.md",
-    "Skolerelevant/Bevægelsesmængde.md",
-    "Skolerelevant/Skrå Kast.md",
-    "Personligt/Ønskeliste.md",
-    "SRP.md",
-    "Skolerelevant/Begreber i Relegion.md"
+    "Skolerelevant/Bevægelsesmængde.md"
   ]
 }
