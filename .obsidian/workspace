@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Hældningsfelt.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Hældningsfelt.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skolerelevant/Hældningsfelt.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -127,6 +127,7 @@
   },
   "active": "119b7f8641b7a654",
   "lastOpenFiles": [
+    "Untitled.md",
     "Skolerelevant/Hældningsfelt.md",
     "Skolerelevant/Stød.md",
     "Skolerelevant/Bevægelsesmængde.md",
@@ -135,7 +136,6 @@
     "SRP.md",
     "Skolerelevant/Begreber i Relegion.md",
     "Skolerelevant/Sigmund Freud.md",
-    "Niels Holst.md",
-    "Skolerelevant/Agression.md"
+    "Niels Holst.md"
   ]
 }
