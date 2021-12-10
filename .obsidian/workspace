@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordkort til Iliaden.md",
+            "file": "Mekanisk energi i centralbevægelser.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "aef40206f1b3ab4a"
+      },
+      {
+        "id": "3de3376583dfed66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mekanisk energi i centralbevægelser.md",
+            "mode": "preview"
+          }
+        },
+        "group": "aef40206f1b3ab4a"
       }
     ],
     "direction": "vertical"
@@ -45,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082
+    "width": 245.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -61,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordkort til Iliaden.md",
+                "file": "Mekanisk energi i centralbevægelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ordkort til Iliaden.md"
+                "file": "Mekanisk energi i centralbevægelser.md"
               }
             }
           }
@@ -121,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438
+    "width": 212.61581420898438,
+    "collapsed": true
   },
   "active": "ee618e234ba99634",
   "lastOpenFiles": [
+    "Mekanisk energi i centralbevægelser.md",
+    "Mekanisk energi.md",
+    "Keplers Lov.md",
+    "gravitationskraft.md",
     "Ordkort til Iliaden.md",
     "Athene.md",
     "Personligt/Dagbog/09-12-2021.md",
     "Historien om stridens æble og Paris’ dom!.md",
     "Ordkort til epos.pdf",
-    "Skolerelevant/Bibelkompendium - samlet af AR.md",
-    "Bibelkompendium.pdf",
-    "Skolerelevant/Hældningsfelt.md",
-    "Skolerelevant/Stød.md",
-    "Skolerelevant/Bevægelsesmængde.md"
+    "Skolerelevant/Bibelkompendium - samlet af AR.md"
   ]
 }
