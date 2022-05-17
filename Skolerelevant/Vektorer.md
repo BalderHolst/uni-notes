@@ -28,8 +28,6 @@ y1 + y2 \\
 
 
 
-
-
 ---
 ##### Tags
 #matematik 

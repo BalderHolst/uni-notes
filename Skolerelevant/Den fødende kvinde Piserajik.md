@@ -17,5 +17,5 @@ Da Piserajik havde fået de sidste skind ud, satte hun sig på hug på de bare b
 _F.C.P. Rüttel (1859-1915) var første missionær på Østgrønland. Ankom hertil i 1894 samtidig med handelsstationen oprettelse, ti år efter Gustav Holms konbådsekspedition. Forlod Angmagssalik i 1903._
 
 ---
-#relegion 
+#religion 
 #tekst 

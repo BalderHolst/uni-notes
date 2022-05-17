@@ -2,7 +2,7 @@
 
 ---
 
-Måden hvornår Guder forblinder mennesker
+Måden hvorpå Guder forblinder mennesker
 
 ---
 #old

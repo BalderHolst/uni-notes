@@ -5,3 +5,6 @@
 People fled from east to west. August 1961: The government in east Berlin build a wall trough Berlin to hold their citizens in.
 
 #historie 
+
+---
+#historie

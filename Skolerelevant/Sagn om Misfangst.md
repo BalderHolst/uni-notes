@@ -66,4 +66,4 @@ Men den første sæl, som „Den Blinde" fangede, var netop den lille sortside, 
 	
 ---
 #tekst 
-#relegion 
+#religion 

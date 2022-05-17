@@ -1,5 +1,5 @@
 # Relegionsfænomenologi
-Et forsøg på at systematisere aspekter af relegion.
+Et forsøg på at systematisere aspekter af religion.
 
 ---
 **[[Ninian Smarts]] Model**
@@ -20,4 +20,4 @@ Et forsøg på at systematisere aspekter af relegion.
 
 ---
 ##### Tags
-#relegion
+#religion

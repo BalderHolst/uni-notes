@@ -15,4 +15,7 @@ overfører det til bølgeformlen: $f = \frac{v}{2L}$ kan vi se at det
 danner en omvendt proportional, når nu $v$ er konstant og *f* agere som
 *f(x)* og *L* som *x*.
 
-#fysik 
+
+
+---
+#fysik

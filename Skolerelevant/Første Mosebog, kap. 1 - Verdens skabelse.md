@@ -1,4 +1,4 @@
-## [[Første Mosebog]], kap. 1 - Verdens skabelse 
+## [[Mosebøgerne]], kap. 1 - Verdens skabelse 
 Det hele er godt!
 
 #### Indhold
@@ -18,7 +18,7 @@ Det hele er godt!
 **Sjæte dag**
 - v24 - v25: landdyr
 - v26: MENNESKENE i sit billedet (mand og kvinde)
-**Syvne dag - se [[Første Mosebog, kap. 2 - Adam og Eva|kapittel 2]]**
+**Syvne dag - se [[Første Mosebog, kap. 2 - Adam og Eva (skabelsesberetning nr. 2)|kapitel 2]]**
 - Gud hviler sig og bliver gjodt hellig
 
 **Symmetri i temaer**
@@ -38,7 +38,7 @@ Mennesket skabes i Guds billede. Altså har mennesker guddommelige egenskaber. D
 
 
 #### Vand
-Vand er en byggesten for alt og var der i forvejen.
+==Vandet skal fjernes for at skabe liv==
 
 >*Gud skabte hvælvingen, som skilte vandet under hvælvingen fra vandet over hvælvingen. Gud kaldte hvælvingen himmel.*
 >v6 - v8
@@ -64,5 +64,7 @@ v24 Gud sagde: »Jorden skal frembringe alle slags levende væsener, kvæg, kryb
 
 v26 Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« v27 ==Gud skabte mennesket i sit billede==; i Guds billede skabte han det, som mand og kvinde skabte han dem. v28 Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« v29 Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. v30 Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. v31 Gud så alt, hvad han havde skabt, og han så, hvor ==godt== det var. Så blev det aften, og det blev morgen, den sjette dag.
 
+
 ---
-#relegion 
+#tekst 
+#religion 

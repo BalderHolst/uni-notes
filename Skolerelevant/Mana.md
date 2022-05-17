@@ -6,4 +6,4 @@ Alle dele i universet besidder en kraft i større eller mindre grad. Det er over
 En høvdings mana er forskellig fra fangerens mana. Sproget har mana, træer, sten, personer osv. har mana.
 
 ---
-#relegion 
+#religion 

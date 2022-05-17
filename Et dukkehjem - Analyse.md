@@ -1,4 +1,0 @@
-# Et dukkehjem - Analyse
-
----
-#

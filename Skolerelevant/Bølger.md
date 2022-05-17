@@ -17,4 +17,6 @@ På anden illustration ses perioden (T). Perioden aflæses også som afstanden f
 ##### Amplitude
  På begge grafer ses amplituden, markeret som A, amplituden har ingen fast enhed, da enheden afhænger af hvilken slags bølge man måler.
 
-#fysik 
+
+---
+#fysik

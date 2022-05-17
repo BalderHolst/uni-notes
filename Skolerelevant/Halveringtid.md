@@ -16,3 +16,8 @@ $A$ er aktiviteten (henfald pr. tid)
 $t$ er tid
 $A_0$ er aktiviteten i starten
 $T_{\frac{1}{2}}$ er halveringstiden
+
+
+---
+#matematik
+#fysik

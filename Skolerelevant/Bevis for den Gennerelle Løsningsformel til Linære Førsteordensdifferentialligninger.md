@@ -29,3 +29,6 @@ Omskriver $\frac{1}{e^{A(x)}}$ til $e^{-A(x)}$
 $$f(x) = e^{-A(x)} \cdot \int b(x) \cdot e^{A(x)}dx$$
 
 Dette er altså løsningen på differentialligningen.
+
+---
+#matematik 

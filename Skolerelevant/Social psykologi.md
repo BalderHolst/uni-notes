@@ -11,3 +11,6 @@
 - Man skal passe på at konteksten ændre sig hvis man undersøger folk
 
 #psykologi 
+
+---
+#psykologi

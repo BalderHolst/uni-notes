@@ -9,3 +9,7 @@ Frihde er begranset af social arv
 #samfundskab 
 
 
+
+
+---
+#psykologi

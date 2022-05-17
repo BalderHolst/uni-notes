@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "fileSortOrder": "byModifiedTime",
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -11,5 +11,14 @@
   },
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": false,
+  "spellcheckLanguages": [
+    "en-GB",
+    "da"
+  ],
+  "vimMode": true,
+  "defaultViewMode": "preview"
 }

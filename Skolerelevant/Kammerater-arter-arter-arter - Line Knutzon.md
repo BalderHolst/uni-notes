@@ -116,3 +116,8 @@ har jeg travlt. Jeg har vegansk måned. Ikke fordi jeg ikke kan lide kød
 og mælk, men for at straffe landbruget. Jeg er en dråbe i havet.
 
 GOD 1. MAJ!
+
+
+---
+#dansk
+#tekst

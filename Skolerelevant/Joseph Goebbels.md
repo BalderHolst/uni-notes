@@ -8,4 +8,7 @@ Hans dagbøger er udgivet efter krigen.
 
 Kendt for sin tale om [[Den Totale Krig - Goebbels (1943)|den totale krig]].
 
-#personer 
+
+
+---
+#personer

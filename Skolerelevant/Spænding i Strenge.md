@@ -7,3 +7,6 @@ kraften som spænder strengen og A er en konstant der er afhængig af
 strengens vægt/tykkelse.
 
 #fysik 
+
+---
+#fysik

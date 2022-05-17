@@ -1,4 +1,4 @@
-# Linære førsteordensdifferentialligninger
+# Lineære førsteordensdifferentialligninger
 [[Differentialligninger]]
 
 **Førsteordensdifferentialligninger** = ligninger hvor der altid kun er *et* mærke (eks $y'$ og ikke $y''$)
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Gennerel løsningsformel
+## 1. Generel løsningsformel
 
 $$y' + a(x)  \cdot y = b(x) \arrows y' = b(x) - a(x) \cdot y$$
 

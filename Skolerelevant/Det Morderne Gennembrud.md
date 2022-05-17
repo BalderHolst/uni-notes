@@ -7,8 +7,8 @@
 
 ---
 
-- **Kirke**	-	Relegion
-- **Klasse** -   Samfund - Egendomsret
+- **Kirke**	-	Religion
+- **Klasse** -   Samfund - Ejendomsret
 - **Køn**		-	Forholdet mellem køn - ægteskab- 
 
 ---
@@ -18,12 +18,21 @@ Man anskuer verden naturvidenskabeligt.
 
 Mennesket er et biologisk væsen. Vi interasserer os ikke for ond.
 
+
 ---
-
 ### Tekster
-- [[Strindberg, August - Af Frk Julie, forord og slutningen.pdf]]
-- [[Uddrag fra Fru Marie Grubbe]]
-
+```dataview 
+list
+from [[Det Morderne Gennembrud]] and #tekst
+sort file.cdate
+```
+---
+### Personer
+```dataview 
+list
+from [[Det Morderne Gennembrud]] and #personer  
+sort file.cdate
+```
 
 ---
 #dansk 

@@ -39,3 +39,7 @@
 -   Regressiv: kigger tilbage
 
 -   Legitimerende: "vi er glade som vi har det"
+
+
+---
+#samfundsfag

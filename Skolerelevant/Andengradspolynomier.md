@@ -1,5 +1,5 @@
 # Andengradspolynomier
-
+[[Parabeler]]
 ### Forskrift
 $$f(x) = ax^2 + bx + c$$
 
@@ -23,11 +23,11 @@ $$d = b^2 - 4ac$$
 
 Diskriminantens størrelse bestemmer antallet af nulpunkter/rødder
 
-| d         | Rødder |
-| --------- | ------ |
-| $$d < 0$$ | $$0$$  |
-| $$d = 0$$ | $$1$$  |
-| $$d > 0$$ | $$2$$  |
+| d       | Rødder |
+| ------- | ------ |
+| $d < 0$ | $0$    | 
+| $d = 0$ | $1$    |
+| $d > 0$ | $2$    |
 
 [[#Løsningsformlen]] kan brudes til at bestemme rødderme.
 

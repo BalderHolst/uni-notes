@@ -8,5 +8,9 @@ En kategorisering af hvornår hældningen af en graf en enten stigende, falende 
 | $$f'(x) > 0$$ | Positiv ($a > 0$)      |
 | $$f'(x) < 0$$ | Negativ ($a < 0$)      |
 
+
+### Monotone funktioner
+En monoton funktion er altid voksende eller altid aftagende.
+
 ---
 #matematik 

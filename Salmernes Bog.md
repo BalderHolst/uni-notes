@@ -1,3 +1,0 @@
-# Salmernes Bog
-
-### Salmer

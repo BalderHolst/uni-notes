@@ -19,3 +19,6 @@ En begivenhed kan også være så voldsom at det ikke opbevares i hjerne
 
 
 #psykologi
+
+---
+#psykologi

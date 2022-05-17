@@ -133,3 +133,7 @@ Talen bygger på anafor, for at skabe
 
 
 
+
+
+---
+#historie

@@ -17,4 +17,4 @@ Myten er altså en fortælling
 Myten er således en førvidenskabelig måde at forstå verden på. Myter bruges som grundlag for ritualer, som genopliver myten.
 
 ---
-#relegion 
+#religion 

@@ -14,4 +14,6 @@
 
 - Krav og normer kan komme fra sociale medier og andre medier
 
+---
+
 #psykologi 

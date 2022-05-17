@@ -271,3 +271,9 @@ Men alt kan lykkes, hvis viljen til at ville er større end frygten for
 at fejle.
 
 Godt nytår!
+
+
+
+---
+#dansk
+#tekst

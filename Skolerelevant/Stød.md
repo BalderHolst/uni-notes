@@ -9,3 +9,6 @@ $$m_1 \cdot u_1 + m_2 \cdot u_2 = (m_1 + m_2) \cdot v$$
 de to objekter skilles efter kollision 
 
 $$m_1 \cdot u_1 + m_2 \cdot u_2 = m_1 \cdot v_1 + m_2 \cdot v_2$$
+
+---
+#fysik 

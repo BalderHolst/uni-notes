@@ -1,5 +1,7 @@
 # Gnidningsmordstand gennem Luft
 
+$$F_{luft} = \frac{1}{2} \cdot c_w \cdot \rho \cdot A \cdot v^2$$
+
 ### Renolds-tallet (for en kugle)
 
  $$Re = \frac{\rho \cdot v \cdot d}{\eta}$$

@@ -28,7 +28,8 @@ Hvad er jeres mening om republikanerne og Deutsche Volksunion, som i mellemtiden
 
  Hvordan har du det med de jødiske borgere? Anne: Jødedommen eller en hr. Ignatz Bubis skulle hellere beskæftige sig med det, jøderne gør mod palæstinenserne, end med at kræve penge fra unge tyskere for evt. tidligere ugerninger. ==Jøderne kontrollerer verdens rigeste land, USA, samler rigdomme sammen og udnytter det arbejde, der udføres af andre folkeslag, som så må betale kæmpestore renter.== Det betyder dog ikke, at jeg af den grund overfuser eller angriber individuelle jøder, som jeg træffer. Det ville være åndssvagt.
  
- ---
- #tekst 
- #historie 
- 
+
+
+---
+#historie
+#tekst

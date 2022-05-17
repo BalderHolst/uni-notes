@@ -8,3 +8,6 @@ bølgelængden altid være afhængig af frekvensen som den eneste variabel:
 $$\lambda = \frac{v}{f}$$
 
 #fysik 	
+
+---
+#fysik

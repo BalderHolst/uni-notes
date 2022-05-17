@@ -15,3 +15,6 @@
 	 - mænd går efter små smukke kvinder (frugtbare)
 
 #psykologi
+
+---
+#psykologi

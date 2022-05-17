@@ -1,4 +1,4 @@
-# Religion
+# Relegion
 Det sammenhængende system af forestillinger og praksis, der forholder sig til den metafysiske verden. ([[Durkheim]])
 
 ---
@@ -13,4 +13,4 @@ Religion kan defineres som ’et sammenhængende system af forestillinger og pra
 - Vigtig er aspektet: Den metafysiske verden. Sport og politik kan ligne religion, men er det pr. definition ikke.
 
 ---
-#relegion 
+#religion 

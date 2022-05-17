@@ -1,6 +1,6 @@
 # Skema over de forskellige typer psykologi
 
-dette er tage direkte fra [[Andrea]] så der er ikke referencer til folk og begreber i skemaet
+dette er tage direkte fra Andrea så der er ikke referencer til folk og begreber i skemaet
 
 ---
 

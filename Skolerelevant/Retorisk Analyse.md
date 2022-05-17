@@ -24,3 +24,6 @@ ned i dybden til hvert enkelt argument og hvert enkelt ord.
 #todo 
 #retorik 
 #dansk 
+
+---
+#dansk

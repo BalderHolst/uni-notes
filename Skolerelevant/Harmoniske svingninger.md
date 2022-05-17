@@ -1,7 +1,7 @@
 # Harmoniske svingninger
 
 Den genneralle form for funktionen
-$$f(x)= A \cdot sin(\omega \cdot x + \phi) + d$$
+$$s(t)= A \cdot sin(\omega \cdot t + \phi) + d$$
 
 ---
 

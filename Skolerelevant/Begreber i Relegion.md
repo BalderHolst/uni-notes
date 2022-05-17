@@ -2,13 +2,13 @@
 
 # Begreber i Religion
 
-**Synkretisme** = når man er tilhænger af flere relegioner
+**Synkretisme** = når man er tilhænger af flere religioner
 
-**Civilrelegion** = man samler folk om noget der ikke direkte er en relegion. F.eks. Nationalisme, Grundlovsfejringer, flag og kongehus.
+**Civilreligion** = man samler folk om noget der ikke direkte er en religion. F.eks. Nationalisme, Grundlovsfejringer, flag og kongehus.
 
-**Verdensrelegioner**
+**Verdensreligioner**
 
-![](Verdensrelegioner.jpg)
+![](Verdensreligioner.jpg)
 
 **Magi:** Manipulering af Mana
 
@@ -18,7 +18,7 @@
 
 **Metafysiske verden:** Guder, Onder, Spirituelle, Kræfter, Forfædre
 
-**[[Relegionsfænomenologi]]**  = En analyse af aspekterne der gør en relegion til en relegion
+**[[Relegionsfænomenologi]]**  = En analyse af aspekterne der gør en religion til en religion
 
 
 ---
@@ -212,23 +212,9 @@ Et offer er et ritual, der forbruger et materiale.
 
 ---
 
-### Sekularisering
+![[Sekularisering]]
 
-Sekularisering er udviklingen fra et relativt religiøst samfund til et relativt ikke-religiøst samfund. Fx i form af adskillelse af kirke og stat. Verdsliggørelse.
-
-I 1960’erne og 70’erne tænkte man, at sekulariseringen ville brede sig og religion gradvist erstattes af fornuftsbetonet tilgang til verden. I dag kan vi se, at religion er kommet for at blive.
-
-### Renæssance
-
-Renæssance betyder ’genfødsel’, nemlig genfødsel af de klassiske græske og romerske idealer.
-
-Ved renæssancen kommer mennesket i centrum, hvor det i middelalderen var Gud. Men NB: Der er ikke tale om individualisme, mennesker tænkes stadigvæk i grupper.
-
-
-> "Gud er død!"
-> \-[[Friederich Nietzsche]] (1883).
-
-Hermed mente han, at Gud ikke længere har den betydning i samfundet, som han havde tidligere. Det er nu klart for ethvert fornuftigt menneske, at alle tanker om ’gud’ er et menneskeligt fantasifoster. Sekulariseringen er en realitet!
+### [[Renæssancen]]
 
 
 ![[Projektion]]
@@ -263,4 +249,4 @@ Senmodernitet er udtryk for et aftraditionaliseret, afsekulariseret, individuali
 ---
 
 ##### Tags
-#relegion 
+#religion 

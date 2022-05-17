@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ee618e234ba99634",
+        "id": "3592e0d10dae78ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mekanisk energi i centralbevægelser.md",
-            "mode": "source"
+            "file": "Historie Eksamen - Spørgsmål.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "aef40206f1b3ab4a"
+        }
       },
       {
-        "id": "3de3376583dfed66",
+        "id": "bdd8d6d8e2fb6ce9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mekanisk energi i centralbevægelser.md",
-            "mode": "preview"
+            "file": "3. Middelalderen (1050 - 1500).md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "aef40206f1b3ab4a"
+        }
       }
     ],
     "direction": "vertical"
@@ -58,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.00078010559082,
+    "width": 288.01499938964844,
     "collapsed": true
   },
   "right": {
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mekanisk energi i centralbevægelser.md",
+                "file": "Historie Eksamen - Spørgsmål.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "athene zeus",
+                "query": "tag:#matematik",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
@@ -121,13 +121,11 @@
             }
           },
           {
-            "id": "7c100df02a44e35e",
+            "id": "2df300d2652669af",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Mekanisk energi i centralbevægelser.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -135,20 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.61581420898438,
+    "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "ee618e234ba99634",
+  "active": "3592e0d10dae78ad",
   "lastOpenFiles": [
-    "Mekanisk energi i centralbevægelser.md",
-    "Mekanisk energi.md",
-    "Keplers Lov.md",
-    "gravitationskraft.md",
-    "Ordkort til Iliaden.md",
-    "Athene.md",
-    "Personligt/Dagbog/09-12-2021.md",
-    "Historien om stridens æble og Paris’ dom!.md",
-    "Ordkort til epos.pdf",
-    "Skolerelevant/Bibelkompendium - samlet af AR.md"
+    "Historie Eksamen - Spørgsmål.md",
+    "3. Middelalderen (1050 - 1500).md",
+    "1. Romerriget (27. f.v.t - 476).md",
+    "4. De Store Opdagelser (14. til det 17. århundrede).md",
+    "5. Imperialismen (Brittisk 1870-1914).md",
+    "2. Vikingetiden (793 - 1050).md",
+    "6. 1. Verdenskrig (1. august 1914 – 11. november 1918).md",
+    "7.  Det Tredje Rige. (1933 - 1945).md",
+    "8.  Den Kolde Krig. (1945 - 1991).md",
+    "9. Vietnamkrigen (1961-1975).md"
   ]
 }

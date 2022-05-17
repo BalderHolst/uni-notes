@@ -35,3 +35,8 @@ Mørch, Rosenberg m.fl.: Kognitive behandlingsformer, Hans Reitzels Forlag, 1995
 
 
 #psykologi 
+
+
+---
+#psykologi
+#tekst

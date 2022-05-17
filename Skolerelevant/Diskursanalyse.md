@@ -27,3 +27,6 @@ er der tale om antagonisme:
 
 #dansk 
 #retorik 
+
+---
+#dansk

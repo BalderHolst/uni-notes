@@ -24,4 +24,4 @@ Når tiden i barselhuset er omme, skal kvinden besøge alle sine bopladsfæller;
 
 ---
 #tekst 
-#relegion 
+#religion 

@@ -1,9 +1,9 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:Skolerelevant",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 1.45092233658602,
   "lineSizeMultiplier": 2.03308976232597,
   "collapse-forces": false,
-  "centerStrength": 0.695156695156695,
+  "centerStrength": 0.578651685393258,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.25084252129721524,
+  "linkDistance": 225,
+  "scale": 0.38740991970523353,
   "close": true
 }

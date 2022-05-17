@@ -1,6 +1,11 @@
 # Adolf Hitler
 
 
+---
+
+### Havde han en plan?
+Intentionalistisk synspunkt >< Funktionalistisk synspunkt 
+
 
 ---
 

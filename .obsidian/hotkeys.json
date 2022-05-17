@@ -71,5 +71,24 @@
       ],
       "key": "O"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }

@@ -9,6 +9,9 @@ To fulde måneder er der gået siden afslutningen af det polske felttog. Det bri
 sagt til de neutrale, at de måtte finde sig i lidelserne ved den britiske blokade for på deres side at yde et bidrag til "den fælles sag", det vil sige ødelæggelsen af hitlerismen. Derved er der skabt en klarhed, der ikke er til at misforstå. Tyskland ved, at det står over for en fuldstændig hæmningsløs fjende, der vil sætte himmel og jord i bevægelse for at skære vor livskraft over i roden. Herpå gives der kun ét svar: Dette England, som det træder os i møde gennem sine ansvarlige mænds skamløse krigspolitik er blevet rigets dødsfjende og må følgelig med alle det tyske 84-millioner-folks midler og kræfter slås ned. Man kan synes, at det er tragisk, at mange millioner ulykkelige og subjektivt uskyldige briter bliver trukket ind i denne tilskikkelse, men hvert folk er i sidste instans ansvarlig for den regering og det system, som det ønsker sig. Hvis englænderne ikke har så meget sund fornuft og så meget mod, at de kan jage den regerende klike af svindlere og svæklinge ad helvede til, så kan ingen redde dem og deres imperium. De tyske mål har Føreren én gang for alle fastslået den 6. oktober: Oprettelse af en rigsgrænse, der opfylder de historiske, etnografiske og økonomiske betingelser. Ordning af det samlede "Lebensraum" efter nationaliteter. Dvs. en løsning af de minoritetsspørgsmål, der ikke blot berører dette rum, men som angår næsten alle sydog sydøsteuropæiske stater. I denne sammenhæng: Et forsøg på en ordning og regulering af det jødiske spørgsmål. En nyopbygning af det trafikale og økonomiske liv til gavn for alle mennesker, der lever i dette rum. 
 
  Garantier for hele områdets sikkerhed og oprettelse af en polsk stat, der i sin opbygning og sin ledelse yder garanti for, at der hverken opstår en ny sammensværgelse mod det tyske rige eller en intrigecentral mod Tyskland og Rusland. Men den vigtigste opgave, tilføjede Føreren, er oprettelsen af den europæiske sikkerhed. Netop for dette måls opfyldelse er det, at England står i vejen som den eneste og ubetingede hindring. Det har vist sig i al sin tydelighed i de uger, der er gået siden Førerens tale. Og derfor må dette Churchills og Chamberlains England under alle omstændigheder væk!
- 
- #historie 
- #tekst 
+
+
+
+---
+#historie
+#tekst
