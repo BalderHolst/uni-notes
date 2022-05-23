@@ -1,0 +1,1 @@
+Det sidste ord i en sætning er det første ord i den næste

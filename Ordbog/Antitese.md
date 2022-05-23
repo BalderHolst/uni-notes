@@ -1,0 +1,1 @@
+Litterer opstilling af modsætninger

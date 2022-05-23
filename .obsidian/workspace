@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3592e0d10dae78ad",
+        "id": "ab67a3f58c9f16cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Historie Eksamen - Spørgsmål.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "bdd8d6d8e2fb6ce9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Middelalderen (1050 - 1500).md",
-            "mode": "source",
+            "file": "2. Vikingetiden (793 - 1050).md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -75,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historie Eksamen - Spørgsmål.md",
+                "file": "2. Vikingetiden (793 - 1050).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +124,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "3592e0d10dae78ad",
+  "active": "ab67a3f58c9f16cb",
   "lastOpenFiles": [
+    "2. Vikingetiden (793 - 1050).md",
     "Historie Eksamen - Spørgsmål.md",
-    "3. Middelalderen (1050 - 1500).md",
     "1. Romerriget (27. f.v.t - 476).md",
+    "Slaver i Romerriget.md",
+    "3. Middelalderen (1050 - 1500).md",
     "4. De Store Opdagelser (14. til det 17. århundrede).md",
     "5. Imperialismen (Brittisk 1870-1914).md",
-    "2. Vikingetiden (793 - 1050).md",
     "6. 1. Verdenskrig (1. august 1914 – 11. november 1918).md",
     "7.  Det Tredje Rige. (1933 - 1945).md",
-    "8.  Den Kolde Krig. (1945 - 1991).md",
-    "9. Vietnamkrigen (1961-1975).md"
+    "8.  Den Kolde Krig. (1945 - 1991).md"
   ]
 }

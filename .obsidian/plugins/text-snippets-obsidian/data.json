@@ -1,0 +1,19 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, $end$that replaces your selected text.\nf : Freja\nL : $$$end$$$\nl : $$end$$\nf : \\frac{$end$}{}\n",
+  "snippets": [
+    "snippets : It is an obsidian plugin, $end$that replaces your selected text.",
+    "f : Freja",
+    "L : $$$end$$$",
+    "l : $$end$$",
+    "f : \\frac{$end$}{}"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": false,
+  "isWYSISWYG": true
+}

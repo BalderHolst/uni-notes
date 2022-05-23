@@ -1,0 +1,1 @@
+Slutter flere sætninger på samme måde
