@@ -27,7 +27,7 @@ Sluttede med [[murens fald]] (i følge Kasper)
 
 [[Brinkmanship]]
 
-[[Kubakrisen]]
+[[Cubakrisen]]
 
 [[#Fortolkning]]
 
