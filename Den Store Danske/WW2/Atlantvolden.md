@@ -1,0 +1,4 @@
+### Atlantvolden
+
+
+Atlantvolden, de tyske kystbefæstningsanlæg, der blev opført på de nord- og vesteuropæiske kyster 1942-45. Efter det fejlslagne angreb på Sovjetunionen 1941 befandt Tyskland sig i en tofrontskrig. For at frigøre tropper til Østfronten befalede Hitler i december 1941, at der langs de tyskbesatte kyster fra Sydfrankrig til Nordnorge skulle opføres en "neuer Westwall". I praksis blev der kun tale om en punktvis befæstning. I Danmark strakte Atlantvolden sig over kysterne fra Frederikshavn over Skagen til den dansk-tyske grænse med Hanstholm og Esbjerg som de væsentligste tyngdepunkter.

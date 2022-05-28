@@ -1,0 +1,6 @@
+### Romersk_mål_og_vægt
+
+
+Romersk mål og vægt, Måling af længde var i Romerriget baseret på den romerske fod, pes (0,296 m), som blev opdelt i 12 tommer, unciae (2,47 cm), mens 5 fod udgjorde et skridt, passus (1,48 m). 120 fod udgjorde 1 actus (35,5 m), mens 1000 skridt udgjorde en romersk mil, mille passus (1480 m). Måling af landareal var baseret på enheden actus quadrati (1260 m2), defineret som arealet af et kvadrat med sidelængde 1 actus. 2 actus quadrati udgjorde 1 jugerum (2520 m2), som svarede nogenlunde til det areal, et spand (jugum) okser kunne pløje på én dag. 2 jugera var lig med 1 heredium (5040 m2), mens 100 heredia udgjorde 1 centuria (0,504 km2).
+
+Måling af masse (vægt) var baseret på det romerske pund, libra (327 g), der opdeltes i tolvtedele, unciae (27,3 g). Måling af volumen var baseret på enheden amphora (26,2 l), som svarede til volumenet af 80 librae vand. Til måling af varer i fast form (fx korn) anvendtes en modius (8,73 l) lig med 1/3 amphora. En congius (3,28 l) var lig med 1/8 amphora, mens 1 sextarius (0,546 l) var lig med 1/6 congius.

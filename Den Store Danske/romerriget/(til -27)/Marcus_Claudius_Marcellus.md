@@ -1,0 +1,4 @@
+### Marcus_Claudius_Marcellus
+
+
+Marcus Claudius Marcellus, navn på flere kendte romere. Mest kendt er: 1) Romersk feltherre, d. 208 f.Kr., som efter militære operationer imod Hannibal i Italien fik overkommandoen på Sicilien, hvor han bl.a. tvang Syrakus til kapitulation i 212 f.Kr. efter flere måneders belejring. Han blev af eftertiden berømmet som "Roms sværd" eller "skjold". 2) Romersk politiker, d. 45 f.Kr., der som konsul i 51 f.Kr. trådte op imod Cæsar, deltog i borgerkrigen imod denne, gik i landflygtighed, men blev tilgivet og hjemkaldt. 3) Søn af kejser Augustus' søster Octavia, 42-23 f.Kr. Han ægtede i 25. f.Kr. Julia og blev anset for Augustus' mulige efterfølger. Efter sin død fik han tildelt mange æresbevisninger, bl.a. blev Roms første stenbyggede teater opkaldt efter ham, se Marcellusteatret.

@@ -1,0 +1,4 @@
+### Andrea_Doria
+
+
+Andrea Doria, 1466-1560, italiensk politiker og admiral. Andrea Doria var den mest fremtrædende repræsentant for Doriaslægten, der var tæt forbundet med byrepublikken Genovas historie fra 1100-1800-t. Han gjorde først karriere som lejetropsfører rundt i Italien, bl.a. for Pavestaten og kongedømmet Neapel, men i begyndelsen af 1500-t. udrustede den rige Doria selv en flåde, der flere gange besejrede tyrkere og pirater i Middelhavet. Derefter deltog han i kampene mellem habsburgerne og den franske kongemagt om overherredømmet på Den Italiske Halvø. Først var Doria i fransk tjeneste som admiral, men i 1528 gik han over til habsburgerne for at befri Genova for en fransk besættelsesstyrke. Han genindførte herefter et aristokratisk styre i byen uden dog at lade sig vælge til doge (statsoverhoved). Den habsburgske kejser Karl 5. lod Doria udnævne til kejserlig storadmiral, og han deltog indtil 1555 i søkampene mod de fremtrængende tyrkere.

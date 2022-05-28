@@ -1,0 +1,10 @@
+### Marcus_Antonius
+
+
+Marcus Antonius, 82-30 f.Kr., romersk politiker, hærfører og triumvir; en af de mest fremtrædende skikkelser i den senrepublikanske romerske historie. Antonius sluttede sig i år 54 f.Kr. til Cæsar og indledte med hans støtte sin politiske karriere som kvæstor. Han deltog i Galliens erobring og kæmpede på Cæsars side i borgerkrigen mod Pompejus. År 48 f.Kr. blev han af Cæsar, som da var blevet diktator, udnævnt til at være hans næstkommanderende, og han beklædte i år 44 f.Kr. konsulatet sammen med Cæsar.
+
+Antonius spillede en afgørende rolle i dagene efter mordet på Cæsar og indgik året efter et triumvirat med Octavian — den senere kejser Augustus — og Marcus Lepidus. Disse tre gjorde i fællesskab op med Cæsars mordere. Med triumvirernes opdeling af imperiet fik Antonius den østlige del, hvor han først ordnede forholdene i Lilleasien.
+
+Fra år 41 slog han sig ned i Egypten og indledte et forhold til Kleopatra, med hvem han fik tre børn. Dette forhold var stærkt bestemmende for hans videre politik og selvopfattelse. På trods af hyppige forsoningsbesøg i Italien og hans ægteskab med Octavians søster Octavia brød triumviratet endeligt sammen i år 32 f.Kr., og Antonius blev indblandet i den krig, som på Octavians foranledning blev erklæret mod Kleopatra. I søslaget ved Actium år 31 f.Kr. besejrede Octavian Kleopatra. Året efter faldt Alexandria, og Antonius begik selvmord sammen med Kleopatra.
+
+Vurderingerne af ham er meget forskellige. Han var en kompetent hærfører og en yderst behændig politiker, men hans temperament trak ham ofte ind i situationer, som han havde svært ved at håndtere. Hans forståelse for hellenismens styreformer og dens stærke herskerskikkelser førte overfladisk set til hans fald, men peger paradoksalt nok fremad i Roms videre historie.

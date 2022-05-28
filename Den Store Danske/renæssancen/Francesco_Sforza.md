@@ -1,0 +1,4 @@
+### Francesco_Sforza
+
+
+Francesco Sforza, 1401-1466, italiensk condottiere (hærfører), hertug i Milano fra 1450. Sforza, der var søn af bonden og hærføreren Muzio Attendolo (1369-1424) med tilnavnet Sforza 'den stærke', gjorde enestående karriere og opnåede stor berømmelse i Milanos hertug Filippo Maria Viscontis tjeneste, bl.a. i kampene mod Venezia. Han blev gift med hertugens datter Bianca, og da Visconti døde i 1447, lykkedes det ham efter at have nedkæmpet et kommunalt oprør at blive hertug. Han etablerede et stærkt personligt styre og holdt et elegant og kostbart renæssancehof, hvortil arkitekten Filarete var knyttet.

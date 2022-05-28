@@ -1,0 +1,8 @@
+### Gladiatorer
+
+
+Gladiatorer var deltagere i offentlige kamplege i Romerriget. De første kendte gladiatorkampe i Rom fandt sted i 264 f.v.t. ved begravelsen af en senator. De er dog sandsynligvis opfundet i Campanien og Lukanien i det sydlige Italien og har deres oprindelse i rituelle gravlege. I de første 150 år blev legene kun afholdt i forbindelse med begravelser, men senere søgte arrangørerne at købe sig popularitet gennem store forestillinger. Den rituelle betydning gled i baggrunden, og de populære kampe, der blev afholdt i amfiteatre, blev spredt over hele Romerriget.
+
+De våbenvante gladiatorer blev i forbindelse med oprør og borgerkrige anvendt som soldater. Man kender 15 typer gladiatorer med forskellig udrustning. Nogle var bevæbnet som romernes vanskeligste modstandere: gallere, samnittere og thrakere; andre populære varianter var netkæmpere med trefork og dolke, der kæmpede mod sværtbevæbnede secutores (latin 'forfølgere').
+
+Gladiatorerne var i reglen krigsfanger eller slaver ejet af en træner. Chancen for at overleve den første kamp var lille, og en gladiators liv var ganske kort. De færreste blev mere end 30 år efter et dusin kampe. Frie mænd, der frivilligt indgik en gladiatorkontrakt for et antal kampe eller år, var publikums yndlinge. Henrettelsen af dødsdømte forbrydere fungerede som pauseunderholdning mellem dyrekampe og de egentlige gladiatorkampe på skarpe våben. Indtil kristendommen var kritik af gladiatorkampene sjælden. De arrangerede menneskekampe blev forbudt i 404 e.v.t., mens dyrekampene fortsatte og stadigvæk eksisterer i form af tyrefægtning (se dyrekampe).

@@ -1,0 +1,4 @@
+### Optimates
+
+
+Optimates, (lat. 'de bedste', af optimas 'fornem'), politisk gruppering i det antikke Rom, som stod i modsætning til populares 'de folkelige'. Betegnelsen dækker ikke over et politisk parti, men angiver den metode, som optimates anvendte for at få deres politik igennem. De benyttede det let konservative romerske senat, mens de mere reformivrige populares benyttede folkeforsamlingen. Den politiske kamp mellem de i øvrigt socialt set meget ensartede grupper, som begge udgik af den romerske overklasse, indledtes med Graccherne omkring 130'erne f.Kr. og afsluttedes reelt med Augustus' indførelse af kejserdømmet i 27 f.Kr.

@@ -1,0 +1,4 @@
+### Colonna
+
+
+Colonna, italiensk adelsslægt. Med store besiddelser i omegnen af Rom var Colonnaslægten den mægtigste af Roms adelsfamilier, og dens stridigheder med andre slægter, fx Caetani og Orsini, prægede byens historie i middelalderen. Omkring 1300 lå Colonnaerne i krig med pave Bonifacius 8. af slægten Caetani. Sit højdepunkt nåede slægten, da Oddo Colonna i 1417 blev valgt til pave som Martin 5. og bl.a. lagde grunden til det nuværende Palazzo Colonna. Det konfliktfyldte forhold til pavestolen varede ved indtil slutningen af 1500-t., men derefter nåede mange Colonnaer til tops i kirkens tjeneste. Flere grene af slægten lever endnu.

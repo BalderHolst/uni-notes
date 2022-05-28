@@ -1,0 +1,4 @@
+### Neuillytraktaten
+
+
+Neuillytraktaten, fredsaftale mellem Bulgarien og de sejrende Ententemagter efter 1. Verdenskrig; traktaten blev undertegnet i pariserforstaden Neuilly-sur-Seine 27.11.1919 som en del af Parisfredsaftalerne og trådte i kraft 9.8.1920. Dobrogea blev afstået til Rumænien, og fire områder i det vestlige Bulgarien overgik til Kongeriget af Serbere, Kroater og Slovenere (Jugoslavien). Grækenland overtog et område i Rodopibjergene samt det vestlige Thrakien, hvilket betød, at Bulgarien mistede adgang til Det Ægæiske Hav. Den bulgarske hær blev skåret kraftigt ned, og landet skulle betale 445 mio. dollar i krigsskadeserstatning; 75% af beløbet blev dog senere eftergivet.

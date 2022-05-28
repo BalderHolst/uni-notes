@@ -1,0 +1,36 @@
+### Renæssancen
+
+
+Renæssancen er både et begreb og en periode i Europas og især Italiens historie i overgangen mellem middelalder og nyere tid.
+
+Den franske historiker Jules Michelet introducerede i 1855 renæssancebegrebet i sin Histoire de France, men det var især den schweiziske kulturhistoriker Jacob Burckhardt, der med Die Kultur der Renaissance in Italien (1860, da. Renaissancens Kultur i Italien, 1903) behandlede det som en fast kronologisk ramme. Han hævdede, at den moderne verden var blevet grundlagt i Italien i 1400- og 1500-t. ved en heldig kombination af den italienske folkeånd og genopdagelsen af den antikke græsk-romerske politisk-kulturelle tradition; fra Italien var renæssancen langsomt blevet udbredt til det øvrige Europa.
+
+Burckhardts tese om dette store brud i den europæiske civilisations historie var i de næste generationer alment accepteret: Ud af den stillestående korporative middelalderverden trådte det enkelte skabende individ. Kunsten blev realistisk og naturtro, den omgivende fysiske verden genopdaget, og overalt blev religion og overtro afløst af rationalitet og empiri. Grundlaget for den moderne verden var skabt.
+
+Fra 1920'erne rejste der sig imidlertid en "revolt of the medievalists", anført af amerikaneren Charles H. Haskins (1870-1937), der hævdede, at næsten alt, hvad Burckhardt havde set som nyt i renæssancen, allerede var skabt af den middelalderlige kultur. Middelalderen fik dermed sin egen renæssance, og Burckhardts renæssancebegreb syntes næsten helt at skulle forsvinde i konkurrence med tidligere renæssancer som fx den karolingiske og den højmiddelalderlige renæssance (se protorenæssance).
+
+Efter 1945 rehabiliteredes begrebet imidlertid, da historikere som W.K. Ferguson (1902-83) og Denys Hay udvidede renæssanceperioden til at omfatte tiden ca. 1300-1650. De understregede den italienske førerposition, men ved at nuancere renæssancens udbredelse i tid og rum lykkedes det at fastholde begrebet som en brugbar periodisering.
+
+Man kan sige, at resultatet af den lange debat blev, at middelalderens kulturelle præstationer blev anerkendt som selvstændig størrelse og som en forudsætning for renæssancen. Debatten om renæssancebegrebet og om, hvilke generelle udviklingstendenser der adskiller renæssancen fra middelalderen, blusser dog stadig op med jævne mellemrum.
+
+Allerede i 1340'erne talte den italienske forfatter Francesco Petrarca om de foregående århundreder som "mørke tider" og udtrykte håbet om en ny, strålende fremtid, inspireret af det antikke Rom. Han og den romerske folkeleder Cola di Rienzo var blandt de første renæssanceskikkelser.
+
+Betegnelsen "renæssancemenneske" dækker over et individ, der, sikker på eget værd og til tider med kynisme, forfulgte egne mål og drømme, og i 1400-t. var de ledende lag, først og fremmest i Firenze, ikke i tvivl om, at deres tid var en ny, strålende epoke, der lagde en mørk tid bag sig ved genopdagelsen af den klassiske antikke litteratur og kunst.
+
+1400-t.s florentinere er den første generation i Europa, der har haft en så selvsikker og eksplicit formuleret historiebevidsthed. Forfatteren Matteo Palmieri (1406-75) takkede således ca. 1435 Gud for, at det var blevet ham og hans samtidige "forundt at fødes i en ny tid, der er så strålende og allerede med stolthed kan pege på en hel række af begavelser, talrigere end menneskeheden havde set de foregående 1000 år". Politikeren og filosoffen Marsilio Ficino udtalte ca. 1460, at "dette er så vist et gyldent sekel, som har ført tilbage i lyset de næsten udslukkede liberale videnskaber ... og alt dette i Firenze".
+
+Selvom synet på tiden før renæssancen har ændret sig drastisk siden, står disse samtidige udsagn på sin vis til troende: Inden for næsten alle felter, kunstneriske, filosofiske og naturvidenskabelige, skete der enorme fremskridt. Særlig iøjnefaldende var opdagelserne af Amerika og søvejen til Indien og på længere sigt de astronomiske opdagelser, især påvisningen af det heliocentriske verdensbillede, der i 1600-t. rystede kirken, ligesom Johann Gutenbergs opfindelse af bogtrykkerkunsten ca. 1450 skabte grundlag for en veritabel kommunikationsrevolution.
+
+Den fremvoksende individualisme og rationalitet bidrog til, at kirken mistede magt; et af de allervæsentligste karakteristika ved renæssancen er udviklingen af den sekulære stats- og samfundsopfattelse, som nu for alvor tog fart. Kirken havde hidtil haft monopol på viden om både det verdslige og det åndelige, men netop i Firenze blev der i 1400-t. på basis af Marsilius fra Padova og William fra Ockham formuleret og praktiseret politik og statsteori, der pegede væk fra den gejstlige omklamring; filosoffen med den antikke ballast og politikeren smeltede sammen.
+
+Coluccio Salutati, Giordano Bruno, Niccolò Machiavelli og Francesco Guicciardini i 1400-1500-t. er navne, der vidner om denne tradition, hvor klassisk empirisk lærdom og praktisk politik gik op i en højere enhed. Med renæssancen afvikledes det middelalderlige decentrale, feudale system langsomt og blev i de følgende århundreder afløst af den moderne magtstat, hvor øvrigheden tilstræbte et magtmonopol, og staten etablerede ydre grænser, mens de indre forsvandt.
+
+Etableringen af de ydre grænser afspejledes fx i fredsaftalen mellem de italienske stormagter i 1454, Freden i Lodi, hvor grænserne blev fastfrosset for en længere periode, og hvor det italienske udenrigspolitiske magtbalancesystem blev indført. Med oprettelsen af faste diplomatiske missioner (ambassader) blev freden desuden en forløber for det moderne europæiske diplomati.
+
+På de indre linjer blev standssamfundet gradvis og i forskelligt tempo fra område til område afløst af en stat bestående af på den ene side øvrigheden, dvs. fyrsten eller dynastiet, på den anden undersåtterne; de herskende europæiske aristokratier og oligarkierne i de italienske bystater blev i stigende grad underlagt den nye, verdslige fyrstestat.
+
+Frigjorte fra kirken investerede de moderne fyrster i videnskab, kultur og kunst som aldrig før. Fyrstens hof blev befolket af naturvidenskabsmænd, humanister, filosoffer og historikere. I 1500-t. begyndte de italienske fyrster endvidere at oprette videnskabelige akademier, hvilket efterhånden bredte sig til det øvrige Europa.
+
+Selvom kirkens magt var blevet svækket, forblev den en meget væsentlig faktor. Paverne og den øvrige gejstlighed vedblev at være store mæcener for alle slags kunstnere, og med opdagelserne, især af Amerika, og de deraf følgende bestræbelser på at kristne de indfødte blev kirkens magt udbredt over et større område end nogensinde før. Paverne fik imidlertid stadig mere og mere karakter af almindelige fyrster.
+
+At de i forsøget på at sikre og udvide deres territoriale magt ofte brugte gejstlige sanktioner som et primært politisk redskab, bidrog til den fortsatte kritik af pavedømmet, hvis anseelse i forvejen var svækket efter Det Store Skisma 1378-1417. Kritikken førte dog ikke til væsentlige reformer før Tridentinerkoncilet, 1545-63, hvormed pavestolen genvandt sin autoritet, og modreformationen blev indledt; da var Reformationen imidlertid allerede gennemført i store dele af Europa.

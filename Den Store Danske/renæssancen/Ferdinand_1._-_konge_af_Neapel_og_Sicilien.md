@@ -1,0 +1,4 @@
+### Ferdinand_1._-_konge_af_Neapel_og_Sicilien
+
+
+Ferdinand 1., Ferdinando, 12.1.1751-4.1.1825, konge af Neapel (som Ferdinand 4.) og Sicilien (som Ferdinand 3.) fra 1759, konge af Begge Sicilier fra 1816. Ferdinand var af slægten Bourbon og besteg tronen, da hans far, Karl 7. af Neapel og Sicilien, blev konge af Spanien som Karl 3. Fra 1790'erne angreb Ferdinand flere gange uden succes Frankrig og dets besiddelser på Den Italiske Halvø, og både i 1798 og 1806 måtte han retirere til Sicilien. Efter Wienerkongressen genindsattes Ferdinand, og i 1816 samlede han sine besiddelser i kongeriget Begge Sicilier.

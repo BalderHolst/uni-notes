@@ -1,0 +1,4 @@
+### Saxon_Shore_fort
+
+
+Saxon Shore fort, engelsk betegnelse for en række murstensforter og befæstede byer fra senantikken. De var placeret på den engelske øst- og kanalkyst samt på fastlandets kanalkyst. De blev formentlig opført fra slutningen af 200-t. som forsvar mod saksernes angreb på kysterne (deraf navnet Saxon Shore 'sakserkysten'). Forsvaret blev ledet af en comes litoris saxonici, hvilket er et tegn på, at dette kystområde blev betragtet som en enhed, der krævede speciel militær opmærksomhed. Forsvarssystemet gik i opløsning omkring år 400, men mange af forterne står stadig som imponerende ruiner.

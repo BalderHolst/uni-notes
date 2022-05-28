@@ -1,0 +1,4 @@
+### Filip_-_romersk_kejser
+
+
+Filip, egl. Marcus Julius Philippus (Arabs), ca. 204-249, romersk kejser. Som prætorianerpræfekt medvirkede Filip i mordet på Gordian 3. og lod sig i 244 udråbe til kejser. Kort efter sluttede han fred med sasanidekongen, men måtte atter drage i felten, hvor han ved Donaugrænsen vandt betydningsfulde sejre over germanske stammer. Den 21. april 248 lod han tusindåret fejre for byen Roms grundlæggelse. I mellemtiden var der udbrudt kampe ved Donaugrænsen, og legionerne dér udråbte Decius til kejser. De to hære tørnede i 249 sammen ved Verona; Filip faldt under kampen.

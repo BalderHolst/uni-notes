@@ -1,0 +1,8 @@
+### Gnaeus_Pompejus
+
+
+Gnaeus Pompejus, 106-48 f.Kr., fra 81 f.Kr. med tilnavnet Magnus ('den Store'), romersk politiker. Pompejus sluttede sig i sin ungdom til Sulla, efter hvis død han nedkæmpede Lepidus' oprør i Italien og Marius' tilhænger Sertorius i Spanien. Herefter gennemtvang han og Crassus, at de blev valgt til konsuler for år 70 f.Kr., i hvilken egenskab de ophævede en del af Sullas love. Pompejus fik nu en ekstraordinær kommando, først imod sørøverne i Middelhavet, som han rensede på tre måneder, dernæst i øst, hvor han besejrede Mithridates 6. og bl.a. erobrede Syrien.
+
+Efter hjemkomsten opløste han sin hær, men kunne ikke komme igennem med sine ønsker om jord til veteranerne eller godkendelse af sine ordninger i øst, førend han og Crassus i 60 f.Kr. havde indgået en aftale med Cæsar, det såkaldte 1. triumvirat, efter dennes valg til konsul for år 59 f.Kr. Pompejus blev i 59 f.Kr. gift med Cæsars datter, Julia. Som led i de tre mænds aftaler fik han Spanien som provins i fem år og derefter i endnu fem. Han styrede provinsen gennem legater og forblev selv i Rom, hvor han fik ansvaret for kornforsyningen og en overgang var enekonsul. Ledende senatorer pressede ham ud i militært opgør med Cæsar, men han tabte Slaget ved Farsalos i 48 f.Kr. og flygtede til Egypten, hvor han blev myrdet.
+
+Pompejus var en dygtig general, men hans problem var, at han som politiker aldrig overvandt den mistillid, som ledende kredse i Senatet nærede til den magtstilling, han havde opnået.

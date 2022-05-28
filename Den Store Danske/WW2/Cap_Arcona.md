@@ -1,0 +1,4 @@
+### Cap_Arcona
+
+
+Cap Arcona, tysk passagerskib på 27.650 BRT, bygget i Hamburg i 1927 til Hamburg-Südamerika-Linie. Skibet sejlede i fast rutefart på østkysten af Sydamerika indtil udbruddet af 2. Verdenskrig i 1939, da det blev overtaget af den tyske marine og oplagt i Gotenhafen (nuv. Gdynia) som kaserneskib. Da Den Røde Hær i begyndelsen af 1945 nærmede sig, iværksattes en evakuering af de truede områder, og på kun tre rejser transporterede Cap Arkona ca. 26.000 flygtninge vestpå, hvorefter skibet blev forlagt til Neustadt nord for Lübeck. Her blev ca. 5000 fanger fra koncentrationslejren Neuengamme bragt om bord 26-28/4 i et forsøg på at fjerne sporene af lejren. Ca. 4800 fanger blev anbragt på andre skibe. 3/5 blev skibene angrebet og sænket af britiske jagerbombere. Omkring 7000 omkom, hvoraf de fleste var kz-fanger.

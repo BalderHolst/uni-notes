@@ -1,0 +1,4 @@
+### Cursus_publicus
+
+
+Cursus publicus, (lat. 'det offentlige kommunikationssystem'), det romerske postvæsen og transportsystem, der blev grundlagt og organiseret af kejser Augustus. Med Roms udvikling til imperium blev det nødvendigt med et effektivt system, som kunne sikre kommunikationen mellem de centrale myndigheder i Rom og provinserne, både i den civile og den militære forvaltning. Som en forudsætning herfor udvikledes først vejnettet, som lidt efter lidt blev forsynet med en lang række overvågede stationer, mutatio og mansio, hvor man kunne skifte heste og overnatte. Systemet kunne kun benyttes i offentligt ærinde og kun mod fremvisning af rejsepas. På den måde kunne ilpost føres frem med op til 200 km om dagen. I spidsen for administrationen af cursus publicus stod fra kejser Hadrians tid en af rigets vigtigste embedsmænd, praefectus vehiculorum.

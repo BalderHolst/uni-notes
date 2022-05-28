@@ -1,0 +1,4 @@
+### Maroboduus
+
+
+Maroboduus, d. ca. 37, markomannisk høvding. Efter nogle år i romersk krigstjeneste drog Maroboduus i ca. 8 f.Kr. med markomannerne til det nuværende Bøhmen, hvor han etablerede et kongedømme. Han opbyggede en stor hær, og selvom han havde gode relationer til Romerriget, forsøgte romerne at nedkæmpe denne nye magtfaktor, hvilket endte med, at en fredstraktat blev indgået. Maroboduus hjalp ikke Arminius i hans kamp mod romerne, og det kom til kamp imellem dem, hvorefter flere stammer faldt fra Maroboduus. I 19 e.Kr. blev han fordrevet fra sit rige og søgte tilflugt i Romerriget, hvor han resten af sit liv levede i Ravenna.

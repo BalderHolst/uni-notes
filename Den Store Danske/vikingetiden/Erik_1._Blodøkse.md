@@ -1,0 +1,4 @@
+### Erik_1._Blodøkse
+
+
+Erik 1. Blodøkse, norsk Eirik Blodøks, d. 954, konge af Norge. Ifølge Snorri Sturluson var Erik den ældste søn af Harald 1. Hårfager, der delte Norge i flere riger, som blev styret af sønnerne med ham selv som overkonge. Erik arvede ledelsen, men fór så voldsomt frem mod sine brødre, at de overlevende i ca. 935 forjog ham og tog den yngste bror, Håkon 1. Adalsteinsfostre, til konge af Norge. Erik drog på vikingetogt, og i en periode herskede han i Northumberland, men blev i 948 overvundet af en irsk vikingekonge. Eriks dronning, Gunhild, blev beskyldt for at støtte sin mand og sønner med trolddom. Tilnavnet betyder vistnok 'blodig økse' og skal sigte til Eriks fremfærd mod sine brødre.

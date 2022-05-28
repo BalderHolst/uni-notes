@@ -1,0 +1,4 @@
+### Cosimo_Medici
+
+
+Cosimo Medici, 1389-1464, bankier og ledende statsmand i Firenze. Cosimo Medici bidrog som agent for sin far, Giovanni di Bicci (1360-1429), til at øge Medicislægtens formue og internationale banknetværk i Vesteuropa. Ved faderens død var Cosimo Firenzes rigeste og mægtigste mand. De rige adelsslægter tvang ham i 1433 i eksil, men i 1434 vendte han tilbage og ledede derefter uofficielt byen med bred folkelig støtte i ca. 30 år; efter sin død fik han ærestitlen pater patriæ. Cosimos kloge og beherskede ledelsesstil blev prist af alle i en uroligere eftertid. Som mæcen finansierede han den fremvoksende humanisme, bl.a. ved oprettelsen af Accademia Platonica, og han støttede med enorme midler kunsten i Firenze.

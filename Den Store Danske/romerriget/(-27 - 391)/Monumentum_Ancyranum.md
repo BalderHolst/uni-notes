@@ -1,0 +1,6 @@
+### Monumentum_Ancyranum
+
+
+Monumentum Ancyranum, (lat. 'Ancyraindskriften'), den senere betegnelse for den romerske kejser Augustus' beretning om sine gerninger, Res gestae Divi Augusti. Den blev oprindelig indgraveret på to bronzetavler, som blev sat op ved Augustus' mausoleum på Marsmarken i Rom ved hans død i 14 e.Kr. Disse er senere gået tabt, men i 1555 fandt man en kopi, som allerede i antikken var blevet indhugget i templet for Roma og Augustus i Ancyra, nuværende Ankara i Tyrkiet. I 36 afsnit, hver på omkring ti linjer, fortæller Augustus i jeg-form om, hvad han har udrettet for det romerske folk, og hvilke æresbevisninger der er blevet ham til del som tak herfor. Indskriften er den vigtigste kilde til forståelsen af Augustus og til den styreform, han skabte, det augustæiske principat. Beretningen er oversat til dansk ved Rudi Thomsen (Det augustæiske principat, 1965).
+
+På museumsbygningen fra 2006 ved kejser Augustus' mausoleum i Rom, som indeholder Ara Pacis, er hele teksten på latin indgraveret i muren.

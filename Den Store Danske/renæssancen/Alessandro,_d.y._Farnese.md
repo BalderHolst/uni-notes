@@ -1,0 +1,4 @@
+### Alessandro,_d.y._Farnese
+
+
+Alessandro, d.y. Farnese, 1520-1589, kardinal fra 1534, sønnesøn af pave Paul 3. Alessandro formåede at gennemløbe en gejstlig karriere og gøre en betydelig indsats for Pavestaten, samtidig med at han drev en åbenlys nepotistisk virksomhed, idet han tilgodeså Farnesefamiliens interesser. På sine gamle dage blev den oprindelig meget verdsligt indstillede Alessandro en af modreformationens og jesuitternes vigtigste velgørere. Alessandros oplagte kandidatur til paveembedet blev dog forhindret pga. hans spanske orientering, men hans magt i Rom i 1570-80'erne var næsten som en paves. Blandt de bygninger, Alessandro lod opføre, er et sommerslot i Caprarola.

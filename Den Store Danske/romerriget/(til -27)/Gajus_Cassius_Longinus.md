@@ -1,0 +1,4 @@
+### Gajus_Cassius_Longinus
+
+
+Gajus Cassius Longinus, ca. -83-42 f.Kr., romersk feltherre. Cassius var en af hovedmændene bag mordet på Cæsar i 44 f.Kr. Han tilhørte en af Romerrigets fornemste slægter og udmærkede sig tidligt som en glimrende hærleder. Han deltog i Slaget ved Carrhae i 53 f.Kr., overlevede nederlaget og kæmpede derefter på Pompejus' side i borgerkrigen mod Cæsar. Efter Slaget ved Farsalos i 48 f.Kr. blev Cassius taget til nåde af Cæsar, men fastholdt, inspireret ikke mindst af Cicero, sin republikanske grundholdning. Efter mordet på Cæsar stod Cassius på Brutus' side i den efterfølgende borgerkrig mod triumvirerne Octavian, Marcus Antonius og Lepidus. Efter det afgørende slag ved Filippi begik Cassius selvmord.

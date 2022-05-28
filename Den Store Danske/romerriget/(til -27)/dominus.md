@@ -1,0 +1,4 @@
+### Dominus
+
+
+Dominus, (lat. 'herre'), oprindelig en romersk husstands familieoverhoved, pater familias, men efterhånden også generelt en ejer af uanset hvad og dermed en juridisk ansvarlig person. Politisk set havde udtrykket en negativ klang i retning af voldsherre eller tyran, og kejser Augustus forbød ligefrem sin familie at tiltale sig sådan. I tiden derefter blev dominus imidlertid den almindelige måde at tiltale kejseren på og domina hans hustru. Fra Diokletians tid blev dominus i kombination med deus 'gud' den officielle tiltaleform over for kejseren. Periodebetegnelsen dominatet er dannet ud fra denne titel. I Vulgata, den latinske oversættelse af Bibelen, benyttes Dominus om både Gud og Jesus.

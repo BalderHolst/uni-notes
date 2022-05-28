@@ -1,0 +1,4 @@
+### Publicani
+
+
+Publicani, (lat., plur. af publicanus, af publicus 'statslig, offentlig'), i Romerriget forpagtere af offentlige opgaver. Det er sådanne mindre publicani, man møder under betegnelsen toldere i Det Nye Testamente. I republikansk tid og i kejsertiden forvaltede romerne statens indtægter og udgifter gennem forpagtning eller ved licitation ved en offentlig auktion. Da publicani skulle stille ofte meget store beløb som sikkerhed for kontrakterne, sluttede de sig som regel sammen i forpagtningsselskaber, som i kraft af deres arbejdsområder og kapital fik stor politisk betydning især i senrepublikken. Kejser Augustus indledte en forsigtig statsliggørelse af finansadministrationen, men det er først i begyndelsen af 200-t. e.Kr., at denne form for privatisering blev afløst af et embedsmandsapparat, hvor de enkelte områder styres af kejserligt udpegede prokuratorer.

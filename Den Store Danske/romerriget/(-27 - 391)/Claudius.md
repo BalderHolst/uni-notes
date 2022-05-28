@@ -1,0 +1,12 @@
+### Claudius
+
+
+Claudius, Tiberius Claudius Nero Germanicus, 10 f.Kr.-54 e.Kr., romersk kejser fra 41. Claudius blev født i Lugdunum (nuværende Lyon) i Gallien som yngste søn af Drusus d.æ. og Antonia d.y., datter af Marcus Antonius og kejser Augustus' søster Octavia. Fra sin tidligste ungdom var han sygelig, hvilket kombineret med talebesvær holdt ham uden for den politiske og militære karriere, der var normal for kejserhusets prinser. Han blev ikke konsul før i 37 e.Kr., da nevøen Caligula efterfulgte Tiberius som kejser. Efter drabet på Caligula i 41 udråbte prætorianergarden Claudius til kejser trods modstand fra Senatet, og forholdet mellem Claudius og Senatet forblev anspændt.
+
+Medvirkende hertil var Claudius' store interesse for retsplejen og den rolle, som kejserens frigivne kom til at spille i den centraliserede forvaltning. Claudius søgte at forbedre Roms kornforsyning gennem ændringer i dens administration og ved anlæggelsen af et nyt havneanlæg 4 km fra Ostia. Hans tildeling af romersk borgerret til ledende gallere afspejler en bevidst liberal borgerretspolitik, som blev understøttet af bygrundlæggelser i de vestlige provinser. Udenrigspolitisk var Claudius' regeringstid karakteriseret af en udbygning af Romerrigets grænse langs Rhinen og Donau samt af indlemmelse af nye områder som provinserne Mauretania, Thrakien og Britannia.
+
+Ved sin magtovertagelse var Claudius gift med Messalina, med hvem han fik to børn, Octavia og Britannicus. Messalinas udsvævelser var allerede i samtiden legendariske, og i 48 blev hun sammen med sin elsker dræbt efter en sammensværgelse mod kejseren. I stedet giftede Claudius sig med sin niece Agrippina d.y. og adopterede Nero, der var hendes søn af første ægteskab.
+
+Claudius var i de sidste regeringsår under stærk indflydelse af sin hustru og hendes rådgivere, og hun stod formentlig bag hans død, der banede Nero vej til tronen. Efter sin død blev Claudius som den første kejser siden Augustus guddommeliggjort.
+
+Opfattelsen af Claudius som en latterlig og viljesvag person, der lod sine koner og sine frigivne regere Romerriget, bygger ganske vist på romerske litterære kilder og kan bl.a. genfindes i Robert Graves' roman I, Claudius (1934, da. Jeg, Claudius, 1935), men dette billede nuanceres kraftigt af andre kilder, der viser, at Claudius tog sine pligter som kejser meget alvorligt og søgte at skabe et "bureaukratisk monarki". Hans unge år var helliget studier af bl.a. etruskisk historie, men intet er bevaret af dette omfangsrige forfatterskab.

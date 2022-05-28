@@ -1,0 +1,4 @@
+### Dandolo
+
+
+Dandolo, venetiansk adelsslægt, en af de ældste og mest berømte af Venezias ledende slægter. Fire af dens medlemmer beklædte posten som doge. Størst betydning fik Enrico Dandolo, der som doge 1192-1205 målbevidst arbejdede på at udvide den rige handelsbys magt i den østlige Middelhavsverden. Han var således hovedansvarlig, da den vesteuropæiske korstogshær under det 4. korstog i 1204 styrtede den byzantinske kejser og oprettede et kortvarigt latinsk kejserdømme i Konstantinopel. Den lærde Andrea Dandolo var doge 1343-54, men er mest kendt som det middelalderlige Venezias vigtigste historiker. Ikke blot fremstillede han i sine annaler byens historie fra oldtiden til 1280, men han foranledigede tillige, at der blev indrettet særlige samlinger af byens traktater med andre magter. Slægten uddøde omkring midten af 1800-t.

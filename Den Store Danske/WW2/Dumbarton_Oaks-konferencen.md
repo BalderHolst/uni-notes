@@ -1,0 +1,4 @@
+### Dumbarton_Oaks-konferencen
+
+
+Dumbarton Oaks-konferencen, konference under 2. Verdenskrig, afholdt august-oktober 1944. Repræsentanter for USA, Sovjetunionen, Storbritannien og Kina nåede her til enighed om hovedlinjerne for den nye verdensorganisation til sikring af freden, De Forenede Nationer, FN. Forhandlingerne forløb i en positiv og optimistisk atmosfære, men vigtige konfliktpunkter blev først løst under konferencerne hhv. på Jalta i februar og i San Francisco i maj-juni 1945. Det gjaldt bl.a. spørgsmålene om vetoretten i Sikkerhedsrådet, repræsentationen for de sovjetiske republikker samt hele koloni- og mandatproblemet.

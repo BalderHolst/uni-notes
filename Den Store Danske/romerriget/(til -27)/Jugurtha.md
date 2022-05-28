@@ -1,0 +1,6 @@
+### Jugurtha
+
+
+Jugurtha, ca. 158-104 f.Kr., numidisk konge, barnebarn af kong Massinissa. I 134 f.Kr. deltog Jugurtha som fører for en numidisk hjælpetrop på romernes side i Slaget ved Numantia i Spanien og etablerede herved gode relationer til romerne. Han blev adopteret af Micipsa, Massinissas efterfølger, og indsat som tronarving sammen med fætrene Adherbal og Hiempsal. Efter først at have ladet Hiempsal dræbe i 117 f.Kr. og Adherbal myrde i 112 f.Kr. sammen med mange italikere blev han enekonge over Numidia. Romerne erklærede ham herefter krig, men de første kampagner imod ham var en fiasko. Først da Marius i 107 f.Kr. fik overkommandoen, lykkedes det romerne at besejre ham, idet Sulla, Marius' kvæstor, i 105 f.Kr. overtalte den mauretanske konge Bocchus, Jugurthas svigerfar, til at udlevere ham til romerne. Jugurtha blev ført til Rom for at deltage i Marius' triumftog; herefter blev han kastet i fængsel og blev sultet ihjel.
+
+Den romerske historiker Sallust har i Bellum Jugurthinum (Den Jugurthiske Krig) fra ca. 40 f.Kr. levende skildret krigen.

@@ -1,0 +1,4 @@
+### Mater_familias
+
+
+Mater familias, (lat. 'husstandens mor'), traditionelt brugt om den respektable og gifte romerske kvinde, matronen, i modsætning til fx konkubinen. Mater familias er egentlig et romerretligt begreb. Når den romerske kvinde indgik ægteskab cum manu ('med hånd'), overgik hun juridisk til sin mands familie og blev automatisk mater familias, når ægtemanden blev pater familias. Hvis hun derimod giftede sig sine manu ('uden hånd'), og det blev det mest almindelige i senrepublikansk tid, forblev hun juridisk i sin oprindelige familie og var teknisk filia familias ('husstandens datter') indtil sin fars død.

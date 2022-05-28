@@ -1,0 +1,4 @@
+### Det_Latinske_Forbund
+
+
+Det Latinske Forbund, nutidig betegnelse for vekslende forbund af byer i Latium. Det er uklart, hvilke forbund der eksisterede i tidlig tid og af hvilken art. Det synes dog sikkert, at det var et sådant forbund, der førte den krig mod Rom, som endte med den cassianske forbundstraktat antagelig fra 493 f.Kr. Det var et forbund af ligeberettigede småstater, der valgte en fælles hærleder og traf beslutninger af fælles interesse. I løbet af 300-t. f.Kr. kølnedes forholdet til Rom og blev undertiden direkte fjendtligt. Dette kulminerede i Latinerkrigen 340-338 f. Kr., hvorefter forbundet blev opløst.

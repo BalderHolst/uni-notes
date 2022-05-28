@@ -1,0 +1,4 @@
+### Cursus_honorum
+
+
+Cursus honorum, (lat. 'embedernes forløb, embedsmandsbane, karriere'), den regulerede normalkarriere i det romerske statsapparat, især i republikansk tid. Cursus honorum blev fastlagt i 180 f.Kr. i en lov, som foreskrev, at en kandidat skulle begynde som kvæstor, hvorefter han kunne blive ædil, evt. folketribun, prætor og endelig konsul. Loven fastsatte aldersgrænser for og intervaller mellem de enkelte embeder. Man kunne således tidligst blive kvæstor som 31-årig og konsul som 42-årig. Andre embeder som fx censor og diktator regnedes ikke med til cursus honorum. I romersk kejsertid benyttedes cursus honorum tillige om andre typer af karrierer. Se også Romerriget.

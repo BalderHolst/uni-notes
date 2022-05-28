@@ -1,0 +1,6 @@
+### Olav_1._Tryggvason
+
+
+Olav 1. Tryggvason, død 1000, konge af Norge fra ca. 995. Fra 1100-t. regnede man Harald 1. Hårfager som det norske riges grundlægger; en legitim konge måtte derfor nedstamme fra ham. Det påstod man følgelig, at Olav gjorde, men man havde ikke ringeste viden om hans ophav. Hans levned kendes først fra 994, da han med Svend 1. Tveskæg var på togt i England. Herfra vendte han med engelsk støtte hjem til Norge og tog magten efter Håkon Jarl Sigurdsson. Med Trøndelag som magtbasis fik han kontrol med kystlandet, til dels gennem alliancer med andre høvdinge.
+
+Man har tillagt ham en hårdhændet indsats for at kristne Norge og for at organisere styrelsen af landet ved at udpege lendmen som sine lokale repræsentanter. Grundlaget for denne vurdering er dog svagt, og hans påståede rolle i Islands overgang til kristendommen er ren myte. Norges ældste mønter med kongenavn er dog slået i hans tid som imitationer af samtidige engelske mønter. Olav mistede livet i Slaget ved Svold, da Svend Tveskæg genoprettede dansk herredømme over Norge.

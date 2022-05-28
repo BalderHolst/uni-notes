@@ -1,0 +1,4 @@
+### Patricier
+
+
+Patricier, (af lat. patricius, if. romerne afledt af pater 'far', plur. patres 'fædre'), romersk borgergruppe. Det er usikkert, hvornår og hvordan denne gruppe opstod, men i tidlig republikansk tid havde patricierne eneret til alle religiøse og politiske poster; endvidere var der ifølge romersk tradition indtil 445 f.Kr. ægteskabsforbud mellem dem og plebejerne. I stænderkampene i de følgende ca. 250 år måtte patricierne efterhånden opgive det ene privilegium efter det andet, indtil kun nogle få poster såsom rex sacrorum og måske princeps senatus var forbeholdt dem. Dette kan hænge sammen med, at de bestandig blev færre. Man kender således ca. 50 patriciske slægter i 400-t. f.Kr., men kun 14 ved republikkens slutning. Det var dog fortsat meget ærefuldt at være patricier, og Cæsar, Augustus og de efterfølgende kejsere opnåede ret til at tildele en slægt denne rang.

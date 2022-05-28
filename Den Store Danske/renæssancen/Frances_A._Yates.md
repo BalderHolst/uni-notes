@@ -1,0 +1,4 @@
+### Frances_A._Yates
+
+
+Frances A. Yates, Frances Amelia Yates, 28.11.1899-29.9.1981, britisk kulturhistoriker; docent i renæssancens historie ved The Warburg Institute i London indtil 1967, siden æresmedlem af lærerkollegiet. Hendes omfattende forfatterskab samler sig om afdækningen af en række traditionslinjer, der forløber som understrømme i vestlig kultur og normalt er udeladt i faghistoriske fremstillinger, fx hermetisme og rosenkreuzerlæren. Af værker kan nævnes The Occult Philosophy in the Elizabethan Age (1979); The Art of Memory (1966) har opnået særlig stor udbredelse. Hendes Giordano Bruno and the Hermetic Tradition (1964) udkom i 2001 i norsk oversættelse som Modernitetens okkulte inspiration.

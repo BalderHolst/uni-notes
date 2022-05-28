@@ -1,0 +1,4 @@
+### Massinissa
+
+
+Massinissa, ca. 240-148 f.Kr., numidisk konge, søn af massylernes konge Gaja. Massinissa kæmpede 212-206 f.Kr. på karthaginiensernes side imod romerne. Scipio Africanus vandt ham over på romernes side, og i 202 f.Kr. var Massinissa medvirkende til Scipios sejr over Hannibal ved Zama. Delvis som belønning herfor blev Massinissa, der nu betragtedes som romersk forbundsfælle, konge over Numidia. Han udvidede sit rige, hvilket resulterede i, at karthaginienserne angreb Numidia, men forgæves. Massinissa må betragtes som en dygtig diplomat, som fik samlet de numidiske stammer. Han medvirkede til udbredelsen af punisk kultur og havde kontakter til den græske verden.

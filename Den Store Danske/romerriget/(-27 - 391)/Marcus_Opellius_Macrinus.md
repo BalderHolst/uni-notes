@@ -1,0 +1,4 @@
+### Marcus_Opellius_Macrinus
+
+
+Marcus Opellius Macrinus, 164-218, romersk kejser. Macrinus deltog som prætorianerpræfekt i kejser Caracallas felttog mod Partherriget. Han skal være blevet grebet af frygt for sin personlige sikkerhed og arrangerede derfor et mordattentat, der kostede Caracalla livet 217. Soldaterne udråbte ham nu til kejser, den første, der ikke udgik af senatorstand, og han fortsatte krigen mod partherne, men sluttede snart en ikke særlig glorværdig fred. Dette og hans efterfølgende behandling af legionerne skabte utilfredshed blandt nogle af soldaterne, der gjorde mytteri. Macrinus tabte og flygtede, men blev fanget og henrettet.

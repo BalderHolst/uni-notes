@@ -1,0 +1,10 @@
+### Pearl_Harbor
+
+
+Pearl Harbor, amerikansk flådebase på sydsiden af Oahu Island ca. 10 km vest for Honolulu, Hawaii. Allerede i 1820 bosatte en amerikansk repræsentant sig på øen, som jævnligt blev besøgt af amerikanske flådefartøjer. I 1843 forsøgte en britisk styrke at annektere stedet, men blev afvist af et tilstedeværende amerikansk fartøj. I 1875 indgik USA en aftale med den lokale konge om ret til at benytte stedet som base. I 1887 anlagdes flådebasen, som i 1908 udvidedes med et skibsværft.
+
+Søndag den 7.12.1941 om morgenen iværksatte en japansk flådestyrke, der bl.a. omfattede seks hangarskibe, et omhyggeligt forberedt overraskelsesangreb på Pearl Harbor. Det var planlagt af admiral Yamamoto Isoroku og blev udført af admiral Nagumo Chuichi, medens selve flyangrebet blev anført af kommandør Fuchida Mitsuo. Fra en position ca. 400 km nord for Hawaii sendte japanerne ca. 350 fly mod basen, der var ganske uforberedt, og med bomber og torpedoer lykkedes det dem at ødelægge eller sænke fem slagskibe og beskadige yderligere tre, hvortil kom betydelige skader på talrige mindre enheder.
+
+USA's to største hangarskibe undgik dog ødelæggelse, da de var på øvelse på angrebstidspunktet. På de omkringliggende flybaser blev mere end 180 fly ødelagt, næsten alle på jorden. En væsentlig årsag til de store amerikanske tab af fly skyldtes en helt ubegrundet frygt for sabotage fra de derboende japanere, hvorfor flyene stod tæt parkeret, hvilket gjorde bevogtningen nemmere. Et luftangreb anså man derimod for en umulighed.
+
+Ud over de materielle skader havde amerikanerne over 3500 døde og sårede, mens de japanske tab var ubetydelige. Begivenheden udløste en formel amerikansk krigserklæring til Japan den følgende dag; USA gik således ind i 2. Verdenskrig på de allieredes side. Den amerikanske krigserklæring fik Hitler til at erklære USA krig, hvilket han ikke var forpligtiget til, idet Japan var aggressoren. Hitlers handling øgede dermed præsident Roosevelts muligheder for at kunne indlede et felttog på europæisk grund.

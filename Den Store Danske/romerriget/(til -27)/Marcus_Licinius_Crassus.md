@@ -1,0 +1,6 @@
+### Marcus_Licinius_Crassus
+
+
+Marcus Licinius Crassus, 115 f.Kr.-53 f.Kr., romersk feltherre og politiker. I kraft af sin fornemme slægt, store rigdom og personlige dygtighed blev Crassus en af de ledende politikere i Rom. Han kæmpede på Sullas side i år 82 og grundlagde sin kæmpeformue under de efterfølgende proskriptioner. I år 72 nedkæmpede Crassus den store slaveopstand under Spartacus' ledelse, og i samarbejde med Pompejus blev Crassus konsul i år 70 og kunne i år 65 krone sin karriere med censorembedet. Crassus' politik var præget af et snævert, men problematisk samarbejde med Pompejus og Cæsar, som i år 60 resulterede i det såkaldte 1. triumvirat (tremandsstyre). Herved fik Crassus kommandoen over de østlige provinser, og i et forsøg på at leve op til Pompejus' og Cæsars resultater som feltherrer indledte han et hasarderet angreb på partherne, som endte med et katastrofalt nederlag og Crassus' død ved Carrhae.
+
+Vurderingerne af Crassus som politiker og menneske er delte, men han nåede hverken Pompejus' eller Cæsars niveau. Hans store ambitioner og hans jalousi over for Pompejus skyggede for det politiske klarsyn, som havde været nødvendigt for at vinde magtkampen omkring Cæsars person.

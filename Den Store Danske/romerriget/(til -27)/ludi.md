@@ -1,0 +1,4 @@
+### Ludi
+
+
+Ludi, (lat., plur. af ludus 'spil, leg'), fællesbetegnelse for offentlige festspil og lege i Romerriget. De årlige officielle religiøse fester i Rom omfattede fra midten af 200-t. f.Kr. også hestevæddeløb, ludi circenses, og skuespil, ludi scaenici, der i kejsertiden var mimer og pantomimer. Den vigtigste fest, Ludi Romani eller Ludi Magni, blev afholdt til ære for Jupiter, Juno og Minerva. Her var hovedbegivenheden hestevæddeløb i Circus Maximus, mens skuespil dominerede fx Ludi Apollinares til ære for Apollon. Antallet af ludi voksede stærkt fra 57 dage i 100-t. f.Kr. til 177 dage i midten af 300-t. e.Kr. Embedsmænd havde ansvaret for afholdelsen af de officielle ludi, og de betalte selv de fleste udgifter i forsøget på at skabe sig popularitet. Private kunne også give ludi til ære for afdøde slægtninge, og i disse uofficielle lege kunne der indgå gladiator- og dyrekampe.

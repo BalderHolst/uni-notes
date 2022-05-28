@@ -1,0 +1,4 @@
+### Locarnopagten
+
+
+Locarnopagten, international aftale, indgået i Locarno i 1925 mellem Frankrig, Belgien, Storbritannien, Italien og Tyskland. Pagten garanterede Frankrigs og Belgiens grænse mod Tyskland i henhold til Versaillestraktaten af 1919 og fastslog opretholdelsen af Rhinlandets demilitarisering. For at undgå krig ved evt. grænsestridigheder indgik parterne endvidere en række voldgiftsaftaler. Locarnopagten betragtedes som begyndelsen til et nyt og bedre sikkerhedspolitisk system i Europa; den banede vej for Tysklands optagelse i Folkenes Forbund i 1926 samt for tilbagetrækningen af britiske og franske styrker fra Rhinlandet i hhv. 1926 og 1930. Tysklands besættelse af Rhinlandet i 1936 betød pagtens sammenbrud.

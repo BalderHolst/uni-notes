@@ -1,0 +1,4 @@
+### Lend-Lease_Act
+
+
+Lend-Lease Act, (eng. 'låne- og lejeloven'), amerikansk lov om bistand til de allierede under 2. Verdenskrig. Trods isolationistisk modstand lykkedes det i marts 1941 præsident Roosevelt at få Kongressens godkendelse af loven, der muliggjorde salg, bytte, lån og udlejning af forsyninger og militært udstyr til lande, hvis forsvar præsidenten anså for vitalt for USA's sikkerhed. USA stod stadig uden for krigen, men loven markerede, at man ikke længere forholdt sig neutralt. Loven gjaldt først for Storbritannien, senere også for Kina og Sovjetunionen, og ved USA's indtræden i krigen i december 1941 udvidedes hjælpen yderligere. Ved krigsafslutningen i 1945 havde 38 lande modtaget hjælp i henhold til Lend-Lease Act til en samlet værdi af ca. 49,1 mia. dollar; heraf havde Storbritannien inklusive Commonwealth modtaget ca. 63%, og Sovjetunionen ca. 22%. Kun ca. 7,8 mia. dollar tilbagebetaltes; resten blev eftergivet.

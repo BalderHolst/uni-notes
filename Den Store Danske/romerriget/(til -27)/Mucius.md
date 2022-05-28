@@ -1,0 +1,4 @@
+### Mucius
+
+
+Mucius, romersk plebejerslægt. Gajus Mucius fik ifølge traditionen tilnavnet Scaevola (lat. 'venstrehåndet'), fordi han lod sin højre hånd brænde efter et mislykket attentat på den etruskiske kong Porsenna, der belejrede Rom i 507 f.Kr. Publius Mucius Scaevola var konsul i 133 f.Kr. og støttede i begyndelsen Tiberius Gracchus og hans reformplaner. Quintus Mucius Scaevola var konsul i 117 f.Kr. og retoriklærer for bl.a. Cicero. Som jurist blev han overgået af Quintus Mucius Scaevola (d. 82 f.Kr.), der var konsul 95 f.Kr., pontifex maximus 89-82 f.Kr. og senrepublikkens mest fremtrædende jurist. Hans værk i 18 bind om romersk civilret blev stadigvæk kommenteret af jurister i 200-t. e.Kr.

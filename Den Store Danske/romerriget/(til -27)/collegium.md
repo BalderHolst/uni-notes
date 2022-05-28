@@ -1,0 +1,4 @@
+### Collegium
+
+
+Collegium, (lat. 'forsamling, fællesskab', af kon- og afledn. af legere 'samle'), i Romerriget især en religiøs og/eller social sammenslutning, hvis medlemmer gensidigt skulle hjælpe hinanden og, når tiden var inde, sørge for et medlems begravelse. Collegier dannedes bl.a. af folk af religiøse grunde eller af folk med samme erhverv, fx handelsfolk, skippere, brandmænd eller skuespillere. I modsætning til middelalderens lav beskæftigede de antikke collegier sig ikke med løn- og prisfastsættelse. Collegierne blev ledet af en patron, der udadtil repræsenterede medlemmernes interesser. Medlemskab var åbent for folk med forskellige former for retsstilling og muliggjorde deltagelse i byens offentlige liv. Af frygt for collegiernes politiske indflydelse skulle de alle fra begyndelsen af 1. årh. e.Kr. godkendes af kejseren eller Senatet. Kendskabet til collegier stammer i overvejende grad fra antikke indskrifter.

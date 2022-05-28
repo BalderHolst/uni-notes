@@ -1,0 +1,4 @@
+### Marcus_Aemilius_Lepidus
+
+
+Marcus Aemilius Lepidus, 90-12 f.Kr., romersk politiker. Lepidus støttede Cæsar og blev efter statholderskab i Spanien i 48 og 47 f.Kr. året efter konsul sammen med ham. Efter mordet på Cæsar støttede han først Antonius, som sørgede for, at han fik posten som pontifex maximus. Han deltog i 43 f.Kr. i det 2. triumvirat sammen med Octavian (Augustus) og Antonius. I den følgende magtkamp støttede Lepidus Octavian, mens han forsigtigt forsøgte at sætte sig selv igennem. I 36 f.Kr. mistede han sin politiske betydning efter en konflikt med Octavian. Lepidus var en dygtig administrator og en habil politiker. Dette kombineret med hans kontakter til de allerfornemste kredse bevirkede, at han overlevede næsten 40 års magtkampe.

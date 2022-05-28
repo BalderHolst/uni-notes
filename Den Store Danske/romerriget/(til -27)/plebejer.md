@@ -1,0 +1,8 @@
+### Plebejer
+
+
+Plebejer, romersk borgergruppe, defineret som dem, der "ikke har slægter". Navnets oprindelige betydning er usikker, og det er omstridt, hvornår og hvordan denne gruppe opstod. Sikkert er kun, at de i tidlig republikansk tid ikke kunne bestride ledende religiøse og politiske poster, som var forbeholdt patricierne. Gruppen er således en stand, og i den fandtes velhavende plebejere, som førte an i en 250-årig lang stænderkamp, hvis mål var at fravriste patricierne deres privilegier, men også omfattede spørgsmålet om fordeling af ager publicus, ophævelse af gældsslaveriet samt offentliggørelse af gældende lov og retsformularer.
+
+Plebejerne valgte deres egne ledere, plebejertribunerne, mødtes i deres egen forsamling, concilium plebis, og søgte at gennemtrumfe deres krav, bl.a. ved at nægte at gøre krigstjeneste, når fjenden stod for porten, eller ligefrem true med at udvandre. I 367 f.Kr. fik de valgbarhed til konsulatet; mange af deres øvrige krav blev herefter opfyldt, og i 287 f.Kr. fik plebejerforsamlingens beslutninger gyldighed for hele romerfolket. Tilbage af det oprindelige skel stod næsten kun, at man skulle være plebejer for at blive valgt til plebejertribun.
+
+I senrepublikansk tid blev ordet ofte brugt i betydningen "den brede befolkning" eller nedsættende om "den gemene hob" og i kejsertiden ofte om den langt større mængde borgere, der hverken tilhørte senator-, ridder- eller dekurionstanden.

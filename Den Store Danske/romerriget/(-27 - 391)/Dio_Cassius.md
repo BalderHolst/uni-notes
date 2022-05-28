@@ -1,0 +1,4 @@
+### Dio_Cassius
+
+
+Dio Cassius, gr. Dion, Cassius Dio Cocceianus, ca. 150-235, romersk historieskriver og politiker. Dio Cassius kom fra Nikæa i Bithynien og fik en strålende karriere i Rom. Han blev konsul under kejser Septimius Severus, guvernør i Afrika og Dalmatien og konsul igen i 229 sammen med kejser Alexander Severus. Derefter trak Dio Cassius sig tilbage og fuldførte sit livsværk, en Roms historie på græsk i ikke mindre end 80 bøger. Betydelige dele er bevaret og udgør en af de væsentligste kilder til vor viden om senrepublikken og tidlig romersk kejsertid, især perioden 68 f.Kr.-47 e.Kr. Som historiker holdt Dio Cassius sig til den traditionelle hellenistiske tradition, og han var positivt indstillet over for kejserdømmet.

@@ -1,0 +1,4 @@
+### Lucius_Tarquinius_Priscus
+
+
+Lucius Tarquinius Priscus, ifølge traditionen Roms femte konge, som skal have regeret 616-579 f.Kr. Rom har med al sandsynlighed haft konger af etruskisk oprindelse med navnet Lucius Tarquinius. Det er formentlig også rigtigt, at de anlagde Det Capitolinske Tempel, Cloaca Maxima mv. Men legenderne om dem er farvet af, at Lucius Tarquinius med tilnavnet Priscus ('den ældste') skulle fremstilles som den gode konge i modsætning til den syvende og sidste konge, Lucius Tarquinius med tilnavnet Superbus ('den hovmodige'), som skal have regeret 534-509 f.Kr., og hvis tyranniske adfærd fremkaldte et oprør, der endte med kongernes fordrivelse og indførelsen af republikken.

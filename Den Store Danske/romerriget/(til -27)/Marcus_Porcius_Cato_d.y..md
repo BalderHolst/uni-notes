@@ -1,0 +1,4 @@
+### Marcus_Porcius_Cato_d.y.
+
+
+Marcus Porcius Cato d.y., 95-46 f.Kr., romersk statsmand. Ligesom sin oldefar, Marcus Porcius Cato d.æ., var Cato fortaler for traditionel romersk livsstil, politik og kultur, men i en langt mere usmidig og i en for tiden ganske urealistisk stil. Han var leder af optimates, det konservative aristokrati, der prøvede at bevare republikken, og ivrig modstander af triumvirerne Pompejus, Cæsar og Crassus. Da borgerkrigen mellem Cæsar og Pompejus brød ud i 49 f.Kr., støttede han imod sine principper Pompejus. Da Cæsar havde sejret over Pompejus og hans tilhængere, begik Cato selvmord. Efter sin død og langt op i kejsertiden var han en heltefigur for dem, der ønskede republikken tilbage; han fremstod som inkarnationen af de gamle romerske dyder.

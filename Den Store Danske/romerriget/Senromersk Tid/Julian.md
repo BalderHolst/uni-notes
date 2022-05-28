@@ -1,0 +1,4 @@
+### Julian
+
+
+Julian, Flavius Claudius Julianus, 331-363, romersk kejser, brorsøn af Konstantin 1. den Store. Julian fik en kristen opdragelse, men gik 20 år gammel over til en nyplatonsk-synkretistisk udgave af den traditionelle græsk-romerske religion, hvilket blandt de kristne skaffede ham tilnavnet Apostaten 'den frafaldne'. I 355 udråbtes Julian af sin fætter kejser Constantius 2. til medregent (cæsar) i Gallien, hvor han i de følgende år med stor dygtighed forsvarede Rhingrænsen mod germanske stammer. I 360 udråbte hæren Julian til ligeberettiget kejser (augustus), og ved Constantius 2.s død året efter blev han enehersker. Han indførte fuld tolerance af ikke-kristne religioner, forsøgte at organisere dem og udelukkede kristne lærere fra højere undervisning. Selv forfattede Julian adskillige græske værker af religiøst, filosofisk og satirisk indhold, hvoraf flere er bevaret. Han døde under et felttog mod Persien.

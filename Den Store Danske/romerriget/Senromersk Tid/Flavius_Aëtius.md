@@ -1,0 +1,4 @@
+### Flavius_Aëtius
+
+
+Flavius Aëtius, ca. 390-454, romersk hærfører og politiker. Aëtius var som helt ung i tre år gidsel hos visigoterne og hos hunnerne og kunne i sin senere karriere bruge de kontakter, han havde fået, til at opnå militær støtte fra disse folk. Efter at have vundet sejre som hærchef i Gallien blev han i 433 det vestromerske riges øverste militære leder og var rigets reelle hersker gennem 20 år. Hans væsentligste indsats var, at han opretholdt det romerske herredømme i Gallien i denne periode af folkevandringstiden. I 451 besejrede Aëtius sammen med visigoterne en hunnisk-germansk invasionshær under Attila ved De Katalauniske Marker. Hans søn blev forlovet med kejser Valentinian 3.s datter, men efter en sammensværgelse blandt Aëtius' modstandere lod kejseren ham myrde.

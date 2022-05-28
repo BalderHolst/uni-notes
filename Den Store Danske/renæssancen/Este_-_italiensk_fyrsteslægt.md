@@ -1,0 +1,6 @@
+### Este_-_italiensk_fyrsteslægt
+
+
+Este, italiensk fyrsteslægt. Den oprindeligt longobardiske familie fik i 900-t. byen Este som kejserligt len og tog siden navn efter den. Omkring 1100 delte slægten sig i to grene. Den første gren bredte sig til Tyskland som slægten Welf, den anden blev ophav til den med tiden europæisk berømte fyrsteslægt i Modena og Ferrara, der ophøjedes til hertugdømmer i henholdsvis 1452 og 1471. I 1598 indlemmedes Ferrara i pavestaten, men slægten fortsatte som hertuger i Modena indtil Italiens samling ca. 1860. Den oprindelige mandslinje uddøde dog allerede i 1803.
+
+Blandt familiens mange berømte skikkelser bør fremhæves Isabella d'Este, der regnes for en af de eleganteste og mest lærde kvinder i den italienske renæssance, hertug Ercole 1. d'Este (1431-1505), der lod byen Ferrara udvide til det tredobbelte i den nye renæssancestil, og som styrkede sin lille stats økonomiske og militære stilling, samt kardinal Ippolito 2. d'Este (1509-72), der anlagde renæssancehaven Villa d'Este i nærheden af Rom.

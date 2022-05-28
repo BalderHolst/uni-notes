@@ -1,0 +1,4 @@
+### Den_Sicilianske_Vesper
+
+
+Den Sicilianske Vesper, massakre, som Palermos indbyggere i 1282 foretog på de franske embedsmænd og officerer, der var stationeret i byen. Navnet skyldes, at massakren indledtes foran en kirke, hvor der blev holdt aftengudstjeneste, vesper. I de følgende dage blev flere tusinde franskmænd over hele øen myrdet. Årsagen var utilfredshed med Neapels franske hersker Karl 1. af Anjous hårde styre på Sicilien, og begivenhederne udviklede sig til almindeligt oprør, ansporet af Peter 3. af Aragonien, som samme år erobrede øen. Det aragonske herredømme blev dog først anerkendt i 1302. Begivenheden er emnet for Giuseppe Verdis opera Siciliansk Vesper, uropført i Paris 1855.

@@ -1,0 +1,4 @@
+### Nobiliteten
+
+
+Nobiliteten, (af lat. nobilitas 'fornem, ædel'), i Romerriget de øverste lag af senatorstanden. Fra 100-t. f.Kr. tilhørte man nobiliteten, hvis man selv eller en af ens forfædre havde opnået konsulatet. Da der normalt kun blev valgt to konsuler om året, udgjorde nobiliteten en lille, eksklusiv gruppe af fornemme familier, næppe mere end ca. 30-40, som havde monopoliseret den øverste udøvende magt. Nåede man konsulatet uden i forvejen at tilhøre denne velhavende elite, blev man kaldt for en homo novus, en 'ny mand'. I kejsertiden svækkedes nobilitetens indflydelse stærkt, og begrebet udvandedes.

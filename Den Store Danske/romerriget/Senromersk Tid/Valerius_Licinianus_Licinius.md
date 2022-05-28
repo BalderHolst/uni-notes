@@ -1,0 +1,4 @@
+### Valerius_Licinianus_Licinius
+
+
+Valerius Licinianus Licinius, ca. 250-ca. 325, romersk kejser 308-324, soldaterkammerat med kejser Galerius, som ved et møde med den afgåede kejser Diokletian i Carnuntum i 308 udråbte ham til sin medkejser med henblik på at nedkæmpe usurpatoren Maxentius. Efter Galerius' død 311 vendte Licinius sig imidlertid mod kollegaen Maximinus Daja, som han besejrede i 313 efter først at have allieret sig med Konstantin 1. den Store. Dermed tilfaldt rigets østlige provinser ham, men efter en kort krig måtte han afstå størstedelen af Balkan til Konstantin. Licinius søgte først at gennemføre tolerancen mod de kristne, men måtte ca. 320 gøre indskrænkninger deri. En ny krig mod Konstantin kostede ham i 324 hans del i kejsermagten og det følgende år livet.

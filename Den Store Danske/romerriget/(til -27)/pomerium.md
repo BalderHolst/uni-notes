@@ -1,0 +1,4 @@
+### Pomerium
+
+
+Pomerium, (lat., af post murum 'bag muren'), byen Roms hellige bygrænse, anlagt allerede i kongetiden, dvs. før ca. 500 f.Kr. Senere blev pomerium også brugt om andre byers grænse, som var anlagt i overensstemmelse med antagelig etruskisk ritus, en såkaldt circumductio (lat. 'om-førelse' eller mere præcist 'om-pløjning'). Grænsen anlagdes, ved at man pløjede en fure rundt om det område, som byen dækkede. Symbolsk blev plovfuren til en grav, og den oppløjede jord til en vold, som ofte senere blev befæstet med en mur. Denne grænse var hellig, og herindenfor måtte ingen begraves eller bære våben.

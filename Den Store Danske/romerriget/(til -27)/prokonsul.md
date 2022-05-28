@@ -1,0 +1,4 @@
+### Prokonsul
+
+
+Prokonsul, (af lat. proconsul 'stedfortrædende konsul', jf. pro-), romersk embedsmand, der havde myndighed som en konsul til at kommandere en hær eller styre en provins. Oprindelig, dvs. fra 326 f.Kr., var det betegnelsen for en konsul, der fik forlænget sin kommando for at afslutte en krig. Efter 146 f.Kr. blev det i stigende grad almindeligt, at man efter sit konsulat fik tildelt en provins som prokonsul. Augustus og de efterfølgende kejsere styrede de provinser, kejserne fik tildelt, med prokonsularisk myndighed, mens prokonsul blev den normale betegnelse for en statholder over en af de øvrige provinser.

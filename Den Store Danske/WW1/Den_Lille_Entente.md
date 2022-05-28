@@ -1,0 +1,4 @@
+### Den_Lille_Entente
+
+
+Den Lille Entente, gængs betegnelse for et alliancesystem indgået mellem Tjekkoslovakiet og Jugoslavien (1920), Tjekkoslovakiet og Rumænien (1921) og Rumænien og Jugoslavien (1922) for at sikre status quo i Donauområdet. Alliancen blev styrket ved aftaler med Frankrig og i 1929 formaliseret med Beogradtraktaten. Alliancen, hvis ophavsmand var den tjekkoslovakiske udenrigsminister Edvard Beneš, var grundet i frygt for ungarsk revisionisme efter 1. Verdenskrig og Trianonfreden. Fra 1929 foregik der regelmæssige militære konsultationer, og i 1933 udbyggedes samarbejdet med et permanent råd og sekretariat, der søgte at styrke økonomisk samarbejde. Efter 1933 blev det i stigende grad Tyskland og ikke Ungarn, der udgjorde den største trussel for landene, men alliancen tog ikke højde for det. Den Lille Entente brød sammen, efter at Vestmagterne ofrede Tjekkoslovakiet ved Münchenaftalen i 1938.

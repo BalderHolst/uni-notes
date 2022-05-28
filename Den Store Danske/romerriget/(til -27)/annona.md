@@ -1,0 +1,4 @@
+### Annona
+
+
+Annona, (af lat. annus 'år'), i romersk tid oprindelig det årlige afkast fra landbruget, senere især Roms løbende tilførsel af fødevarer — specielt korn og oliven. I republikansk tid overvågede ædilerne priserne og satte om nødvendigt ind med støtteopkøb for at holde prisen i ro, eller de uddelte korn gratis, hvilket ofte skete i forbindelse med valgkampe. For at undgå politisk misbrug fastlagde først Cæsar og senere kejser Augustus en grænse for, hvor mange borgere der var berettiget til at modtage korn. Det blev til ca. 320.000 af Roms fastboende fattige borgere, og dermed fik annona karakter af socialforsorg. I kejsertiden havde en praefectus annonae kontrol med annona, der da blev identisk med skatter inddrevet i form af naturalier fra Romerrigets provinser, især Egypten og Afrika.

@@ -1,0 +1,4 @@
+### Papirius
+
+
+Papirius, fornem romersk slægt, hvoraf Lucius Papirius Cursor (d. efter 309 f.Kr.) opnåede konsulatet ikke mindre end fem gange fra 326 til 313 f.Kr. og blev diktator to gange i hhv. 325 og 309 f.Kr. Hans berømmelse skyldtes især hans sejre over samnitterne, hvilket gav ham tilnavnet Cursor 'lynet' (egl. lat. 'løber'). Gajus Papirius Carbo (d. 119 f.Kr.) støttede oprindelig Graccherne; i 120 f.Kr. blev han konsul. Hans søn Gajus Papirius Carbo Arvina (d. 82 f.Kr.) arbejdede som tribun i 90 f.Kr. aktivt sammen med Cinna. Gnaeus Papirius Carbo (d. 82 f.Kr.) var konsul tre gange i hhv. 85, 84 og 82 f.Kr., sidste gang sammen med Marius. Han deltog i 87 f.Kr. i Marius' angreb på Rom; i 82 f.Kr. blev han besejret af Sulla. Han flygtede, men blev fanget af Pompejus og henrettet.

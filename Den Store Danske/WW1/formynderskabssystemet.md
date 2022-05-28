@@ -1,0 +1,4 @@
+### Formynderskabssystemet
+
+
+Formynderskabssystemet, FN-system, oprettet med det formål at sikre tidligere koloniers selvstyre gennem international overvågning. Efter 2. Verdenskrig afløste formynderskabssystemet de tidligere mandatområder under Folkenes Forbund. Princippet var, at sejrherrerne ikke skulle overtage de tabende magters kolonier, men at kolonierne tværtimod skulle sikres selvstændighed. Forskellen fra mandatområdernes tid var bl.a., at der kunne indbringes klager til Formynderskabsrådet, et af FN's seks hovedorganer. Efter at alle lande, bl.a. Rwanda, Burundi, Cameroun, Namibia og Papua Ny Guinea, der tidligere var underlagt formynderskabssystemet, har opnået selvstændighed, er systemet i dag uden reel betydning.

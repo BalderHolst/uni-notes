@@ -1,0 +1,4 @@
+### Quintus_Tullius_Cicero
+
+
+Quintus Tullius Cicero, ca. 102-43 f.Kr., romersk politiker, yngre bror til Marcus Tullius Cicero. Han fik samme uddannelse som sin bror og påbegyndte også en politisk karriere, var en habil administrator, men nåede ikke at blive konsul. Under Cæsars erobring af Gallien gjorde han tjeneste som officer, sluttede sig til Pompejus ved Borgerkrigens udbrud, men skiftede side og blev offer for proskriptionerne i 43 f.Kr. Der er bevaret 27 breve til ham fra broderen og fire fra hans egen hånd. Det er derimod omstridt, hvorvidt han er forfatteren til et skrift om det at søge konsulatet (commentariolum petitionis).

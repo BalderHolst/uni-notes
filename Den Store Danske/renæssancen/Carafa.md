@@ -1,0 +1,4 @@
+### Carafa
+
+
+Carafa, italiensk adelsslægt. Efter at et medlem i 1467 var blevet kardinal, havde slægten Carafa fra Napoli takket være nepotisme stor succes i Rom. Kardinalens nevø blev i 1555 valgt til pave under navnet Paul 4., og han hævede straks sine nevøer til magt og rigdom. Af disse forstod især den amoralske Carlo Carafa (1517-61) at berige sig ud over alle grænser. Da paven til slut gjorde op med nevøerne, blev Carlo fjernet, og kort efter blev han og en af hans brødre henrettet af den nye pave, Pius 4. En anden nevø, den lærde Antonio Carafa (1538-91), måtte først flygte, men vendte siden tilbage som indflydelsesrig kardinal. Også senere har medlemmer af slægten opnået høje poster inden for den katolske kirke.

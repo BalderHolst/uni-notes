@@ -1,0 +1,4 @@
+### Gnaeus_Domitius_Corbulo
+
+
+Gnaeus Domitius Corbulo, d. 68 e.Kr., den mest fremtrædende feltherre i tidlig romersk kejsertid. I 44 e.Kr. blev Corbulo konsul og gjorde derefter tjeneste ved Rhinen, hvor han stabiliserede grænsen mod germanerne. I den østlige del af Romerriget havde Corbulo under kejser Nero i perioder en position, som nærmede sig en medkejsers. Med partherne som den egentlige trussel erobrede Corbulo af taktiske grunde Armenien for at sikre Eufrat som imperiets østgrænse. Som følge af bl.a. intern rivalisering i Neros sidste år smuldrede Roms østpolitik, og Corbulo fulgte Nero i døden.

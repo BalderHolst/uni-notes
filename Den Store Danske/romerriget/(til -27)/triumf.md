@@ -1,0 +1,4 @@
+### Triumf
+
+
+Triumf, (af lat. triumphus, muligvis af gr. thriambos 'processionshymne til Dionysos'), i Romerriget sejrsparade gennem Rom, i republikken bevilget af Senat og folkeforsamling til sejrende feltherrer, i kejsertiden forbeholdt medlemmer af kejserfamilien. Triumf går tilbage til Roms mytiske tid, og retten hertil forudsatte, at triumfatoren besad imperium, havde opnået en endegyldig sejr og dræbt mindst 5000 fjender. I senrepublikken og kejsertiden bøjedes reglerne dog ofte. Triumfatoren blev, stående i en quadriga (firspand), ledsaget og laurbærkranset af en slave, der tilhviskede ham "Husk, at du er dødelig"; han optrådte i dragt og med attributter som Roms hovedgud, Jupiter Optimus Maximus, ved hvis tempel på Capitol triumftoget afsluttedes med et takoffer. Triumftoget bestod desuden af erobret bytte, prominente fanger, Roms senat og embedsmænd samt feltherrens hær, der afsang smædesange om deres general.

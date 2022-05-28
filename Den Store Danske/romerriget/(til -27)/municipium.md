@@ -1,0 +1,4 @@
+### Municipium
+
+
+Municipium, (lat., af munus 'forpligtelse, hverv' og afledn. af capere 'tage'), latinsk betegnelse for en by, som både var selvforsynende (autark) og selvstyrende (autonom). Et municipium bestod af en bymæssig bebyggelse og et opland. Indbyggernes rettigheder og pligter var fastlagt i en bylov, hvoraf flere er overleveret, fx lex malacitana fra det antikke Málaga. Sådanne enheder eksisterede i hundredvis over hele Romerriget og var romernes vigtigste styringsredskab og et afgørende led i romaniseringen af undertvungne områder. Indbyggerne havde latinsk ret, men kunne opnå fuld romersk borgerret, enten hvis de tog et embede i byen, eller hvis byen blev ophævet til colonia, hvilket kunne ske som en belønning for gnidningsfrit samarbejde.

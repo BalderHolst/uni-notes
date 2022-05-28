@@ -1,0 +1,4 @@
+### Plebejertribuner
+
+
+Plebejertribuner, (lat. tribuni plebis), folketribuner, i Romerriget opr. de ledere, plebejerne valgte under deres politiske kampe imod patricierne, men de blev efterhånden et almindeligt led i det politiske system i republikken. Hvert år valgtes ti plebejertribuner på concilium plebis, hvis møder de forestod. De var sakrosankte, og hver enkelt tribun kunne nedlægge veto imod alle andre politiske lederes handlinger samt gribe beskyttende ind over for myndighedernes overgreb imod enkeltpersoner. Deres myndighed var begrænset til byen Rom, hvor deres hus skulle stå åbent dag og nat. De varetog via plebejerforsamlingen en meget stor del af lovgivningsarbejdet mv., og posten var ofte en god mulighed for en ung og ærgerrig politiker til at markere sig.

@@ -1,0 +1,4 @@
+### Chigi
+
+
+Chigi, italiensk adelsslægt. Chigislægten stammede fra Siena og kom til Rom i slutningen af 1400-t. Agostino Chigi (1465-1520), Il magnifico, skabte sig en formue som bankier for renæssancepaverne og brugte den som kunstmæcen i den store stil. Paverne uddelte i rigt mål gunstbevisninger til ham og hans bror Sigismondo, men allerede kort efter Agostinos død måtte den romerske bank sælges. Da et oldebarn af Sigismondo i 1655 blev valgt til pave under navnet Alexander 7. og gjorde sine nevøer til kardinaler, kom slægten imidlertid op igen. Store rigdomme erhvervedes, og slægten byggede prægtige paladser, bl.a. Villa Farnesina; nogle af disse er endnu i dens eje.

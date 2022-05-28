@@ -1,0 +1,4 @@
+### Pater_familias
+
+
+Pater familias, (lat. 'husstandens far'), i Romerriget det juridiske overhoved for familien, forstået som husstand, dvs. hustru, børn og slaver. Hans myndighed, patria potestas, omfattede fuld og udelt ejendomsret til familiens formue og magt over liv og død. Det gjaldt fx beslutninger om, hvorvidt nyfødte skulle udsættes, og om afstraffelse af endog voksne børn. Selvom Roms ældste historie kan opvise eksempler på fædre, som beordrede deres sønner henrettet, mildnedes praksis på disse områder efterhånden betydeligt. Økonomisk set havde sønner ingen egen formue, kun peculium, dvs. råderet over et bestemt beløb, som faderen havde fastsat.

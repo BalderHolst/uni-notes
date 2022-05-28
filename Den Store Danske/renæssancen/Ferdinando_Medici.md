@@ -1,0 +1,4 @@
+### Ferdinando_Medici
+
+
+Ferdinando Medici, 1549-1609, storhertug af Toscana fra 1587. Tidligt indledte Ferdinando en gejstlig karriere. Han blev hemmeligt kardinal som 14-årig og virkede som kunstmæcen i Rom, hvor han bl.a. opførte Villa Medici og heri samlede klassiske skulpturer. Ved broderen Francesco 1.s (1541-87) død trådte Ferdinando ud af den gejstlige stand og blev storhertug af Toscana som den sidste betydelige hersker af Medicislægten. Han fremmede den økonomiske udvikling ved bl.a. at indkalde religiøse dissidenter til landet. Også udenrigspolitisk var Ferdinando yderst kompetent og spillede en ikke ringe rolle, da den franske kong Henrik 4. vendte tilbage til katolicismen. Til slægtens forherligelse lod han opføre det store Cappella dei Principi i tilknytning til San Lorenzo-kirken i Firenze, hvor slægtens hertuger er gravsat.
