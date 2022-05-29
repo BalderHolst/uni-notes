@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Den Store Danske/romerriget/(til -27)/plebejer.md",
-            "mode": "preview",
+            "file": "3. Middelalderen (1050 - 1500).md",
+            "mode": "source",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Den Store Danske/romerriget/(til -27)/plebejer.md",
+                "file": "3. Middelalderen (1050 - 1500).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plebejer",
+                "query": "Senat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,15 +126,15 @@
   },
   "active": "39a82df688d9737a",
   "lastOpenFiles": [
-    "Den Store Danske/romerriget/(til -27)/plebejer.md",
-    "1. Romerriget (27. f.v.t - 476).md",
-    "Den Store Danske/renæssancen/renæssancen.md",
-    "myfile.md",
-    "Skolerelevant/Den Kolde Krig.md",
-    "Skolerelevant/Cubakrisen.md",
-    "Skolerelevant/Brinkmanship.md",
-    "8.  Den Kolde Krig. (1945 - 1991).md",
-    "7.  Det Tredje Rige. (1933 - 1945).md",
-    "Skolerelevant/Jødeforfølgelse.md"
+    "3. Middelalderen (1050 - 1500).md",
+    "2. Vikingetiden (793 - 1050).md",
+    "Den Store Danske/vikingetiden/Danelagen.md",
+    "Den Store Danske/romerriget/(til -27)/triumvirat.md",
+    "Den Store Danske/romerriget/(til -27)/konsul_-_romersk_embedsmand.md",
+    "Den Store Danske/romerriget/(til -27)/Senatus_Populusque_Romanus.md",
+    "Den Store Danske/WW1/1._Verdenskrig.md",
+    "Den Store Danske/WW1/1._Verdenskrig_-_Danmark.md",
+    "Den Store Danske/Vietnamkrigen/Vietnamkrigen.md",
+    "Den Store Danske/romerriget/(-27 - 391)/sarmater.md"
   ]
 }

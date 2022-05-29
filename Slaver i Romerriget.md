@@ -14,12 +14,7 @@ Det var ikke altid godt at blive frigivet, da der så ikke var en slaveejer til 
 
 De øverste slaver i samfundet blev ofte frigivet efter 8-10 år som husslave. De havde høje uddannelser.
 
----
-
-### Mangel på arbejdskraft
-Med klienternes stigende frigivelse (==Hva for noet?==) i slutningen af perioden (==Hvornår??==) steg behovet for arbejdskraft og dermed slaver.
-
-Slaverriets blomstringstid var i perioden 200 f.v.t. til 100 e.v.t. (==hvorfor?==)
+Slaverriets blomstringstid var i perioden 200 f.v.t. til 100 e.v.t.
 
 ---
 
@@ -31,7 +26,7 @@ Slaver var ikke så meget klasser som de var egendele for de forskellige klasser
 ### Slaveopstander
 
 ##### Første Sicilianske Slaveopstand (140 f.v.t. - 132 f.v.t.)
-Fandt sted i forbindelse med Tiberius Gracchus' forsøg på en jordreform, der ville indskrænke jordejeres rigdomme i form af jordareal. Dette resulterede i, at Roms indbyggere blev delt i to lejre, som bekæmpede hinanden. Under denne borgerkrig blev Tiberius Gracchus dræbt, og reformerne blev annulleret. Den ene lejer beståede af *slaver (==hvilken?==) formåede at erobre en stor del af Sicilien fra de frie mennesker*. De dannede et kongerige, der blev besejret af romerne i 132 f.v.t.
+Fandt sted i forbindelse med Tiberius Gracchus' forsøg på en jordreform, der ville indskrænke jordejeres rigdomme i form af jordareal. Dette resulterede i, at Roms indbyggere blev delt i to lejre, som bekæmpede hinanden. Under denne borgerkrig blev Tiberius Gracchus dræbt, og reformerne blev annulleret. Den ene lejer beståede af *slaver formåede at erobre en stor del af Sicilien fra de frie mennesker*. De dannede et kongerige, der blev besejret af romerne i 132 f.v.t.
 
 ##### Aristonicus-opstanden (133 f.v.t. - 130 f.v.t.)
 - Fandt sted i Pergamon i det nuværende Tyrkiet.
