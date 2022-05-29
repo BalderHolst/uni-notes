@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Middelalderen (1050 - 1500).md",
-            "mode": "source",
+            "file": "Skolerelevant/Den Kolde Krig.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Middelalderen (1050 - 1500).md",
+                "file": "Skolerelevant/Den Kolde Krig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
   },
   "active": "39a82df688d9737a",
   "lastOpenFiles": [
+    "Skolerelevant/Den Kolde Krig.md",
     "3. Middelalderen (1050 - 1500).md",
     "2. Vikingetiden (793 - 1050).md",
     "Den Store Danske/vikingetiden/Danelagen.md",
@@ -134,7 +135,6 @@
     "Den Store Danske/romerriget/(til -27)/Senatus_Populusque_Romanus.md",
     "Den Store Danske/WW1/1._Verdenskrig.md",
     "Den Store Danske/WW1/1._Verdenskrig_-_Danmark.md",
-    "Den Store Danske/Vietnamkrigen/Vietnamkrigen.md",
-    "Den Store Danske/romerriget/(-27 - 391)/sarmater.md"
+    "Den Store Danske/Vietnamkrigen/Vietnamkrigen.md"
   ]
 }
