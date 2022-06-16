@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "39a82df688d9737a",
+        "id": "e10033f96dca414a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skolerelevant/Den Kolde Krig.md",
-            "mode": "preview",
+            "file": "Matematik Eksamen.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844,
-    "collapsed": true
+    "width": 288.01499938964844
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skolerelevant/Den Kolde Krig.md",
+                "file": "Matematik Eksamen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Senat",
+                "query": "differentialkv",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,17 +123,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "39a82df688d9737a",
+  "active": "e10033f96dca414a",
   "lastOpenFiles": [
-    "Skolerelevant/Den Kolde Krig.md",
-    "3. Middelalderen (1050 - 1500).md",
-    "2. Vikingetiden (793 - 1050).md",
-    "Den Store Danske/vikingetiden/Danelagen.md",
-    "Den Store Danske/romerriget/(til -27)/triumvirat.md",
-    "Den Store Danske/romerriget/(til -27)/konsul_-_romersk_embedsmand.md",
-    "Den Store Danske/romerriget/(til -27)/Senatus_Populusque_Romanus.md",
-    "Den Store Danske/WW1/1._Verdenskrig.md",
-    "Den Store Danske/WW1/1._Verdenskrig_-_Danmark.md",
-    "Den Store Danske/Vietnamkrigen/Vietnamkrigen.md"
+    "Matematik Eksamen.md",
+    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
+    "Skolerelevant/Differentialligninger.md",
+    "2. Spørgsmål - Matematik Eksamen.md",
+    "Spørgsmål 2.md",
+    "4 og 5. Spørgsmål - Matematik Eksamen.md",
+    "1. Spørgsmål - Matematik Eksamen.md",
+    "Skolerelevant/Differentialregning.md",
+    "Skolerelevant/Andengradspolynomier.md",
+    "Skolerelevant/Bevis for Løsningsformlen.md"
   ]
 }
