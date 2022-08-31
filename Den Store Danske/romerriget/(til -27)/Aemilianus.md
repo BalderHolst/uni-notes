@@ -1,4 +1,0 @@
-### Aemilianus
-
-
-Aemilianus, se Scipio.

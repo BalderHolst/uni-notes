@@ -1,4 +1,0 @@
-### Cunctator
-
-
-Cunctator, se Fabius.

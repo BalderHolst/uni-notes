@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e10033f96dca414a",
+        "id": "be60d55a1b5383f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Matematik Eksamen.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -46,7 +42,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik Eksamen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differentialkv",
+                "query": "tangentplan",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,17 +119,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "e10033f96dca414a",
+  "active": "be60d55a1b5383f8",
   "lastOpenFiles": [
-    "Matematik Eksamen.md",
-    "Skolerelevant/Linære førsteordensdifferentialligninger.md",
-    "Skolerelevant/Differentialligninger.md",
-    "2. Spørgsmål - Matematik Eksamen.md",
-    "Spørgsmål 2.md",
-    "4 og 5. Spørgsmål - Matematik Eksamen.md",
-    "1. Spørgsmål - Matematik Eksamen.md",
-    "Skolerelevant/Differentialregning.md",
-    "Skolerelevant/Andengradspolynomier.md",
-    "Skolerelevant/Bevis for Løsningsformlen.md"
+    "temp.md",
+    "Gym/Seperationsangt.md",
+    "Gym/Tilknytningsteorien.md",
+    "Gym/Omsorgssvigt.md",
+    "Gym/Resiliens.md",
+    "Gym/Opmærksomhed.md",
+    "Gym/Perception.md",
+    "Gym/Typer Psykologi.md",
+    "Gym/Odysseen - Niende Sang.md",
+    "Gym/Cirklens Ligning.md"
   ]
 }

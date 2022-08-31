@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:Skolerelevant",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 225,
-  "scale": 0.38740991970523353,
+  "scale": 0.07934146129760536,
   "close": true
 }

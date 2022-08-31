@@ -1,4 +1,0 @@
-### Cleopatra
-
-
-Cleopatra, se Kleopatra.
