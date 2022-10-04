@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linære førsteordensdifferentialligninger.md",
+            "file": "Førsteordensdifferentialligninger.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linære førsteordensdifferentialligninger.md",
+                "file": "Førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "767053af03c19774",
   "lastOpenFiles": [
-    "Bevis for Løsningsformlen.md",
-    "Linære førsteordensdifferentialligninger.md",
-    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Gym/Integralregning.md",
+    "Integraler Regneregler.md",
     "Førsteordensdifferentialligninger.md",
-    "Knudepunktsmetoden.md",
-    "Operationsforstærker.md",
-    "Spændingsdeler.md",
-    "Gym/Begreber i Relegion.md",
     "Differentialligninger.md",
-    "Komplekse Tal.md"
+    "Operationsforstærker.md",
+    "Mesh-Current Analysis.md",
+    "Flader.md",
+    "Sfæriske Koordinater.md",
+    "Friktion.md",
+    "Densitet.md"
   ]
 }
