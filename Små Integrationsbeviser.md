@@ -11,7 +11,7 @@ Dette skal være sandt hvis begge funktioner er stamfunktioner, da de begge er e
 $$F_1(x) = F_2(x) \Longleftrightarrow F_1(x) - F_2(x) = 0$$
 
 
-==Da $(k)' = 0$ må dette være sandt== #spørgmike
+==Da $(k)' = 0$ må dette være sandt== 
 
 
 $$F_1(x) - F_2(x) = k$$
@@ -34,7 +34,7 @@ Vi differenciere
 
 $$(\int k \cdot f(x)\, dx)' = (k \cdot\int f(x)\, dx)'$$
 
-Vi lader differentialet opløse integrales på venstre side og lader $k$ stå uden for differentialet #spørgmike 
+Vi lader differentialet opløse integrales på venstre side og lader $k$ stå uden for differentialet. 
 
 $$k \cdot f(x)\, dx = k \cdot (\int f(x)\, dx)'$$
 

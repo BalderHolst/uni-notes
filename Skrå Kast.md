@@ -40,10 +40,7 @@ $$s_y(t) = \int v_y(t) = \iint a_y(t)\,dt = -9.8 \frac{m}{s^2} \frac{t^2}{2}  + 
 Nu har vi funktioner for positionen, [[Hastighed og Fart|hastigheden]] og accelerationen i y-retningen over tid
 
 ## Y som Funktion af X
-#todo
-
-
-
+Havde ikke tid...
 
 
 

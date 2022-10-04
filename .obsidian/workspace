@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "baf3ec7e1e2136db",
+        "id": "e25fd8178dc9010d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Skrå Kast.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skrå Kast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -103,24 +108,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "baf3ec7e1e2136db",
+  "active": "e25fd8178dc9010d",
   "lastOpenFiles": [
+    "Templates/Person.md",
+    "Det Periodiske System.md",
+    "Små Integrationsbeviser.md",
+    "Templates/default.md",
+    "Völkischer Beobachter.md",
+    "Raketligningen.md",
+    "Mekanisk energi.md",
+    "bøger/Lektion 01.pdf",
     "Gym/Halveringtid.md",
-    "Gym/Typer Psykologi.md",
-    "Førsteordensdifferentialligninger.md",
-    "Linære førsteordensdifferentialligninger.md",
-    "Integration med Substidution.md",
-    "Gym/Integralregning.md",
-    "Integraler Regneregler.md",
-    "Differentialligninger.md",
-    "Operationsforstærker.md",
-    "Mesh-Current Analysis.md"
+    "Gym/Typer Psykologi.md"
   ]
 }
