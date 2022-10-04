@@ -1,5 +1,0 @@
-Retførdighedens Gud
-
----
-#gud
-#old
