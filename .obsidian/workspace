@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Førsteordensdifferentialligninger.md",
+            "file": "Integration med Substidution.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Førsteordensdifferentialligninger.md",
+                "file": "Integration med Substidution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +118,9 @@
   },
   "active": "767053af03c19774",
   "lastOpenFiles": [
+    "Førsteordensdifferentialligninger.md",
     "Gym/Integralregning.md",
     "Integraler Regneregler.md",
-    "Førsteordensdifferentialligninger.md",
     "Differentialligninger.md",
     "Operationsforstærker.md",
     "Mesh-Current Analysis.md",
