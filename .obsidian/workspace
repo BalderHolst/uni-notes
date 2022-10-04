@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be60d55a1b5383f8",
+        "id": "767053af03c19774",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linære førsteordensdifferentialligninger.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -59,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linære førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,20 +86,12 @@
             }
           },
           {
-            "id": "b5c2b239df605047",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "973d7d9fdc0f3744",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tangentplan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -112,24 +109,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "be60d55a1b5383f8",
+  "active": "767053af03c19774",
   "lastOpenFiles": [
-    "temp.md",
-    "Gym/Seperationsangt.md",
-    "Gym/Tilknytningsteorien.md",
-    "Gym/Omsorgssvigt.md",
-    "Gym/Resiliens.md",
-    "Gym/Opmærksomhed.md",
-    "Gym/Perception.md",
-    "Gym/Typer Psykologi.md",
-    "Gym/Odysseen - Niende Sang.md",
-    "Gym/Cirklens Ligning.md"
+    "Bevis for Løsningsformlen.md",
+    "Linære førsteordensdifferentialligninger.md",
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Førsteordensdifferentialligninger.md",
+    "Knudepunktsmetoden.md",
+    "Operationsforstærker.md",
+    "Spændingsdeler.md",
+    "Gym/Begreber i Relegion.md",
+    "Differentialligninger.md",
+    "Komplekse Tal.md"
   ]
 }

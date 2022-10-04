@@ -2,7 +2,7 @@
 
 ### Mekanisk energi
 
-Vi sætter [[gravitationskraft]] lig [[centripetalkraft]], da dette altid er sandt for et legme i bane om et støre legme (ie. en planet).
+Vi sætter [[gravitationskraft]] lig [[Centripetalkraft]], da dette altid er sandt for et legme i bane om et støre legme (ie. en planet).
 
 $$G \cdot \frac{m \cdot M}{r^{\c{2}}} = \frac{1}{2} \cdot m \cdot \frac{v^2}{\c{r}}$$
 

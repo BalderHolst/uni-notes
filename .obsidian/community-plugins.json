@@ -1,19 +1,14 @@
 [
-  "table-editor-obsidian",
-  "calendar",
-  "periodic-notes",
   "remember-cursor-position",
-  "obsidian-admonition",
   "note-refactor-obsidian",
-  "obsidian-comments",
   "dataview",
   "templater-obsidian",
   "obsidian-git",
   "pdf-to-markdown-plugin",
   "sliding-panes-obsidian",
   "obsidian-pandoc",
-  "obsidian-enhancing-mindmap",
   "obsidian-latex",
   "text-snippets-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-admonition"
 ]

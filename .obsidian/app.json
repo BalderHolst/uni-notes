@@ -10,7 +10,7 @@
     "downscalePercent": 100
   },
   "newFileLocation": "root",
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
   "livePreview": true,
@@ -19,6 +19,6 @@
     "en-GB",
     "da"
   ],
-  "vimMode": false,
-  "defaultViewMode": "preview"
+  "vimMode": true,
+  "defaultViewMode": "source"
 }
