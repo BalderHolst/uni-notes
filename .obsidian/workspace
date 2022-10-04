@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gym/Typer Psykologi.md",
+            "file": "Gym/Halveringtid.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Typer Psykologi.md",
+                "file": "Gym/Halveringtid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "767053af03c19774",
   "lastOpenFiles": [
+    "Gym/Typer Psykologi.md",
     "Førsteordensdifferentialligninger.md",
     "Linære førsteordensdifferentialligninger.md",
     "Integration med Substidution.md",
@@ -125,7 +126,6 @@
     "Differentialligninger.md",
     "Operationsforstærker.md",
     "Mesh-Current Analysis.md",
-    "Flader.md",
-    "Sfæriske Koordinater.md"
+    "Flader.md"
   ]
 }

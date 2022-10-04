@@ -7,9 +7,12 @@ def get_file_tags(path) ->  list:
         lines = f.readlines()
 
     for line in lines:
+        line = line.replace("\n", "")
         m = re.search(r"^#\w+", line)
         if m:
-            print(line)
+            for word in line.split(" "):
+                tags.append(word[1:])
+    return(tags)
 
 if __name__ == "__main__":
-    get_file_tags("/home/Balder/Documents/uni/noter/Gym/Typer Psykologi.md")
+    print(get_file_tags("/home/Balder/Documents/uni/noter/Gym/Halveringtid.md"))
