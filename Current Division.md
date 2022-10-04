@@ -2,7 +2,7 @@
 Sker i [[Parallelforbindelser]]. 
 
 > *For two resistances in parallel, the fraction of the total current flowing in a resistance is the ratio of the other resistance to the sum of the two resistances.*
-> \- [[1 semester - Electrical Engineering Principles & Applications, Global Edition .pdf#page=79| Electrical Engineering]]
+> \- [[Electrical Engineering Principles & Applications, Global Edition.pdf#page=79| Electrical Engineering]]
 
 ### Formler
 **Virker KUN for 2 modstande i parallel**

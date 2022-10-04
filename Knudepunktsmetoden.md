@@ -1,5 +1,5 @@
 # Knudepunktsmetoden (Node-Voltage Analysis)
-[[1 semester - Electrical Engineering Principles & Applications, Global Edition .pdf#page=82]]
+[[Electrical Engineering Principles & Applications, Global Edition.pdf#page=82]]
 
 Opskriv alle knudepunkters [[KCL]]. 
 Derfra kan strømme udledes.

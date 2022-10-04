@@ -24,4 +24,4 @@ $$Ax + By + Cz = D \s \text{where} \s D=Ax_0+By_0+Cz_0$$
 
 
 ##### Examples
-[[1 semester - erstatnings bog for - Calculus 10th .pdf#page=615]]
+[[Calculus 9th.pdf#page=615]]

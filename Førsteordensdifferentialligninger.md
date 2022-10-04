@@ -16,6 +16,9 @@ Vi tager integralet.
 $$\int \frac{1}{g(y)} \cdot \frac{dy}{\c{dx}} \cdot  \c{dx}=\int f(x)dx$$
 Altså er må dette være sandt
 $$\int f(x)= \int \frac{1}{g(y)}dy$$
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Eksempel
+collapse:               # Create a collapsible admonition.
 
 ##### Eksempel
 $$\frac{dy}{dx} = \frac{x}{y}$$
@@ -28,3 +31,7 @@ Isolerer $y$
 $$y^2=x^2+2c \arrows y=\pm \sqrt{x^2+2c}$$
 
 Vi kunne nu sætte et punkt in for at finde den *partikulære* løsning.
+```
+
+---
+#matematik

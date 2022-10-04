@@ -8,7 +8,7 @@ a_{21} & a_{22} & \cdots & a_{2n}\\
 \vdots & \vdots & \ddots & \vdots\\
 a_{m1} & a_{m2} & \cdots & a_{mn}\\
 \end{array} } \right)$$
-Se også [[1 semester - erstatnings bog for - Calculus 10th .pdf#page=629|bogen]].
+Se også [[Calculus 9th.pdf#page=629|bogen]].
 
 ### Gange med matricer
 $$c_{ij} = \sum_{k=1}^n a_{ik} \cdot b_{kj}$$

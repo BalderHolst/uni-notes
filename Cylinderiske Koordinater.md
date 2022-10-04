@@ -1,5 +1,5 @@
 # Cylinderiske Koordinater
-Se i [[1 semester - erstatnings bog for - Calculus 10th .pdf#page=625|bogen]].
+Se i [[Calculus 9th.pdf#page=625|bogen]].
 
 Se også [[Sfæriske Koordinater]].
 

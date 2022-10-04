@@ -21,7 +21,7 @@ z &= R \cdot  \cos \phi
 
 $R$ kan også findes på denne måde
 $$R^2 = x^2 + y^2 + z^2 = r^2+z^2$$
-$r$ er længden til punktet i $xy$-planen (længden fra $O$ til $Q$ på billedet ovenfor). Se i [[1 semester - erstatnings bog for - Calculus 10th .pdf#page=627|bogen]].
+$r$ er længden til punktet i $xy$-planen (længden fra $O$ til $Q$ på billedet ovenfor). Se i [[Calculus 9th.pdf#page=627|bogen]].
 
 $r$ kan findes således
 $$r = \sqrt{x^2 + y^2} = R \cdot  \sin \phi$$

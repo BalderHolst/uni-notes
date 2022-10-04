@@ -1,5 +1,5 @@
 # Spændingsdeler
-[[1 semester - Electrical Engineering Principles & Applications, Global Edition .pdf#page=77]]
+[[Electrical Engineering Principles & Applications, Global Edition.pdf#page=77]]
 
 $$V_n = \frac{R_n}{R_1 + R_2 + R_3+\dots} \cdot V_{total}$$
 

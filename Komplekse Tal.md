@@ -1,5 +1,5 @@
 # Komplekse Tal
-[[1 semester - erstatnings bog for - Calculus 10th .pdf#page=1083]]
+[[Calculus 9th.pdf#page=1083]]
 
 $$w = a + ib, \s i^2 = -1$$
 Her er $a$ og $b$ **rigtige** tal.

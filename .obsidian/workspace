@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-plot.md",
-            "mode": "source",
+            "file": "Førsteordensdifferentialligninger.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-plot.md",
+                "file": "Førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +118,15 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
-    "Acceleration af partikler.md",
-    "Amfiteateropgave.md",
-    "Andengradspolynomier.md",
-    "Bevis for Cosinusrelationen.md",
-    "Bevægelsesmængde (Impuls).md",
-    "Beviser.md",
-    "Bevægelse på Skråplan.md",
-    "Bevis for Parameterfremstilling.md",
-    "Bølger.md",
-    "Skrå Kast.md"
+    "Skrå Kast.md",
+    "bøger/3 semester - Structured Computer Organization.pdf",
+    "bøger/Fundamentals of physics.pdf",
+    "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
+    "bøger/Calculus 9th.pdf",
+    "bøger/5 semester - Principles of Robot Motion.pdf",
+    "bøger/5 semester - erstatnings bog for - Applied Statistics and Probability for Engineers.pdf",
+    "Linære førsteordensdifferentialligninger.md",
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Små Integrationsbeviser.md"
   ]
 }
