@@ -38,5 +38,5 @@ se [[typer psykologi (skema)|skemaet]].
 
 
 ---
-!##!### Tags
+##### Tags
 #psykologi

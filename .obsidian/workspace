@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Førsteordensdifferentialligninger.md",
+            "file": "Gym/Typer Psykologi.md",
             "mode": "source",
             "source": false
           }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844,
-    "collapsed": true
+    "width": 288.01499938964844
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Førsteordensdifferentialligninger.md",
+                "file": "Gym/Typer Psykologi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +117,9 @@
   },
   "active": "767053af03c19774",
   "lastOpenFiles": [
+    "Førsteordensdifferentialligninger.md",
     "Linære førsteordensdifferentialligninger.md",
     "Integration med Substidution.md",
-    "Førsteordensdifferentialligninger.md",
     "Gym/Integralregning.md",
     "Integraler Regneregler.md",
     "Differentialligninger.md",
