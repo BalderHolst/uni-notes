@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "767053af03c19774",
+        "id": "baf3ec7e1e2136db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gym/Halveringtid.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Halveringtid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +110,9 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "767053af03c19774",
+  "active": "baf3ec7e1e2136db",
   "lastOpenFiles": [
+    "Gym/Halveringtid.md",
     "Gym/Typer Psykologi.md",
     "Førsteordensdifferentialligninger.md",
     "Linære førsteordensdifferentialligninger.md",
@@ -125,7 +121,6 @@
     "Integraler Regneregler.md",
     "Differentialligninger.md",
     "Operationsforstærker.md",
-    "Mesh-Current Analysis.md",
-    "Flader.md"
+    "Mesh-Current Analysis.md"
   ]
 }

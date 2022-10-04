@@ -1,6 +1,7 @@
 from get_file_tags import *
 
 from pathlib import Path
+import shutil
 
 # TAGS
 # =================
@@ -29,13 +30,20 @@ from pathlib import Path
 
 notes_dir = Path("/home/Balder/Documents/uni/noter")
 gym_dir = notes_dir / Path("Gym")
+dst_dir = notes_dir / "unmarked"
 
-tags = []
 
-for file in gym_dir.iterdir():
-    if file.is_file():
-        pass
-
-        # if ""
+# # Move fysik og matematik
+# for file in gym_dir.iterdir():
+#     if file.is_file():
+#         file_tags = get_file_tags(file)
+#         if "matematik" in file_tags or "fysik" in file_tags:
+#             new_path = notes_dir / file.name
+#             if new_path.exists():
+#                 print(f"{new_path!r} exists!")
+#                 quit()
+#             shutil.move(file, new_path) 
+#             print(f"moved {file!r} -> {new_path!r}")
+            
 
 
