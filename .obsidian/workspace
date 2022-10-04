@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e25fd8178dc9010d",
+        "id": "71699c353da8d8ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skrå Kast.md",
+            "file": "3D-plot.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skrå Kast.md",
+                "file": "3D-plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "e25fd8178dc9010d",
+  "active": "71699c353da8d8ad",
   "lastOpenFiles": [
-    "Templates/Person.md",
-    "Det Periodiske System.md",
-    "Små Integrationsbeviser.md",
-    "Templates/default.md",
-    "Völkischer Beobachter.md",
-    "Raketligningen.md",
-    "Mekanisk energi.md",
-    "bøger/Lektion 01.pdf",
-    "Gym/Halveringtid.md",
-    "Gym/Typer Psykologi.md"
+    "Acceleration af partikler.md",
+    "Amfiteateropgave.md",
+    "Andengradspolynomier.md",
+    "Bevis for Cosinusrelationen.md",
+    "Bevægelsesmængde (Impuls).md",
+    "Beviser.md",
+    "Bevægelse på Skråplan.md",
+    "Bevis for Parameterfremstilling.md",
+    "Bølger.md",
+    "Skrå Kast.md"
   ]
 }

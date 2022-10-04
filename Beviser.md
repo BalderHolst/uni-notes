@@ -1,6 +1,4 @@
 # Beviser
-[[How to Bevis.pdf]]
-
 
 ## Konnektiver
 $$p \land q, \s \text{"og/konjunktion"}$$

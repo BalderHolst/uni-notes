@@ -41,7 +41,5 @@ cosinusrelationen
 
 $$b^{2} + c^{2} - 2 \cdot b \cdot c \cdot Cos(A) = a^{2}$$
 
-#matematik 
-
 ---
 #matematik

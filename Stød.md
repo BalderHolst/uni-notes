@@ -1,4 +1,4 @@
-[[Bevægelsesmængde]]
+[[Bevægelsesmængde (Impuls)]]
 
 ### Elastisk stød
 Hastighederne lægges sammen efter stødet. Altså bevæger objekterne sammen.

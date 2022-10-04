@@ -1,4 +1,4 @@
-# [[Bevægelsesmængde|Impuls]]moment
+# [[Bevægelsesmængde (Impuls)|Impuls]]moment
 Impulsen i en *cirkulær* bevægelse
 $$L=m \cdot v \cdot r$$
 $L$: Impulsmoment
