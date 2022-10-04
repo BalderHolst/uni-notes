@@ -32,6 +32,22 @@ notes_dir = Path("/home/Balder/Documents/uni/noter")
 gym_dir = notes_dir / Path("Gym")
 dst_dir = notes_dir / "unmarked"
 
+for file in gym_dir.iterdir():
+    if file.is_file():
+        file_tags = get_file_tags(file)
+        if len(file_tags) == 0:
+            tag = input(f"{file.name!r} - Assign tag (enter to skip): ")
+
+            if tag != "":
+                with file.open() as f:
+                    lines = f.readlines()
+                lines.append("---\n")
+                lines.append(f"#{tag}\n")
+
+                with open(dst_dir / file.name, 'w') as f:
+                    f.writelines(lines)
+
+
 
 # # Move fysik og matematik
 # for file in gym_dir.iterdir():
