@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integration med Substidution.md",
+            "file": "Førsteordensdifferentialligninger.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integration med Substidution.md",
+                "file": "Førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,8 @@
   },
   "active": "767053af03c19774",
   "lastOpenFiles": [
+    "Linære førsteordensdifferentialligninger.md",
+    "Integration med Substidution.md",
     "Førsteordensdifferentialligninger.md",
     "Gym/Integralregning.md",
     "Integraler Regneregler.md",
@@ -125,8 +127,6 @@
     "Operationsforstærker.md",
     "Mesh-Current Analysis.md",
     "Flader.md",
-    "Sfæriske Koordinater.md",
-    "Friktion.md",
-    "Densitet.md"
+    "Sfæriske Koordinater.md"
   ]
 }
