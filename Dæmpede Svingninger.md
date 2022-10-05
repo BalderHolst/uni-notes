@@ -1,0 +1,1 @@
+# Dæmpede Svingninger
