@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trigonometri.md",
+            "file": "Harmoniske svingninger.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometri.md",
+                "file": "Harmoniske svingninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,8 +130,8 @@
   },
   "active": "6d7a2c0bd9542ddc",
   "lastOpenFiles": [
-    "Differentialligninger.md",
     "Trigonometri.md",
+    "Differentialligninger.md",
     "Førsteordensdifferentialligninger.md",
     "Andenordensdifferentialligninger.md",
     "Dæmpede Svingninger.md",
