@@ -20,10 +20,10 @@ collapse:               # Create a collapsible admonition.
 ```
 
 ### Trig Tabel
-| $\theta$ | $0$ | $\frac{\pi}{2}$ | $\pi$ | $\frac{\pi}{4}$ | $\frac{\pi}{6}$ |
+| $\theta$ | $0$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\pi$ | $\frac{\pi}{4}$ | $\frac{\pi}{6}$ |
 |--|-- |--|--|--| -- |
-| $\sin(\theta)$ | $0$ | $1$ | $0$ |$\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-| $\cos(\theta)$ | $1$ | $0$ | $-1$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
+| $\sin(\theta)$ | $0$ | $\frac{1}{2}$|  $1$ | $0$ |$\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
+| $\cos(\theta)$ | $1$ | $\frac{\sqrt{3}}{2}$ | $0$ | $-1$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
 
 ### Vinkel Halvering
 $$\cos^2(\theta) = \frac{\cos(2\theta)-1}{2}$$
