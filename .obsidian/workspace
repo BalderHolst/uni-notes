@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kondensator.md",
+            "file": "Trigonometri.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kondensator.md",
+                "file": "Trigonometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Kondensator.md",
     "Modstande.md",
     "Førsteordensdifferentialligninger.md",
     "Skrå Kast.md",
@@ -126,7 +127,6 @@
     "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
     "bøger/Calculus 9th.pdf",
     "bøger/5 semester - Principles of Robot Motion.pdf",
-    "bøger/5 semester - erstatnings bog for - Applied Statistics and Probability for Engineers.pdf",
-    "Linære førsteordensdifferentialligninger.md"
+    "bøger/5 semester - erstatnings bog for - Applied Statistics and Probability for Engineers.pdf"
   ]
 }

@@ -1,0 +1,7 @@
+# Trigonometri
+
+### Dæmpede svingninger
+
+
+---
+#matematik
