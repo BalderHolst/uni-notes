@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "33cfc98d40e97df7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Andengradspolynomier.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -130,6 +118,7 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Newtons Afkølingslov.md",
     "Andengradspolynomier.md",
     "Dæmpede Svingninger.md",
     "Andenordensdifferentialligninger.md",
@@ -138,7 +127,6 @@
     "Trigonometri.md",
     "Førsteordensdifferentialligninger.md",
     "Pythagoras Læresætning.md",
-    "Kondensator.md",
-    "Modstande.md"
+    "Kondensator.md"
   ]
 }

@@ -8,6 +8,8 @@ y'(t) & = r \cdot  e^{rt} \\
 y''(t) & = r^2 \cdot e^{rt}
 \end{align}$$
 
+$$A \cdot e^{rt} + B \cdot e^{rt} = 0$$
+
 Sætter ind
 $$a \cdot r^2 \cdot e ^{rt} + b \cdot r \cdot e^{rt} + c \cdot e^{rt} = 0$$
 
