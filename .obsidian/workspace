@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dæmpede Svingninger.md",
+            "file": "Grænser.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dæmpede Svingninger.md",
+                "file": "Grænser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
-    "Andengradspolynomier.md",
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Dæmpede Svingninger.md",
+    "Andengradspolynomier.md",
     "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
     "Fordoblings- og halveringkonstant.md",
     "Newtons Afkølingslov.md",
     "Andenordensdifferentialligninger.md",
-    "Differentialligninger.md",
-    "Harmoniske svingninger.md"
+    "Differentialligninger.md"
   ]
 }
