@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dæmpede Svingninger.md",
+                "file": "Andenordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +128,11 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "25e8002eeae4058e",
+  "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Dæmpede Svingninger.md",
     "Andenordensdifferentialligninger.md",
     "Andengradspolynomier.md",
-    "Dæmpede Svingninger.md",
     "Trigonometri.md",
     "Pythagoras Læresætning.md",
     "Kondensator.md",

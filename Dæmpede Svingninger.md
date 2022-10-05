@@ -4,8 +4,8 @@ $$a \cdot y'' + b \cdot y' + c \cdot y = 0$$
 Gæt på løsning
 $$\begin{align}
 y(t) & = e^{rt} \\
-y(t) & = r \cdot  e^{rt} \\
-y(t) & = r^2 \cdot e^{rt}
+y'(t) & = r \cdot  e^{rt} \\
+y''(t) & = r^2 \cdot e^{rt}
 \end{align}$$
 
 Sætter ind
