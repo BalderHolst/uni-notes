@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Dæmpede Svingninger.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bøger/Formelsamling.pdf",
+                "file": "Dæmpede Svingninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "ba28afe29bd25e05",
+  "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
     "Dæmpede Svingninger.md",
     "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
     "Grænser.md",
     "Andengradspolynomier.md",
-    "bøger/Formelsamling.pdf",
     "Fordoblings- og halveringkonstant.md",
     "Newtons Afkølingslov.md",
     "Andenordensdifferentialligninger.md"
