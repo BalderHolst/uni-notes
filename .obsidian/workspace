@@ -9,20 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Differentialligninger.md",
+            "file": "Dæmpede Svingninger.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "6d7a2c0bd9542ddc",
+        "id": "33cfc98d40e97df7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Harmoniske svingninger.md",
-            "mode": "source",
+            "file": "Andengradspolynomier.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harmoniske svingninger.md",
+                "file": "Andengradspolynomier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "6d7a2c0bd9542ddc",
+  "active": "33cfc98d40e97df7",
   "lastOpenFiles": [
-    "Trigonometri.md",
-    "Differentialligninger.md",
-    "Førsteordensdifferentialligninger.md",
-    "Andenordensdifferentialligninger.md",
     "Dæmpede Svingninger.md",
+    "Andenordensdifferentialligninger.md",
+    "Differentialligninger.md",
+    "Harmoniske svingninger.md",
+    "Trigonometri.md",
+    "Førsteordensdifferentialligninger.md",
     "Andengradspolynomier.md",
     "Pythagoras Læresætning.md",
     "Kondensator.md",
-    "Modstande.md",
-    "Skrå Kast.md"
+    "Modstande.md"
   ]
 }
