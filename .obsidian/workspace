@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Førsteordensdifferentialligninger.md",
+            "file": "Modstande.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Førsteordensdifferentialligninger.md",
+                "file": "Modstande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Førsteordensdifferentialligninger.md",
     "Skrå Kast.md",
     "bøger/3 semester - Structured Computer Organization.pdf",
     "bøger/Fundamentals of physics.pdf",
@@ -126,7 +127,6 @@
     "bøger/5 semester - Principles of Robot Motion.pdf",
     "bøger/5 semester - erstatnings bog for - Applied Statistics and Probability for Engineers.pdf",
     "Linære førsteordensdifferentialligninger.md",
-    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
-    "Små Integrationsbeviser.md"
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md"
   ]
 }
