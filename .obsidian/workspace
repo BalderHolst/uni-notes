@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Grænser.md",
-            "mode": "source",
+            "file": "Dæmpede Svingninger.md",
+            "mode": "preview",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "ba28afe29bd25e05",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "bøger/Formelsamling.pdf"
           }
         }
       }
@@ -63,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grænser.md",
+                "file": "bøger/Formelsamling.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +126,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "71699c353da8d8ad",
+  "active": "ba28afe29bd25e05",
   "lastOpenFiles": [
-    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
-    "Dæmpede Svingninger.md",
-    "Andengradspolynomier.md",
-    "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
+    "Dæmpede Svingninger.md",
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
+    "Grænser.md",
+    "Andengradspolynomier.md",
+    "bøger/Formelsamling.pdf",
     "Fordoblings- og halveringkonstant.md",
     "Newtons Afkølingslov.md",
-    "Andenordensdifferentialligninger.md",
-    "Differentialligninger.md"
+    "Andenordensdifferentialligninger.md"
   ]
 }
