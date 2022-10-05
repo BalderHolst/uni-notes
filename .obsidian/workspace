@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Dæmpede Svingninger.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -118,13 +118,13 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Andengradspolynomier.md",
+    "Dæmpede Svingninger.md",
     "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
-    "Dæmpede Svingninger.md",
     "Fordoblings- og halveringkonstant.md",
     "Newtons Afkølingslov.md",
-    "Andengradspolynomier.md",
     "Andenordensdifferentialligninger.md",
     "Differentialligninger.md",
     "Harmoniske svingninger.md"
