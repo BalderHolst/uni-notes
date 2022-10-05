@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Dæmpede Svingninger.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andengradspolynomier.md",
+                "file": "Dæmpede Svingninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "33cfc98d40e97df7",
+  "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Andengradspolynomier.md",
     "Dæmpede Svingninger.md",
     "Andenordensdifferentialligninger.md",
     "Differentialligninger.md",
     "Harmoniske svingninger.md",
     "Trigonometri.md",
     "Førsteordensdifferentialligninger.md",
-    "Andengradspolynomier.md",
     "Pythagoras Læresætning.md",
     "Kondensator.md",
     "Modstande.md"

@@ -16,7 +16,9 @@ $$(a \cdot r^2 + br + c) \cdot e^{rt} = 0$$
 
 Parentesen er et [[Andengradspolynomier|andengradspolynomie]]. 
 
-#### Rødder og systemer
+Polymoniets rødder er funktionernes 
+
+#### Rødder og dæmpningstype
 Overdæmpet: to reelle rødder
 Kritisk Dæmpet: én dobbeltrod 
 Underdæmpet: Når der kun er [[Komplekse Tal|imaginære]] løsninger.
