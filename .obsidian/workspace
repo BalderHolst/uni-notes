@@ -7,9 +7,11 @@
         "id": "71699c353da8d8ad",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "bøger/Formelsamling.pdf"
+            "file": "Dæmpede Svingninger.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -61,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bøger/Formelsamling.pdf",
+                "file": "Dæmpede Svingninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
     "Dæmpede Svingninger.md",
@@ -124,7 +127,6 @@
     "Andengradspolynomier.md",
     "Andenordensdifferentialligninger.md",
     "Differentialligninger.md",
-    "Harmoniske svingninger.md",
-    "Trigonometri.md"
+    "Harmoniske svingninger.md"
   ]
 }
