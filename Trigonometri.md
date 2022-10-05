@@ -21,6 +21,8 @@ collapse:               # Create a collapsible admonition.
 | $\sin(\theta)$ | $0$ | $1$ | $0$ |$\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
 | $\cos(\theta)$ | $1$ | $0$ | $-1$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
 
+### Vinkel Halvering
+$$\cos^2(\theta) = \frac{\cos(2\theta)-1}{2}$$
 
 ### Dæmpede svingninger
 

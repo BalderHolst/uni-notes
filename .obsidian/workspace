@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trigonometri.md",
+            "file": "Andenordensdifferentialligninger.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometri.md",
+                "file": "Andenordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.21502685546875
+    "width": 255.21502685546875,
+    "collapsed": true
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
-    "Pythagoras Læresætning.md",
     "Trigonometri.md",
+    "Pythagoras Læresætning.md",
     "Kondensator.md",
     "Modstande.md",
     "Førsteordensdifferentialligninger.md",
