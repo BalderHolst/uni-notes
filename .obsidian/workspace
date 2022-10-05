@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "formelsamling",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,15 +118,15 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
+    "Fordoblings- og halveringkonstant.md",
+    "Dæmpede Svingninger.md",
     "Newtons Afkølingslov.md",
     "Andengradspolynomier.md",
-    "Dæmpede Svingninger.md",
     "Andenordensdifferentialligninger.md",
     "Differentialligninger.md",
     "Harmoniske svingninger.md",
     "Trigonometri.md",
     "Førsteordensdifferentialligninger.md",
-    "Pythagoras Læresætning.md",
-    "Kondensator.md"
+    "Pythagoras Læresætning.md"
   ]
 }
