@@ -1,3 +1,2 @@
 # Andenordensdifferentialligninger
-
 - [[Dæmpede Svingninger]]

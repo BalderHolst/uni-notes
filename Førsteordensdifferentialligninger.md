@@ -1,6 +1,9 @@
 # Førsteordensdifferentialligninger	
 [[Linære førsteordensdifferentialligninger]]
 
+## Specifikke Ligninger med løsninger
+- [[Logistisk vækst]]
+
 #### Eksempel
 $$y' - 2y = 6x$$
 Her er $x$ den uafhængige variabel og $y$ den afhængige.

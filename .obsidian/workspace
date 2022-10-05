@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Andenordensdifferentialligninger.md",
-            "mode": "source",
+            "file": "Differentialligninger.md",
+            "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "25e8002eeae4058e",
+        "id": "6d7a2c0bd9542ddc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dæmpede Svingninger.md",
+            "file": "Trigonometri.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andenordensdifferentialligninger.md",
+                "file": "Trigonometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "71699c353da8d8ad",
+  "active": "6d7a2c0bd9542ddc",
   "lastOpenFiles": [
-    "Dæmpede Svingninger.md",
-    "Andenordensdifferentialligninger.md",
-    "Andengradspolynomier.md",
+    "Differentialligninger.md",
     "Trigonometri.md",
+    "Førsteordensdifferentialligninger.md",
+    "Andenordensdifferentialligninger.md",
+    "Dæmpede Svingninger.md",
+    "Andengradspolynomier.md",
     "Pythagoras Læresætning.md",
     "Kondensator.md",
     "Modstande.md",
-    "Førsteordensdifferentialligninger.md",
-    "Skrå Kast.md",
-    "bøger/3 semester - Structured Computer Organization.pdf"
+    "Skrå Kast.md"
   ]
 }

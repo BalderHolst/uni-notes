@@ -6,7 +6,7 @@ En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
 ### Førsteordensdifferentialligninger
-- [[Logistisk vækst]]
+[[Førsteordensdifferentialligninger]]
 
 ---
  

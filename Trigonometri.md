@@ -3,6 +3,10 @@
 $$\sin(\theta) = \sin(\pi - \theta)$$
 $$\cos(\theta) = \cos(-\theta)$$
 
+### Additionsformler
+$$\cos(x+y) = \cos x \cdot \cos y - \sin x \cdot \sin y$$
+$$\sin(x+y) = \cos x \cdot \sin y - \sin x \cdot \cos y$$
+
 ### Grundrelationen (Idiot-reglen)
 $$\cos(\theta)^2 + \sin(\theta)^2 = 1$$
 ### Pythagoras Læresætning
