@@ -26,5 +26,5 @@ Kritisk Dæmpet: én dobbeltrod.
 $$y(x) = A \cdot r^{rx} + B \cdot x \cdot e^{rx}$$
 
 Underdæmpet: Når der kun er [[Komplekse Tal|imaginære]] løsninger.
-$$y(x) = A \cdot e^{kx} \cdot \cos(\omega x) + B e^{kx} \cdot \sin(\omega x)$$
+$$y(x) = A \cdot e^{kx} \cdot \cos(\omega x) + B \cdot  e^{kx} \cdot \sin(\omega x)$$
 $$r = k \pm \omega i$$

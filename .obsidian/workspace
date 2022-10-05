@@ -7,11 +7,9 @@
         "id": "71699c353da8d8ad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Dæmpede Svingninger.md",
-            "mode": "source",
-            "source": false
+            "file": "bøger/Formelsamling.pdf"
           }
         }
       }
@@ -63,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dæmpede Svingninger.md",
+                "file": "bøger/Formelsamling.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +116,15 @@
   },
   "active": "71699c353da8d8ad",
   "lastOpenFiles": [
-    "Fordoblings- og halveringkonstant.md",
+    "Differentialregning Regneregler.md",
+    "Differentialregning.md",
     "Dæmpede Svingninger.md",
+    "Fordoblings- og halveringkonstant.md",
     "Newtons Afkølingslov.md",
     "Andengradspolynomier.md",
     "Andenordensdifferentialligninger.md",
     "Differentialligninger.md",
     "Harmoniske svingninger.md",
-    "Trigonometri.md",
-    "Førsteordensdifferentialligninger.md",
-    "Pythagoras Læresætning.md"
+    "Trigonometri.md"
   ]
 }
