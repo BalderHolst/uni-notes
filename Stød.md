@@ -2,6 +2,7 @@
 
 ---
 
+
 ### Uelastisk stød
 > *Kuglerne klistrer sig sammen efter støddet*
 > \- René
