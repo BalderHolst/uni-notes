@@ -6,7 +6,7 @@
 
 Hastighederne lægges sammen efter stødet. Altså bevæger objekterne sammen.
 
-$$m_1 \cdot v_1 + m_2 \cdot v_2 = (m_1 + m_2) \cdot v$$
+$$m_1 \cdot v_1 + m_2 \cdot v_2 = (m_1 + m_2) \cdot v = M \cdot v$$
 
 
 
