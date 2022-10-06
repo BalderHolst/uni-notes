@@ -19,7 +19,7 @@ Parentesen er et [[Andengradspolynomier|andengradspolynomie]].
 
 Polymoniets rødder er funktionernes 
 
-#### Rødder, dæmpningstype 
+#### Rødder, dæmpningstype og løsninger
 Overdæmpet: to reelle (eller imaginære) rødder.
 $$y(x) = A \cdot e^{r_1t} + B \cdot e^{r_2t}$$
 Kritisk Dæmpet: én dobbeltrod.
