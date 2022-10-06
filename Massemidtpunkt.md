@@ -1,8 +1,5 @@
 # Massemidtpunkt
-#TODO
-
-
-Bestemmelse af punktet
+Bestemmelse af massemidtpunktet
 $$x_{CM} = \frac{m_1x_1+m_2x_2+\dots+m_Nx_N}{M}$$
 $$y_{CM} = \frac{m_1y_1+m_2y_2+\dots+m_Ny_N}{M}$$
 $$z_{CM} = \frac{m_1z_1+m_2z_2+\dots+m_Nz_N}{M}$$
@@ -17,3 +14,4 @@ $$M = \int_a^bdb = \int_a^b\lambda(x) \cdot dx$$
 
 ### Accelerationen for massemidtpunktet
 $$\vec{F_{total}} = \frac{d\vec{P}}{dt} = Mf \frac{d^2\vec{r_{CM}}}{dt^2} = M \cdot \vec{a_{CM}}$$
+Vi kan altså betragte et system af sammenkoblede masser til en enkel punktmasse.
