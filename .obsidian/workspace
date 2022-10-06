@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bevægelsesmængde (Impuls).md",
+            "file": "Stød.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bevægelsesmængde (Impuls).md",
+                "file": "Stød.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "abd4da1e4ee92776",
   "lastOpenFiles": [
-    "Impulsmoment.md",
     "Bevægelsesmængde (Impuls).md",
+    "Impulsmoment.md",
     "Raketligningen.md",
     "raketø.md",
     "Newtons Love.md",
