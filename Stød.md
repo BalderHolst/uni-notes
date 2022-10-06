@@ -29,6 +29,20 @@ $$ v_{i_i} - v_{2_i} = -v_{1_f}  + v_{2_f} $$
 > *"Et mål for hvor meget energi der går tabt når to objekter støder sammen"*
 > \- René
 
+En stødkoefficent betegner energitabet i et stød mellem **TO SPECIFIKKE** objekter.
+
+$$\frac{v_{1_f} - v_{com}}{v_{com} - v_{1_i}} = \frac{v_{2_f} - v_{com}}{v_{com} - v_{2_i}} = e$$
+
+Kan også regnes således.
+$$v_{efter} - v_{fælles} = e(v_{fælles} - v_{før})$$
+
+$v_{com}$ : Hastigheden for det samlede objekt, i øjeblikket hvor de to objekter sidder sammen.
+$e$ : Stødkoefficienten
+
+##### Energitabet
+$$\Delta E_{kin} = (e^2 -1) E_{kin_i} < 0$$
+
+
 
 ---
 #fysik 
