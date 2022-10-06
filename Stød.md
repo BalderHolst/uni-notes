@@ -1,5 +1,7 @@
 [[Bevægelsesmængde (Impuls)]]
 
+
+
 ---
 
 
@@ -43,7 +45,7 @@ $e$ : Stødkoefficienten
 ##### Energitabet
 $$\Delta E_{kin} = (e^2 -1) E_{kin_i} < 0$$
 
-
+$$\frac{1 \cdot  2}{3^{e} }$$
 
 ---
 #fysik 
