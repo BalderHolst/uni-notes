@@ -24,4 +24,11 @@ $$ v_{i_i} - v_{2_i} = -v_{1_f}  + v_{2_f} $$
 
 
 ---
+
+### Stødkoefficent
+> *"Et mål for hvor meget energi der går tabt når to objekter støder sammen"*
+> \- René
+
+
+---
 #fysik 
