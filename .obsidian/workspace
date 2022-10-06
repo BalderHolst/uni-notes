@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Raketligningen.md",
+            "file": "Bevægelsesmængde (Impuls).md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raketligningen.md",
+                "file": "Bevægelsesmængde (Impuls).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "abd4da1e4ee92776",
   "lastOpenFiles": [
-    "raketø.md",
-    "Bevægelsesmængde (Impuls).md",
-    "Newtons Love.md",
     "Impulsmoment.md",
+    "Bevægelsesmængde (Impuls).md",
+    "Raketligningen.md",
+    "raketø.md",
+    "Newtons Love.md",
     "Dæmpede Svingninger.md",
     "bøger/Formelsamling.pdf",
     "Differentialregning Regneregler.md",
     "Differentialregning.md",
-    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md",
-    "Grænser.md"
+    "Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger.md"
   ]
 }
