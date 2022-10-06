@@ -3,7 +3,7 @@ Også kaldet **impuls**
 
 Bevægelsesmængde er produktet af [[Hastighed og Fart|hastighed]] og masse.
 
-$$p = m \cdot v$$
+$$p = m \cdot v \s \left[ \frac{\text{kg} \cdot \text{m}}{\text{s}} \right]$$
 
 $p$: Bevægelsesmængde. *Fortegn* er vigtige! Hvis systemet er i 3 dimensioner bliver hastighed og impuls til vektorer.
 
