@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Massemidtpunkt.md",
+            "file": "Stød.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Massemidtpunkt.md",
+                "file": "Stød.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "abd4da1e4ee92776",
   "lastOpenFiles": [
-    "Stød.md",
     "Massemidtpunkt.md",
+    "Stød.md",
     "Bevægelsesmængde (Impuls).md",
     "bøger/Formelsamling.pdf",
     "Formelsamling.md",
