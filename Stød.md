@@ -2,7 +2,7 @@
 
 ---
 
-### Elastisk stød
+### Uelastisk stød
 > *Kuglerne klistrer sig sammen efter støddet*
 > \- René
 
@@ -12,7 +12,7 @@ $$m_1 \cdot \vec{v_1} + m_2 \cdot \vec{v_2} = (m_1 + m_2) \cdot \vec{v} = M \cdo
 
 ---
 
-### Uelastisk stød
+### Elastisk stød
 Her er den kinetiske energi bevaret.
 
 De to objekter skilles efter kollision 

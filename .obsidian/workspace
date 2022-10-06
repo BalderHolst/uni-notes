@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stød.md",
+            "file": "Bevægelsesmængde (Impuls).md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stød.md",
+                "file": "Bevægelsesmængde (Impuls).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +118,9 @@
   },
   "active": "abd4da1e4ee92776",
   "lastOpenFiles": [
+    "Stød.md",
     "bøger/Formelsamling.pdf",
     "Formelsamling.md",
-    "Stød.md",
     "Bevægelsesmængde (Impuls).md",
     "Impulsmoment.md",
     "Raketligningen.md",
