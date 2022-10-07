@@ -18,8 +18,8 @@ $$y' + p(x)  \cdot y = q(x) \arrows y' = q(x) - p(x) \cdot y \arrows \frac{dy}{d
 $p(x)$: en funktion af $x$
 $q(x)$: en anden funktion af $x$
 
-Hvis $q = 0$: *homogen*.
-Hvis $q \ne 0$: *inhomogen*.
+Hvis $q(x) = 0$: *homogen*.
+Hvis $q(x) \ne 0$: *inhomogen*.
 
 #### Løsningsformel
 $$f(x) = e^{-P(x)} \cdot \int e^{P(x)} \cdot q(x)dx$$

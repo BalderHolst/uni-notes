@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integration med Substidution.md",
+            "file": "Newtons Afkølingslov.md",
             "mode": "preview",
             "source": false
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integration med Substidution.md",
+                "file": "Linære førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,10 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "d409e290ab4ccffb",
+  "active": "8fd1c5ee586d9a61",
   "lastOpenFiles": [
+    "Newtons Afkølingslov.md",
+    "Integration med Substidution.md",
     "Linære førsteordensdifferentialligninger.md",
     "Førsteordensdifferentialligninger.md",
     "Trigonometri.md",
@@ -137,8 +139,6 @@
     "Massemidtpunkt.md",
     "Bevægelsesmængde (Impuls).md",
     "bøger/Formelsamling.pdf",
-    "Formelsamling.md",
-    "Impulsmoment.md",
-    "Raketligningen.md"
+    "Formelsamling.md"
   ]
 }
