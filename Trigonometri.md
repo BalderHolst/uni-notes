@@ -4,6 +4,9 @@ $$\sin(\theta) = \sin(\pi - \theta)$$
 $$\cos(\theta) = \cos(-\theta)$$
 $$\sin(-\theta) = -\sin(\theta)$$
 
+### Den med Tangens
+$$tan^{-1}(x)= \int\frac{1}{1+y^2}dy$$
+L
 
 ### Additionsformler
 $$\cos(x+y) = \cos x \cdot \cos y - \sin x \cdot \sin y$$

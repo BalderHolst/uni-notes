@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stød.md",
+            "file": "Trigonometri.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stød.md",
+                "file": "Trigonometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "abd4da1e4ee92776",
   "lastOpenFiles": [
-    "Massemidtpunkt.md",
     "Stød.md",
+    "Massemidtpunkt.md",
     "Bevægelsesmængde (Impuls).md",
     "bøger/Formelsamling.pdf",
     "Formelsamling.md",
