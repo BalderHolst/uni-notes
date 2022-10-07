@@ -15,11 +15,11 @@ $$y' + p(x)  \cdot y = q(x) \arrows y' = q(x) - p(x) \cdot y \arrows \frac{dy}{d
 
 
 **Variabler** *(disse funktioner kan godt være konstanter)*
-$a(x)$: en funktion af $x$
-$b(x)$: en anden funktion af $x$
+$p(x)$: en funktion af $x$
+$q(x)$: en anden funktion af $x$
 
 Hvis $q = 0$: *homogen*.
-Hvis $q \ne 0$: *inhomogen*
+Hvis $q \ne 0$: *inhomogen*.
 
 #### Løsningsformel
 $$f(x) = e^{-P(x)} \cdot \int e^{P(x)} \cdot q(x)dx$$
