@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fjederkraft.md",
+            "file": "Parallelforbindelser.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fjederkraft.md",
+                "file": "Parallelforbindelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "4f8cadaca6cb7e49",
   "lastOpenFiles": [
+    "Fjederkraft.md",
     "Stød.md",
     "Operationsforstærker.md",
     "Spændingsdeler.md",
@@ -126,7 +127,6 @@
     "Newtons Afkølingslov.md",
     "Terminalhastighed.md",
     "Linære førsteordensdifferentialligninger.md",
-    "Integration med Substidution.md",
-    "Førsteordensdifferentialligninger.md"
+    "Integration med Substidution.md"
   ]
 }
