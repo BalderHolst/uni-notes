@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Effekt.md",
+            "file": "Terminalhastighed.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effekt.md",
+                "file": "Terminalhastighed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "dc7b84a3f2d0f8d4",
   "lastOpenFiles": [
+    "notes/Mekanisk effekt.md",
+    "notes/Effekt.md",
     "notes/Operationsforstærker.md",
     "notes/Stød.md",
     "notes/Fjederkraft.md",
     "notes/Parallelforbindelser.md",
-    "Effekt.md",
     "Modkobling.md",
     "Spændingsdeler.md",
     "Strømdeler.md",
-    "Newtons Afkølingslov.md",
-    "Terminalhastighed.md"
+    "Newtons Afkølingslov.md"
   ]
 }
