@@ -33,7 +33,7 @@ $\vec{v_{1_f}}$ : Hastigheden af det *første* objekt *efter* kollisionen.
 $\vec{v_{2_f}}$ : Hastigheden af det *andet* objekt *efter* kollisionen.
 
 Dette er derudover også sandt:
-$$ v_{1_i} - v_{2_i} = -v_{1_f}  + v_{2_f} \arrows u_i = -u_f$$
+$$ \vec{v_{1_i}} - \vec{v_{2_i}} = -\vec{v_{1_f}}  + \vec{v_{2_f}} \arrows u_i = -u_f$$
 
 
 ---
@@ -59,6 +59,8 @@ $e$ : Stødkoefficienten
 
 ##### Energitabet
 $$\Delta E_{kin} = (e^2 -1) E_{kin_i} < 0$$
+$\Delta E_{kin}$ : Energitabet
+
 
 ---
 #fysik 
