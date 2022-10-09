@@ -1,2 +1,0 @@
-# Modkobling
-> Modkobling = Negativ feedback
