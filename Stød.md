@@ -26,7 +26,8 @@ De to objekter skilles efter kollision
 
 $$m_{1} \cdot \vec{v_{1_i}} + m_{2} \cdot \vec{v_{2_i}} = m_{1} \cdot \vec{v_{1_f}} + m_{2} \cdot \vec{v_{2_f}}$$
 $m_{1/2}$ : Masseren af de to objekter.
-$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne før kollisionen.
+$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne *før* kollisionen.
+$\vec{v_{1_f/2_f}}$ : Hastighederne af objekterne *efter* kollisionen.
 
 Dette er derudover også sandt:
 $$ v_{1_i} - v_{2_i} = -v_{1_f}  + v_{2_f} \arrows u_i = -u_f$$
@@ -41,6 +42,11 @@ $$ v_{1_i} - v_{2_i} = -v_{1_f}  + v_{2_f} \arrows u_i = -u_f$$
 En stødkoefficent betegner energitabet i et stød mellem **TO SPECIFIKKE** objekter.
 
 $$\frac{v_{1_f} - v_{com}}{v_{com} - v_{1_i}} = \frac{v_{2_f} - v_{com}}{v_{com} - v_{2_i}} = e$$
+$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne *før* kollisionen.
+$\vec{v_{1_f/2_f}}$ : Hastighederne af objekterne *efter* kollisionen.
+$v_{com}$ : Den samlede hastighed i lige netop det punkt hvor objekterne "sidder sammen".
+$e$ : Stødkoefficenten.
+
 
 Kan også regnes således.
 $$v_{efter} - v_{fælles} = e(v_{fælles} - v_{før})$$
@@ -50,8 +56,6 @@ $e$ : Stødkoefficienten
 
 ##### Energitabet
 $$\Delta E_{kin} = (e^2 -1) E_{kin_i} < 0$$
-
-$$\frac{1 \cdot  2}{3^{e} }$$
 
 ---
 #fysik 
