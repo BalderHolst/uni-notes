@@ -6,7 +6,7 @@ $$T'(t) = -k \cdot (T(t)-T_{omg})$$
 
 $T$ / $T(t)$  : Temperaturen som funktion af tid.
 $T_{omg}$ : Temperaturen af omgivelserne.
-$k$: En konstant.
+$k$: [[#k -værdien|Proportionalitetskonstanten]].
 
 ---
 ### Afkølingsloven og differentialligninger
@@ -17,14 +17,16 @@ Dette kan vi se hvis vi ganger parantesen ud
 $$T' = -k \cdot (T-T_{omg}) \arrows T' = -k \cdot T + k \cdot T_{omg} \arrows T' = k \cdot T_{omg} -k \cdot T$$
 $T$  : Temperaturen som funktion af tid.
 $T_{omg}$ : Temperaturen af omgivelserne.
-$k$: En konstant.
+$k$: [[#k -værdien|Proportionalitetskonstanten]].
 
 Da løsningen til den gennerelle differentialligning er $f(x) =  \frac{b}{a} + C  \cdot e^{-ax}$, ved vi at $T$ kan regnes således:
 
-$$T= \frac{b}{a}+C \cdot e^{-at} \arrows T = $$
+$$T = T_{omg}+C \cdot e^{-kt} \arrows T = \frac{b}{a}+C \cdot e^{-at}, \s \text{hvor } a=k \text{ og } b=k \cdot T_{omg}$$
+$a$ : en konstant, der er lig $k$.
+$b$ : en anden konstant der er lig $k \cdot T_{omg}$-
 
 ```ad-example # Admonition type. See below for a list of available types.
-title:                  Udledning
+title:                  Udledning af løsning med $a$ og $b$
 collapse:               # Create a collapsible admonition.
 
 $$a = k, \s\s b = k \cdot T_{omg}$$
@@ -41,15 +43,7 @@ $k$-værdien er en proportionalskonstant, der beskriver hvor hurtigt elementet o
 ### Afkøling og Hældningsfelt
 Vi kan se hvordan temperaturen går mod omgivelsernes temperatur, hvis vi tegner et [[Hældningsfelt]] for differentialligningen $T' = -k \cdot (T-T_{omg})$
 
-![[Newtons Afkølingslov Hældningsfelt.png]]
-
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Maple udregninger
-collapse:
-
-![[Newtons Afkølingslov Hældningsfelt Udregning.png]]
-
-```
+![[Newtons Afkølingslov Hældningsfelt.png|300]]
 
 ---
 #matematik 
