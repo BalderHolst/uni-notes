@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stød.md",
-            "mode": "preview",
+            "file": "Fjederkraft.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stød.md",
+                "file": "Fjederkraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "4f8cadaca6cb7e49",
   "lastOpenFiles": [
-    "Operationsforstærker.md",
     "Stød.md",
+    "Operationsforstærker.md",
     "Spændingsdeler.md",
     "Strømdeler.md",
     "Effekt.md",
