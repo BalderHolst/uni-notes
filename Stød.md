@@ -22,14 +22,14 @@ De to objekter skilles efter kollision
 
 $$m_{1_i} \cdot \vec{v_{1_i}} + m_{2_i} \cdot \vec{v_{2_i}} = m_{1_f} \cdot \vec{v_{1_f}} + m_{2_f} \cdot \vec{v_{2_f}}$$
 
-Det medører dette udtryk.
+Dette er derudover også sandt:
 $$ v_{i_i} - v_{2_i} = -v_{1_f}  + v_{2_f} \arrows u_i = -u_f$$
 
 
 ---
 
 ### Stødkoefficent
-> *"Et mål for hvor meget energi der går tabt når to objekter støder sammen"*
+> *"Et mål for hvor meget energi der går tabt, når to objekter støder sammen"*
 > \- René
 
 En stødkoefficent betegner energitabet i et stød mellem **TO SPECIFIKKE** objekter.
