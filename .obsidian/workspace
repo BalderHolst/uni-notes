@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Effekt.md",
+            "file": "Operationsforstærker.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effekt.md",
+                "file": "Operationsforstærker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "d409e290ab4ccffb",
   "lastOpenFiles": [
+    "Effekt.md",
     "Newtons Afkølingslov.md",
     "Terminalhastighed.md",
     "Linære førsteordensdifferentialligninger.md",
@@ -126,7 +127,6 @@
     "Trigonometri.md",
     "Stød.md",
     "Massemidtpunkt.md",
-    "Bevægelsesmængde (Impuls).md",
-    "bøger/Formelsamling.pdf"
+    "Bevægelsesmængde (Impuls).md"
   ]
 }
