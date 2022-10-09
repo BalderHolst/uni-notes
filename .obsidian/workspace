@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operationsforstærker.md",
+            "file": "Effekt.md",
             "mode": "source",
             "source": false
           }
@@ -62,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Effekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +117,14 @@
   },
   "active": "dc7b84a3f2d0f8d4",
   "lastOpenFiles": [
-    "Modkobling.md",
-    "Operationsforstærker.md",
+    "notes/Operationsforstærker.md",
     "notes/Stød.md",
     "notes/Fjederkraft.md",
     "notes/Parallelforbindelser.md",
+    "Effekt.md",
+    "Modkobling.md",
     "Spændingsdeler.md",
     "Strømdeler.md",
-    "Effekt.md",
     "Newtons Afkølingslov.md",
     "Terminalhastighed.md"
   ]
