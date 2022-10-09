@@ -171,6 +171,9 @@ $$f(x) = 20 \cdot e^{-0.12x}$$
 ## 3. Løsningsformel ([[Newtons Afkølingslov]])
 
 $$y'=b-a \cdot y \Arrows f(x) =  \frac{b}{a} + C  \cdot e^{-ax}, \s a \neq0$$
+$a$ : En konstant.
+$b$ : En anden konstant.
+$C$ : Integrationskonstanten.
 
 $f(x)$ vil altid gå mod $y$-værdien $\frac{b}{a}$, retningen er forekellig alt efter forteget på $a$.
 

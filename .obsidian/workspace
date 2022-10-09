@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linære førsteordensdifferentialligninger.md",
+            "file": "Newtons Afkølingslov.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linære førsteordensdifferentialligninger.md",
+                "file": "Newtons Afkølingslov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "dc7b84a3f2d0f8d4",
   "lastOpenFiles": [
+    "notes/Linære førsteordensdifferentialligninger.md",
     "notes/Terminalhastighed.md",
     "notes/Mekanisk effekt.md",
     "notes/Effekt.md",
@@ -125,7 +126,6 @@
     "notes/Fjederkraft.md",
     "notes/Parallelforbindelser.md",
     "Modkobling.md",
-    "Spændingsdeler.md",
-    "Strømdeler.md"
+    "Spændingsdeler.md"
   ]
 }
