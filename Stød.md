@@ -12,8 +12,8 @@
 Hastighederne lægges sammen efter stødet. Altså bevæger objekterne sammen.
 
 $$m_1 \cdot \vec{v_{1_i}} + m_2 \cdot \vec{v_{2_i}} = (m_1 + m_2) \cdot \vec{v_f} = M \cdot \vec{v_f}$$
-$m_{1/2}$ : Masseren af de to objekter.
-$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne før kollisionen.
+$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne *før* kollisionen.
+$\vec{v_{1_f/2_f}}$ : Hastighederne af objekterne *efter* kollisionen.
 $\vec{v_f}$ : Hastigheden af det samlede objekt efter.
 $M$ : Massen af det samlede objekt.
 
@@ -25,9 +25,12 @@ Her er den kinetiske energi bevaret.
 De to objekter skilles efter kollision 
 
 $$m_{1} \cdot \vec{v_{1_i}} + m_{2} \cdot \vec{v_{2_i}} = m_{1} \cdot \vec{v_{1_f}} + m_{2} \cdot \vec{v_{2_f}}$$
-$m_{1/2}$ : Masseren af de to objekter.
-$\vec{v_{1_i/2_i}}$ : Hastighederne af objekterne *før* kollisionen.
-$\vec{v_{1_f/2_f}}$ : Hastighederne af objekterne *efter* kollisionen.
+$m_1$ : Massen af det *første* objekt
+$m_2$ : Massen af det *andet* objekt
+$\vec{v_{1_i}}$ : Hastigheden af det *første* objekt *før* kollisionen.
+$\vec{v_{2_i}}$ : Hastigheden af det *andet* objekt *før* kollisionen.
+$\vec{v_{1_f}}$ : Hastigheden af det *første* objekt *efter* kollisionen.
+$\vec{v_{2_f}}$ : Hastigheden af det *andet* objekt *efter* kollisionen.
 
 Dette er derudover også sandt:
 $$ v_{1_i} - v_{2_i} = -v_{1_f}  + v_{2_f} \arrows u_i = -u_f$$
