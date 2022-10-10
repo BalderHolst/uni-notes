@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spoler.md",
-            "mode": "source",
+            "file": "notes/Spoler.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spoler.md",
+                "file": "notes/Spoler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +117,10 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
-    "notes/Kondensator.md",
-    "Spoler.md",
-    "Andengradspolynomier.md",
     "Serieforbindeler.md",
+    "notes/Spoler.md",
+    "notes/Kondensator.md",
+    "Andengradspolynomier.md",
     "notes/Parallelforbindelser.md",
     "Trigonometri.md",
     "Differentialligninger.md",

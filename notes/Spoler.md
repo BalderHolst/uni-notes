@@ -16,4 +16,8 @@ $\mu_0$ : Vacum
 ### Arbejde
 $$W_L = \frac{1}{2} \cdot L \cdot i_L^2$$
 $W_L$ : ==[[Arbejde|Arbejdet]] afsat i spolen.==
-$L$ 
+$L$ : [[Induktans]] i $[\text{Henry}]$/$[\text{H}]$.
+$i_L$ : Strømmen gennem spolen.
+
+---
+#elektronik 
