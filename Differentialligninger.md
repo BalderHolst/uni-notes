@@ -5,8 +5,10 @@ En ligning med en funktion som løsning.
 En ligning der indeholder en [[Differentialregning|afledt funktion]]
 
 ---
-### Førsteordensdifferentialligninger
-[[Førsteordensdifferentialligninger]]
+### Typer
+- [[Førsteordensdifferentialligninger]]
+- [[Linære førsteordensdifferentialligninger]]
+- [[Andenordensdifferentialligninger]]
 
 ---
  
@@ -41,7 +43,7 @@ collapse:               # Create a collapsible admonition.
 ---
 
 ### *Fuldstændig* og *partikulær* løsning
-En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentiallignenen $y'=k \cdot y$.
+En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentiallignenen $y'=k \cdot y$.
 
 $$f(x)=C \cdot e^{k \cdot x}$$
 

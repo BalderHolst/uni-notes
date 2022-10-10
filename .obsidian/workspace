@@ -7,8 +7,12 @@
         "id": "5100832e9afea34d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Kondensator.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kondensator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +117,15 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "Differentialligninger.md",
+    "notes/Integralregning.md",
     "notes/Operationsforstærker.md",
-    "Integralregning.md",
     "n-Space.md",
     "Massemidtpunkt.md",
     "Grænser.md",
     "Dæmpede Svingninger.md",
     "Trigonometri.md",
     "Gradient.md",
-    "notes/Newtons Afkølingslov.md",
-    "Newtons Afkølingslov Hældningsfelt.png.md"
+    "notes/Newtons Afkølingslov.md"
   ]
 }
