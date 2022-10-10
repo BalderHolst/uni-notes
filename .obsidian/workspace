@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33bf4c680f4c4b8d",
+        "id": "08971e9416a78742",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Operationsforstærker.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -42,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844,
-    "collapsed": true
+    "width": 288.01499938964844
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -59,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Operationsforstærker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +115,10 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "33bf4c680f4c4b8d",
+  "active": "08971e9416a78742",
   "lastOpenFiles": [
     "test.md",
+    "Newtons Love.md",
     "notes/Operationsforstærker.md",
     "notes/Effekt.md",
     "Strømdeler.md",
@@ -121,7 +126,6 @@
     "Serieforbindeler.md",
     "notes/Kondensator.md",
     "Andengradspolynomier.md",
-    "notes/Parallelforbindelser.md",
-    "Trigonometri.md"
+    "notes/Parallelforbindelser.md"
   ]
 }
