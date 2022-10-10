@@ -9,4 +9,4 @@ These are points $x$ and $y$.
 $$\sqrt{(y_1 - x_1)^2 + (y_2 - x_2)^2 + \dots + (y_n-x_n)^n}$$
 
 ---
-#math
+#matematik 

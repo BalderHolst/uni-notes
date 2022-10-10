@@ -7,12 +7,8 @@
         "id": "5100832e9afea34d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Trigonometri.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terminal",
+                "query": "tag:#funktioner",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -117,15 +112,15 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "notes/Operationsforstærker.md",
+    "Integralregning.md",
+    "n-Space.md",
+    "Massemidtpunkt.md",
+    "Grænser.md",
+    "Dæmpede Svingninger.md",
+    "Trigonometri.md",
     "Gradient.md",
     "notes/Newtons Afkølingslov.md",
-    "Trigonometri.md",
-    "Newtons Afkølingslov Hældningsfelt.png.md",
-    "notes/Linære førsteordensdifferentialligninger.md",
-    "notes/Terminalhastighed.md",
-    "notes/Mekanisk effekt.md",
-    "notes/Effekt.md",
-    "notes/Operationsforstærker.md",
-    "notes/Stød.md"
+    "Newtons Afkølingslov Hældningsfelt.png.md"
   ]
 }

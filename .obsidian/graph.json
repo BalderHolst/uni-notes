@@ -1,22 +1,44 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:notes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#matematik",
+      "color": {
+        "a": 1,
+        "rgb": 196776
+      }
+    },
+    {
+      "query": "tag:#fysik",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "tag:#elektronik",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.45092233658602,
   "lineSizeMultiplier": 2.03308976232597,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.578651685393258,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 225,
-  "scale": 1.0731586202157763,
+  "scale": 0.3740360506568859,
   "close": true
 }

@@ -33,7 +33,6 @@ collapse:               # Create a collapsible admonition.
 ### Vinkel Halvering
 $$\cos^2(\theta) = \frac{\cos(2\theta)-1}{2}$$
 
-### Dæmpede svingninger
 
 
 ---

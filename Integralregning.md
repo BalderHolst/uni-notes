@@ -70,5 +70,5 @@ $$\iint a(t)\,dt = \int v(t) + k\,dt = s(t) + kx + c$$
 
 ---
 ##### Tags
+#fysik 
 #matematik
-#fysik
