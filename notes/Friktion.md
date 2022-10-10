@@ -13,3 +13,6 @@ $C_D$: Drag Coefficient
 
 #### Terminal hastighed
 $$v_t=\sqrt{\frac{2mg}{\rho AC_D}}$$
+
+---
+#fysik 

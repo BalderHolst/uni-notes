@@ -20,4 +20,4 @@ $L$ : [[Induktans]] i $[\text{Henry}]$/$[\text{H}]$.
 $i_L$ : Strømmen gennem spolen.
 
 ---
-#elektronik 
+#elektronik #komponent 

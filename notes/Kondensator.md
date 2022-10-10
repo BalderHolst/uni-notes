@@ -32,4 +32,4 @@ $A$ :
 $d$ :
 
 ---
-#elektronik
+#elektronik #komponent

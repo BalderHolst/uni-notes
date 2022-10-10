@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "17011d9b110c89ae",
+        "id": "7e86b985f9814bc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planer.md",
+            "file": "Kredsløb.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0be1e536c80424a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Operationsforstærker.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planer.md",
+                "file": "Kredsløb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bevis",
+                "query": "tag:#elektronik",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,24 +120,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "17011d9b110c89ae",
+  "active": "7e86b985f9814bc7",
   "lastOpenFiles": [
-    "notes/Modstande.md",
-    "notes/Norton Ækvivalens.md",
-    "notes/Ækvivalente Kredsløb.md",
-    "notes/Thevenin Ækvivalens.md",
-    "notes/Hvordan skriver man en videnskabelig artikel.md",
-    "notes/En-en-tydig Funktion.md",
-    "notes/Omvendt funktion.md",
-    "notes/Arbejde.md",
-    "notes/Energi.md",
-    "notes/Halveringtid.md"
+    "notes/Operationsforstærker.md",
+    "notes/Spoler.md",
+    "notes/Kondensator.md",
+    "Kredsløb.md",
+    "Ellære.md",
+    "Serieforbindelser.md",
+    "notes/Serieforbindeler.md",
+    "notes/KCL.md",
+    "notes/Ohm's Lov.md",
+    "notes/Normalkraft.md"
   ]
 }

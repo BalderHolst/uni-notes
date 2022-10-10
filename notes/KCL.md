@@ -16,4 +16,4 @@ Ex: $I_{out} = I_{in} + I_{in}$
 [[KVL]] - voltage
 
 ---
-
+#elektronik 

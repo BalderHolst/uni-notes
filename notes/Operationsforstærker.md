@@ -28,4 +28,4 @@ $R_f$ : Feedback modstanden (den fra $V_{out}$ til operationsforstærkerens nega
 $R_1$ : Modstanden mellem operationsforstærkerens negative indgang og jord (gnd).
 
 ---
-#elektronik 
+#elektronik #komponent 
