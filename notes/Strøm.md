@@ -15,6 +15,7 @@ Derfor kan vi udregne ladningen der passerer gennem et komponent ved at [[Integr
 $$\int_{t_0}^t i(t) dt$$
 $i(t)$: Strøm over tid.
 
-
+---
+#elektronik 
 
 
