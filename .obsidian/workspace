@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Effekt.md",
+            "file": "notes/Operationsforstærker.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Effekt.md",
+                "file": "notes/Operationsforstærker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "notes/Effekt.md",
     "Strømdeler.md",
     "notes/Spoler.md",
     "Serieforbindeler.md",
@@ -126,7 +127,6 @@
     "notes/Parallelforbindelser.md",
     "Trigonometri.md",
     "Differentialligninger.md",
-    "notes/Integralregning.md",
-    "notes/Operationsforstærker.md"
+    "notes/Integralregning.md"
   ]
 }

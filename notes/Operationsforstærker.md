@@ -21,7 +21,7 @@ $R_1$ : Modstanden mellem $V_{in}$ og operationsforstærkerens negative indgang.
 
 ### Ikke-inverterende
 ![|340](https://www.allaboutelectronics.org/wp-content/uploads/2020/10/op-amp_1.png)
-$$V_0= \left(1+\frac{R_f}{R_1}\right) \cdot V_{in}$$
+$$V_{out}= \left(1+\frac{R_f}{R_1}\right) \cdot V_{in}$$
 $V_{out}$ : Operationsforstærkerens output-spænding.
 $V_{in}$ : Input-spændingen (der er forbundet til operationsforstærkerens positive indgang).
 $R_f$ : Feedback modstanden (den fra $V_{out}$ til operationsforstærkerens negative indgang)
