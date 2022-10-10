@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spoler.md",
+            "file": "notes/Kondensator.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spoler.md",
+                "file": "notes/Kondensator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +118,15 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "Spoler.md",
+    "notes/Kondensator.md",
     "Andengradspolynomier.md",
     "Serieforbindeler.md",
     "notes/Parallelforbindelser.md",
     "Trigonometri.md",
-    "notes/Kondensator.md",
     "Differentialligninger.md",
     "notes/Integralregning.md",
     "notes/Operationsforstærker.md",
-    "n-Space.md",
-    "Massemidtpunkt.md"
+    "n-Space.md"
   ]
 }

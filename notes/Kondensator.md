@@ -16,8 +16,13 @@ $V$ : Spænding over kondensatoren.
 Hvis man [[Integralregning|integrerer]] kan man finde strømmen.
 $$I_C = C \cdot \frac{dV_c}{dt}$$
 
+### Arbejdet
+$$W_C= \frac{1}{2} \cdot C \cdot V_C^2$$
+$W_C$ : ==Arbejdet afgivet i kondensatoren?==
+$C$ : Kapaciteten $\frac{\text{C}}{\text{v}}$.
+$V_C$ : Spænding over kondensatoren. 
 
-### Alternativ
+### Konstanten
 
 $$C = \frac{\epsilon_r \cdot \epsilon_0 \cdot A}{d}$$
 $\epsilon_r$ :
