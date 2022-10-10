@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Strømdeler.md",
+            "file": "notes/Effekt.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strømdeler.md",
+                "file": "notes/Effekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "Strømdeler.md",
     "notes/Spoler.md",
     "Serieforbindeler.md",
     "notes/Kondensator.md",
@@ -126,7 +127,6 @@
     "Trigonometri.md",
     "Differentialligninger.md",
     "notes/Integralregning.md",
-    "notes/Operationsforstærker.md",
-    "n-Space.md"
+    "notes/Operationsforstærker.md"
   ]
 }
