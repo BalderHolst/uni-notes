@@ -3,7 +3,7 @@
 **Eksempel:**
 
 $$f(x,y) = x^2+x \cdot y-8$$
-I [[niveaukurver]] sætter vi $z$ til at være en konstant. I *snitkurver* sætter vi enden $x$ eller $y$ til en konstant.
+I [[Niveaukurver]] sætter vi $z$ til at være en konstant. I *snitkurver* sætter vi enden $x$ eller $y$ til en konstant.
 
 Vi kan f.eks. sige at $x=3$
 

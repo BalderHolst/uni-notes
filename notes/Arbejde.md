@@ -11,7 +11,7 @@ $\cos(\theta)$ : Bruges til at finde $x$-komposanten af $F$.
 #### Arbejde og [[Potentiel Energi]]
 $$W = -E_{pot}$$
 
-Arbejdet udført på et objekt er lig objektets ændring i [[kinetisk Energi]].
+Arbejdet udført på et objekt er lig objektets ændring i [[Kinetisk Energi]].
 $$W_{net}=\Delta E_{kin}$$
 
 ### Udregning af Arbejde ved variable Kræfter

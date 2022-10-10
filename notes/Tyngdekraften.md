@@ -1,7 +1,7 @@
 # Tyngdekraften
 
 $$F_g = m \cdot g$$
-$f/f$
+$F_g$ : Tyngdekraften.
 $m$ : Massen.
 $g$ :[[Tyngdeaccelerationen]]
 

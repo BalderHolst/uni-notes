@@ -14,4 +14,5 @@ $$k = 3$$
 
 $$x^2 + 2 \cdot 3 \cdot x = (x + 3)^2 - 3^2$$
 
+---
 #matematik 

@@ -13,8 +13,5 @@ $r$: distancen mellem ladningerne
 $$E_{pot}=k_c \cdot \frac{q \cdot Q}{r}$$
 
 
-### Formler
-
-
 ---
 #fysik

@@ -58,7 +58,7 @@ $e$ : Stødkoefficienten
 
 ##### Energitabet
 $$\Delta E_{kin} = (e^2 -1) E_{kin_i} < 0$$
-$\Delta E_{kin}$ : Tabet af [[kinetisk energi]].
+$\Delta E_{kin}$ : Tabet af [[Kinetisk Energi]].
 $E_{kin_i}$ : Den [[Kinetisk Energi|kinetiske energi]] før stødet.
 $e$ : Stødkoefficenten
 

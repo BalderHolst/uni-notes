@@ -1,4 +1,4 @@
-## Bevis for [[Linjer og Vektorer#Linjens Ligningning|Linjens Ligning]]
+## Bevis for [[Linjer og Vektorer i 2D#Linjens Ligningning|Linjens Ligning]]
 
 ![[Linjens Ligning.png|350]]
 
