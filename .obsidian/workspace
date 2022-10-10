@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Parallelforbindelser.md",
+            "file": "Spoler.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Parallelforbindelser.md",
+                "file": "Spoler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "Andengradspolynomier.md",
+    "Serieforbindeler.md",
+    "notes/Parallelforbindelser.md",
     "Trigonometri.md",
     "notes/Kondensator.md",
     "Differentialligninger.md",
     "notes/Integralregning.md",
     "notes/Operationsforstærker.md",
     "n-Space.md",
-    "Massemidtpunkt.md",
-    "Grænser.md",
-    "Dæmpede Svingninger.md",
-    "Gradient.md"
+    "Massemidtpunkt.md"
   ]
 }
