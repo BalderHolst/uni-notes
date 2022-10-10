@@ -17,8 +17,6 @@ $$(a \cdot r^2 + br + c) \cdot e^{rt} = 0$$
 
 Parentesen er et [[Andengradspolynomier|andengradspolynomie]]. 
 
-Polymoniets rødder er funktionernes 
-
 #### Rødder, dæmpningstype og løsninger
 Overdæmpet: to reelle (eller imaginære) rødder.
 $$y(x) = A \cdot e^{r_1t} + B \cdot e^{r_2t}$$

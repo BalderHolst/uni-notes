@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bevægelse på Skråplan.md",
+            "file": "Dæmpede Svingninger.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bevægelse på Skråplan.md",
+                "file": "Dæmpede Svingninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#funktioner",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -117,15 +117,15 @@
   },
   "active": "08971e9416a78742",
   "lastOpenFiles": [
-    "notes/Skrå Kast.md",
-    "notes/Newtons Love.md",
-    "notes/Operationsforstærker.md",
-    "test.md",
-    "notes/Effekt.md",
-    "Strømdeler.md",
-    "notes/Spoler.md",
-    "Serieforbindeler.md",
+    "notes/Bevægelsesmængde (Impuls).md",
+    "notes/Stød.md",
+    "notes/Massemidtpunkt.md",
     "notes/Kondensator.md",
-    "Andengradspolynomier.md"
+    "notes/Spoler.md",
+    "notes/n-Space.md",
+    "notes/Differentialligninger.md",
+    "notes/Trigonometri.md",
+    "notes/Serieforbindeler.md",
+    "notes/Bevægelse på Skråplan.md"
   ]
 }

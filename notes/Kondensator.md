@@ -8,17 +8,18 @@
 **Strømmen er *nul*** når kondensatoren er opladt.
 
 ### Formler
-$$Q=C \cdot V$$
+$$Q=C \cdot V_c$$
 $C$ : Kapaciteten $\frac{\text{C}}{\text{v}}$.
 $Q$ : [[Ladning]] i kondensatoren.
-$V$ : Spænding over kondensatoren. 
+$V_c$ : Spænding over kondensatoren. 
 
 Hvis man [[Integralregning|integrerer]] kan man finde strømmen.
-$$I_C = C \cdot \frac{dV_c}{dt}$$
+$$I_c = C \cdot \frac{dV_c}{dt}$$
+$I_c$ : Strømmen gennem kondensatoren.
 
 ### Arbejdet
 $$W_C= \frac{1}{2} \cdot C \cdot V_C^2$$
-$W_C$ : ==Arbejdet afgivet i kondensatoren?==
+$W_C$ : Energien lagret i kondensatoren.
 $C$ : Kapaciteten $\frac{\text{C}}{\text{v}}$.
 $V_C$ : Spænding over kondensatoren. 
 

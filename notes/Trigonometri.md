@@ -12,6 +12,8 @@ $$\tan^{-1}(x)= \int\frac{1}{1+y^2}dy$$
 ### Additionsformler
 $$\cos(x+y) = \cos x \cdot \cos y - \sin x \cdot \sin y$$
 $$\sin(x+y) = \cos x \cdot \sin y - \sin x \cdot \cos y$$
+$x$ : En konstant.
+$y$ : En anden konstant.
 
 ### Grundrelationen (Idiot-reglen)
 $$\cos(\theta)^2 + \sin(\theta)^2 = 1$$
@@ -37,8 +39,6 @@ collapse:               # Create a collapsible admonition.
 
 ### Vinkel Halvering
 $$\cos^2(\theta) = \frac{\cos(2\theta)-1}{2}$$
-
-
 
 ---
 #matematik
