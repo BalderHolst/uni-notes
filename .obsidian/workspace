@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dæmpede Svingninger.md",
+            "file": "notes/Bevægelsesmængde (Impuls).md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dæmpede Svingninger.md",
+                "file": "notes/Bevægelsesmængde (Impuls).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "08971e9416a78742",
   "lastOpenFiles": [
+    "Dæmpede Svingninger.md",
     "notes/Bevægelsesmængde (Impuls).md",
     "notes/Stød.md",
     "notes/Massemidtpunkt.md",
@@ -125,7 +126,6 @@
     "notes/n-Space.md",
     "notes/Differentialligninger.md",
     "notes/Trigonometri.md",
-    "notes/Serieforbindeler.md",
-    "notes/Bevægelse på Skråplan.md"
+    "notes/Serieforbindeler.md"
   ]
 }
