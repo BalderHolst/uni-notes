@@ -1,5 +1,4 @@
 # Andengradspolynomier
-[[Parabeler]]
 ### Forskrift
 $$f(x) = ax^2 + bx + c$$
 
@@ -77,9 +76,7 @@ se [[Bevis for Løsningsformlen|beviset]].
 ---
 ##### Se også
 - [[Linære Funktioner]]
-- [[Polynomier i Højere Grad]]
 
 ---
 ##### Tags
 #matematik
-#funktioner

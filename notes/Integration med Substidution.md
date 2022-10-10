@@ -18,7 +18,7 @@ $$\int sin(u) \cdot \frac{1}{2}du \arrows \frac{1}{2} \cdot \int sin(u) du \arro
 Vi sætter ind på $u$'s plads
 $$\frac{1}{2} \cdot (-cos(2t+\pi)+k)\s = \s \frac{-cos(2t+\pi)+k}{2} $$
 
-Dette er det [[Integralregning|intregrerede]] udtryk.
+Dette er det [[Integralregning|integrerede]] udtryk.
 
 ---
 #matematik 

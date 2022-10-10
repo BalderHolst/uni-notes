@@ -29,25 +29,16 @@ Vi kan nu sætte vores $f(x)$ og $f'(x)$ ind i differentialligningen
 
 $$y = 16y  \s f'(x) = 16 \cdot f(x) \s 32e^{16x} = 16 \cdot 2e^{16x} \s 32e^{16x} = 32e^{16x}$$
 
-Her kan det ses at funktionen $f(x) = 2e^{16x}$ er en løsning på differencialligningen $y'=16y$, fordi at at vi ender med et sandt udtryk. På den måde kan man afgøre om en funktion er en løsning på en given differentialligning, ved at gøre prøve.
-
-
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Bevis
-collapse:               # Create a collapsible admonition.
-
-![[Bevis for differentialligninger]]
-
-```
+Her kan det ses at funktionen $f(x) = 2e^{16x}$ er en løsning på differentialligningen $y'=16y$, fordi at at vi ender med et sandt udtryk. På den måde kan man afgøre om en funktion er en løsning på en given differentialligning, ved at gøre prøve.
 
 ---
 
 ### *Fuldstændig* og *partikulær* løsning
-En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentiallignenen $y'=k \cdot y$.
+En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentialligningen $y'=k \cdot y$.
 
 $$f(x)=C \cdot e^{k \cdot x}$$
 
-Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabel, der kan være **alle** tal. For at visualsiere den fuldstændige funktions natur, kan man tegne et [[hældningsfelt]].
+Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabel, der kan være **alle** tal. For at visualisere den fuldstændige funktions natur, kan man tegne et [[Hældningsfelt]].
 
 For at finde den ***partikulære*** løsning
 

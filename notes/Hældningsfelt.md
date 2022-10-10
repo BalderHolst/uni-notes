@@ -10,13 +10,6 @@ En "pil" i et hældningsfelt, heddet et linjeelement.
 
 Definer helst konstanter
 
-```maple
-with(DEtools):
-l := y'(t) = 0.05*y(t)*(50 - y(t));
-DEplot(l, y(t), t = 0 .. 4, [y(2) = 25]);
-
-```
-
 ![[Hældningsfelt i maple.png]]
 ![[Hældningsfelt i maple 2.png]]
 

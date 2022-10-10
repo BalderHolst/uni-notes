@@ -12,6 +12,5 @@ $$E_{fotoelektron}=E_{foton} - E_{binding}$$
 ### Sandsynligheden for at fotoelektrisk effekt forekommer
 $$\sigma_{F} \propto \frac{Z^n}{E^m}$$
 
-
 ---
 #fysik 

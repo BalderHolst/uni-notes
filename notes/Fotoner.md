@@ -2,7 +2,7 @@
 
 ### Fotoners kinetiske energi
 $$E_{\gamma} = h \cdot f = \frac{h \cdot c}{\lambda}$$
-$h$: [[Planck konstanten]] ([[Fysik_i_overblik.pdf#page=30]])
+$h$: [[Planck konstanten]]
 $f$: Frekvensen
 
 ### Fotoners masse

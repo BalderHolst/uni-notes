@@ -110,6 +110,13 @@ $$\frac{s'(3)}{s(3)} = 0.25 \arrows \frac{s'(t)}{s(t)} = 0.25$$
 
 hver person smitter $0.25$ personer.
 
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Bevis
+collapse:               # Create a collapsible admonition.
+
+![[Bevis for 2. Løsningsformel]]
+
+```
 
 ### Løsninger
 

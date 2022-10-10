@@ -12,5 +12,4 @@ Fart er størrelsen af hastigheden. Dvs. at hvis en bil har en hastighed på $-1
 
 
 ---
-##### Tags
 #fysik

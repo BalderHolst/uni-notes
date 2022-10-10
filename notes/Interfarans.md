@@ -5,7 +5,5 @@ Destruktiv interfarans = Når bølger udligner hinanden fordi bakketop og bakked
 
 
 
-
 ---
-##### Tags
 #fysik

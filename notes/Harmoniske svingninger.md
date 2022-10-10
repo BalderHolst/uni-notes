@@ -21,6 +21,7 @@ Dette er også sandt (radianer)
 
 $$sin(x) = cos(x-\frac{\pi}{2})$$
 
+---
 #fysik 
 #matematik 
 

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "502baaf4b8035284",
+        "id": "3901aac56028e59e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Integraler Regneregler.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integraler Regneregler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,23 +104,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.21502685546875
+    "width": 255.21502685546875,
+    "collapsed": true
   },
-  "active": "2df300d2652669af",
+  "active": "3901aac56028e59e",
   "lastOpenFiles": [
-    "notes/Jævn Cirkelbevægelse.md",
-    "Klassisk Geometri.md",
-    "notes/Kinetisk Energi.md",
-    "notes/Energi.md",
-    "notes/Keplers Lov.md",
-    "Keglesnit.md",
-    "notes/Laplaces lov.md",
-    "notes/Ladningers bevægelse i et kuglesymmetrisk felt.md",
-    "notes/Ladning i en Kugle.md",
-    "notes/Kvadratkomplettering.md"
+    "notes/Acceleration af partikler.md",
+    "notes/Andengradspolynomier.md",
+    "notes/Differentialligninger.md",
+    "notes/Linære førsteordensdifferentialligninger.md",
+    "notes/Bevis for 2. Løsningsformel.md",
+    "notes/Centripetalkraft.md",
+    "Bølger.md",
+    "notes/Coulumbs konstant.md",
+    "notes/Einsteins Fotoelektriske Lov.md",
+    "Emner i Fysik.md"
   ]
 }
