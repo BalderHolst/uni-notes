@@ -17,6 +17,10 @@ $$\sin(x+y) = \cos x \cdot \sin y - \sin x \cdot \cos y$$
 $$\cos(\theta)^2 + \sin(\theta)^2 = 1$$
 ### Pythagoras Læresætning
 $$a^2 + b^2 = c^2$$
+$a$ : Den ene katete.
+$b$ : Den anden katete.
+$c$ : Hypotenusen.
+
 ```ad-example # Admonition type. See below for a list of available types.
 title:                  Bevis
 collapse:               # Create a collapsible admonition.

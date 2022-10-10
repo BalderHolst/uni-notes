@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kondensator.md",
+            "file": "notes/Parallelforbindelser.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kondensator.md",
+                "file": "notes/Parallelforbindelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
     "Trigonometri.md",
-    "Kondensator.md",
+    "notes/Kondensator.md",
     "Differentialligninger.md",
     "notes/Integralregning.md",
     "notes/Operationsforstærker.md",
