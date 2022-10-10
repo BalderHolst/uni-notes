@@ -11,5 +11,7 @@
   "text-snippets-obsidian",
   "obsidian-vimrc-support",
   "obsidian-admonition",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "quick-latex",
+  "url-into-selection"
 ]

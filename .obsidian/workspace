@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7e86b985f9814bc7",
+        "id": "0efdb637cf9556be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Vektorer.md",
+            "file": "Tyngdekraften.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "94acfa69320ebd14",
+        "id": "1afb5d8fb55d51b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Kredsløb.md",
+            "file": "Tyngdeaccelerationen.md",
             "mode": "preview",
             "source": false
           }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Kredsløb.md",
+                "file": "Tyngdekraften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#elektronik",
+                "query": "Coul",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -127,17 +127,17 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "94acfa69320ebd14",
+  "active": "0efdb637cf9556be",
   "lastOpenFiles": [
-    "notes/Vektorer.md",
-    "Vektorer.md",
-    "notes/Gravitation.md",
-    "notes/De kinematiske ligninger.md",
-    "notes/Mekanisk energi i centralbevægelser.md",
-    "notes/Kredsløb.md",
-    "notes/KCL.md",
-    "notes/Norton Ækvivalens.md",
-    "notes/Komplekse Tal.md",
-    "notes/Ækvivalente Kredsløb.md"
+    "Tyngdeaccelerationen.md",
+    "Tyngdekraften.md",
+    "notes/Tretrinsraketten.md",
+    "notes/Stokes Gnidningslov.md",
+    "notes/Viskositet.md",
+    "notes/Ellipse.md",
+    "notes/Vektorfunktioner.md",
+    "notes/Varmekapacitet.md",
+    "notes/gravitationskraft.md",
+    "notes/Conductance.md"
   ]
 }
