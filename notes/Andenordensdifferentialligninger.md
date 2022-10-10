@@ -1,2 +1,5 @@
 # Andenordensdifferentialligninger
 - [[Dæmpede Svingninger]]
+
+---
+#matematik 

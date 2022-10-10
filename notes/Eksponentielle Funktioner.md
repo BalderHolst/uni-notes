@@ -6,6 +6,10 @@ Dette er sandt om hældningen
 $$y' = k \cdot y$$
 
 ---
+### Formel for $a$
+$$a = \sqrt[x_2-x_1]{\frac{y_2}{y_1}}$$
+
+---
 
 ### Gym form
 

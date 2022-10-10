@@ -22,3 +22,6 @@ $$M =  \int_a^b\lambda(x) \cdot dx$$
 ### Accelerationen for massemidtpunktet
 $$\vec{F_{total}} = \frac{d\vec{P}}{dt} = Mf \frac{d^2\vec{r_{CM}}}{dt^2} = M \cdot \vec{a_{CM}}$$
 Vi kan altså betragte et system af sammenkoblede masser til en enkel punktmasse.
+
+---
+#fysik 

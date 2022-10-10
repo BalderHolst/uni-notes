@@ -1,5 +1,5 @@
 # Logaritmer
-[[Omvendt funktion|Omvende funktioner]] til [[eksponentielle Funktioner]].
+[[Omvendt funktion|Omvende funktioner]] til [[Eksponentielle Funktioner]].
 $$\log_n(x) = y \arrows n^y = x$$
 
 ### Regneregler

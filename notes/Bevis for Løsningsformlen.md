@@ -48,4 +48,3 @@ $$x = \frac{-b \pm \sqrt{d}}{2a}$$
 ---
 ##### Tags
 #matematik 
-#bevis 

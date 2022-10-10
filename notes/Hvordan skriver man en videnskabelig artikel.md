@@ -8,7 +8,7 @@
 ---
 
 # Introduction
-1.  Hook line. - væk interasse
+1.  Hook line. - væk interesse
 2.  Purpose of the paper.
 3.  Nature and scope of problem.
 4.  Method

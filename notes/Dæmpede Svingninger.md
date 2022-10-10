@@ -1,5 +1,12 @@
 # Dæmpede Svingninger
 
+$$a \cdot y'' + b \cdot y' + c \cdot y = 0 \arrows (a \cdot r^2 + br + c) \cdot e^{rt} = 0$$
+```ad-example # Admonition type. See below for a list of available types.
+title:                  Udledning
+collapse:               # Create a collapsible admonition.
+
+### Udledning 
+
 $$a \cdot y'' + b \cdot y' + c \cdot y = 0$$
 Gæt på løsning
 $$\begin{align}
@@ -17,12 +24,26 @@ $$(a \cdot r^2 + br + c) \cdot e^{rt} = 0$$
 
 Parentesen er et [[Andengradspolynomier|andengradspolynomie]]. 
 
+```
+
 #### Rødder, dæmpningstype og løsninger
+
+*Variabler*
+$A$ : Den første integrationskonstant.
+$B$ : Den anden integrationskonstant.
+$r$ : rod/rødder.
+
 Overdæmpet: to reelle (eller imaginære) rødder.
 $$y(x) = A \cdot e^{r_1t} + B \cdot e^{r_2t}$$
+
 Kritisk Dæmpet: én dobbeltrod.
 $$y(x) = A \cdot e^{rx} + B \cdot x \cdot e^{rx}$$
 
 Underdæmpet: Når der kun er [[Komplekse Tal|imaginære]] løsninger.
 $$y(x) = A \cdot e^{kx} \cdot \cos(\omega x) + B \cdot  e^{kx} \cdot \sin(\omega x)$$
 $$r = k \pm \omega i$$
+$k$ : det reelle komponent af $r$.
+$w$ : det imaginære komponent af $r$.
+
+---
+#matematik 

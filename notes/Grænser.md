@@ -9,3 +9,6 @@ $$\lim_{x\rightarrow g}(f(x)) = \lim_{x\rightarrow g}(g(x)) = \pm\infty$$
 
 Hvis et af de ovenstående er sandt, er dette også sandt.
 $$\lim_{x\rightarrow g}\left( \frac{f(x)}{g(x)} \right) = \lim_{x\rightarrow g}\left( \frac{f'(x)}{g'(x)} \right)$$
+
+---
+#matematik 

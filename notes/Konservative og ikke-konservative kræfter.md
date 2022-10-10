@@ -7,3 +7,6 @@ $$W_{AB} = W_{ACB} \arrow \text{Konservativ}$$
 
 # Ikke-konservative Kræfter
 $$W_{AB} \neq W_{ACB} \arrow \text{Ikke-konservativ}$$
+
+---
+#fysik 

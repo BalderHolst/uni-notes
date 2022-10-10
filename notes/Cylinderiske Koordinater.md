@@ -17,3 +17,6 @@ $z$ : Højden
 
 ### Oversæt til Cartesiske koordinater
 $$x= \cos \theta \s y = r \sin \theta \s z = z$$
+
+---
+#matematik 

@@ -24,6 +24,15 @@ $$V(h,b)=h \cdot b^2$$
 
 
 ```
+
+```ad-example # Admonition type. See below for a list of available types.
+title:                  ### Differentiation
+collapse:               # Create a collapsible admonition.
+
+![[Differentiation af funktioner med to variable]]
+
+```
+
 ### Definitionsmængde
 Eksempel funktion
 $$f(x,y)=x \cdot y$$
@@ -32,16 +41,8 @@ $$Dm(f) = \R \times \R$$
 Eksempel 2:
 $$g(x,y)=\sqrt{x} \cdot y$$
 $$dm(d)=[0;\infty[ \:\times\: \R$$
-
-
-### Differentiation
-![[Differentiation af funktioner med to variable]]
-
 ### Plot 
 Funktioner af to variable skal tegnes i **3 dimensioner**
-
-se [[3D-plot#Plot af flader]]
-
 
 ### Skæringer med fladen
 - [[Niveaukurver]]

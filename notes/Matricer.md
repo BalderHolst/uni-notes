@@ -37,8 +37,6 @@ Se eventuelt videoen:
 - **Skal have samme størrelse**
 - Man lægger sammen elementvis
 
-==Todo==: Lav illustration 
-
 $$A + B = B + A$$
 
 ### Kvadratiske matricer
