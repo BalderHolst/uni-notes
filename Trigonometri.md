@@ -1,6 +1,7 @@
 # Trigonometri
 
 $$\sin(\theta) = \sin(\pi - \theta)$$
+$$\cos(\theta) = \sin\left(\theta + \frac{\pi}{2}\right)$$
 $$\cos(\theta) = \cos(-\theta)$$
 $$\sin(-\theta) = -\sin(\theta)$$
 

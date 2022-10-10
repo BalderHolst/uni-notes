@@ -16,7 +16,7 @@ Hvis man [[Integralregning|integrerer]] kan man finde strømmen.
 $$I_C = C \cdot \frac{dV_c}{dt}$$
 
 
-### 
+### Alternativ
 
 $$C = \frac{\epsilon_r \cdot \epsilon_0 \cdot A}{d}$$
 $\epsilon_r$ :
