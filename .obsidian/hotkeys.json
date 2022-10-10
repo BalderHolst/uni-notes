@@ -108,7 +108,17 @@
       "key": "P"
     }
   ],
-  "obsidian-git:push": [
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Alt",
