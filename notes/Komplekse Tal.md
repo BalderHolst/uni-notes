@@ -219,3 +219,6 @@ Bruger $j$ i elektronik.
 [[Det Komplekse Plan]]
 
 
+
+---
+#matematik 

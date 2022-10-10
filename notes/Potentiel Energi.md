@@ -25,3 +25,5 @@ $\frac{dU(x)}{dx}$ : Hældningen af den potentielle energi, som funktion af posi
 $F(x)$ : Kraften som funktion af position.
 
 
+---
+#fysik 

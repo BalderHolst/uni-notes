@@ -75,3 +75,6 @@ v_{n}\\
 \left( {\begin{array}{cccc}
 v_{1} & v_{2} & \dots & v_{n}
 \end{array} } \right) $$
+
+---
+#matematik 

@@ -6,3 +6,6 @@ Kredsløb med samme $I/V$ egenskaber.
 ## Typer
 - [[Thevenin Ækvivalens]]
 - [[Norton Ækvivalens]]
+
+---
+#elektronik 

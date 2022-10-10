@@ -1,4 +1,3 @@
-
 # Strømdeler
 Sker i [[Parallelforbindelser]]. 
 $$I_1= \frac{R_2}{R_1+R_2} \cdot I_{in}$$
@@ -11,3 +10,6 @@ $R_2$ : Den anden modstand.
 
 **NOTE:**
 Tælleren er den modstand strømmen IKKE løber i. Hvis der er flere, kan den ækvivalente modsand betragtes som en [[Parallelforbindelser|parallelforbindelse]].
+
+---
+#elektronik 

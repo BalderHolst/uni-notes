@@ -12,7 +12,7 @@
 ```dataview 
 list
 from #komponent 
-sort file.cdate
+sort file.name
 ```
 
 

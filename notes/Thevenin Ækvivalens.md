@@ -7,3 +7,6 @@
 ##### Find $V_T$
 1. Sæt $i$ (slut-strømmen) til $0$.
 2. Find spændingen
+
+---
+#elektronik 
