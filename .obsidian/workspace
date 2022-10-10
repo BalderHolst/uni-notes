@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Operationsforstærker.md",
-            "mode": "preview",
+            "file": "Bevægelse på Skråplan.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Operationsforstærker.md",
+                "file": "Bevægelse på Skråplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "08971e9416a78742",
   "lastOpenFiles": [
-    "test.md",
-    "Newtons Love.md",
+    "notes/Skrå Kast.md",
+    "notes/Newtons Love.md",
     "notes/Operationsforstærker.md",
+    "test.md",
     "notes/Effekt.md",
     "Strømdeler.md",
     "notes/Spoler.md",
     "Serieforbindeler.md",
     "notes/Kondensator.md",
-    "Andengradspolynomier.md",
-    "notes/Parallelforbindelser.md"
+    "Andengradspolynomier.md"
   ]
 }
