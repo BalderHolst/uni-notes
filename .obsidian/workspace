@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Operationsforstærker.md",
-            "mode": "preview",
+            "file": "test.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Operationsforstærker.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
   },
   "active": "5100832e9afea34d",
   "lastOpenFiles": [
+    "notes/Operationsforstærker.md",
     "notes/Effekt.md",
     "Strømdeler.md",
     "notes/Spoler.md",
@@ -125,7 +127,6 @@
     "Andengradspolynomier.md",
     "notes/Parallelforbindelser.md",
     "Trigonometri.md",
-    "Differentialligninger.md",
-    "notes/Integralregning.md"
+    "Differentialligninger.md"
   ]
 }
