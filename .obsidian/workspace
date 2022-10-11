@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Andenordens inhomogene differentialligninger.md",
+            "file": "notes/Spoler.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andenordens inhomogene differentialligninger.md",
+                "file": "notes/Spoler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#matematik",
+                "query": "tag:#komponent",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,15 +118,15 @@
   },
   "active": "18d1be36e63fcad9",
   "lastOpenFiles": [
-    "notes/Andenordensdifferentialligninger.md",
-    "notes/Differentialligninger.md",
     "Andenordens inhomogene differentialligninger.md",
-    "notes/Differentialregning.md",
+    "notes/Newtons Love.md",
+    "notes/Andenordensdifferentialligninger.md",
     "Koblede Førsteordensdifferentialligninger.md",
+    "notes/Dæmpede Svingninger.md",
+    "notes/Differentialligninger.md",
+    "notes/Differentialregning.md",
     "notes/Linære førsteordensdifferentialligninger.md",
     "notes/Førsteordensdifferentialligninger.md",
-    "notes/Strøm.md",
-    "notes/Spoler.md",
-    "notes/Impulsmoment.md"
+    "notes/Strøm.md"
   ]
 }

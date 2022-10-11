@@ -1,8 +1,11 @@
 # Andenordens inhomogene differentialligninger
+$$ay''+by'+cy=f(x)$$
+
+$a, b, c$ : Konstanter.
 
 
-### Steps
-1. Løs den homogene differentialligning.
+### Find Løsningen!
+1. Løs den homogene differentialligning. (se [[Dæmpede Svingninger]])
 $$ay''+by'+cy=0$$
 Kald løsningen $y_h$
 
@@ -24,3 +27,5 @@ Kvalificerede gæt:
 **Tabellen fejler når $y_p$ løser den *homogene* differentialligning.
 
 
+---
+#matematik 

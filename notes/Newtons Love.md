@@ -1,4 +1,4 @@
-# [[Isaac Newton|Newtons]] Love
+# Newtons Love
 
 ### Newtons 1. lov: Inertiens Lov
 Inerti er et legemes (noget, der har masse) "modstand" mod at ændre retning.
