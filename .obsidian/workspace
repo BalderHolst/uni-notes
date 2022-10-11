@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Spoler.md",
-            "mode": "preview",
+            "file": "Koblede Førsteordensdifferentialligninger.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Spoler.md",
+                "file": "Koblede Førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "18d1be36e63fcad9",
   "lastOpenFiles": [
+    "notes/Spoler.md",
     "Andenordens inhomogene differentialligninger.md",
     "notes/Newtons Love.md",
     "notes/Andenordensdifferentialligninger.md",
@@ -126,7 +127,6 @@
     "notes/Differentialligninger.md",
     "notes/Differentialregning.md",
     "notes/Linære førsteordensdifferentialligninger.md",
-    "notes/Førsteordensdifferentialligninger.md",
-    "notes/Strøm.md"
+    "notes/Førsteordensdifferentialligninger.md"
   ]
 }
