@@ -7,8 +7,12 @@
         "id": "3901aac56028e59e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Linære førsteordensdifferentialligninger.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -42,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -58,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Linære førsteordensdifferentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,7 @@
   },
   "active": "3901aac56028e59e",
   "lastOpenFiles": [
+    "notes/Førsteordensdifferentialligninger.md",
     "notes/Strøm.md",
     "notes/Spoler.md",
     "notes/Impulsmoment.md",
@@ -120,7 +127,6 @@
     "notes/Differentialligninger.md",
     "notes/Linære førsteordensdifferentialligninger.md",
     "notes/Bevis for 2. Løsningsformel.md",
-    "notes/Centripetalkraft.md",
-    "Bølger.md"
+    "notes/Centripetalkraft.md"
   ]
 }
