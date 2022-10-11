@@ -8,6 +8,7 @@ En ligning der indeholder en [[Differentialregning|afledt funktion]]
 ### Typer
 - [[Førsteordensdifferentialligninger]]
 - [[Linære førsteordensdifferentialligninger]]
+- [[Koblede Førsteordensdifferentialligninger]]
 - [[Andenordensdifferentialligninger]]
 
 ---
