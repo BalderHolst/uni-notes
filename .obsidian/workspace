@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Andenordens inhomogene differentialligninger.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
