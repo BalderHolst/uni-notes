@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Stød.md",
+            "file": "notes/Fjederkraft.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Stød.md",
+                "file": "notes/Fjederkraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,9 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "973d7d9fdc0f3744",
+  "active": "259a1731bbf94537",
   "lastOpenFiles": [
+    "notes/Stød.md",
     "notes/De kinematiske ligninger.md",
     "notes/Arbejde.md",
     "Krafter.md",
@@ -126,7 +127,6 @@
     "notes/Thevenin Ækvivalens.md",
     "Superposistion.md",
     "notes/Dæmpede Svingninger.md",
-    "notes/Andenordensdifferentialligninger.md",
-    "notes/Linære førsteordensdifferentialligninger.md"
+    "notes/Andenordensdifferentialligninger.md"
   ]
 }
