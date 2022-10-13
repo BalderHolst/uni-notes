@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/De kinematiske ligninger.md",
+            "file": "notes/Stød.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/De kinematiske ligninger.md",
+                "file": "notes/Stød.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#komponent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -116,11 +116,11 @@
     "width": 255.21502685546875,
     "collapsed": true
   },
-  "active": "259a1731bbf94537",
+  "active": "973d7d9fdc0f3744",
   "lastOpenFiles": [
+    "notes/De kinematiske ligninger.md",
     "notes/Arbejde.md",
     "Krafter.md",
-    "notes/De kinematiske ligninger.md",
     "notes/Skrå Kast.md",
     "notes/Integralregning.md",
     "notes/Thevenin Ækvivalens.md",
