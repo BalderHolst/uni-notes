@@ -24,5 +24,5 @@ $C_n$ : Hver kondensators kapacitet.
 $\frac{dV}{dt}$ : Den differentierede funktion for spænding over tid.
 
 ---
-#fysik 
+#elektronik 
 

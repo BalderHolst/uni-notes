@@ -7,12 +7,8 @@
         "id": "259a1731bbf94537",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/De kinematiske ligninger.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -46,8 +42,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844,
-    "collapsed": true
+    "width": 288.01499938964844
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -63,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/De kinematiske ligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +112,15 @@
   },
   "active": "259a1731bbf94537",
   "lastOpenFiles": [
+    "notes/Andenordens inhomogene differentialligninger.md",
+    "notes/Koblede Førsteordensdifferentialligninger.md",
+    "notes/Parallelforbindelser.md",
+    "notes/De kinematiske ligninger.md",
     "notes/Stød.md",
     "notes/Fjederkraft.md",
-    "notes/De kinematiske ligninger.md",
     "notes/Arbejde.md",
     "Krafter.md",
     "notes/Skrå Kast.md",
-    "notes/Integralregning.md",
-    "notes/Thevenin Ækvivalens.md",
-    "Superposistion.md",
-    "notes/Dæmpede Svingninger.md"
+    "notes/Integralregning.md"
   ]
 }
