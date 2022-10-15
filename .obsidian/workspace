@@ -7,8 +7,12 @@
         "id": "259a1731bbf94537",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/KVL.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -42,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844
+    "width": 288.01499938964844,
+    "collapsed": true
   },
   "right": {
     "id": "838e0b273ba473ba",
@@ -58,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/KVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,8 @@
   },
   "active": "259a1731bbf94537",
   "lastOpenFiles": [
+    "notes/Maskemetoden.md",
+    "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
     "notes/Andenordens inhomogene differentialligninger.md",
     "notes/Koblede Førsteordensdifferentialligninger.md",
     "notes/Parallelforbindelser.md",
@@ -119,8 +127,6 @@
     "notes/Stød.md",
     "notes/Fjederkraft.md",
     "notes/Arbejde.md",
-    "Krafter.md",
-    "notes/Skrå Kast.md",
-    "notes/Integralregning.md"
+    "Krafter.md"
   ]
 }
