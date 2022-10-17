@@ -1,4 +1,3 @@
-# Grænser
 $$\lim_{x\rightarrow \infty}\left(f(x)\right) = L$$
 
 ### L'Hopital-reglen

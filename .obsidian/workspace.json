@@ -13,24 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/KVL.md",
+                "file": "notes/Grænser.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d73bff1faccc5a14",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -82,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/KVL.md",
+                "file": "notes/Grænser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hopi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -138,17 +128,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d73bff1faccc5a14",
+  "active": "259a1731bbf94537",
   "lastOpenFiles": [
+    "Untitled.md",
+    "notes/Grænser.md",
+    "notes/KVL.md",
     "notes/Maskemetoden.md",
     "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
     "notes/Andenordens inhomogene differentialligninger.md",
     "notes/Koblede Førsteordensdifferentialligninger.md",
     "notes/Parallelforbindelser.md",
     "notes/De kinematiske ligninger.md",
-    "notes/Stød.md",
-    "notes/Fjederkraft.md",
-    "notes/Arbejde.md",
-    "Krafter.md"
+    "notes/Stød.md"
   ]
 }

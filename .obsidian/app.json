@@ -20,5 +20,6 @@
     "da"
   ],
   "vimMode": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showInlineTitle": true
 }
