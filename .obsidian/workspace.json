@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e008d7089efdd043",
+        "id": "7001a9379872c4b0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6ba60a89873532",
+            "id": "c1815732178475d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tets.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -51,7 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.01499938964844,
+    "width": 425.5026054382324,
     "collapsed": true
   },
   "right": {
@@ -68,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,14 +128,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1f6ba60a89873532",
+  "active": "296ab14d275be773",
   "lastOpenFiles": [
+    "Tets.md",
     "notes/Effekt.md",
     "notes/Spændingsdeler.md",
     "Untitled 1.md",
     "notes/Operationsforstærker.md",
     "notes/Grænser.md",
-    "Untitled.md",
     "notes/KVL.md",
     "notes/Maskemetoden.md",
     "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
