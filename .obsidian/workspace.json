@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c91c27aef01689",
+        "id": "e008d7089efdd043",
         "type": "tabs",
         "children": [
           {
-            "id": "259a1731bbf94537",
+            "id": "1f6ba60a89873532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Effekt.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -72,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Effekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +123,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "259a1731bbf94537",
+  "active": "1f6ba60a89873532",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "notes/Effekt.md",
     "notes/Spændingsdeler.md",
+    "Untitled 1.md",
     "notes/Operationsforstærker.md",
     "notes/Grænser.md",
     "Untitled.md",
