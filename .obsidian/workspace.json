@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Grænser.md",
+                "file": "notes/Effekt.md",
                 "mode": "preview",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Grænser.md",
+                "file": "notes/Effekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "259a1731bbf94537",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.md",
+    "notes/Effekt.md",
+    "notes/Spændingsdeler.md",
+    "notes/Operationsforstærker.md",
     "notes/Grænser.md",
+    "Untitled.md",
     "notes/KVL.md",
     "notes/Maskemetoden.md",
     "bøger/Electrical Engineering Principles & Applications, Global Edition.pdf",
-    "notes/Andenordens inhomogene differentialligninger.md",
-    "notes/Koblede Førsteordensdifferentialligninger.md",
-    "notes/Parallelforbindelser.md",
-    "notes/De kinematiske ligninger.md",
-    "notes/Stød.md"
+    "notes/Andenordens inhomogene differentialligninger.md"
   ]
 }
