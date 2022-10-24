@@ -76,7 +76,8 @@ Det komplekse tal $z = a+ib$ med $|z| = M$ og $arg(z) = \theta$ kan skrives på 
 $$z=M\cos(\theta) + iM\sin(\theta)$$
 Eller vha. eksponentialfunktion.
 $$z=M \cdot e^{i\theta}$$
-
+Det kan nemt skrives som
+$$z=M\angle\theta$$
 
 ##### Modulus
 De komplekse tal $z=a+ib$ afbildeles i et Argand diagram . Afstanden fra orego til punktet kaldes modulus ($|z|$).
