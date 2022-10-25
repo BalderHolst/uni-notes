@@ -10,6 +10,12 @@ a_{m1} & a_{m2} & \cdots & a_{mn}\\
 \end{array} } \right)$$
 Se også [[Calculus 9th.pdf#page=629|bogen]].
 
+---
+- [[Rotationsmatrixer]]
+
+
+---
+
 ### Scalar Multiplikation
 Gang alle elementer i matrixen med konstanten.
 
@@ -48,7 +54,7 @@ En matrix er kvadratisk hvis den har **lige mange rækker og kolonner**.
 
 ### Transposition
 > *"Byt rækker og kolonner"*
-> "Drej matrixen 90$$"
+> *"Drej matrixen $90\degree$ med uret"*
 
 $$ A_{m\times n}^T =
 \left( {\begin{array}{cccc}
@@ -64,6 +70,19 @@ Matrix a er symmetrisk hvis $A^T = A$.
 
 *Alle symmetriske matricer er kvadratiske.*
 
+### Determinanen
+
+#### For $2\times 2$
+$$M=\left( {\begin{array}{cccc} a & b \\ c & d \\ \end{array} } \right)$$
+$$det(M) = detM = |M| = ad-cb$$
+#### For $3\times 3$
+$$M=
+\left( {\begin{array}{cccc}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{array} } \right)$$
+$$det(M) = |M| = a \cdot \left|\left( {\begin{array}{cccc} e & f \\ h & i \\ \end{array} } \right)\right| - b \cdot  \left|\left( {\begin{array}{cccc} d & f \\ g & i \\ \end{array} } \right)\right| - c \cdot \left|\left( {\begin{array}{cccc} d & e \\ g & h \\ \end{array} } \right)\right|$$
 
 ### Række og Søjle vektorer
 
