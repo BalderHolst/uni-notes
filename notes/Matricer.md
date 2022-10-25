@@ -48,6 +48,7 @@ En matrix er kvadratisk hvis den har **lige mange rækker og kolonner**.
 
 ### Transposition
 > *"Byt rækker og kolonner"*
+> "Drej matrixen 90$$"
 
 $$ A_{m\times n}^T =
 \left( {\begin{array}{cccc}
