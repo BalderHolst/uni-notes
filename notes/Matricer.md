@@ -54,7 +54,6 @@ En matrix er kvadratisk hvis den har **lige mange rækker og kolonner**.
 
 ### Transposition
 > *"Byt rækker og kolonner"*
-> *"Drej matrixen $90\degree$ med uret"*
 
 $$ A_{m\times n}^T =
 \left( {\begin{array}{cccc}
@@ -64,6 +63,9 @@ a_{11} & a_{22} & \cdots & a_{2m}\\
 a_{n1} & a_{n2} & \cdots & a_{mn}\\
 \end{array} } \right) $$
 $$\left(A^T\right)^T = A$$
+Dette er også sandt
+$$(A \cdot B)^{T} = B^{T} \cdot A^{T}$$
+
 
 ##### Symmetriske matricer
 Matrix a er symmetrisk hvis $A^T = A$.
