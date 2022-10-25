@@ -10,13 +10,17 @@ a_{m1} & a_{m2} & \cdots & a_{mn}\\
 \end{array} } \right)$$
 Se også [[Calculus 9th.pdf#page=629|bogen]].
 
+### Scalar Multiplikation
+Gang alle elementer i matrixen med konstanten.
+
 ### Gange med matricer
 $$c_{ij} = \sum_{k=1}^n a_{ik} \cdot b_{kj}$$
 $c_{ij}$ er altså prikproduktet af $A$'s række $i$ og $B$'s søjle $j$.
 
 Hvis man vil gange matrix $A$ med matrix $B$, så skal ***$A$'s rækker være lig $B$'s søjler***.
+$$A_{m\times n} \cdot B_{n\times n}\s\checkmark$$
 
-Altid række gange søjler.
+Altid række gange søjler.række
 
 
 ##### Ikke Kommutativ
@@ -34,7 +38,7 @@ Se eventuelt videoen:
 
 
 ### Addition
-- **Skal have samme størrelse**
+- *Skal have samme størrelse*
 - Man lægger sammen elementvis
 
 $$A + B = B + A$$
