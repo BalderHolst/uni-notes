@@ -7,7 +7,7 @@
 ### Begyndelsesværdier
 $$y'' + y' - 2y=0, \s y(0),\s y'(0)=-1$$
 
-$$r^{2}+r-2=0 \arrow = \frac{-1\pm\sqrt{1+8}}{2}=\{1,-2\}$$
+$$r^{2}+r-2=0 \arrow = \frac{-1\pm\sqrt{1+8}}{2}=\begin{cases} r_1=1\\ r_2=-2 \end{cases}$$
 $$y=A \cdot e^{x}+B\cdot e^{-2x}$$
 $$y'=A \cdot e^{x} -B \cdot 2 \cdot e^{-2x}$$
 Indsætter værdier

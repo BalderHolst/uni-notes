@@ -1,4 +1,5 @@
 # Vektorer
+
 Vektor = en retning i et punkt. Det kan opfattes som et linjestykke der
 går ud fra punktet.
 $$\overrightarrow{a} = \begin{pmatrix}
@@ -18,6 +19,9 @@ x1 + x2 \\
 y1 + y2 \\
 \end{pmatrix}$$
 
+---
+[[Linært Afhængige Vektorer]]
+
 
 ---
 
@@ -25,7 +29,7 @@ y1 + y2 \\
 $$\vec{a} \cdot \vec{b} = a_1 \cdot b_1 + a_2  \cdot b_2 + \dots = \sum_{i=1}^{n}a_i b_i$$
 Ortogonal hvis $\vec{a} \bullet \vec{b} = 0$
 
-Hvis to vektorer er *paralelle* ($\vec{a} || \vec{b}$):   $\vec{a} \bullet \vec{b}  = |\vec{a}||\vec{b}|$ (see [[#Angle between vectors]])
+Hvis to vektorer er *paralelle* ($\vec{a} || \vec{b}$):   $\vec{a} \bullet \vec{b}  = |\vec{a}| \cdot  |\vec{b}|$ (see [[#Angle between vectors]])
 
 ---
 
