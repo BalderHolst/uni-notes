@@ -8,7 +8,6 @@ $$\vec{c}=k_{1}\cdot \vec{a}+k_{2}\cdot \vec{b}$$
 ### Sætning
 Et sæt af vektorer $\{...\}$ kaldes linært afhængige hvis
 $$k_{1}\cdot \vec{a_{1}} + k_{2}\cdot \vec{a_{2}}+\dots+k_{n}\cdot \vec{a_{n}} = \vec{0}$$
-har en løsning hvor mindst ét $k_{i}\neq 0$.
 
 Hvis **den eneste** løsning er $k_i=0$, så er sættet af vektorer ***linært uafhængige***.
 
