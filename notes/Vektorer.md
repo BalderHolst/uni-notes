@@ -21,11 +21,11 @@ y1 + y2 \\
 
 ---
 
-### Dot produkt
+### Prik produkt
 $$\vec{a} \cdot \vec{b} = a_1 \cdot b_1 + a_2  \cdot b_2 + \dots = \sum_{i=1}^{n}a_i b_i$$
- Ortogonal hvis $\vec{a} \bullet \vec{b} = 0$
+Ortogonal hvis $\vec{a} \bullet \vec{b} = 0$
 
-Hvis to vektorer er *paralelle*:  ($\vec{a} || \vec{b}$) $\vec{a} \bullet \vec{b}  = |\vec{a}||\vec{b}|$ (see [[#Angle between vectors]])
+Hvis to vektorer er *paralelle* ($\vec{a} || \vec{b}$):   $\vec{a} \bullet \vec{b}  = |\vec{a}||\vec{b}|$ (see [[#Angle between vectors]])
 
 ---
 
