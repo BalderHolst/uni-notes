@@ -1,4 +1,7 @@
 # Middelværdisætningen
-> *Det vil altid være et punkt $c$ mellem to andre punkter ($a$ og $b$) på en glat graf, hvor hældningen af grafen er lig hældningen på linjestykket mellem $a$ og $b$.*
+> *Det vil altid være et punkt $c$ mellem to andre punkter ($a$ og $b$) på en **glat** graf, hvor hældningen af grafen er lig hældningen på linjestykket mellem $a$ og $b$.*
 
-> *"Dette "*
+
+
+---
+#matematik 
