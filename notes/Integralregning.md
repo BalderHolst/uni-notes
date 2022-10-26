@@ -1,13 +1,15 @@
 # Integralregning
+
+
 I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
 $$\int f(x) \,dx = F(x) + k$$
 
 Det er *vigtigt* at huske $dx$ i integralet. Det er bare en skrivemåde, men det er forkert ikke at skrive det.
 
-Noget andet der er vigtigt er at lægge $k$ til stamfunktionen. $k$ er bare en konstant, men den viser hvordan at man alligevel mister information når man integrerer: hvis man kun har hældningen af en kurve, kan man godt generere den generalle form og hvor meget grafen stiger og falder, men man kan ikke finde startværdien for grafen. 
+Noget andet der er vigtigt er at lægge $k$ til stamfunktionen. $k$ er bare en konstant, men den viser hvordan at man alligevel mister information når man integrere: hvis man kun har hældningen af en kurve, kan man godt generere den generalle form og hvor meget grafen stiger og falder, men man kan ikke finde startværdien for grafen. 
 
-Når man skriver svaret op med $k$ kaler man det den *fuldstændige* løsning.
+Når man skriver svaret op med $k$ kalder man det den *fuldstændige* løsning.
 
 ##### At finde $k$
 Hvis vi skal finde værdien af $k$ skal vi have et punkt. I dette eksempel er funktionen $f(x) = x^2$ og punktet $(2,10)$

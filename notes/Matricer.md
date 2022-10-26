@@ -11,7 +11,7 @@ a_{m1} & a_{m2} & \cdots & a_{mn}\\
 Se også [[Calculus 9th.pdf#page=629|bogen]].
 
 ---
-- [[Rotationsmatrixer]]
+- [[Rotationsmatricer]]
 
 
 ---
@@ -85,7 +85,7 @@ d & e & f \\
 g & h & i
 \end{array} } \right)$$
 $$det(M) = |M| = a \cdot \left|\left( {\begin{array}{cccc} e & f \\ h & i \\ \end{array} } \right)\right| - b \cdot  \left|\left( {\begin{array}{cccc} d & f \\ g & i \\ \end{array} } \right)\right| + c \cdot \left|\left( {\begin{array}{cccc} d & e \\ g & h \\ \end{array} } \right)\right|$$
-q
+
 ### Række og Søjle vektorer
 
 ##### Kolonnevektor
