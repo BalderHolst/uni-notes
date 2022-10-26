@@ -54,6 +54,6 @@ $$\arctan(x)=x- \frac{x^3}{3}- \frac{x^5}{5}-\frac{x^7}{7}-\frac{x^9}{9}\dots$$
 
 #### Se også
 - [[Differentialregning Regneregler#Flere Trigonometriregler]]
-z
+
 ---
 #matematik
