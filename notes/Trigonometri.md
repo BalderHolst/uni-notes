@@ -1,5 +1,7 @@
 # Trigonometri
 
+### Cosinus og Sinus
+
 $$\sin(\theta) = \sin(\pi - \theta)$$
 $$\cos(\theta) = \sin\left(\theta + \frac{\pi}{2}\right)$$
 $$\cos(\theta) = \cos(-\theta)$$
@@ -32,13 +34,25 @@ collapse:               # Create a collapsible admonition.
 ```
 
 ### Trig Tabel
-| $\theta$ | $0$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\pi$ | $\frac{\pi}{4}$ | $\frac{\pi}{6}$ |
-|--|-- |--|--|--| -- | -- |
-| $\sin(\theta)$ | $0$ | $\frac{1}{2}$|  $1$ | $0$ |$\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-| $\cos(\theta)$ | $1$ | $\frac{\sqrt{3}}{2}$ | $0$ | $-1$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
+| $\theta$       | $0$ |   $\frac{\pi}{3}$    | $\frac{\pi}{2}$      | $\pi$ |   $\frac{\pi}{4}$    | $\frac{\pi}{6}$      |
+| -------------- | --- |:--------------------:| -------------------- | ----- |:--------------------:| -------------------- |
+| $\sin(\theta)$ | $0$ |    $\frac{1}{2}$     | $1$                  | $0$   | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$        |
+| $\cos(\theta)$ | $1$ | $\frac{\sqrt{3}}{2}$ | $0$                  | $-1$  | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
+| $\tan(\theta)$ | $0$ |      $\sqrt{3}$      | $\rightarrow \infty$ | $0$   |         $1$          |  $\frac{1}{\sqrt{3}}$                    | 
+
+
+| $\theta$       | $0$ |   $\frac{\pi}{3}$    | $\frac{\pi}{2}$      |    $\frac{\pi}{4}$    | $\frac{\pi}{6}$      |$\pi$ |
+| -------------- | --- |:--------------------:| -------------------- | ----- |:--------------------:| -------------------- |
+| $\sin(\theta)$ | $0$ |    $\frac{1}{2}$                      | $0$   | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$     | $1$    |
+| $\cos(\theta)$ | $1$ | $\frac{\sqrt{3}}{2}$ | $0$                   | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | $-1$ |
+| $\tan(\theta)$ | $0$ |      $\sqrt{3}$      | $0$   |         $1$          |  $\frac{1}{\sqrt{3}}$               | $\rightarrow \infty$      | 
+
 
 ### Vinkel Halvering
 $$\cos^2(\theta) = \frac{\cos(2\theta)-1}{2}$$
+
+### Inverse Trig Funktioner
+$$\arctan(x)=x- \frac{x^3}{3}- \frac{x^5}{5}-\frac{x^7}{7}-\frac{x^9}{9}\dots$$
 
 ---
 #matematik
