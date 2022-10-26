@@ -2,10 +2,9 @@
 
 ### Cosinus og Sinus
 
-$$\cos(\theta) = \frac{\text{Hoslæggende}}{\text{Hypotenusen}}$$
-
 $$\sin(\theta) = \frac{\text{Modstående}}{\text{Hypotenusen}}$$
-$$\tan(\theta)= \frac{\sin(            )}{}$$
+$$\cos(\theta) = \frac{\text{Hoslæggende}}{\text{Hypotenusen}}$$
+$$\tan(\theta)= \frac{\text{Modstående}}{\text{Hoslæggende}} = \frac{\sin(\theta)}{\cos{(\theta)}}$$
 
 #### Flere Relationer 
 $$\sin(\theta) = \sin(\pi - \theta)$$
