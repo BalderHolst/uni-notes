@@ -44,17 +44,25 @@ $$a(t)=\omega^2 \cdot A \cdot \cos(\omega \cdot t + \phi)$$
 Se [[Fjederkraft]].
 
 Dette er sandt for en harmonisk svingning forsaget af en fjeder.
-$$\omega=\sqrt{\frac{k}{m}} \s \text{og} \s T=2\pi \sqrt{\frac{m}{k}} \s \text{og} \s f=\frac{1}{2\pi} \sqrt{\frac{k}{m}}$$
+$$\omega=\sqrt{\frac{k}{m}} \s \text{og} \s T=2\pi \sqrt{\frac{m}{k}} \Rightarrow T\propto \sqrt{m} \s \text{og} \s f=\frac{1}{2\pi} \sqrt{\frac{k}{m}}$$
 
 #### Energi
 
 Den [[Potentiel Energi|potentielle energi]].
 $$U(x) = \frac{1}{2}kx^2$$
 Den [[Kinetisk Energi|kinetiske energi]].
-$$K=\frac{1}{2}mv^2$$
+$$K(v)=\frac{1}{2}mv^2$$
 
-Den totale energi i systemet
+Den totale energi i systemet ([[Mekanisk energi]]).
 $$E_{mek} = \frac{1}{2}kA^2=\frac{1}{2}m\omega^2A^2$$
+
+Altså skal ændringen i *mekanisk energi* over tid være $0$.
+$$\frac{dE_{mek}}{dt}=0$$
+#### Dæmpede Svingninger
+$$\vec{F_d}=-b\vec{v}=-b \frac{d\vec{x}}{dt}$$
+$b$ : Dæmpningskoefficienten
+
+
 
 ---
 #fysik 
