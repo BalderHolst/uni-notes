@@ -75,6 +75,13 @@ Hvor
 $$\alpha = \frac{b}{2m} \s \text{og} \s \omega'=\sqrt{\frac{k}{m}- 
  \frac{b^{2}}{4m}}$$
 
+#### Tvungne Svingninger
+$$F(t)=F_{0} \sin(\omega t)$$
+
+$$A(\omega) = \frac{F_{0}}{\sqrt{m^{2} (\omega^{2} - \omega_0^{2})+b^2\omega^{2} }}$$
+$$\omega_{max} = \omega_{0}^{2} \frac{-1}{2}\left(\frac{b^{2}}{m^{2}}\right)$$
+
+
 ---
 #fysik 
 #matematik 
