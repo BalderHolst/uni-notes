@@ -8,30 +8,26 @@ $y$ er nu en **uafhængig** variabel.
 
 Funktionsværdien ($f(x,y)$) hedder som udgangspunkt $z$
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Eksempler
-collapse:               # Create a collapsible admonition.
 
-### Eks. 1
-Eksempel på en funktion af to variable
-$$f(x,y)=z=\sqrt{x} \cdot y$$
+>[!Note]- Eksempler
+>
+>### Eks. 1
+>Eksempel på en funktion af to variable
+>$$f(x,y)=z=\sqrt{x} \cdot y$$
+>
+>### Eks. 2
+>En funktion for volumet af en kasse med kvadratisk base
+>$$V=h \cdot b^2$$
+>$$\Updownarrow$$
+>$$V(h,b)=h \cdot b^2$$
+>
+>
 
-### Eks. 2
-En funktion for volumet af en kasse med kvadratisk base
-$$V=h \cdot b^2$$
-$$\Updownarrow$$
-$$V(h,b)=h \cdot b^2$$
 
-
-```
-
-```ad-example # Admonition type. See below for a list of available types.
-title:                  ### Differentiation
-collapse:               # Create a collapsible admonition.
-
-![[Differentiation af funktioner med to variable]]
-
-```
+>[!Note]- ### Differentiation
+>
+>![[Differentiation af funktioner med to variable]]
+>
 
 ### Definitionsmængde
 Eksempel funktion

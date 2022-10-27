@@ -31,13 +31,11 @@ Det er vigtigt at pointere at $c$ er en *konstant*
 
 ---
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  **Bevis for Linjens Ligning**
-collapse:               # Create a collapsible admonition.
 
-![[Bevis for Linjens Ligning]]
-
-```
+>[!Note]- **Bevis for Linjens Ligning**
+>
+>![[Bevis for Linjens Ligning]]
+>
 
 ---
 
@@ -65,13 +63,11 @@ Ved at ændre $t$ kan vi altså nå hvilket som helst punkt på linjen.
 ![[Parameterfremstilling.png|240]]
 
 ---
-```ad-example # Admonition type. See below for a list of available types.
-title:                  **Bevis for Parameterfremstilling**
-collapse:               # Create a collapsible admonition.
 
-![[Bevis for Parameterfremstilling]]
-
-```
+>[!Note]- **Bevis for Parameterfremstilling**
+>
+>![[Bevis for Parameterfremstilling]]
+>
 
 ---
 

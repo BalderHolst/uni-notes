@@ -17,19 +17,17 @@ $$Re(w) = Re(a+ib)= a, \s Im(w) = Im(a+ib)  = b$$
 Tager udgangspunkt i [[Andengradspolynomier]] der har løsninger hvor diskriminanten er **negativ**.
 
 $$x = \frac{-b \pm i \sqrt{-d}}{2a}$$
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Eksempel
-collapse:               # Create a collapsible admonition.
 
-Dette er andengradsligninen
-$$2z^2 + 4z + 10 = 0$$
-
-Dette er så [[Andengradspolynomier#Diskriminanten|diskriminanten]]
-$$d = b^2 - 4ac= -64$$
-
-Altså er dette løsningen
-$$x = \frac{-b \pm i \sqrt{-(d)}}{2a} = -1 \pm 2i$$
-```
+>[!Note]- Eksempel
+>
+>Dette er andengradsligninen
+>$$2z^2 + 4z + 10 = 0$$
+>
+>Dette er så [[Andengradspolynomier#Diskriminanten|diskriminanten]]
+>$$d = b^2 - 4ac= -64$$
+>
+>Altså er dette løsningen
+>$$x = \frac{-b \pm i \sqrt{-(d)}}{2a} = -1 \pm 2i$$
 ### Den kompleks konjugerede
 Hvis $z$ er et komplekst tal af form $z = a +ib$, så er den kompleks konjugerede $\bar{z} = a-ib$
 
@@ -67,7 +65,7 @@ $$\frac{z_1}{z_2} = \frac{a + ib}{c + id}$$
 $$\frac{(a+ib)(c-id)}{(c+id)(c-id)}$$
 Ganger ud
 $$= \frac{ac -i^2bd + i(ab-ad)}{c^2-d^2} = \frac{ac+bd+i(bc+ad)}{c^2 + d^2}$$
-Vi har nu en reel ($\R$) nævner!
+Vi har nu en reel ($\R$) nævner
 
 ---
 
@@ -118,31 +116,29 @@ z^n = r^n \cdot (\cos(n\theta) + i \cdot \sin(n\theta)) &\arrow \text{Én løsni
 $$
 $r$  : længden til løsningen fra orego i det komplekse plan
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Bevis
-collapse:               # Create a collapsible admonition.
 
-#### Bevis (induktion)
-
-##### Initialisering 
-$$n = 1,\s z = \cos(\theta) + i \sin(\theta)$$
-$$z^1= (\cos(\theta) + i \sin(\theta))^1 \arrow \text{sandt!}$$
-##### Induktions skridt
-*Antager*: [[#de moivre's formel]] er sand for tallet $k$.
-
-Altså
-$$z^k= (\cos(\theta) + i \sin(\theta))^k \arrow \text{Antages sandt}$$
-Lad nu $n = k +1$
-$$(\cos(\theta) + i \sin(\theta))^{k+1} \s=\s (\cos(\theta) + i \sin(\theta))^{k} \cdot (\cos(\theta) + i \sin(\theta))^{1}$$
-Bruger de Moivre (som er antaget sandt)
-$$= (\cos(k\theta) + \sin(k\theta)) \cdot (\cos(\theta) + i \sin(\theta))$$
-$$= \cos(k\theta) \cdot \cos(\theta) - \sin(k\theta) \cdot \sin(\theta) + i(\cos(k\theta) \cdot \sin(\theta) + \sin(k\theta) \cdot \cos(\theta))$$
-De to led kan omskrives således (blander cos og sin)
-$$\cos(k\theta+\theta)+i\sin(k\theta + \theta) \s=\s \cos((k+1)\theta) + i\sin((k+1)\theta)$$
-Altså (da $n = k +1$)
-$$\cos(n\theta) + i\sin(n\theta)$$
-
-```
+>[!Note]- Bevis
+>
+>#### Bevis (induktion)
+>
+>##### Initialisering 
+>$$n = 1,\s z = \cos(\theta) + i \sin(\theta)$$
+>$$z^1= (\cos(\theta) + i \sin(\theta))^1 \arrow \text{sandt!}$$
+>##### Induktions skridt
+>*Antager*: [[#de moivre's formel]] er sand for tallet $k$.
+>
+>Altså
+>$$z^k= (\cos(\theta) + i \sin(\theta))^k \arrow \text{Antages sandt}$$
+>Lad nu $n = k +1$
+>$$(\cos(\theta) + i \sin(\theta))^{k+1} \s=\s (\cos(\theta) + i \sin(\theta))^{k} \cdot (\cos(\theta) + i \sin(\theta))^{1}$$
+>Bruger de Moivre (som er antaget sandt)
+>$$= (\cos(k\theta) + \sin(k\theta)) \cdot (\cos(\theta) + i \sin(\theta))$$
+>$$= \cos(k\theta) \cdot \cos(\theta) - \sin(k\theta) \cdot \sin(\theta) + i(\cos(k\theta) \cdot \sin(\theta) + \sin(k\theta) \cdot \cos(\theta))$$
+>De to led kan omskrives således (blander cos og sin)
+>$$\cos(k\theta+\theta)+i\sin(k\theta + \theta) \s=\s \cos((k+1)\theta) + i\sin((k+1)\theta)$$
+>Altså (da $n = k +1$)
+>$$\cos(n\theta) + i\sin(n\theta)$$
+>
 
 
 #### For rationelle tal
@@ -160,54 +156,50 @@ Løsningers vinkel ($\theta$) vil altid være jævnt fordelt på den imaginære 
 
 
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Eksempel: løs en ligning med [[#de Moivre's Formel]]
-collapse:               # Create a collapsible admonition.
 
-##### Eksempel 1
-Løs dette som kompleks ligning
-$$z^2 = 4$$
-1. Bestem [[#Modulus]]
-$$|z^2| = |4| = \sqrt{4^2 + 0^2} = 4$$
-2. Bestem [[#Argumentet]]
-$$arg(z^2) = arg(4) = \tan^{-1}\left(\frac{0}{4}\right) = 0$$
-3. Opskriver løsningen på [[#Polær form]]
-$$z^2 = |z^2| (\cos(arg(z^2) + 2\pi p) + i\sin(arg(z^2)+2\pi p), \s p \in \Z$$
-Sætter argumentet og modulus ind i forml
-$$z^2 = 4(\cos(0 + 2\pi p) + i\sin(0+2\pi p), \s p \in \Z$$
-Hvis vi ser på [[#de Moivre's Formel]] må dette være sandt
-$$z^n = r^n (cos(n\theta) + i \sin(n\theta)) \arrows z^2 = r^2 (cos(2\theta) + i \sin(2\theta))$$
-Ved at sammenligne de to formler ser vi at de står på samme form. Vi kan altså nu aflæse værdier for $r^2$ og $2\theta$.
-$$r^2 = 4 \arrow r = 2$$
-Bemærk at $r$ *ikke kan være negativ*, da det er modulus for de komplekse løsninger.
-$$2\pi p = 2\theta \arrow \theta = \pi p$$
-Find værdier for $p$ der går at $\theta \in [-\pi, \pi]$
-$$p = 0: \s \theta_1 = \pi \cdot 0 = 0$$
-$$p = 1: \s \theta_2 = \pi \cdot 1 = \pi$$
-Dette er altså vores løsninger på [[#polær form]]:
-$$
-\begin{align}
-z_1 &= r \cdot e^{i \cdot \theta_1} = 2 \cdot e^{i \cdot 0} = 2\\
-z_2 &= 2 \cdot e^{i \cdot \pi}
-\end{align}
-$$
+>[!Note]- Eksempel: løs en ligning med [[#de Moivre's Formel]]
+>
+>##### Eksempel 1
+>Løs dette som kompleks ligning
+>$$z^2 = 4$$
+>1. Bestem [[#Modulus]]
+>$$|z^2| = |4| = \sqrt{4^2 + 0^2} = 4$$
+>2. Bestem [[#Argumentet]]
+>$$arg(z^2) = arg(4) = \tan^{-1}\left(\frac{0}{4}\right) = 0$$
+>3. Opskriver løsningen på [[#Polær form]]
+>$$z^2 = |z^2| (\cos(arg(z^2) + 2\pi p) + i\sin(arg(z^2)+2\pi p), \s p \in \Z$$
+>Sætter argumentet og modulus ind i forml
+>$$z^2 = 4(\cos(0 + 2\pi p) + i\sin(0+2\pi p), \s p \in \Z$$
+>Hvis vi ser på [[#de Moivre's Formel]] må dette være sandt
+>$$z^n = r^n (cos(n\theta) + i \sin(n\theta)) \arrows z^2 = r^2 (cos(2\theta) + i \sin(2\theta))$$
+>Ved at sammenligne de to formler ser vi at de står på samme form. Vi kan altså nu aflæse værdier for $r^2$ og $2\theta$.
+>$$r^2 = 4 \arrow r = 2$$
+>Bemærk at $r$ *ikke kan være negativ*, da det er modulus for de komplekse løsninger.
+>$$2\pi p = 2\theta \arrow \theta = \pi p$$
+>Find værdier for $p$ der går at $\theta \in [-\pi, \pi]$
+>$$p = 0: \s \theta_1 = \pi \cdot 0 = 0$$
+>$$p = 1: \s \theta_2 = \pi \cdot 1 = \pi$$
+>Dette er altså vores løsninger på [[#polær form]]:
+>$$
+>\begin{align}
+>z_1 &= r \cdot e^{i \cdot \theta_1} = 2 \cdot e^{i \cdot 0} = 2\\
+>z_2 &= 2 \cdot e^{i \cdot \pi}
+>\end{align}
+>$$
+>
+>
 
-
-```
-```ad-example # Admonition type. See below for a list of available types.
-title:                   Eksempel (gange med den reciprokke) 
-collapse:               # Create a collapsible admonition.
-
-### Eksempel (gange med den reciprokke)
-$$z = \cos(\theta) + i\sin(\theta)$$
-$$z + \frac{1}{z} = z + z^{-1} = \cos(\theta) + {i\sin(\theta)} + \cos({-\theta}) + i\sin(-\theta) $$
-Cos er lige, sin er ulige
-$$\cos(\theta) + \c{i\sin(\theta)} + \cos({-\theta}) \c{- i\sin(\theta)} $$
-Altså
-$$z + \frac{1}{z} = 2\cos{\theta}$$
-
-
-```
+>[!Note]- Eksempel (gange med den reciprokke) 
+>
+>### Eksempel (gange med den reciprokke)
+>$$z = \cos(\theta) + i\sin(\theta)$$
+>$$z + \frac{1}{z} = z + z^{-1} = \cos(\theta) + {i\sin(\theta)} + \cos({-\theta}) + i\sin(-\theta) $$
+>Cos er lige, sin er ulige
+>$$\cos(\theta) + \c{i\sin(\theta)} + \cos({-\theta}) \c{- i\sin(\theta)} $$
+>Altså
+>$$z + \frac{1}{z} = 2\cos{\theta}$$
+>
+>
 
 ### Elektronik
 Bruger $j$ i elektronik.

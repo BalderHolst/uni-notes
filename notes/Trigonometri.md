@@ -30,13 +30,11 @@ $a$ : Den ene katete.
 $b$ : Den anden katete.
 $c$ : Hypotenusen.
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Bevis
-collapse:               # Create a collapsible admonition.
 
-##### Bevis
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fewebpal.org%2Fimages%2FPythagoras2.jpg&f=1&nofb=1)
-```
+>[!Note]- Bevis
+>
+>##### Bevis
+>![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fewebpal.org%2Fimages%2FPythagoras2.jpg&f=1&nofb=1)
 
 ### Trig Tabel
 | $\theta$       | $0$ |   $\frac{\pi}{3}$    | $\frac{\pi}{2}$      |    $\frac{\pi}{4}$    | $\frac{\pi}{6}$      |$\pi$ |

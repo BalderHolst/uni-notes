@@ -30,21 +30,19 @@ Altså er må dette være sandt
 $$\int f(x)= \int \frac{1}{g(y)}dy$$
 
 
-```ad-example
-title: Eksempel
-collapse:              
 
-$$\frac{dy}{dx} = \frac{x}{y}$$
-Før $y$'erne over på venstre side
-$$y \cdot dy= x \cdot dx$$
-Integrerer
-$$\int y \cdot dy= \int x \cdot dx \arrows \frac{1}{2}y^2= \frac{1}{2}x^2+c$$
-
-Isolerer $y$
-$$y^2=x^2+2c \arrows y=\pm \sqrt{x^2+2c}$$
-
-Vi kunne nu sætte et punkt in for at finde den *partikulære* løsning.
-```
+>[!Note]- Eksempel
+>
+>$$\frac{dy}{dx} = \frac{x}{y}$$
+>Før $y$'erne over på venstre side
+>$$y \cdot dy= x \cdot dx$$
+>Integrerer
+>$$\int y \cdot dy= \int x \cdot dx \arrows \frac{1}{2}y^2= \frac{1}{2}x^2+c$$
+>
+>Isolerer $y$
+>$$y^2=x^2+2c \arrows y=\pm \sqrt{x^2+2c}$$
+>
+>Vi kunne nu sætte et punkt in for at finde den *partikulære* løsning.
 
 ---
 #matematik
