@@ -8,17 +8,10 @@ $\omega$ : [[Vinkelfrekvens|Vinkelfrekvensen]]
 $\phi$ : Faseforskydning
 $d$ : Position forskydning
 
-### Differentieret bølgefunktion
-
-##### Hastighed
-$$v(t)=\omega \cdot A \cdot \cos(\omega \cdot t + \phi)$$
-
-##### Acceleration
-$$a(t)=\omega^2 \cdot A \cdot \cos(\omega \cdot t + \phi)$$
 
 ---
 
-##### Ekstra formler til aflæsning af transformation i x-retningen
+### Ekstra formler til aflæsning af transformation i x-retningen
 
 **Perioden**
 
@@ -34,7 +27,22 @@ Dette er også sandt (radianer)
 
 $$sin(x) = cos(x-\frac{\pi}{2})$$
 
+
+---
+
+### Differentieret bølgefunktion
+
+##### Hastighed
+$$v(t)=\omega \cdot A \cdot \cos(\omega \cdot t + \phi)$$
+
+##### Acceleration
+$$a(t)=\omega^2 \cdot A \cdot \cos(\omega \cdot t + \phi)$$
+
+---
+
 ### Med Fjeder
+Se [[Fjederkraft]].
+
 Dette er sandt for en harmonisk svingning forsaget af en fjeder.
 $$\omega=\sqrt{\frac{k}{m}} \s \text{og} \s T=2\pi \sqrt{\frac{m}{k}} \s \text{og} \s f=\frac{1}{2\pi} \sqrt{\frac{k}{m}}$$
 
