@@ -12,5 +12,15 @@ $P$ : Den [[Potentiel Energi|potentielle]] energi oplagret i fjederen
 $k$ : Fjederkonstanten
 $x$ : Udstrækningen/sammenpresningen af fjederen
 
+### Sammensatte fjedre
+
+Fjedre at i "serie"
+$$k_{eff}=\frac{1}{\frac{1}{k_{1}} + \frac{1}{k_2}} $$
+$n$ : Antallet af fjedre
+$k_{eff}$ : Den ækvivalente $k$-værdi
+
+Fjedre i "parallel"
+$$k_{eff}=k_{1} + k_{2} +\dots$$
+
 ---
 #fysik 
