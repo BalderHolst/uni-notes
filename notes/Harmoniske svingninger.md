@@ -54,7 +54,7 @@ Den [[Kinetisk Energi|kinetiske energi]].
 $$K(v)=\frac{1}{2}mv^2$$
 
 Den totale energi i systemet ([[Mekanisk energi]]).
-$$E_{mek} = \frac{1}{2}kA^2=\frac{1}{2}m\omega^2A^2$$
+$$E_{mek} = K(v) + U(x)= \frac{1}{2}kA^2=\frac{1}{2}m\omega^2A^2$$
 
 Altså skal ændringen i *mekanisk energi* over tid være $0$.
 $$\frac{dE_{mek}}{dt}=0$$
@@ -77,8 +77,11 @@ $$\alpha = \frac{b}{2m} \s \text{og} \s \omega'=\sqrt{\frac{k}{m}-
 
 #### Tvungne Svingninger
 $$F(t)=F_{0} \sin(\omega t)$$
+$F_0$ : Den kraft der påvirker systemet
 
 $$A(\omega) = \frac{F_{0}}{\sqrt{m^{2} (\omega^{2} - \omega_0^{2})+b^2\omega^{2} }}$$
+$\omega_0$ : Resonans [[Vinkelfrekvens|vinkelfrekvensen]]
+
 $$\omega_{max} = \omega_{0}^{2} \frac{-1}{2}\left(\frac{b^{2}}{m^{2}}\right)$$
 
 
