@@ -26,3 +26,4 @@ $\frac{dV}{dt}$ : Den differentierede funktion for spænding over tid.
 ---
 #elektronik 
 
+
