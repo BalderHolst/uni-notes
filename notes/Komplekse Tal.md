@@ -89,7 +89,7 @@ $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-
 
 
 
->[!note]- Operationer
+>[!note]- Operationer i Polær form
 >### Multiplikation
 $$z_1 \cdot z_2 = M_1 \cdot  e^{i\theta_1} \cdot  M_2 \cdot  e^{i\theta_2} = M_1 \cdot  M_2 \cdot  e^{i(\theta_1 + \theta_2)}$$
 På den anden form:
