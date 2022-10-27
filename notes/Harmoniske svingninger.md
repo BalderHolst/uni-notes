@@ -60,9 +60,20 @@ Altså skal ændringen i *mekanisk energi* over tid være $0$.
 $$\frac{dE_{mek}}{dt}=0$$
 #### Dæmpede Svingninger
 $$\vec{F_d}=-b\vec{v}=-b \frac{d\vec{x}}{dt}$$
+$\vec{F_d}$ : Dæmpningskraften
 $b$ : Dæmpningskoefficienten
 
+Dæmpningskraften kan trækkes fra fjederkraften, for at finde net kraften. 
+$$F_{res}=-F_{fjeder}-F_{d} \arrow m \cdot x'' + b x' + k \cdot x = 0$$
 
+For at løse den, se [[Dæmpede Svingninger - Differentialligning]].
+
+Løsningen er på formen:
+$$x(t)=A e^{-\alpha t}\sin(\omega't+\phi)$$
+
+Hvor
+$$\alpha = \frac{b}{2m} \s \text{og} \s \omega'=\sqrt{\frac{k}{m}- 
+ \frac{b^{2}}{4m}}$$
 
 ---
 #fysik 

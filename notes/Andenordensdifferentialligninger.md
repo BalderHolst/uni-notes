@@ -1,5 +1,5 @@
 # Andenordensdifferentialligninger
-- [[Dæmpede Svingninger]]
+- [[Dæmpede Svingninger - Differentialligning]]
 - [[Andenordens inhomogene differentialligninger]]
 
 ---
