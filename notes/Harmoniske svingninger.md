@@ -1,13 +1,20 @@
 # Harmoniske svingninger
 
 Den genneralle form for funktionen
-$$x(t)= A \cdot sin(\omega \cdot t + \phi) + d$$
+$$x(t)= A \cdot \sin(\omega \cdot t + \phi) + d$$
 $x(t)$ : Position som funktion af Tid
 $A$ : Amplituden
 $\omega$ : [[Vinkelfrekvens|Vinkelfrekvensen]]
 $\phi$ : Faseforskydning
-$d$ : Position forsydning
+$d$ : Position forskydning
 
+### Differentieret bølgefunktion
+
+##### Hastighed
+$$v(t)=\omega \cdot A \cdot \cos(\omega \cdot t + \phi)$$
+
+##### Acceleration
+$$a(t)=\omega^2 \cdot A \cdot \cos(\omega \cdot t + \phi)$$
 
 ---
 
@@ -33,8 +40,10 @@ $$\omega=\sqrt{\frac{k}{m}} \s \text{og} \s T=2\pi \sqrt{\frac{m}{k}} \s \text{o
 
 #### Energi
 
-Den potentielle e
+Den [[Potentiel Energi|potentielle energi]].
 $$U(x) = \frac{1}{2}kx^2$$
+Den [[Kinetisk Energi|kinetiske energi]].
+$$K=\frac{1}{2}mv^2$$
 
 Den totale energi i systemet
 $$E_{mek} = \frac{1}{2}kA^2=\frac{1}{2}m\omega^2A^2$$

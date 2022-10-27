@@ -90,12 +90,9 @@ $$arg(z) = \theta$$
 $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-1,0,1\}$$
 
 
-```ad-example # Admonition type. See below for a list of available types.
-title:                  Operationer
-collapse:               # Create a collapsible admonition.
 
-
-### Multiplikation
+>[!note]- Operationer
+>### Multiplikation
 $$z_1 \cdot z_2 = M_1 \cdot  e^{i\theta_1} \cdot  M_2 \cdot  e^{i\theta_2} = M_1 \cdot  M_2 \cdot  e^{i(\theta_1 + \theta_2)}$$
 På den anden form:
 $$M_1(\cos\theta_1 + i\sin\theta_1) \cdot M_2(\cos\theta_2 + i \sin\theta_2)$$
@@ -103,15 +100,14 @@ $$\Updownarrow$$
 $$M_1M_2(\cos\theta_1 \cos\theta_2 - \sin \theta_1 \sin\theta_2 + i(\sin\theta_1\cos\theta_2 + \cos\theta_1\sin\theta_2))$$
 $$\Updownarrow$$
 $$M_1M_2(\cos(\theta_1 + \theta_2)+i \sin(\theta_1 + \theta_2))$$
-### Division
+>### Division
 $$\frac{z_1}{z_2} = \frac{M_1 \cdot e^{i\theta_1}}{M_2 \cdot e^{i\theta_2}} = \frac{M_1}{M_2} \cdot e^{i(\theta_1-\theta_2)}$$
+>### Eksponentiering
+>$$z=M \cdot e^{i\theta}$$
+>$$z^n = (M \cdot e^\theta)^n = M^n \cdot e^{i\theta \cdot n} = M^n (\cos(\theta n) + i\sin(\theta n))$$
 
-### Eksponentiering
-$$z=M \cdot e^{i\theta}$$
-$$z^n = (M \cdot e^\theta)^n = M^n \cdot e^{i\theta \cdot n} = M^n (\cos(\theta n) + i\sin(\theta n))$$
 
 
-```
 
 ### de Moivre's Formel
 $$
