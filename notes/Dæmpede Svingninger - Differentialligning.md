@@ -29,7 +29,7 @@ $B$ : Den anden integrationskonstant.
 $r$ : rod/rødder.
 
 Overdæmpet: to reelle (eller imaginære) rødder.
-$$y(x) = A \cdot e^{r_1t} + B \cdot e^{r_2t}$$
+$$y(x) = A \cdot e^{r_1x} + B \cdot e^{r_2x}$$
 
 Kritisk Dæmpet: én dobbeltrod.
 $$y(x) = A \cdot e^{rx} + B \cdot x \cdot e^{rx}$$
