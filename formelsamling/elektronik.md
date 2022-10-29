@@ -15,7 +15,7 @@ $${R_{eq}} = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} \dots \frac{
 $R_{eq}$ : Den ækvivalente modstand
 $R_n$ : Hver parallel modstand
 #### [[Kondensator]]
-Se [[Parallelforbindelser#[[Kondensator]]]].
+Se [[Parallelforbindelser#Kondensator]].
 
 $$C_{eq} = C_1 + C_2+\dots+C_n$$
 
@@ -84,7 +84,7 @@ $V_n$ : Spændinden over den $n$'te modstand.
 ## Strøm ([[Strøm|link]])
 
 #### Strøm og [[ladning]]
-Se [[Strøm#Strøm og [[ladning]]]].
+Se [[Strøm#Strøm og ladning]].
 
 $$i(t) = q'(t)$$
 
@@ -145,7 +145,7 @@ $$U_{total} = U_1 + U_2 + U_3 + \dots + U_n$$
 $U_{total}$ : Det totale spændingsfald.
 $U_n$ : Spændingerne over hvert komponent.
 #### [[Kondensator]]
-Se [[Serieforbindeler#[[Kondensator]]]].
+Se [[Serieforbindeler#Kondensator]].
 
 $$C_{eq} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}}$$
 

@@ -179,7 +179,7 @@ $F$ : Kraften
 $\Delta x$ : Ændring i position
 $\cos(\theta)$ : Bruges til at finde $x$-komposanten af $F$.
 #### Arbejde og [[Potentiel Energi]]
-Se [[Arbejde#Arbejde og [[Potentiel Energi]]]].
+Se [[Arbejde#Arbejde og Potentiel Energi]].
 
 $$W = -E_{pot}$$
 
@@ -230,14 +230,14 @@ $m$ : Massen.
 $h$ : Højden over jorden.
 $g$ : [[Tyngdeaccelerationen]].
 #### [[Arbejde]]
-Se [[Potentiel Energi#[[Arbejde]]]].
+Se [[Potentiel Energi#Arbejde]].
 
 $$\Delta U = -W$$
 
 $\Delta U$ : Ændring i potential energi
 $W$ : Arbejde
 #### [[Fjederkraft|Fjeder]]
-Se [[Potentiel Energi#[[Fjederkraft|Fjeder]]]].
+Se [[Potentiel Energi#Fjederkraft|Fjeder]].
 
 $$\Delta E_{pot} = kx^2$$
 
@@ -264,7 +264,7 @@ $$m_e=9.1094 \cdot 10^{-31}$$
 ## Einsteins Fotoelektriske Lov ([[Einsteins Fotoelektriske Lov|link]])
 
 #### [[Einstein]]s Fotoelektriske Lov
-Se [[Einsteins Fotoelektriske Lov#[[Einstein]]s Fotoelektriske Lov]].
+Se [[Einsteins Fotoelektriske Lov#Einsteins Fotoelektriske Lov]].
 
 $$E_{foton} = A_L + \frac{1}{2} \cdot m_e \cdot v^2$$
 
@@ -597,7 +597,7 @@ $\vec{p}$ : Bevægelsesmængde.
 $m$ : Masse.
 $\vec{v}$ : Hastighed.
 #### [[Krafter]] og impuls
-Se [[Bevægelsesmængde (Impuls)#[[Krafter]] og impuls]].
+Se [[Bevægelsesmængde (Impuls)#Krafter og impuls]].
 
 $$F= \frac{dp}{dt}$$
 
@@ -611,7 +611,7 @@ $$p_{total} = \sum p_i = p_1 + p_2 + p_3 \dots p_n$$
 $p_{total}$ : Den totale bevægelsesmængde for i et system.
 $p_i$ : Hvert objekts individuelle bevægelsesmængde.
 #### Bevarelse af bevægelsesmængde ([[Stød]])
-Se [[Bevægelsesmængde (Impuls)#Bevarelse af bevægelsesmængde ([[Stød]])]].
+Se [[Bevægelsesmængde (Impuls)#Bevarelse af bevægelsesmængde (Stød)]].
 
 $$m_1 \cdot v_1 + m_2 \cdot v_2 = m_1 \cdot v_1 + m_2 \cdot v_2 \arrows p_{1,før} + p_{2,før} = p_{1,efter} + p_{2,efter}$$
 
@@ -1033,7 +1033,7 @@ $$E_{term} = C  \cdot \Delta T$$
 ## Impulsmoment ([[Impulsmoment|link]])
 
 #### [[Bevægelsesmængde (Impuls)|Impuls]]moment
-Se [[Impulsmoment#[[Bevægelsesmængde (Impuls)|Impuls]]moment]].
+Se [[Impulsmoment#Bevægelsesmængde (Impuls)|Impulsmoment]].
 
 $$L=m \cdot v \cdot r$$
 

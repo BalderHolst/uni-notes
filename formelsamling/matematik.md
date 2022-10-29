@@ -126,7 +126,7 @@ $$= x^{x+sin(x)} \cdot (\frac{1}{x} \cdot (x+sin(x)+ln(x)\cdot (1+cos(x))))$$
 ## Bevis for Parameterfremstilling ([[Bevis for Parameterfremstilling|link]])
 
 #### Bevis for [[Linjer og Vektorer i 2D#Parameterfremstilling|Parameterfremstilling]]
-Se [[Bevis for Parameterfremstilling#Bevis for [[Linjer og Vektorer i 2D#Parameterfremstilling|Parameterfremstilling]]]].
+Se [[Bevis for Parameterfremstilling#Bevis for Linjer og Vektorer i 2D#Parameterfremstilling|Parameterfremstilling]].
 
 $$\vec{OP_0}$$
 
@@ -455,7 +455,7 @@ $$f_y'(x,y)=0+x+\frac{1}{3}+0=x+\frac{1}{3}$$
 ## Newtons Afkølingslov ([[Newtons Afkølingslov|link]])
 
 #### [[Isaac Newton|Newtons]] Afkølingslov
-Se [[Newtons Afkølingslov#[[Isaac Newton|Newtons]] Afkølingslov]].
+Se [[Newtons Afkølingslov#Isaac Newton|Newtons Afkølingslov]].
 
 $$T' = \frac{dT}{dt} = -k \cdot (T-T_{omg})$$
 
@@ -668,12 +668,12 @@ Se [[Ellipse#Brændpunkter]].
 $$|\vec{F_1 T}| = |\vec{F_2 T}| = \frac{k}{2}$$
 
 #### Ellipser som [[Vektorfunktioner]]
-Se [[Ellipse#Ellipser som [[Vektorfunktioner]]]].
+Se [[Ellipse#Ellipser som Vektorfunktioner]].
 
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \s \Rightarrow \s \v{x}{y}=\v{a \cdot cos(t)}{b \cdot sin(t)}, \:\:\text{hvor}\: 0 \leq t \leq 2\pi$$
 
 #### [[Tangent]]
-Se [[Ellipse#[[Tangent]]]].
+Se [[Ellipse#Tangent]].
 
 $$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
 
@@ -972,7 +972,7 @@ $$20 = C \cdot e^{-0.12 (0)} = C \cdot e^0 = C \s \Leftrightarrow \s C = 20$$
 $$f(x) = 20 \cdot e^{-0.12x}$$
 
 #### 3. Løsningsformel ([[Newtons Afkølingslov]])
-Se [[Linære førsteordensdifferentialligninger#3. Løsningsformel ([[Newtons Afkølingslov]])]].
+Se [[Linære førsteordensdifferentialligninger#3. Løsningsformel (Newtons Afkølingslov)]].
 
 $$y'=b-a \cdot y \Arrows f(x) =  \frac{b}{a} + C  \cdot e^{-ax}, \s a \neq0$$
 
@@ -1105,7 +1105,7 @@ $$y^2=x^2+2c \arrows y=\pm \sqrt{x^2+2c}$$
 ## Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger ([[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger|link]])
 
 #### Bevis for den Gennerelle Løsningsformel til [[Linære førsteordensdifferentialligninger]]
-Se [[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger#Bevis for den Gennerelle Løsningsformel til [[Linære førsteordensdifferentialligninger]]]].
+Se [[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger#Bevis for den Gennerelle Løsningsformel til Linære førsteordensdifferentialligninger]].
 
 $$f'(x) \cdot e^{A(x)} + a(x) \cdot f(x) \cdot e^{A(x)} = b(x) \cdot e^{A(x)}$$
 
@@ -1201,7 +1201,7 @@ Se [[Logaritmer#Den Naturlige logatitme]].
 $$ln(x) = a \arrows e^a=x$$
 
 #### Den Naturlige [[Eksponentielle Funktioner|Eksponentielle Funktion]]
-Se [[Logaritmer#Den Naturlige [[Eksponentielle Funktioner|Eksponentielle Funktion]]]].
+Se [[Logaritmer#Den Naturlige Eksponentielle Funktioner|Eksponentielle Funktion]].
 
 $$e^x = \frac{x^{0!}}{0!} + \frac{x^{1!}}{1!} + \frac{x^{2!}}{2!} + \frac{x^{3!}}{3!} \dots \frac{x^{n!}}{n!}$$
 
@@ -1244,7 +1244,7 @@ $$ = ac + i^2bd + i(ac+bc)$$
 $$z_1 \cdot z_2 = ac - bd + i(ac+bc)$$
 
 #### Multiplikation med [[#den kompleks konjugerede]]
-Se [[Komplekse Tal#Multiplikation med [[#den kompleks konjugerede]]]].
+Se [[Komplekse Tal#Multiplikation med #den kompleks konjugerede]].
 
 $$z_1 \cdot  \bar{z_1} = (a+ib)(a-ib) = a^2 - i^2b^2 - \c{aib} + \c{aib} = a^2 + b^2$$
 
@@ -1357,7 +1357,7 @@ $$z + \frac{1}{z} = 2\cos{\theta}$$
 ## Bevis for Linjens Ligning ([[Bevis for Linjens Ligning|link]])
 
 #### Bevis for [[Linjer og Vektorer i 2D#Linjens Ligningning|Linjens Ligning]]
-Se [[Bevis for Linjens Ligning#Bevis for [[Linjer og Vektorer i 2D#Linjens Ligningning|Linjens Ligning]]]].
+Se [[Bevis for Linjens Ligning#Bevis for Linjer og Vektorer i 2D#Linjens Ligningning|Linjens Ligning]].
 
 $$\vec{n} \cdot \vec{p_0p} = 0$$
 
