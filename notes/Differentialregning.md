@@ -7,7 +7,7 @@
 
 Vi skal finde hældningen af [[Sekant#Sekant|sekanten]], der går gennem de to punkter. Til dette kan vi bruge [[Linære Funktioner#To-punktsformlen|topunktsformlen]].
 
-$$a=\frac{y_2-y_1}{x_2-x_1}$$
+$$a=\frac{y_2-y_1}{x_2-x_{1}}= \frac{\Delta y}{\Delta x}$$
 
 Vi kan nu sættespunkterne $(x_0,f(x_0))$ og $(x_0+h,f(x_0+h))$ ind i formlen
 
