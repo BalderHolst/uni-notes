@@ -1,6 +1,6 @@
 # Impedans
 
-
+$$Z=R+jX = |Z|\angle \phi$$
 
 ### Impedans i komponenter
 
