@@ -11,7 +11,7 @@ $$z_{c}=\frac{1}{j \omega C}$$
 ##### [[Spoler]]
 $$z_{L}=j\omega L$$
 
-### Serieimpedans
-Ligesom modstand i [[Serieforbindeler#Resistance ($R$)|serieforbindelser]].
+### Serie og parrallelimpedans
+Ligesom modstand i [[Serieforbindeler#Resistance ($R$)|serie]]- og [[parallelforbindelser]].
 
 
