@@ -23,3 +23,5 @@ $$\omega_{0} = \frac{1}{\sqrt{LC}}$$
 [[Impedans]]
 $$Z\to \infty$$
 
+---
+#elektronik 

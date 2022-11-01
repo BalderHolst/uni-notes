@@ -16,9 +16,7 @@ $$
 a_{m1} \cdot  x_{1}+a_{m2} \cdot x_{2} + \dots + a_{mn} + x_{n}=b_{m}  
 \end{cases}
 $$
-
-
-Laver til Matrix 
+$$\Downarrow$$
 $$
 \left(
 \begin{array}{cccc}
@@ -62,9 +60,10 @@ I almindelige linære ligningssystemer må vi
 - Gange en ligning med en konstant (hvis $k\neq 0$)
 
 ##### Gauss  Elimination
+De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrixform]].
 - Bytter to rækker med hinanden.
 - Lægge en række (eller et multiplum heraf ) til en anden række.
-- Gange en r
+- Gange en række med en konstant (hvis $k\neq 0$)
 
 ---
 

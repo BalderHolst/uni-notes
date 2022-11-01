@@ -15,3 +15,5 @@ $$z_{L}=j\omega L$$
 Ligesom modstand i [[Serieforbindeler#Resistance ($R$)|serie]]- og [[parallelforbindelser]].
 
 
+---
+#elektronik 
