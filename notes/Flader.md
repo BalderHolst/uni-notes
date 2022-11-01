@@ -1,7 +1,7 @@
-# Flader
+# Planer
 3 Dimensioner
 
-### Formler
+### Planens Ligning
 Fra [[Calculus 9th.pdf#page=614|Calculus]].
 $$n \bullet (r-r_0)=0 \arrows A(x-x_0) + B(y-y_0) + C(z-z_0) = 0$$
 eller
