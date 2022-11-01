@@ -24,7 +24,7 @@ $$c_{ij} = \sum_{k=1}^n a_{ik} \cdot b_{kj}$$
 $c_{ij}$ er altså prikproduktet af $A$'s række $i$ og $B$'s søjle $j$.
 
 Hvis man vil gange matrix $A$ med matrix $B$, så skal ***$A$'s rækker være lig $B$'s søjler***.
-$$A_{m\times n} \cdot B_{n\times n}\s\checkmark$$
+$$A_{m\times n} \cdot B_{n\times m}\s\checkmark$$
 
 Altid række gange søjler.række
 
@@ -52,7 +52,7 @@ $$A + B = B + A$$
 ### Kvadratiske matricer
 En matrix er kvadratisk hvis den har **lige mange rækker og kolonner**.
 
-### Transposition
+### Transponering
 > *"Byt rækker og kolonner"*
 
 $$ A_{m\times n}^T =
