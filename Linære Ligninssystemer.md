@@ -1,4 +1,4 @@
-# Linære Ligninssystemer
+# Linære Ligningssystemer
 > *"Vi vil gerne have noget der er linært, for så er det nemt at regne på"*
 > \- Preben
 
@@ -12,7 +12,7 @@ $$
 \begin{cases} 
  a_{11} \cdot  x_{1}+a_{12} \cdot x_{2} + \dots + a_{1n} + x_{n}=b_{1}  \\
  a_{21} \cdot  x_{1}+a_{22} \cdot x_{2} + \dots + a_{2n} + x_{n}=b_{2}   \\
- \vdots \\
+ \s\s\vdots \\
 a_{m1} \cdot  x_{1}+a_{m2} \cdot x_{2} + \dots + a_{mn} + x_{n}=b_{m}  
 \end{cases}
 $$
@@ -34,11 +34,37 @@ $$
  \vdots  \\
  x_n \\
 \end{array}
+\right) = 
+\left(
+\begin{array}{c}
+ b_1 \\
+ \vdots  \\
+ b_n \\
+\end{array}
 \right)
 $$
 
-##### Den udvidede Matrix
-$$\overline{A}(?) = $$
+### Den udvidede Matrix
+En nemmere måde at opskrive ligningssystemer, hvor den variable undlades.
+$$\tilde{A} = \left(
+\begin{array}{cccc|c}
+ a_{11} & a_{12} & \dots  & a_{1n} & b_1 \\
+ \vdots  & \vdots  & \ddots  & \vdots & \vdots  \\
+ a_{m1} & a_{m2} & \dots  & a_{mn} & b_n\\
+\end{array}
+\right)$$
+Her repræsenterer hver række hver ligning.
+
+### Regler for Løsning af Ligningssystemer
+I almindelige linære ligningssystemer må vi
+- Bytte om på rækkefølgen af to ligninger.
+- Lægge en ligning (eller et multiplum heraf) til en anden ligning.
+- Gange en ligning med en konstant (hvis $k\neq 0$)
+
+##### Gauss  Elimination
+- Bytter to rækker med hinanden.
+- Lægge en række (eller et multiplum heraf ) til en anden række.
+- Gange en r
 
 ---
 
