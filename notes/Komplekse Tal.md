@@ -92,9 +92,9 @@ $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-
 
 
 >[!Example]- Opgaver med polær form
->- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=1]]
->- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=4]]
->- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=6]]
+>- [[Aflevering 1.pdf#page=1]]
+>- [[Aflevering 1.pdf#page=4]]
+>- [[Aflevering 1.pdf#page=6]]
 
 >[!note]- Operationer i Polær form
 >### Multiplikation
