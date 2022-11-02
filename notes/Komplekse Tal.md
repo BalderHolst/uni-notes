@@ -84,10 +84,17 @@ $$|z| = \sqrt{a^2 + b^2}$$
 ##### Argumentet
 Linjen fra orego til punktet $(a,b)$ svarende til det komplekse tal $z = a+ib$ danner en vinkel med den positive del af den reelle akse (1. aksen). Vinklen ($\theta$) kaldes for *argumentet til $z$*
 $$arg(z) = \theta$$
-($\theta$ skal være i intervallet $[-\pi,\pi]$)sBestemmes således
+($\theta$ skal være i intervallet $[-\pi,\pi]$) 
+
+Bestemmes således
 $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-1,0,1\}$$
 
 
+
+>[!Example]- Opgaver med polær form
+>- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=1]]
+>- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=4]]
+>- [[Afleveringer/Semester 1 - Matematik/Aflevering 1.pdf#page=6]]
 
 >[!note]- Operationer i Polær form
 >### Multiplikation
@@ -116,6 +123,10 @@ z^n = r^n \cdot (\cos(n\theta) + i \cdot \sin(n\theta)) &\arrow \text{Én løsni
 $$
 $r$  : længden til løsningen fra orego i det komplekse plan
 
+
+>[!Example]- Opgaver med de Moivre's Formel
+>- [[Aflevering 1.pdf#page=2]]
+>- [[Aflevering 1.pdf#page=4]]
 
 >[!Note]- Bevis
 >
