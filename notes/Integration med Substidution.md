@@ -1,5 +1,9 @@
 # Integration med Substidution
 
+Kan anvendes på integraler på følgende form
+$$$$
+
+
 Dette er udtrykket vi forsøger at [[Integralregning|integrere]].
 $$\int sin(2t + \pi) dt$$
 
