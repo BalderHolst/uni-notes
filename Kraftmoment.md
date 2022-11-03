@@ -1,4 +1,8 @@
 # Kraftmoment
-> *"Årsagen til et legemes rotation er, at det bliver påvirket af et kraftmoment $\vec{\tau}$"* ([[Lektion 09-FYS__RT_E22.pdf#page=12]])
+> *"Årsagen til et legemes rotation er, at det bliver påvirket af et kraftmoment $\vec{\tau}$"* 
+> \- Rene ([[Lektion 09-FYS__RT_E22.pdf#page=15|slide]])
 
-$$\tau = rF_{t} = r(F \sin(\phi)) = rF \sin(\phi)$$
+$$\tau = \vec{r} \times \vec{F}$$
+
+---
+#fysik 
