@@ -17,7 +17,7 @@ $\hat{\omega}$ : Enhedsvektor (Peger "op" ad tommelfingeren med højrehåndsmeto
 $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 
 ### Vinkelacceleration
-$$\vec{\alpha} = \frac{d \omega8t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
+$$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
 
 [[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) #TODO
 $$
@@ -36,7 +36,7 @@ $$v = \frac{ds}{dt} = r \frac{d\theta}{dt} = r\omega$$
 ##### Acceleration
 
 Tangentacceleration (I bevægelsesretningen)
-$$\vec{a_{t}} = \frac{dv}{dt} = \frac{d}{dt}(\omega r) = \frac{d\omega}{dt}r=ar$$
+$$\vec{a_{t}} = \frac{dv}{dt} = \frac{d}{dt}(\omega r) = \frac{d\omega}{dt}r=\alpha r$$
 
 Radialacceleration/Centripetalaccelerationen (Mod omdrejningspunktet)
 $$\vec{a_{r}}= \frac{v^{2}}{r} = \omega^{2}r$$
