@@ -38,3 +38,13 @@ Den *totale* acceleration
 $$\vec{a_{total}} = \vec{a_{r}}+ \vec{a_t}$$
 
 ### Rotationsenergi
+Et objekts [[Kinetisk Energi|kinetiske energi]] i cirkelbevægelse.
+
+$$K= \frac{1}{2} \cdot I \cdot \omega^2$$
+$I$ : [[Inertimoment]]
+
+>[!Note]- Udledning
+>$$K = \frac{1}{2} \cdot m \cdot  v^{2} \s \text{og} \s v = r\omega$$
+>$$\Downarrow$$
+>$$K= \frac{1}{2} \cdot m r^{2}\omega^{2} =\frac{1}{2} \cdot I \cdot \omega^{2}$$
+
