@@ -1,5 +1,12 @@
 # Rotation
 
+---
+
+- [[Inertimoment]]
+- [[Kraftmoment]]
+
+---
+
 $$\theta(t)$$
 
 ### Øjeblikkelig vinkelhastighed
@@ -10,13 +17,13 @@ $\hat{\omega}$ : Enhedsvektor (Peger "op" ad tommelfingeren med højrehåndsmeto
 $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 
 ### Vinkelacceleration
-$$\vec{a} = \frac{d \omega8t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
+$$\vec{\alpha} = \frac{d \omega8t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
 
 [[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) #TODO
 $$
 \begin{align}
-\omega(t) &= \omega_{0} + at \\
-\theta(t) &= \theta_{0} + \omega_{0}t + \frac{1}{2}at^{2} \\
+\omega(t) &= \omega_{0} + \alpha t \\
+\theta(t) &= \theta_{0} + \omega_{0}t + \frac{1}{2}\alpha t^{2} \\
 \omega^{2} &= \omega...
 \end{align}
 $$
@@ -42,6 +49,12 @@ Et objekts [[Kinetisk Energi|kinetiske energi]] i cirkelbevægelse.
 
 $$K= \frac{1}{2} \cdot I \cdot \omega^2$$
 $I$ : [[Inertimoment]]
+
+##### Rotationsarbejde ([[Lektion 09-FYS__RT_E22.pdf#page=19]])
+$$\Delta K = K_{f}- K_{i}$$
+
+$$W = \int_{\theta_{i}}^{\theta_{f}} \vec{\tau} \cdot d\vec{\theta}$$
+
 
 >[!Note]- Udledning
 >$$K = \frac{1}{2} \cdot m \cdot  v^{2} \s \text{og} \s v = r\omega$$
