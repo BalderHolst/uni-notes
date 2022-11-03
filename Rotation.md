@@ -12,7 +12,7 @@ $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 ### Vinkelacceleration
 $$\vec{a} = \frac{d \omega8t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
 
-[[De kinematiske ligninger]] kan også anvendes til rotation. #TODO
+[[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) #TODO
 $$
 \begin{align}
 \omega(t) &= \omega_{0} + at \\
@@ -48,3 +48,6 @@ $I$ : [[Inertimoment]]
 >$$\Downarrow$$
 >$$K= \frac{1}{2} \cdot m r^{2}\omega^{2} =\frac{1}{2} \cdot I \cdot \omega^{2}$$
 
+
+---
+#fysik 

@@ -9,10 +9,13 @@ $r_{i}$ : Distangen til fra omdrejningspunktet til den uendelig lille masse.
 Ved punkt masse
 $$I = m \cdot r^{2}$$
 
-Omdrejningsaksen kan 
+Omdrejningsaksen kan *parallelforskydes* med [[flytningsformlen]].
 
 > [!note]- Inertimomenter på forskellige objekter
 > - [[Lektion 09-FYS__RT_E22.pdf#page=10]]
 
 ### Kontinuært legme
 $$I =  \int r^{2} dm$$
+
+---
+#fysik 

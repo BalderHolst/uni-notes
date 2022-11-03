@@ -4,3 +4,6 @@ $$I_{p}= I_{0} + Md^{2}$$
 $I_p$ : [[Inertimoment|Inertimomentet]] om den forskudte akse.
 $M$ : Legmets *totale* masse.
 $d$ : Den afstand rotation bliver parallelforskudt med.
+
+---
+#fysik 

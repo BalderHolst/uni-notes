@@ -9,3 +9,6 @@ $$\int u(x) \cdot v'(x) \dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) \dx$$
 >- [Eksempel med Henrik](https://youtu.be/IMTxnWypzBw)
 >- [Svært eksempel med Henrik](https://youtu.be/aDdV2X6MWEc)
 
+
+---
+#matematik 
