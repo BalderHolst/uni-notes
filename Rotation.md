@@ -1,12 +1,10 @@
 # Rotation
 Se [[Lektion 09-FYS__RT_E22.pdf|slideshow]].
 
----
+>[!Info] Relevante noter
+>- [[Inertimoment]]
+>- [[Kraftmoment]]
 
-- [[Inertimoment]]
-- [[Kraftmoment]]
-
----
 
 $$\theta(t)$$
 $\theta(t)$ : Vinkel som funktion af tid.
@@ -22,7 +20,7 @@ $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 
 ### Vinkelacceleration
 Igen kan vinkelhastigheden differentieres for at få vinkelaccelerationen.
-$$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
+$$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\alpha} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat{\alpha}$$
 
 [[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) 
 $$
@@ -53,7 +51,8 @@ Den *totale* acceleration
 $$\vec{a_{total}} = \vec{a_{r}}+ \vec{a_t}$$
 
 >[!Note]- Rotation og Bevægelse - Sammenligning
->![[Lektion 09-FYS__RT_E22.pdf#page=6]]
+> Se denne tabel: [[Lektion 09-FYS__RT_E22.pdf#page=6|slide]].
+> Og denne tabel: [[Lektion 09-FYS__RT_E22.pdf#page=21|slide]].
 
 ---
 
@@ -63,10 +62,14 @@ Et objekts [[Kinetisk Energi|kinetiske energi]] i cirkelbevægelse.
 $$K= \frac{1}{2} \cdot I \cdot \omega^2$$
 $I$ : [[Inertimoment]]
 
-##### Rotationsarbejde ([[Lektion 09-FYS__RT_E22.pdf#page=19]])
+##### Rotations[[arbejde]] ([[Lektion 09-FYS__RT_E22.pdf#page=19|slide]])
 $$\Delta K = K_{f}- K_{i}$$
 
 $$W = \int_{\theta_{i}}^{\theta_{f}} \vec{\tau} \cdot d\vec{\theta}$$
+
+## Rotations-[[effekt]]
+$$P = \frac{\vec{\tau} \cdot d \vec{\theta}}{dt} = \vec{\tau} \cdot \vec{\omega}$$
+
 
 
 >[!Note]- Udledning
