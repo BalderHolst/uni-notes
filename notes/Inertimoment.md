@@ -8,7 +8,7 @@ $r_{i}$ : Distangen til fra omdrejningspunktet til den uendelig lille masse.
 
 Ved punkt masse
 $$I = m \cdot r^{2}$$
-o
+
 Omdrejningsaksen kan *parallelforskydes* med [[Flytningsformlen]].
 
 > [!note]- Inertimomenter på forskellige objekter
