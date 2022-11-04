@@ -19,12 +19,12 @@ $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 ### Vinkelacceleration
 $$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
 
-[[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) #TODO
+[[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) 
 $$
 \begin{align}
 \omega(t) &= \omega_{0} + \alpha t \\
 \theta(t) &= \theta_{0} + \omega_{0}t + \frac{1}{2}\alpha t^{2} \\
-\omega^{2} &= \omega...
+\omega^{2} &= \omega_{0}^{2}+ 2 \alpha(\theta-\theta_{0})
 \end{align}
 $$
 ### Position, Hastighed og Acceleration

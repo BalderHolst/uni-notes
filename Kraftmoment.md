@@ -9,8 +9,8 @@ Peger "op" ad tommelfingeren med højrehåndsreglen.
 
 ### Bevægelsesligninger ([[Lektion 09-FYS__RT_E22.pdf#page=16|slide]])
 $$\vec{\tau} = I\vec{\alpha}$$
-$I$ : [[Inertimoment|Inertimomentet]].
-$\alpha$ : #todo
+$I$ : [[Inertimoment|Inertimomentet]]
+$\alpha$ : Vinkelacceleration
 
 ---
 #fysik 
