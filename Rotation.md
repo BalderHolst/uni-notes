@@ -1,4 +1,5 @@
 # Rotation
+Se [[Lektion 09-FYS__RT_E22.pdf|slideshow]].
 
 ---
 
@@ -8,15 +9,19 @@
 ---
 
 $$\theta(t)$$
+$\theta(t)$ : Vinkel som funktion af tid.
 
 ### Øjeblikkelig vinkelhastighed
+Vi kan selvfølgelig [[Differentialregning|differentiere]] $\theta(t)$ for at få vinkel-*hastigheden*.
 $$\vec{\omega} = \frac{d \theta(t)}{dt} \hat{\omega}$$
 $\hat{\omega}$ : Enhedsvektor (Peger "op" ad tommelfingeren med højrehåndsmetoden)
+$\vec{\omega}$ : Vinkelhastigheden til tiden $t$.
 
 ### Konstant vinkelhastighed
 $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 
 ### Vinkelacceleration
+Igen kan vinkelhastigheden differentieres for at få vinkelaccelerationen.
 $$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat\omega$$
 
 [[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) 
@@ -27,7 +32,10 @@ $$
 \omega^{2} &= \omega_{0}^{2}+ 2 \alpha(\theta-\theta_{0})
 \end{align}
 $$
-### Position, Hastighed og Acceleration
+---
+
+## Position, Hastighed og Acceleration
+Se [[Lektion 09-FYS__RT_E22.pdf#page=4|slide]].
 
 ##### Sted
 $$s=r\theta$$
@@ -44,7 +52,12 @@ $$\vec{a_{r}}= \frac{v^{2}}{r} = \omega^{2}r$$
 Den *totale* acceleration
 $$\vec{a_{total}} = \vec{a_{r}}+ \vec{a_t}$$
 
-### Rotationsenergi
+>[!Note]- Rotation og Bevægelse - Sammenligning
+>![[Lektion 09-FYS__RT_E22.pdf#page=6]]
+
+---
+
+## Rotationsenergi
 Et objekts [[Kinetisk Energi|kinetiske energi]] i cirkelbevægelse.
 
 $$K= \frac{1}{2} \cdot I \cdot \omega^2$$
