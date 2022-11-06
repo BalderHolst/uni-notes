@@ -1,4 +1,5 @@
 # Impedans
+Modstand i [[AC]] kredsløb.
 
 $$Z=R+jX = |Z|\angle \phi$$
 
