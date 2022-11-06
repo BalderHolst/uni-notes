@@ -7,6 +7,8 @@ Ligesom [[Kondensator|kondensatorer]] kan man **ikke afsætte effekt** i en spol
 $$V_L = L \cdot \frac{di}{dt}$$
 $L$ : [[Induktans]] i $[\text{Henry}]$/$[\text{H}]$.
 $\frac{di}{dt}$ : Den differentierede funktion for strøm over tid.
+**
+I spoler kommer **spændingen *før* strømmen**.
 
 ### Permeabilitet
 Hvor godt et materiale leder i forhold til luft.
