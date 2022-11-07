@@ -15,7 +15,7 @@ Hvor godt et materiale leder i forhold til luft.
 $$\mu = \mu_v \cdot \mu_{0}$$
 $\mu_0$ : Vacum
 
-
+### Tidskonstanten
 
 ### Arbejde
 $$W_L = \frac{1}{2} \cdot L \cdot i_L^2$$
