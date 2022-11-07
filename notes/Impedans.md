@@ -9,13 +9,15 @@ $$Z=R+jX = |Z|\angle \phi$$
 
 ### Impedans i komponenter
 
->[!Note]- Impedans i Modstande
+>[!Note]- Impedans i [[Modstande]]
 >![[Modstande#Impedans]]
 
-##### [[Kondensator]]
-$$z_{c}=\frac{1}{j \omega C}$$
-##### [[Spoler]]
-$$z_{L}=j\omega L$$
+>[!Note]- Impedans i [[Kondensator|Kondensatorer]]
+>![[Kondensator#Impedans]]
+
+>[!Note]- Impedans i [[Spoler]]
+>![[Spoler#Impedans]]
+
 
 ### Serie og parrallelimpedans
 Ligesom modstand i [[Serieforbindeler#Resistance ($R$)|serie]]- og [[parallelforbindelser]].

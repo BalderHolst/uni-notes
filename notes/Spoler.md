@@ -21,5 +21,8 @@ $W_L$ : Energien lagret i spolen.
 $L$ : [[Induktans]] i $[\text{Henry}]$/$[\text{H}]$.
 $i_L$ : Strømmen gennem spolen.
 
+### Impedans
+$$z_{L}=j\omega L$$
+
 ---
 #elektronik #komponent 

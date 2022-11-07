@@ -17,6 +17,19 @@ Hvis man [[Integralregning|integrerer]] kan man finde strømmen.
 $$I_c = C \cdot \frac{dV_c}{dt}$$
 $I_c$ : Strømmen gennem kondensatoren.
 
+Spænding kan derfor *ikke ændre sig momentant*, da det ville betyde en uendelig stor spænding. 
+
+### Opladning og Afladning
+
+#### Tidskonstanten
+$$\tau = R \cdot C$$
+>![Note]- 
+
+##### Opladning
+$$f(t)=A \cdot (1-e^{\frac{-t}{\tau}})$$
+##### Afladning 
+$$g(t) = B \cdot e^{\frac{-t}{\tau}}$$
+
 ### Arbejdet
 $$W_C= \frac{1}{2} \cdot C \cdot V_C^2$$
 $W_C$ : Energien lagret i kondensatoren.
@@ -32,6 +45,11 @@ $A$ :
 $d$ :
 
 ### Impedans
+$$z_{c}=\frac{1}{j \omega C}$$
+
+>[!note]- Imdansen er NUL i ved DV
+>$$$$
+
 
 ---
 #elektronik #komponent
