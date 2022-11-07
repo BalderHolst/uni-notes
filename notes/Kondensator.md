@@ -22,8 +22,8 @@ Spænding kan derfor *ikke ændre sig momentant*, da det ville betyde en uendeli
 ### Opladning og Afladning
 
 #### Tidskonstanten
-$$\tau = R \cdot C$$
-$R$ : Modstanden i [[Serieforbindeler|serie]] med kondensatoren.
+$$\tau = R_T \cdot C$$
+$R_T$ : [[Thevenin Ækvivalens|Thevenin Modstanden]]
 $C$ : Kapacitansen 
 
 ##### Opladning
