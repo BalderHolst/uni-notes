@@ -31,5 +31,7 @@ $\epsilon_0$ :
 $A$ :
 $d$ :
 
+### Impedans
+
 ---
 #elektronik #komponent

@@ -9,8 +9,9 @@ $$Z=R+jX = |Z|\angle \phi$$
 
 ### Impedans i komponenter
 
-##### [[Modstande]]
-$$Z= \frac{V}{I} \s [\Omega]$$
+>[!Note]- Impedans i Modstande
+>![[Modstande#Impedans]]
+
 ##### [[Kondensator]]
 $$z_{c}=\frac{1}{j \omega C}$$
 ##### [[Spoler]]
