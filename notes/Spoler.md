@@ -16,6 +16,7 @@ $$\mu = \mu_v \cdot \mu_{0}$$
 $\mu_0$ : Vacum
 
 ### Tidskonstanten
+$$\tau = \frac{L}{R_{T}}$$
 
 ### Arbejde
 $$W_L = \frac{1}{2} \cdot L \cdot i_L^2$$
