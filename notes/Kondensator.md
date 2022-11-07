@@ -9,7 +9,7 @@
 
 ### Formler
 $$Q=C \cdot V_c$$
-$C$ : Kapaciteten $\frac{\text{C}}{\text{v}}$.
+$C$ : Kapacitansen $\frac{\text{C}}{\text{v}}$.
 $Q$ : [[Ladning]] i kondensatoren.
 $V_c$ : Spænding over kondensatoren. 
 
@@ -23,7 +23,8 @@ Spænding kan derfor *ikke ændre sig momentant*, da det ville betyde en uendeli
 
 #### Tidskonstanten
 $$\tau = R \cdot C$$
->![Note]- 
+$R$ : 
+$C$ : Kapacitansen 
 
 ##### Opladning
 $$f(t)=A \cdot (1-e^{\frac{-t}{\tau}})$$
