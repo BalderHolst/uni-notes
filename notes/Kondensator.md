@@ -23,13 +23,16 @@ Spænding kan derfor *ikke ændre sig momentant*, da det ville betyde en uendeli
 
 #### Tidskonstanten
 $$\tau = R \cdot C$$
-$R$ : 
+$R$ : Modstanden i [[Serieforbindeler|serie]] med kondensatoren.
 $C$ : Kapacitansen 
 
 ##### Opladning
 $$f(t)=A \cdot (1-e^{\frac{-t}{\tau}})$$
+$A$ : Spændingen ved fuld opladning.
+
 ##### Afladning 
 $$g(t) = B \cdot e^{\frac{-t}{\tau}}$$
+$B$ : Startspændingen.
 
 ### Arbejdet
 $$W_C= \frac{1}{2} \cdot C \cdot V_C^2$$
@@ -48,7 +51,7 @@ $d$ :
 ### Impedans
 $$z_{c}=\frac{1}{j \omega C}$$
 
->[!note]- Imdansen er NUL i ved DV
+>[!note]- Imdansen er $\infty$ i ved DC
 >$$$$
 
 
