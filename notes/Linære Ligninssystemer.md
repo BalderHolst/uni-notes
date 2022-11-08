@@ -65,6 +65,11 @@ De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrix
 - Lægge en række (eller et multiplum heraf ) til en anden række.
 - Gange en række med en konstant (hvis $k\neq 0$)
 
+### Homogene Linære Ligningssystemer
+
+$$A\vec{x} = \vec{0}$$
+Har **altid** mindst *én* løsning: $\vec{x}=\vec{0}$ (den trivielle løsning)
+
 ---
 
 #matematik 

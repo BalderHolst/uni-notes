@@ -1,11 +1,9 @@
 # [[Linære Ligninssystemer|Ligninssystemer]] Uden Løsninger
 
 Når koefficient-delen og højresiden af den [[Linære Ligninssystemer#Den udvidede Matrix|udvidede]] matrix har *forskellig* [[Rang af Matrix|rang]], så har ligningssystemet ingen løsninger. 
-$$rang(A) \neq rang(\tilde{A}) \arrow \text{Ingen løsninger!}$$
+$$\rang(A) \neq \rang(\tilde{A}) \arrow \text{Ingen løsninger!}$$
 
 ### Eksempel
-
-
 $$
 \begin{cases} 
 3x_{1} + 2 x_{2} + x_{3} &= 3  \\
