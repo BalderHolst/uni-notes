@@ -68,7 +68,7 @@ De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrix
 ### Homogene Linære Ligningssystemer
 
 $$A\vec{x} = \vec{0}$$
-Har **altid** mindst *én* løsning: $\vec{x}=\vec{0}$ (den trivielle løsning)
+Har **altid** mindst *én* løsning: $\vec{x}=\vec{0}$ (den trivielle løsning).
 
 ---
 
