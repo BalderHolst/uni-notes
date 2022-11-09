@@ -7,9 +7,13 @@ At splittet en stor brøk op i mindre brøker det nemmere kan [[Integralregning|
 $$\frac{3x+7}{(x+2)(x+3)}$$
 
 Deler den op
-$$\frac{3x+7}{(x+2)(x+3)}= \frac{A}{x+2} + \frac{B}{x+3}$$
-$$\Updownarrow \text{ganger med venste nævner}$$
-$$3x+7 = A(x+3) + B(x+2)$$
+$$
+\begin{align}
+\frac{3x+7}{(x+2)(x+3)}&= \frac{A}{x+2} + \frac{B}{x+3} \\ \\
+&\Updownarrow \s \text{ganger med venste nævner} \\ \\
+3x+7 &= A(x+3) + B(x+2)
+\end{align}
+$$
 Sætter $x=-3$ og $x=-2$ ind
 $$x=-3 \arrow 3(-3) + 7=B(-3 + 2) \arrow B = 2$$
 $$x=-2 \arrow 3(-2) +7 =A(-2 + 3) \arrow A = 1$$
