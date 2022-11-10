@@ -1,12 +1,19 @@
 # Førsteordensdifferentialligninger	
 [[Linære førsteordensdifferentialligninger]]
 
+
+>[!example]- Eksempel på Førsteordensdifferentialligning
+>$$y' - 2y = 6x$$
+>Her er $x$ den uafhængige variabel og $y$ den afhængige.
+
+---
+
 ## Specifikke Ligninger med løsninger
 - [[Logistisk vækst]]
 
-#### Eksempel
-$$y' - 2y = 6x$$
-Her er $x$ den uafhængige variabel og $y$ den afhængige.
+
+
+---
 
 ### Seperable Diff-ligninger
 Generel Førsteordens diff-lign.
@@ -31,7 +38,7 @@ $$\int f(x)= \int \frac{1}{g(y)}dy$$
 
 
 
->[!Note]- Eksempel
+>[!Example]- Eksempel
 >
 >$$\frac{dy}{dx} = \frac{x}{y}$$
 >Før $y$'erne over på venstre side
@@ -43,6 +50,9 @@ $$\int f(x)= \int \frac{1}{g(y)}dy$$
 >$$y^2=x^2+2c \arrows y=\pm \sqrt{x^2+2c}$$
 >
 >Vi kunne nu sætte et punkt in for at finde den *partikulære* løsning.
+
+>[!example]- Opgaver
+>[[Aflevering 2 - rettet.pdf#page=1]]
 
 ---
 #matematik

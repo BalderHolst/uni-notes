@@ -92,9 +92,9 @@ $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-
 
 
 >[!Example]- Opgaver med polær form
->- [[Aflevering 1.pdf#page=1]]
->- [[Aflevering 1.pdf#page=4]]
->- [[Aflevering 1.pdf#page=6]]
+>- [[Aflevering 1 - Rettet.pdf#page=1]]
+>- [[Aflevering 1 - Rettet.pdf#page=4]]
+>- [[Aflevering 1 - Rettet.pdf#page=6]]
 
 >[!note]- Operationer i Polær form
 >### Multiplikation
@@ -125,8 +125,8 @@ $r$  : længden til løsningen fra orego i det komplekse plan
 
 
 >[!Example]- Opgaver med de Moivre's Formel
->- [[Aflevering 1.pdf#page=2]]
->- [[Aflevering 1.pdf#page=4]]
+>- [[Aflevering 1 - Rettet.pdf#page=2]]
+>- [[Aflevering 1 - Rettet.pdf#page=4]]
 
 >[!Note]- Bevis
 >
