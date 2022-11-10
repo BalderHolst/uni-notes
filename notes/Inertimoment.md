@@ -11,7 +11,7 @@ $$I = m \cdot r^{2}$$
 
 Omdrejningsaksen kan *parallelforskydes* med [[Flytningsformlen]].
 
-> [!note]- Inertimomenter på forskellige objekter
+> [!note]- Inertimomenter for forskellige objekter
 > - [[Lektion 09-FYS__RT_E22.pdf#page=10]]
 
 ### Kontinuært legme
