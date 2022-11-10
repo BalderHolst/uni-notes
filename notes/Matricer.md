@@ -11,7 +11,13 @@ a_{m1} & a_{m2} & \cdots & a_{mn}\\
 Se også [[Calculus 9th.pdf#page=629|bogen]].
 
 ---
-- [[Rotationsmatricer]]
+
+## Flere noter om Matricer
+```dataview 
+list
+from #matricer 
+sort file.name
+```
 
 
 ---
@@ -39,8 +45,9 @@ $$A \cdot (B \cdot C) = (A \cdot B) \cdot C$$
 ##### Resultat
 $$C_{m\times p} = A_{n\times m} \cdot B_{n\times p}$$
 
-Se eventuelt videoen:
-<iframe width="350" height="200" src="https://www.youtube.com/embed/vzt9c7iWPxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>[!note]- Gange med Matricer - Video
+><iframe width="350" height="200" src="https://www.youtube.com/embed/vzt9c7iWPxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Addition

@@ -38,9 +38,10 @@ $$f(x) = e^{-P(x)}$$
 >![[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger]]
 >
 
+>[!example]- Opgaver
+>[[Aflevering 2 - rettet.pdf#page=2]]
 
-
->[!Note]- Eksempler
+>[!Example]- Eksempler
 >
 >##### Eksempel  1
 >$$y' = \frac{1}{x} \cdot y = 5x^3$$

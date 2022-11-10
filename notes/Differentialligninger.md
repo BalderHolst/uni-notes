@@ -43,6 +43,8 @@ Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabe
 
 For at finde den ***partikulære*** løsning
 
+>[!example]- Opgaver
+>[[Aflevering 2 - rettet.pdf#page=1]]
 
 ---
 #matematik 
