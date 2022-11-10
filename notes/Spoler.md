@@ -1,4 +1,4 @@
-½# Spoler
+ ½# Spoler
 > *"Husk ikke at svitse switsen"*
 
 Ligesom [[Kondensator|kondensatorer]] kan man **ikke afsætte effekt** i en spole.
