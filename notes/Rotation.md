@@ -54,6 +54,7 @@ $$\vec{a_{total}} = \vec{a_{r}}+ \vec{a_t}$$
 > Se denne tabel: [[Lektion 09-FYS__RT_E22.pdf#page=6|slide]].
 > Og denne tabel: [[Lektion 09-FYS__RT_E22.pdf#page=21|slide]].
 
+
 ---
 
 ## Rotationsenergi

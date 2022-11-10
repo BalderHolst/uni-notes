@@ -11,4 +11,9 @@ $$P= \frac{V^2}{R}$$
 $$P=I^2 \cdot R$$
 
 ---
+
+## Fysik
+$$P = F \cdot v$$
+
+---
 #fysik 
