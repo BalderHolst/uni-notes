@@ -16,7 +16,7 @@ $l$ : Længden af pendulet
 $$T_{mat}= 2\pi \sqrt{\frac{l}{g}}$$
 
 ### [[Fjederkraft|Fjeder]]pendul
-$$\omega = \sqrt{\frac{k}{m}}$$
+$$\omega = \sqrt{\frac{k}{m}} \arrows T=\sqrt{\frac{m}{k}}$$
 
 ### Fysisk Pendul ([[Lektion 10-FYS1_2022.pdf#page=12|Slide]])
 $$\tau = rF_{\perp} = rF_{t}\sin(\theta) = rMg\sin(\theta)$$
