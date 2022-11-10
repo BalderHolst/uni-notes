@@ -1,6 +1,11 @@
 # Penduler
 
+>[!note]- Matematisk vs. Fysisk pendul
+>[[Lektion 10-FYS1_2022.pdf#page=14]]
+
 ### Matematisk pendul
+Objektet er en punktmasse.
+
 $$\omega = \sqrt{\frac{g}{l}}$$
 $g$ : [[Tyngdeaccelerationen]]
 $l$ : Længden af pendulet
@@ -22,3 +27,8 @@ $\theta$ : Vinkel fra lodret
 
 Dette er [[Linarisering|linariseret]]. Det virker derfor bedst for små $\theta$.
 $$\alpha = \frac{r \cdot M \cdot g}{I} \cdot \theta $$
+
+##### Perioden
+$$T_{fys}= 2\pi\sqrt{\frac{I}{Mgr}} = 2\pi\sqrt{\frac{l_{RP}}{g}} \s \text{hvor } l_{RP}= \frac{I}{Mr}$$
+$l_{RP}$ : Reduceret pendullængde
+$I$ : [[Inertimoment]]
