@@ -6,3 +6,6 @@ Eller
 
 ### Transponerede Matricer
 $$\rang(A^{T})= \rang(A)$$
+
+---
+#matematik 

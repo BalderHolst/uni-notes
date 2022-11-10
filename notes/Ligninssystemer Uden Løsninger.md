@@ -28,3 +28,6 @@ $$
 \right) 
 \s \text{VRØVL!}
 $$
+
+---
+#matematik 

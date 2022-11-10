@@ -10,3 +10,6 @@ Ellers er den Uægte.
 
 I en **ægte** brøk vil gå mod $0$
 $$\lim_{x\to\infty}(f_{\text{ægte}}(x)) = 0$$
+
+---
+#matematik 

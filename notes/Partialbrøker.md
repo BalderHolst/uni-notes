@@ -21,7 +21,8 @@ $$
 \end{align}
 $$
 
->[!note]- 
+>[!note]- Henrik viser og differentierer disse udtryk
+><iframe width="560" height="315" src="https://www.youtube.com/embed/47PmQ5NJBnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
  
@@ -62,3 +63,6 @@ $$
 >$$
 >Altså kan vi omskrive udtrykket således
 >$$\frac{x^{2}-3x+2}{(x+1)(x+2)(x+1)} = \frac{-12}{x+1} + \frac{13}{x+2} + \frac{7}{(x+1)^2}$$
+
+---
+#matematik 
