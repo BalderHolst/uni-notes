@@ -1,6 +1,13 @@
 # Partialbrøker
 At splittet en stor brøk op i mindre brøker det nemmere kan [[Integralregning|integreres]].
 
+Brøken skal være [[Rationelle Funktioner#Ægte eller Uægte Polynomiumsbrøk|ægte]].
+
+$$\frac{P(x)}{(x-a)(x-b)^{2}(x^{2}+cx+d)} = \frac{A}{x-a} + \frac{B}{x-b} + \frac{C}{(x-b)^{2}}+ \frac{D}{x^{2}+cx+d}$$
+$P(x)$ : Et polymonium
+
+>[!note]- Omskrivning af uægte brøk til ægte
+
 
 ### Eksempel
 
