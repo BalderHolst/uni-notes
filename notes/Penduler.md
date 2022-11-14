@@ -1,6 +1,6 @@
 # Penduler
 
->[!warning] Fejl i penduler
+>[!Warning] Fejl i penduler
 >De fleste pendul-modeller er [[Linarisering|linariserede]]. Der er derfor en større og større fejl som $\theta$ øges. Fejlen kan aflæses på [[Lektion 10-FYS1_2022.pdf#page=18|dette]] slide. 
 
 >[!note]- Matematisk vs. Fysisk pendul
@@ -35,3 +35,6 @@ $$\alpha = \frac{r \cdot M \cdot g}{I} \cdot \theta $$
 $$T_{fys}= 2\pi\sqrt{\frac{I}{Mgr}} = 2\pi\sqrt{\frac{l_{RP}}{g}} \s \text{hvor } l_{RP}= \frac{I}{Mr}$$
 $l_{RP}$ : Reduceret pendullængde
 $I$ : [[Inertimoment]]
+
+---
+#fysik 

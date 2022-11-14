@@ -13,4 +13,4 @@ $q$ : [[Elementarladningen]]
 $$$$
 
 ---
-#komponent 
+#elektronik #komponent 
