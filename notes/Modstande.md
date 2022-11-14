@@ -10,9 +10,8 @@ If the current through a resistor increases, the voltage increases.
 Strøm gennem en modstand
 $$I_{a \rightarrow b} = \frac{V_a - V_b}{R} = \frac{V_{ab}}{R}$$
 
-### Impedans
+### Impedans ([[Impedans|note]])
 $$Z= \frac{V}{I} \s [\Omega]$$
-#todo er dette for 
 
 
 ### Farvekoder
