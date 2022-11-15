@@ -39,7 +39,7 @@ $$\int_{a}^{b} f(x) \,dx = F(b) - F(a)$$
 ##### Arealet Under en Kurve
 Man kan finde arealet under kurven $f(x)$, ved at tage det bestemte integrale af $f(x)$ hvor $a$ og $b$ afgrænser arealet som for illustrationen nedenfor. 
 
-![Arealet under en kurve|260](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmatplotlib.org%2F1.4.2%2F_images%2Fintegral_demo.png&f=1&nofb=1)
+![Arealet under en kurve|center|260](https://matplotlib.org/3.1.0/_images/sphx_glr_integral_001.png)
 
 ### Integraler og Bevægelse
 

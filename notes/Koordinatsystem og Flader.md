@@ -1,6 +1,5 @@
 # Koordinatsystem og Flader
-
-![|600](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fzone.ni.com%2Fimages%2Freference%2Fen-XX%2Fhelp%2F371361R-01%2Floc_eps_3dcoordconv.gif&f=1&nofb=1)
+![|center|600](https://docs-be.ni.com/bundle/labview/page/gmath/loc_eps_3dcoordconv.gif?_LANG=enus)
 
 $$a = \sqrt{x^2 + y^2 + z^2}$$
 

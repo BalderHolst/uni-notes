@@ -1,5 +1,5 @@
 # Standard Teorien
-![|400](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffysikleksikon.nbi.ku.dk%2Fs%2Fstandardmodellen%2FStandard_Model_of_Elementary_Particles.svg.png&f=1&nofb=1)
+![|400](https://fysikleksikon.nbi.ku.dk/s/standardmodellen/Standard_Model_of_Elementary_Particles.svg.png)
 
 ### Kvarker 
 Er altid bundende. Up og down er byggesten for protoner og neutroner.

@@ -1,7 +1,6 @@
 # Ækvivalente Kredsløb 
 Kredsløb med samme $I/V$ egenskaber. 
-
-![|500](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allaboutcircuits.com%2Fuploads%2Farticles%2FThevenin-and-Norton-Equivalent-Circuits_1.png&f=1&nofb=1)
+![|center|500](https://www.allaboutcircuits.com/uploads/articles/Thevenin-and-Norton-Equivalent-Circuits_1.png)
 
 ## Typer
 - [[Thevenin Ækvivalens]]

@@ -17,7 +17,7 @@ $$Z= \frac{V}{I} \s [\Omega]$$
 ### Farvekoder
 
 >[!Note]- Color codes
->![colorcodes|600](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmfranzen.ca%2Fimages%2Fpics%2Fclasses%2Fcomp%2Fbb-resistor-colour-chart-l.jpg&f=1&nofb=1)
+>![colorcodes|center|600](https://instrumentationtools.com/wp-content/uploads/2015/06/Resistor-Color-Code-Chart.jpg?ezimgfmt=rs:640x500/rscb2/ng:webp/ngcb2)
 
 ---
 #elektronik #komponent 

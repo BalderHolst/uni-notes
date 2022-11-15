@@ -3,7 +3,7 @@ Kan dannes i [[Røntgenrør]]
 
 
 ### Røntgenspektrum
-![|350](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-Whxa9jNLBTI%2FTuccqC1aHcI%2FAAAAAAAAAGo%2Fu7_5xiXRu-E%2Fs1600%2FXraySpectra.gif&f=1&nofb=1)
+![|center|350](https://2.bp.blogspot.com/-9vBD785qSc4/WgmcHIeND7I/AAAAAAAABHE/1olPpgvA3_8ESbPlMyOfjzSIzG-w5uqbQCLcBGAs/s400/x-ray-spectra.gif)
 
 ### Formler
 

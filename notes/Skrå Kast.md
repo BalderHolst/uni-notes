@@ -2,7 +2,6 @@
 I et skråt kast bevæger projektilet sig som udgangspunkt i en [[Andengradspolynomier|parabelformet]] bue.
 
 ## Position som Funktion af Tid
-![|500](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdetskraakast.weebly.com%2Fuploads%2F9%2F6%2F4%2F1%2F9641803%2F3182464_orig.png&f=1&nofb=1)
 
 #### Uafhængighedsprincippet
 Man kan beskrive projektilets bevægelse i x- og y-retningen uafhængigt af hinanden, og lægge dem sammen til sidst for at så den totale bevægelse i to dimmensioner.
