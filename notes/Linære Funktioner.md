@@ -16,4 +16,4 @@ $$b = y_1 - ax_1$$
 
 
 ---
-#matematik 
+#matematik #funktioner

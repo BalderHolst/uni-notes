@@ -1,4 +1,4 @@
-# Førsteordensdifferentialligninger	
+# Førsteordens-differentialligninger	
 [[Linære førsteordensdifferentialligninger]]
 
 
@@ -55,4 +55,4 @@ $$\int f(x)= \int \frac{1}{g(y)}dy$$
 >[[Aflevering 2 - rettet.pdf#page=1]]
 
 ---
-#matematik
+#matematik #differentialligninger 

@@ -24,4 +24,4 @@ $$\int_{a}^{b}f(x)dx \arrow \lim_{x\to a\lor b}\left(\int_{a}^{b}f(x)dx \right)$
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/BovyC7dR0Xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-#matematik 
+#matematik #integraler 

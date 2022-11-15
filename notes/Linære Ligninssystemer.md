@@ -42,6 +42,16 @@ $$
 \right)
 $$
 
+---
+
+```dataview 
+list
+from #linæralgebra  
+sort file.name
+```
+
+---
+
 ### Den udvidede Matrix
 En nemmere måde at opskrive ligningssystemer, hvor den variable undlades.
 $$\tilde{A} = \left(

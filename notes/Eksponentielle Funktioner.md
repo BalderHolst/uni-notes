@@ -27,4 +27,4 @@ afen stiger/aftager
 #### [[Fordoblings- og halveringkonstant]]
 
 ---
-#matematik 
+#matematik #funktioner 

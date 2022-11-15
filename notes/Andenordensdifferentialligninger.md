@@ -21,4 +21,4 @@ Trækker de to ligninger fra hinanden
 $$(A+B)-(A-2B)=2-(-1) \arrow A=1,\s B=1$$
 
 ---
-#matematik 
+#matematik #differentialligninger 

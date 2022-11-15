@@ -41,4 +41,4 @@ $k$ : det reelle komponent af $r$.
 $w$ : det imaginære komponent af $r$.
 
 ---
-#matematik 
+#matematik #differentialligninger 

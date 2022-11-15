@@ -1,5 +1,3 @@
-
-
 ### Fordoblingskonstanten
 [[Formelsamling.pdf#page=19]]
 

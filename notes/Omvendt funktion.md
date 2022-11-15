@@ -47,4 +47,4 @@ $$\frac{d}{dx}(e^{f(x)}) = e^{f(x)} \cdot f'(x) \arrow e^{ln(x) \cdot (x+sin(x))
 $$= x^{x+sin(x)} \cdot (\frac{1}{x} \cdot (x+sin(x)+ln(x)\cdot (1+cos(x))))$$
 
 ---
-#matematik 
+#matematik #funktioner

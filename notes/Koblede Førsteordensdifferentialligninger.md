@@ -1,4 +1,4 @@
-# Koblede Førsteordensdifferentialligninger
+# Koblede Førsteordens-differentialligninger
 
 
 ### Eksempel
@@ -22,4 +22,4 @@ $$\frac{d^2y}{dt^2} - \frac{dy}{dt}(k_2+k_3) + y(k_2k_3+k_1k_4) = 0$$
 Du kan det løses med [[Linære førsteordensdifferentialligninger#1 Generel løsningsformel|denne]] formel.
 
 ---
-#matematik 
+#matematik #differentialligninger

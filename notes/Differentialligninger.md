@@ -47,5 +47,5 @@ For at finde den ***partikulære*** løsning
 >[[Aflevering 2 - rettet.pdf#page=1]]
 
 ---
-#matematik 
+#matematik #emne
 

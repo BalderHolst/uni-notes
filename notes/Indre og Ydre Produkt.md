@@ -50,4 +50,4 @@ $$\vec{a}^{T} \cdot \vec{b} = \left(
 \right)$$
 
 ---
-#matematik 
+#matematik #vektorer 

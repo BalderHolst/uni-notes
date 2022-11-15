@@ -69,5 +69,4 @@ se [[Bevis for Løsningsformlen|beviset]].
 - [[Linære Funktioner]]
 
 ---
-##### Tags
-#matematik
+#matematik #funktioner 

@@ -37,5 +37,4 @@ Hvis man skal differentiere den funktion i hånden på denne måde kan man bruge
 - [Differentialkvotient og differenskvotient](https://www.webmatematik.dk/lektioner/matematik-b/differentialregning/differenskvotient-og-differentialkvotient)
 
 ---
-##### Tags
-#matematik 
+#matematik #emne

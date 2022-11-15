@@ -11,4 +11,4 @@ $$\int u(x) \cdot v'(x) \dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) \dx$$
 
 
 ---
-#matematik 
+#matematik #integraler 

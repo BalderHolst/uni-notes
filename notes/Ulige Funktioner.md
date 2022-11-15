@@ -5,4 +5,4 @@ $$f(0) = 0$$
 
 
 ---
-#matematik 
+#matematik #funktioner

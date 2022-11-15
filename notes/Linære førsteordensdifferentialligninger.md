@@ -264,4 +264,4 @@ Kan bruges når en differentialligning har formen $\frac{dy}{dx} = g(x) \cdot h(
 
 ---
 
-#matematik 
+#matematik #differentialligninger 

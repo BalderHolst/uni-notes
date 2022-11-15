@@ -47,4 +47,4 @@ Funktioner af to variable skal tegnes i **3 dimensioner**
 
 
 ---
-#matematik 
+#matematik #funktioner 

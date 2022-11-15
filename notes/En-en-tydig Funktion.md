@@ -7,4 +7,4 @@ Betyder at der findes en [[Omvendt funktion]], der kan gøre *præcis* det samme
 Skal **enten** have positiv eller negativ hældning.
 
 ---
-#matematik 
+#matematik #funktioner 

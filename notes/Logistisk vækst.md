@@ -74,4 +74,4 @@ Den maksimale væksthastighed er ved $f(x) = \frac{M}{2}$
 >
 
 ---
-#matematik 
+#matematik #differentialligninger 
