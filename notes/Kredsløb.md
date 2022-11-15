@@ -3,6 +3,11 @@
 ### Metoder
 - [[Maskemetoden]]
 - [[Knudepunktsmetoden]]
+- [[Ækvivalente Kredsløb]]
+- [[Ohm's Lov]]
+- [[KVL]]
+- [[KCl]]
+- [[Phasor Representation]]
 
 ### Typer forbindelser
 - [[Parallelforbindelser]]
@@ -17,4 +22,4 @@ sort file.name
 
 
 ---
-#elektronik 
+#elektronik #emne 

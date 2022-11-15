@@ -9,7 +9,6 @@ $k$ : [[Bolzmanns Konstant]]
 $T$ : Temperaturen i *kelvin*
 $q$ : [[Elementarladningen]]
 
-$$$$
 
 ---
 #elektronik #komponent 

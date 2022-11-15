@@ -43,13 +43,12 @@ $$
 $$
 
 ---
-
+## Noter
 ```dataview 
 list
 from #linæralgebra  
 sort file.name
 ```
-
 ---
 
 ### Den udvidede Matrix
