@@ -79,41 +79,6 @@ Matrix a er symmetrisk hvis $A^T = A$.
 
 *Alle symmetriske matricer er kvadratiske.*
 
-### Determinanen
-Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rang af Matrix|rang]].
-
-$$\det(A) \neq 0 \arrow \text{Fuld rang!}$$
-
-
-#### For $2\times 2$
-$$M=\left( {\begin{array}{cccc} a & b \\ c & d \\ \end{array} } \right)$$
-$$det(M) = detM = |M| = ad-cb$$
-#### For $3\times 3$
-$$M=
-\left( {\begin{array}{cccc}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{array} } \right)$$
-$$det(M) = |M| = a \cdot \left|\left( {\begin{array}{cccc} e & f \\ h & i \\ \end{array} } \right)\right| - b \cdot  \left|\left( {\begin{array}{cccc} d & f \\ g & i \\ \end{array} } \right)\right| + c \cdot \left|\left( {\begin{array}{cccc} d & e \\ g & h \\ \end{array} } \right)\right|$$
-
-#### For $n\times n$
-$$D = \sum\limits_{j=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
-(Føljer $k$'te søjle)
-
-Eller
-$$D = \sum\limits_{k=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
-(Følger $j$'te søjle)
-
-$D_{jk}$ : Determinanten af $A$ uden række $j$ og søjle $k$.
-
-#### Determinanten og Rækkeoperationer
-
-| **Operation**                                 | **Betydning for Determinanten**           |
-| ----------------------------------------- | ------------------------------------- |
-| Ombyt rækker                              | Skifter fortegn                       |
-| Lægge række til en anden                  | *intet*                               |
-| Multiplikation a række med konstanten $c$ | Determinanden bliver $c$ gange større | 
-
+[[Determinanen for Matricer]]
 ---
 #matematik 
