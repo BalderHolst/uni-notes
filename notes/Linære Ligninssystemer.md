@@ -53,6 +53,12 @@ $$\tilde{A} = \left(
 \right)$$
 Her repræsenterer hver række hver ligning.
 
+
+### Løsninger af Linære Ligningssystemer
+$m$ ligninger og $n$ ubekendte: Der er én eller flere løsninger hvis kun hvis:
+$$\rang(A) = \rang{(\tilde{A})}$$
+
+
 ### Regler for Løsning af Ligningssystemer
 I almindelige linære ligningssystemer må vi
 - Bytte om på rækkefølgen af to ligninger.
