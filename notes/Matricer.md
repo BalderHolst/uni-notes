@@ -79,6 +79,6 @@ Matrix a er symmetrisk hvis $A^T = A$.
 
 *Alle symmetriske matricer er kvadratiske.*
 
-[[Determinanen for Matricer]]
+
 ---
-#matematik 
+#matematik #emne 

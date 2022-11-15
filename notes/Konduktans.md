@@ -1,5 +1,4 @@
-# Conductance
-#TODO oversæt!
+# Konduktans
 $$G = \frac{1}{R}$$
 Det reciprokke af modstand.
 

@@ -74,4 +74,4 @@ Projection af $\vec{u}$ på $\vec{v}$.
 $$\vec{u}_{\vec{v}} = s \cdot \hat{\vec{v}} = \left(\vec{u} \cdot \frac{\vec{v}}{|\vec{v}|}\right) \cdot \frac{\vec{v}}{|\vec{v}|}$$
 
 ---
-#matematik 
+#matematik #emne
