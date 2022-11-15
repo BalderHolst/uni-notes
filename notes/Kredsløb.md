@@ -1,5 +1,7 @@
 # Kredsløb
 
+---
+
 ### Metoder
 - [[Maskemetoden]]
 - [[Knudepunktsmetoden]]
@@ -9,9 +11,13 @@
 - [[KCl]]
 - [[Phasor Representation]]
 
-### Typer forbindelser
+---
+
+### Forbindelser
 - [[Parallelforbindelser]]
 - [[Serieforbindeler]]
+
+---
 
 ### Komponenter
 ```dataview 
