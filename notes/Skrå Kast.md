@@ -12,7 +12,7 @@ Det er ingen kræfter der påvirker projektilet i x-retningen, og da vi ved fra 
 
 $$a_x(t) = 0$$
 
-Ved at [[Integralregning|integrere]] kan vi gå fra en funktionene for acceleration til en funktion for hastighed i x-retningen. Bruger [[Integraler Regneregler|regneregler]].
+Ved at [[Integraler|integrere]] kan vi gå fra en funktionene for acceleration til en funktion for hastighed i x-retningen. Bruger [[Integraler Regneregler|regneregler]].
 
 $$v_x(t) = \int a_x(t)\,dt = v_{0x}$$
 

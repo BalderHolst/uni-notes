@@ -26,7 +26,7 @@ Hvor langt data ligger fra middelværdien i gennemsnit
 Sansynligheden for en række tilfælde aflæses på arealet under grafen. 
 
 ### Fordelingsfunktionen (sumkurve):
-Den [[Integralregning|integrerede]] tæthedsfunktion
+Den [[Integraler|integrerede]] tæthedsfunktion
 $$F(x) = \int f(x)$$
 
 ![[Fordelingsfunktionen.png|370]]

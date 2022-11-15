@@ -1,9 +1,3 @@
-# Integralregning
-
-I [[Ulige Funktioner|ulige funkioner]] er integralet altid $0$, hvis $-a = b$.
-
----
-
 I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
 $$\int f(x) \,dx = F(x) + k$$
@@ -72,8 +66,5 @@ $$\iint a(t)\,dt = \int v(t) + k\,dt = s(t) + kx + c$$
 - [[Små Integrationsbeviser]]
 - [webmatematik](https://www.webmatematik.dk/lektioner/matematik-a/integralregning)
 
-
 ---
-##### Tags
-#fysik 
-#matematik
+#matematik #integraler

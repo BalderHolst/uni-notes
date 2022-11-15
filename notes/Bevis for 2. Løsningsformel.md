@@ -36,7 +36,7 @@ Det interessante ved den højre side af formelen er at den har samme form som de
 
 $$\frac{1}{y} \cdot f'(x) = k \s \Leftrightarrow \s ln|y|' = k ,\s y \ne 0 $$
  
-Læg mærke til at vi ikke kan tage $ln$ til noget der er negativt, så derfor tager vi den absolutte værdi af $y$ først. Efter denne omskrivning kan vi [[Integralregning|integrere]] på begge sider for at ophæve mærket.
+Læg mærke til at vi ikke kan tage $ln$ til noget der er negativt, så derfor tager vi den absolutte værdi af $y$ først. Efter denne omskrivning kan vi [[Integraler|integrere]] på begge sider for at ophæve mærket.
 
 $$\int ln|y|' = \int k \s \Leftrightarrow \s ln|y| = kx + c ,\s y \ne 0 $$
 

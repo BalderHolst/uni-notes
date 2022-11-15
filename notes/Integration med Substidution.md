@@ -4,7 +4,7 @@ Kan anvendes på integraler på følgende form
 $$\int f(g(x)) \cdot k \cdot  g'(x) \dx$$
 
 >[!example]- Eksempel
->Dette er udtrykket vi forsøger at [[Integralregning|integrere]].
+>Dette er udtrykket vi forsøger at [[Integraler|integrere]].
 >$$\int sin(2t + \pi) dt$$
 >
 >Vi definerer $u$ som den inderste funktion. Hvis det er en brøk er $u$ altid nævneren.
@@ -22,7 +22,7 @@ $$\int f(g(x)) \cdot k \cdot  g'(x) \dx$$
 >Vi sætter ind på $u$'s plads
 >$$\frac{1}{2} \cdot (-cos(2t+\pi)+k)\s = \s \frac{-cos(2t+\pi)+k}{2} $$
 >
->Dette er det [[Integralregning|integrerede]] udtryk.
+>Dette er det [[Integraler|integrerede]] udtryk.
 
 ---
-#matematik 
+#matematik #integraler 

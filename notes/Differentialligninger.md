@@ -35,7 +35,7 @@ Her kan det ses at funktionen $f(x) = 2e^{16x}$ er en løsning på differentiall
 ---
 
 ### *Fuldstændig* og *partikulær* løsning
-En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integralregning]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentialligningen $y'=k \cdot y$.
+En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integraler]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentialligningen $y'=k \cdot y$.
 
 $$f(x)=C \cdot e^{k \cdot x}$$
 

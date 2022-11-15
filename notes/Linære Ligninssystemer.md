@@ -55,9 +55,21 @@ Her repræsenterer hver række hver ligning.
 
 
 ### Løsninger af Linære Ligningssystemer
-$m$ ligninger og $n$ ubekendte: Der er én eller flere løsninger hvis kun hvis:
-$$\rang(A) = \rang{(\tilde{A})}$$
+$m$ ligninger og $n$ ubekendte: 
 
+Der er én eller ***flere*** løsninger hvis kun hvis (se [[Rang af Matrix]]):
+$$\rang(A) = \rang{(\tilde{A})}$$
+Der er ***én*** løsning hvis og kun hvis
+$$\rang(A)=\rang(\tilde{A})=n$$
+
+Der eksisterer ***uendelig mange*** løsninger hvis:
+$$\rang(A) < n \s \text{og} \s \rang{(A)} = \rang(\tilde{A})$$
+
+
+### Homogene Linære Ligningssystemer
+
+$$A\vec{x} = \vec{0}$$
+Har **altid** mindst *én* løsning: $\vec{x}=\vec{0}$ (den trivielle løsning).
 
 ### Regler for Løsning af Ligningssystemer
 I almindelige linære ligningssystemer må vi
@@ -71,11 +83,5 @@ De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrix
 - Lægge en række (eller et multiplum heraf ) til en anden række.
 - Gange en række med en konstant (hvis $k\neq 0$)
 
-### Homogene Linære Ligningssystemer
-
-$$A\vec{x} = \vec{0}$$
-Har **altid** mindst *én* løsning: $\vec{x}=\vec{0}$ (den trivielle løsning).
-
 ---
-
-#matematik 
+#matematik #emne

@@ -8,11 +8,5 @@ Husk at lægge $k$ til alle ubestemte integraler
 $$\int\frac{1}{\sqrt{1-x^{2}}}\dx=\arcsin(x)$$
 
 
-##### Se også
-- [[Integralregning]]
-
-
-
 ---
-##### Tags
-#matematik 
+#matematik #integraler  

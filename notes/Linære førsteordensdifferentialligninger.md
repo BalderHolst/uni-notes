@@ -118,7 +118,7 @@ hver person smitter $0.25$ personer.
 
 >[!Note]- Eksempel 1
 >
->En simpel differentialligning kunne for eksempel være $y'=8$. Måden vi løser sådan en ligning, er ved at [[Integralregning|integrere]] på begge sider af ligningen. Hvis vi gør det, ser ligningen ud sådan
+>En simpel differentialligning kunne for eksempel være $y'=8$. Måden vi løser sådan en ligning, er ved at [[Integraler|integrere]] på begge sider af ligningen. Hvis vi gør det, ser ligningen ud sådan
 >.
 >$$y=8x$$
 >

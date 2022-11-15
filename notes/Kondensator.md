@@ -13,7 +13,7 @@ $C$ : Kapacitansen $\frac{\text{C}}{\text{v}}$.
 $Q$ : [[Ladning]] i kondensatoren.
 $V_c$ : Spænding over kondensatoren. 
 
-Hvis man [[Integralregning|integrerer]] kan man finde strømmen.
+Hvis man [[Integraler|integrerer]] kan man finde strømmen.
 $$I_c = C \cdot \frac{dV_c}{dt}$$
 $I_c$ : Strømmen gennem kondensatoren.
 
