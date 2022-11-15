@@ -6,7 +6,7 @@ Brøken ***skal*** være [[Rationelle Funktioner#Ægte eller Uægte Polynomiumsb
 $$\frac{P(x)}{(x-a)(x-b)^{2}(x^{2}+cx+d)} = \frac{A}{x-a} + \frac{B}{x-b} + \frac{C}{(x-b)^{2}}+ \frac{D}{x^{2}+cx+d}$$
 $P(x)$ : Et polymonium
 
->[!note]- Opsplitning i partial brøker - Video
+>[!video]- Opsplitning i partial brøker - Video
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/dDjz_PXA_6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >[!note]- Omskrivning af uægte brøk til ægte - Video

@@ -46,7 +46,7 @@ $$A \cdot (B \cdot C) = (A \cdot B) \cdot C$$
 $$C_{m\times p} = A_{n\times m} \cdot B_{n\times p}$$
 
 
->[!note]- Gange med Matricer - Video
+>[!video]- Gange med Matricer - Video
 ><iframe width="350" height="200" src="https://www.youtube.com/embed/vzt9c7iWPxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
