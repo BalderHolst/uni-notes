@@ -1,5 +1,8 @@
 # Integralregning
 
+I [[Ulige Funktioner|ulige funkioner]] er integralet altid $0$, hvis $-a = b$.
+
+---
 
 I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
