@@ -8,4 +8,4 @@ Eller
 $$\rang(A^{T})= \rang(A)$$
 
 ---
-#matematik 
+#matematik #matricer 

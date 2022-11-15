@@ -2,11 +2,11 @@
 
 Vektor = en retning i et punkt. Det kan opfattes som et linjestykke der
 går ud fra punktet.
-$$\overrightarrow{a} = \begin{pmatrix}
+$$\vec{a} = \begin{pmatrix}
 x \\
 y \\
 \end{pmatrix}$$
-$$længde\ af\ vektor = \left| \overrightarrow{a} \right|,\ \ x^{2} + y^{2} = {|\overrightarrow{a}|}^{2}$$
+$$\text{længde af vektor} = \left| \vec{a} \right|,\ \ x^{2} + y^{2} = {|\vec{a}|}^{2}$$
 vektor lægges sammen:
 $$\begin{pmatrix}
 x1 \\
@@ -20,8 +20,13 @@ y1 + y2 \\
 \end{pmatrix}$$
 
 ---
-[[Linært Afhængige Vektorer]]
 
+## Noter om Vektorer
+```dataview 
+list
+from #vektorer 
+sort file.name
+```
 
 ---
 
@@ -47,11 +52,11 @@ $\theta$: Vinkel mellem vektorene.
 
 ---
 
-### Angle between vectors
+### Vinkel mellem Vektorer
 $$\cos \theta = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|} \arrows \vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}| \cdot \cos \theta$$
 
 ---
-### Length
+### Længde
 $$|\vec{a}| = \sqrt{\sum _{i=1}^n a_i^2}$$
 
 ---

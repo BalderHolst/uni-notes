@@ -107,5 +107,13 @@ $$D = \sum\limits_{k=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
 
 $D_{jk}$ : Determinanten af $A$ uden række $j$ og søjle $k$.
 
+#### Determinanten og Rækkeoperationer
+
+| **Operation**                                 | **Betydning for Determinanten**           |
+| ----------------------------------------- | ------------------------------------- |
+| Ombyt rækker                              | Skifter fortegn                       |
+| Lægge række til en anden                  | *intet*                               |
+| Multiplikation a række med konstanten $c$ | Determinanden bliver $c$ gange større | 
+
 ---
 #matematik 

@@ -1,4 +1,4 @@
-# [[Linære Funktioner|Linjer]] og [[Vektorer]]
+# Linjer og Vektorer
 
 En linje kan beskrives med to punkt og en vektor. 
 
@@ -115,4 +115,4 @@ Vi bruger formlen for [[#Afstanden til et punkt fra en linje uden at kende punkt
 
 ---
 
-#matematik 
+#matematik #vektorer 

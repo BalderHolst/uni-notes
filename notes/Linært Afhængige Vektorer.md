@@ -12,4 +12,4 @@ $$k_{1}\cdot \vec{a_{1}} + k_{2}\cdot \vec{a_{2}}+\dots+k_{n}\cdot \vec{a_{n}} =
 Hvis **den eneste** løsning er $k_i=0$, så er sættet af vektorer ***linært uafhængige***.af vektorer ￼￼linært uafhængige￼￼.
 
 ---
-#matematik 
+#matematik #vektorer 
