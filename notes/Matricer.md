@@ -12,7 +12,7 @@ Se også [[Calculus 9th.pdf#page=629|bogen]].
 
 ---
 
-## Flere noter om Matricer
+## Noter om Matricer
 ```dataview 
 list
 from #matricer 
@@ -80,6 +80,10 @@ Matrix a er symmetrisk hvis $A^T = A$.
 *Alle symmetriske matricer er kvadratiske.*
 
 ### Determinanen
+Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rang af Matrix|rang]].
+
+$$\det(A) \neq 0 \arrow \text{Fuld rang!}$$
+
 
 #### For $2\times 2$
 $$M=\left( {\begin{array}{cccc} a & b \\ c & d \\ \end{array} } \right)$$
@@ -93,21 +97,15 @@ g & h & i
 \end{array} } \right)$$
 $$det(M) = |M| = a \cdot \left|\left( {\begin{array}{cccc} e & f \\ h & i \\ \end{array} } \right)\right| - b \cdot  \left|\left( {\begin{array}{cccc} d & f \\ g & i \\ \end{array} } \right)\right| + c \cdot \left|\left( {\begin{array}{cccc} d & e \\ g & h \\ \end{array} } \right)\right|$$
 
-### Række og Søjle vektorer
+#### For $n\times n$
+$$D = \sum\limits_{j=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
+(Føljer $k$'te søjle)
 
-##### Kolonnevektor
- $$v_{n\times 1} =
-\left( {\begin{array}{cccc}
-v_{1}\\
-v_{2}\\
-\vdots\\
-v_{n}\\
-\end{array} } \right) $$
-##### Rækkevektor
- $$v_{1\times n} =
-\left( {\begin{array}{cccc}
-v_{1} & v_{2} & \dots & v_{n}
-\end{array} } \right) $$
+Eller
+$$D = \sum\limits_{k=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
+(Følger $j$'te søjle)
+
+$D_{jk}$ : Determinanten af $A$ uden række $j$ og søjle $k$.
 
 ---
 #matematik 
