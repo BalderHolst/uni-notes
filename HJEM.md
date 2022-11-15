@@ -9,12 +9,12 @@ limit 5
 
 ---
 
-## Emner
-```dataview 
-list
-from #emne 
-sort file.name
-```
+>[!box] ## Emner
+>```dataview 
+>list
+>from #emne 
+>sort file.name
+>```
 
 ---
 

@@ -1,6 +1,6 @@
 # Ohm's Lov
 $$U = I \cdot R$$
-Kan også skrives låledes
+Kan også skrives således
 $$I = G \cdot U$$
 $G$: [[Konduktans]]
 
