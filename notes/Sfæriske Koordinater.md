@@ -6,8 +6,7 @@ $\phi$ : Vinkel opad
 $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 
 ---
-
-![Spherisk punkt| 270](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmse.redwoods.edu%2Fdarnold%2Fmath50c%2Fmathjax%2Fspherical%2Fspherical3.png&f=1&nofb=1)
+![Spherisk punkt|center|400](https://mse.redwoods.edu/darnold/math50c/mathjax/spherical/spherical3.png)
 
 ---
 

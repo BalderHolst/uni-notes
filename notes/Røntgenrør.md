@@ -1,5 +1,5 @@
 # Røntgenrør
-![|350](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffysikleksikon.nbi.ku.dk%2Fr%2Froentgenstraaling%2F320px-Roentgen-Roehre.png&f=1&nofb=1)
+![|350](https://fysikleksikon.nbi.ku.dk/r/roentgenstraaling/320px-Roentgen-Roehre.png)
 
 $$\lambda_{min} = \frac{h \cdot c}{e \cdot U_0}$$
 

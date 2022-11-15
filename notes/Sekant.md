@@ -1,7 +1,6 @@
 # Sekant
 En sekant er en linje, der går gennem to punkter på en graf, det er disse punkter det giver sekanten dens hældning.
-
-![Illustration af sekant og tangent|300](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.rasmus.is%2FSV%2FT%2FG%2FSu64k01_m01.gif&f=1&nofb=1)
+![Illustration af sekant og tangent|center|300](http://www.rasmus.is/sv/t/G/Su64k01_m01.gif)
 
 ### Sekantens hældning (differenskvotienten)
 $$a=\frac{y_2-y_1}{x_2-x_1} = \frac{f(x_0+h)-f(x_0)}{\c{x_0} + h - \c{x_0}} = \frac{f(x_0+h)-f(x_0)}{h}$$
