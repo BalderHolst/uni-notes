@@ -30,7 +30,7 @@ $$D = \sum\limits_{j=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
 
 Eller
 $$D = \sum\limits_{k=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
-(Følger $j$'te søjle)
+(Følger $j$'te række)
 
 $D_{jk}$ : Determinanten af $A$ uden række $j$ og søjle $k$.
 
