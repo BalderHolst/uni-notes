@@ -6,6 +6,8 @@
 >[!note]- Matematisk vs. Fysisk pendul
 >[[Lektion 10-FYS1_2022.pdf#page=14]]
 
+
+
 ### Matematisk pendul
 Objektet er en punktmasse.
 
