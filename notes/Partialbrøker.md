@@ -9,7 +9,7 @@ $P(x)$ : Et polymonium
 >[!video]- Opsplitning i partial brøker - Video
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/dDjz_PXA_6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->[!note]- Omskrivning af uægte brøk til ægte - Video
+>[!video]- Omskrivning af uægte brøk til ægte - Video
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/acCslvFwbts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Integration af Rest-brøken
