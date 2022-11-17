@@ -34,8 +34,8 @@ Flytter med ^xiGjjnB0
 	"elements": [
 		{
 			"type": "text",
-			"version": 322,
-			"versionNonce": 1689087099,
+			"version": 331,
+			"versionNonce": 669401589,
 			"isDeleted": false,
 			"id": "hhDz3PgN",
 			"fillStyle": "hachure",
@@ -48,13 +48,13 @@ Flytter med ^xiGjjnB0
 			"y": 894.0073694900434,
 			"strokeColor": "#5c940d",
 			"backgroundColor": "transparent",
-			"width": 646,
+			"width": 645,
 			"height": 37,
 			"seed": 94598,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": "[[Dæmpede Svingninger - Differentialligning]]",
 			"locked": false,
 			"fontSize": 29.63991699218751,
@@ -69,8 +69,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 480,
-			"versionNonce": 411692213,
+			"version": 489,
+			"versionNonce": 1645134811,
 			"isDeleted": false,
 			"id": "ToeQm5aW",
 			"fillStyle": "hachure",
@@ -83,20 +83,20 @@ Flytter med ^xiGjjnB0
 			"y": -348.1107955921253,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 123,
+			"width": 122,
 			"height": 25,
 			"seed": 61043,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": "[[Penduler]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "[[Penduler]]",
 			"rawText": "[[Penduler]]",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -104,8 +104,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 931,
-			"versionNonce": 2128618779,
+			"version": 940,
+			"versionNonce": 504642389,
 			"isDeleted": false,
 			"id": "8MM5IhxC",
 			"fillStyle": "hachure",
@@ -124,14 +124,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": "[[Flytningsformlen]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "[[Flytningsformlen]]",
 			"rawText": "[[Flytningsformlen]]",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -139,8 +139,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 592,
-			"versionNonce": 2054458901,
+			"version": 601,
+			"versionNonce": 685740155,
 			"isDeleted": false,
 			"id": "JJFWPkf6",
 			"fillStyle": "hachure",
@@ -159,14 +159,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": "[[Inertimoment]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "[[Inertimoment]]",
 			"rawText": "[[Inertimoment]]",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -174,8 +174,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 875,
-			"versionNonce": 2138229179,
+			"version": 884,
+			"versionNonce": 50071733,
 			"isDeleted": false,
 			"id": "jSOlEj6q",
 			"fillStyle": "hachure",
@@ -194,14 +194,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": "[[Massemidtpunkt]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "[[Massemidtpunkt]]",
 			"rawText": "[[Massemidtpunkt]]",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -209,8 +209,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 441,
-			"versionNonce": 2101609333,
+			"version": 450,
+			"versionNonce": 1093519643,
 			"isDeleted": false,
 			"id": "cYiu8EVWS76nroK62sUMe",
 			"fillStyle": "solid",
@@ -229,7 +229,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -341,8 +341,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 436,
-			"versionNonce": 1804065371,
+			"version": 445,
+			"versionNonce": 138619413,
 			"isDeleted": false,
 			"id": "bzkwDc88JEbUbCJil4pTD",
 			"fillStyle": "solid",
@@ -361,7 +361,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -448,8 +448,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 431,
-			"versionNonce": 1430113493,
+			"version": 440,
+			"versionNonce": 1886121403,
 			"isDeleted": false,
 			"id": "Qck0G2gR9MnN9gyeYcw3m",
 			"fillStyle": "solid",
@@ -468,7 +468,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045659,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -530,8 +530,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 432,
-			"versionNonce": 2146555643,
+			"version": 441,
+			"versionNonce": 249503605,
 			"isDeleted": false,
 			"id": "OQUEd6gAo7hiYznW2cS_C",
 			"fillStyle": "solid",
@@ -550,7 +550,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -617,8 +617,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 468,
-			"versionNonce": 301427253,
+			"version": 477,
+			"versionNonce": 700218971,
 			"isDeleted": false,
 			"id": "K1ojAx1-lOiWVuw810hvG",
 			"fillStyle": "solid",
@@ -637,7 +637,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -884,8 +884,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 438,
-			"versionNonce": 993214363,
+			"version": 447,
+			"versionNonce": 1024813269,
 			"isDeleted": false,
 			"id": "OBroCLx0wAOmrfza59WUX",
 			"fillStyle": "solid",
@@ -904,7 +904,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1001,8 +1001,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 433,
-			"versionNonce": 878074773,
+			"version": 442,
+			"versionNonce": 1475476219,
 			"isDeleted": false,
 			"id": "aZkLuyjPiV_jNMIXMhUZR",
 			"fillStyle": "solid",
@@ -1021,7 +1021,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1093,8 +1093,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 444,
-			"versionNonce": 662606907,
+			"version": 453,
+			"versionNonce": 1417381429,
 			"isDeleted": false,
 			"id": "2qB_uL2hxhDqwVU5WSYHh",
 			"fillStyle": "solid",
@@ -1113,7 +1113,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1240,8 +1240,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 488,
-			"versionNonce": 76554485,
+			"version": 497,
+			"versionNonce": 1737417627,
 			"isDeleted": false,
 			"id": "kJqfhSkUEe2vhr3_Du19m",
 			"fillStyle": "solid",
@@ -1260,7 +1260,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1607,8 +1607,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 433,
-			"versionNonce": 1689670875,
+			"version": 442,
+			"versionNonce": 1207367573,
 			"isDeleted": false,
 			"id": "FNjAlIbAoqWeT4TrfKPUP",
 			"fillStyle": "solid",
@@ -1627,7 +1627,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1699,8 +1699,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 436,
-			"versionNonce": 673856085,
+			"version": 445,
+			"versionNonce": 281393211,
 			"isDeleted": false,
 			"id": "pcGvaJv37sASlEGkjyo7X",
 			"fillStyle": "solid",
@@ -1719,7 +1719,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1806,8 +1806,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 460,
-			"versionNonce": 1919746427,
+			"version": 469,
+			"versionNonce": 297614581,
 			"isDeleted": false,
 			"id": "qeSeHJ9QxVaT2QxETDYLO",
 			"fillStyle": "solid",
@@ -1826,7 +1826,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405013,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2033,8 +2033,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 465,
-			"versionNonce": 2012882869,
+			"version": 474,
+			"versionNonce": 1635317979,
 			"isDeleted": false,
 			"id": "GXBHSdvLi4Y4WQYBHP7Bm",
 			"fillStyle": "solid",
@@ -2053,7 +2053,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2285,8 +2285,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 446,
-			"versionNonce": 971315739,
+			"version": 455,
+			"versionNonce": 1230231125,
 			"isDeleted": false,
 			"id": "qYK9ZHIcopfeiao1MJmq_",
 			"fillStyle": "solid",
@@ -2305,7 +2305,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2442,8 +2442,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 458,
-			"versionNonce": 371550485,
+			"version": 467,
+			"versionNonce": 121316731,
 			"isDeleted": false,
 			"id": "6_hVgpEdLt6bPSFZscSoB",
 			"fillStyle": "solid",
@@ -2462,7 +2462,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2659,8 +2659,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 462,
-			"versionNonce": 1477516987,
+			"version": 471,
+			"versionNonce": 2039497653,
 			"isDeleted": false,
 			"id": "sX0oiJPq1KVilR7zE8i7X",
 			"fillStyle": "solid",
@@ -2679,7 +2679,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2896,8 +2896,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 436,
-			"versionNonce": 1143045749,
+			"version": 445,
+			"versionNonce": 1498332699,
 			"isDeleted": false,
 			"id": "l04XkTnYUpvF8Jih6s1Fc",
 			"fillStyle": "solid",
@@ -2916,7 +2916,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3003,8 +3003,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 434,
-			"versionNonce": 663981915,
+			"version": 443,
+			"versionNonce": 915932437,
 			"isDeleted": false,
 			"id": "J-4MP17qlC668oa9Q2V49",
 			"fillStyle": "solid",
@@ -3023,7 +3023,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3100,8 +3100,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "ellipse",
-			"version": 465,
-			"versionNonce": 2025056213,
+			"version": 474,
+			"versionNonce": 581321403,
 			"isDeleted": false,
 			"id": "p-ap0RHBJzBmb55dCSHwa",
 			"fillStyle": "solid",
@@ -3120,14 +3120,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 505,
-			"versionNonce": 180284411,
+			"version": 514,
+			"versionNonce": 1944099445,
 			"isDeleted": false,
 			"id": "wbJQtJjCgCVcSe45zuPBG",
 			"fillStyle": "solid",
@@ -3146,14 +3146,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 905061685,
+			"version": 427,
+			"versionNonce": 736375643,
 			"isDeleted": false,
 			"id": "oCepxoN4wbKgp5Lc0h7uP",
 			"fillStyle": "solid",
@@ -3172,7 +3172,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3759,8 +3759,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 429,
-			"versionNonce": 1972745371,
+			"version": 438,
+			"versionNonce": 439321557,
 			"isDeleted": false,
 			"id": "Maj7Z62f2a9E4dcZllSJw",
 			"fillStyle": "solid",
@@ -3779,7 +3779,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3800,8 +3800,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 388,
-			"versionNonce": 524400277,
+			"version": 397,
+			"versionNonce": 89853947,
 			"isDeleted": false,
 			"id": "stSo3j0kz6pAy-Yar9bJ9",
 			"fillStyle": "solid",
@@ -3820,7 +3820,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045660,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4292,8 +4292,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 936012091,
+			"version": 319,
+			"versionNonce": 1570390325,
 			"isDeleted": false,
 			"id": "nslpQSEbF38C50IH5z2Rb",
 			"fillStyle": "solid",
@@ -4312,7 +4312,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4394,8 +4394,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 311,
-			"versionNonce": 1331174389,
+			"version": 320,
+			"versionNonce": 286087323,
 			"isDeleted": false,
 			"id": "cvmKEuzTcTwNEsdaUp12A",
 			"fillStyle": "solid",
@@ -4414,7 +4414,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4501,8 +4501,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 384,
-			"versionNonce": 113215963,
+			"version": 393,
+			"versionNonce": 1401311893,
 			"isDeleted": false,
 			"id": "YelTMSkX54nPgmRx5OYyP",
 			"fillStyle": "solid",
@@ -4521,7 +4521,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4542,8 +4542,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 312,
-			"versionNonce": 1849349461,
+			"version": 321,
+			"versionNonce": 1286442299,
 			"isDeleted": false,
 			"id": "AX-Z5ketCUCUSfInE0NNw",
 			"fillStyle": "solid",
@@ -4562,7 +4562,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4654,8 +4654,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 307,
-			"versionNonce": 1200068219,
+			"version": 316,
+			"versionNonce": 1219049461,
 			"isDeleted": false,
 			"id": "7FZ-rliYGM6zIZV5tyjFr",
 			"fillStyle": "solid",
@@ -4674,7 +4674,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4741,8 +4741,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 307,
-			"versionNonce": 121594549,
+			"version": 316,
+			"versionNonce": 1537093083,
 			"isDeleted": false,
 			"id": "fErVMHHslCVCtGMM4cEHt",
 			"fillStyle": "solid",
@@ -4761,7 +4761,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4828,8 +4828,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 336,
-			"versionNonce": 417664795,
+			"version": 345,
+			"versionNonce": 1460171093,
 			"isDeleted": false,
 			"id": "5xGE-f_llEGmM9y6VOXuR",
 			"fillStyle": "solid",
@@ -4848,7 +4848,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5060,8 +5060,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 415,
-			"versionNonce": 520832021,
+			"version": 424,
+			"versionNonce": 1358019195,
 			"isDeleted": false,
 			"id": "brtt5sopuAGsPqJkwenSR",
 			"fillStyle": "solid",
@@ -5080,7 +5080,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5687,8 +5687,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 328,
-			"versionNonce": 491418555,
+			"version": 337,
+			"versionNonce": 1006206645,
 			"isDeleted": false,
 			"id": "O0b3heWXsjgyCBeoyDHW4",
 			"fillStyle": "solid",
@@ -5707,7 +5707,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5879,8 +5879,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 504,
-			"versionNonce": 160692597,
+			"version": 513,
+			"versionNonce": 963293979,
 			"isDeleted": false,
 			"id": "CZBGr_2J7a520-99zrlSw",
 			"fillStyle": "solid",
@@ -5899,7 +5899,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6661,8 +6661,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 348,
-			"versionNonce": 81413211,
+			"version": 357,
+			"versionNonce": 1847713813,
 			"isDeleted": false,
 			"id": "0P5oT44H_4svh2nz31BHz",
 			"fillStyle": "solid",
@@ -6681,7 +6681,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405014,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6758,8 +6758,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 395,
-			"versionNonce": 2032341,
+			"version": 404,
+			"versionNonce": 1702598587,
 			"isDeleted": false,
 			"id": "3UTpBaBg3J6XEPf2kaN4N",
 			"fillStyle": "solid",
@@ -6778,7 +6778,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6940,8 +6940,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 1466368251,
+			"version": 386,
+			"versionNonce": 1937184117,
 			"isDeleted": false,
 			"id": "oihCkBkAU7g08sZLDbFVw",
 			"fillStyle": "solid",
@@ -6960,7 +6960,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7397,8 +7397,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 2000805941,
+			"version": 325,
+			"versionNonce": 1934026843,
 			"isDeleted": false,
 			"id": "wYR26CDHsCW9x9mZ3Be-b",
 			"fillStyle": "solid",
@@ -7417,7 +7417,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7549,8 +7549,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 380,
-			"versionNonce": 2121476507,
+			"version": 389,
+			"versionNonce": 2000592597,
 			"isDeleted": false,
 			"id": "ynp0jsU3eVuOLz0HECP2Y",
 			"fillStyle": "solid",
@@ -7569,7 +7569,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8016,8 +8016,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 438,
-			"versionNonce": 887230869,
+			"version": 447,
+			"versionNonce": 413082875,
 			"isDeleted": false,
 			"id": "Blfqo58IMrW51_JLwIUPX",
 			"fillStyle": "solid",
@@ -8036,7 +8036,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8198,8 +8198,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 439,
-			"versionNonce": 254885435,
+			"version": 448,
+			"versionNonce": 537787445,
 			"isDeleted": false,
 			"id": "VeKoipsvLwuLzMUnP-iMY",
 			"fillStyle": "solid",
@@ -8218,7 +8218,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8385,8 +8385,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 416,
-			"versionNonce": 641013493,
+			"version": 425,
+			"versionNonce": 755420571,
 			"isDeleted": false,
 			"id": "gDM3EWTsjPFppcWVkypsr",
 			"fillStyle": "solid",
@@ -8405,7 +8405,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8457,8 +8457,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 416,
-			"versionNonce": 1417920219,
+			"version": 425,
+			"versionNonce": 634039701,
 			"isDeleted": false,
 			"id": "fcHxF17-7MT_kpIv7j7SO",
 			"fillStyle": "solid",
@@ -8477,7 +8477,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8529,8 +8529,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 448,
-			"versionNonce": 1975545941,
+			"version": 457,
+			"versionNonce": 1940939323,
 			"isDeleted": false,
 			"id": "3QxfIhQ6GNs2qfwW6RD5Z",
 			"fillStyle": "solid",
@@ -8549,7 +8549,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8756,8 +8756,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 410,
-			"versionNonce": 419244923,
+			"version": 419,
+			"versionNonce": 665465589,
 			"isDeleted": false,
 			"id": "iJnzbSb6BT2ZFCcnoEyta",
 			"fillStyle": "solid",
@@ -8776,7 +8776,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045661,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8798,8 +8798,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 441,
-			"versionNonce": 1633263029,
+			"version": 450,
+			"versionNonce": 629039835,
 			"isDeleted": false,
 			"id": "E5f1XxNc23VoE2Mr-Fz8Q",
 			"fillStyle": "solid",
@@ -8818,7 +8818,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8990,8 +8990,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 819987483,
+			"version": 427,
+			"versionNonce": 1110576213,
 			"isDeleted": false,
 			"id": "nxVu3RkdOoz15crA-u6Wu",
 			"fillStyle": "solid",
@@ -9010,7 +9010,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9072,8 +9072,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 1344675605,
+			"version": 427,
+			"versionNonce": 990072699,
 			"isDeleted": false,
 			"id": "muZtcrKSOdFkjUjj2_7Ab",
 			"fillStyle": "solid",
@@ -9092,7 +9092,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9154,8 +9154,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 459,
-			"versionNonce": 1142868155,
+			"version": 468,
+			"versionNonce": 1698150837,
 			"isDeleted": false,
 			"id": "rNvMhpvSdsA2JRFgIDYEo",
 			"fillStyle": "solid",
@@ -9174,7 +9174,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9441,8 +9441,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 415,
-			"versionNonce": 681276533,
+			"version": 424,
+			"versionNonce": 1988208667,
 			"isDeleted": false,
 			"id": "rYgS6ZNp61DESQpL-8a9Q",
 			"fillStyle": "solid",
@@ -9461,7 +9461,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9508,8 +9508,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 1482422619,
+			"version": 427,
+			"versionNonce": 1776335637,
 			"isDeleted": false,
 			"id": "HDrRYpUYVpLCXzQEjFN9U",
 			"fillStyle": "solid",
@@ -9528,7 +9528,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9590,8 +9590,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 434,
-			"versionNonce": 1719606741,
+			"version": 443,
+			"versionNonce": 770436283,
 			"isDeleted": false,
 			"id": "MKPewGoG8_Q-g66kf5lNF",
 			"fillStyle": "solid",
@@ -9610,7 +9610,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9847,8 +9847,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 431,
-			"versionNonce": 451548667,
+			"version": 440,
+			"versionNonce": 1755484277,
 			"isDeleted": false,
 			"id": "zzBftJoaSzcNNKn-wklD1",
 			"fillStyle": "solid",
@@ -9867,7 +9867,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10004,8 +10004,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 410,
-			"versionNonce": 1894161205,
+			"version": 419,
+			"versionNonce": 1424268635,
 			"isDeleted": false,
 			"id": "hZs94dT8YBtlxk8-8rzaP",
 			"fillStyle": "solid",
@@ -10024,7 +10024,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10141,8 +10141,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 461,
-			"versionNonce": 1791729307,
+			"version": 470,
+			"versionNonce": 1329773013,
 			"isDeleted": false,
 			"id": "m-A2GzVZysuVz-fzzdZux",
 			"fillStyle": "solid",
@@ -10161,7 +10161,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10453,8 +10453,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 455,
-			"versionNonce": 808938645,
+			"version": 464,
+			"versionNonce": 1186871803,
 			"isDeleted": false,
 			"id": "Q0SOR3AybMjMg7kcbv4ax",
 			"fillStyle": "solid",
@@ -10473,7 +10473,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10735,8 +10735,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 414,
-			"versionNonce": 582161211,
+			"version": 423,
+			"versionNonce": 920041269,
 			"isDeleted": false,
 			"id": "p1DadT-RvaQxggTorxjVb",
 			"fillStyle": "solid",
@@ -10755,7 +10755,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405015,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10812,8 +10812,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 1680282101,
+			"version": 422,
+			"versionNonce": 1350255259,
 			"isDeleted": false,
 			"id": "2n4cErfwS4Uc7AH6zyrg9",
 			"fillStyle": "solid",
@@ -10832,7 +10832,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10884,8 +10884,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 438,
-			"versionNonce": 587396059,
+			"version": 447,
+			"versionNonce": 2042890389,
 			"isDeleted": false,
 			"id": "ABzw6ZisQIz1kr_kmT6WC",
 			"fillStyle": "solid",
@@ -10904,7 +10904,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11081,8 +11081,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 456,
-			"versionNonce": 968559445,
+			"version": 465,
+			"versionNonce": 2060334907,
 			"isDeleted": false,
 			"id": "Dym0Pa0vCGqTif91JszDQ",
 			"fillStyle": "solid",
@@ -11101,7 +11101,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11368,8 +11368,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 432,
-			"versionNonce": 466468987,
+			"version": 441,
+			"versionNonce": 163589621,
 			"isDeleted": false,
 			"id": "W-RQQ2JP-lHUYIK7TH6j9",
 			"fillStyle": "solid",
@@ -11388,7 +11388,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11530,8 +11530,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 437,
-			"versionNonce": 558422197,
+			"version": 446,
+			"versionNonce": 337221595,
 			"isDeleted": false,
 			"id": "r9lSTXQTNn1XTj1LY49SM",
 			"fillStyle": "solid",
@@ -11550,7 +11550,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11722,8 +11722,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 426,
-			"versionNonce": 383121691,
+			"version": 435,
+			"versionNonce": 97560405,
 			"isDeleted": false,
 			"id": "rXOPYb1bUcAU2cbFXHimm",
 			"fillStyle": "solid",
@@ -11742,7 +11742,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11859,8 +11859,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 1685453333,
+			"version": 421,
+			"versionNonce": 2054153339,
 			"isDeleted": false,
 			"id": "AqK9cR1L34XOs1M_p-1fi",
 			"fillStyle": "solid",
@@ -11879,7 +11879,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11926,8 +11926,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 414,
-			"versionNonce": 1099832763,
+			"version": 423,
+			"versionNonce": 273347765,
 			"isDeleted": false,
 			"id": "RChFTGzNNXdMfVlsNRR7_",
 			"fillStyle": "solid",
@@ -11946,7 +11946,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12003,8 +12003,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 433,
-			"versionNonce": 2084040565,
+			"version": 442,
+			"versionNonce": 630431003,
 			"isDeleted": false,
 			"id": "6K7gEXZ22iLYRo3NrvIUx",
 			"fillStyle": "solid",
@@ -12023,7 +12023,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045662,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12260,8 +12260,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 404,
-			"versionNonce": 1998106203,
+			"version": 413,
+			"versionNonce": 1691653653,
 			"isDeleted": false,
 			"id": "o19qpv1v-1fy_sjPfQcDl",
 			"fillStyle": "solid",
@@ -12280,7 +12280,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12372,8 +12372,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 651442389,
+			"version": 421,
+			"versionNonce": 1895252411,
 			"isDeleted": false,
 			"id": "q4NFmAt3w7dLfC1RITKLR",
 			"fillStyle": "solid",
@@ -12392,7 +12392,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12439,8 +12439,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 399,
-			"versionNonce": 172501755,
+			"version": 408,
+			"versionNonce": 778242933,
 			"isDeleted": false,
 			"id": "pkL4V60YtBBQ4MadSEvxu",
 			"fillStyle": "solid",
@@ -12459,7 +12459,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12526,8 +12526,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 438,
-			"versionNonce": 1038112309,
+			"version": 447,
+			"versionNonce": 633164379,
 			"isDeleted": false,
 			"id": "x-IsUPVcRou7CEpnwsU4N",
 			"fillStyle": "solid",
@@ -12546,7 +12546,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12723,8 +12723,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 404,
-			"versionNonce": 1335825307,
+			"version": 413,
+			"versionNonce": 490460373,
 			"isDeleted": false,
 			"id": "2UhO6QFUJMA4tH7WYitxQ",
 			"fillStyle": "solid",
@@ -12743,7 +12743,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12835,8 +12835,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 1279379349,
+			"version": 421,
+			"versionNonce": 1152929531,
 			"isDeleted": false,
 			"id": "xmLuVsX_2Dusoa1fvO2kz",
 			"fillStyle": "solid",
@@ -12855,7 +12855,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12897,8 +12897,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 437,
-			"versionNonce": 1733290043,
+			"version": 446,
+			"versionNonce": 1022652981,
 			"isDeleted": false,
 			"id": "3-hcBh_zH_bnFLEasToes",
 			"fillStyle": "solid",
@@ -12917,7 +12917,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13089,8 +13089,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 440,
-			"versionNonce": 1680739573,
+			"version": 449,
+			"versionNonce": 275429275,
 			"isDeleted": false,
 			"id": "nik0Sx0qGeEF5UAxobwc4",
 			"fillStyle": "solid",
@@ -13109,7 +13109,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13296,8 +13296,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 439,
-			"versionNonce": 1195190491,
+			"version": 448,
+			"versionNonce": 175268757,
 			"isDeleted": false,
 			"id": "FxixfK-DcNusFViMBF77G",
 			"fillStyle": "solid",
@@ -13316,7 +13316,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13498,8 +13498,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 891987541,
+			"version": 421,
+			"versionNonce": 1460079675,
 			"isDeleted": false,
 			"id": "vvqFJMzvM_ByLqpWXiVs8",
 			"fillStyle": "solid",
@@ -13518,7 +13518,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13565,8 +13565,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 83449211,
+			"version": 422,
+			"versionNonce": 1240148213,
 			"isDeleted": false,
 			"id": "tH5G063w_Awgqiw0ZM7qi",
 			"fillStyle": "solid",
@@ -13585,7 +13585,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13637,8 +13637,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 435,
-			"versionNonce": 1645024181,
+			"version": 444,
+			"versionNonce": 2087701723,
 			"isDeleted": false,
 			"id": "M7wwPPPbDvQyro5gMm8Zt",
 			"fillStyle": "solid",
@@ -13657,7 +13657,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13819,8 +13819,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 323,
-			"versionNonce": 1606872603,
+			"version": 332,
+			"versionNonce": 484721237,
 			"isDeleted": false,
 			"id": "FS8nAmp5MEE-EtBmQvx4z",
 			"fillStyle": "solid",
@@ -13839,7 +13839,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405016,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14061,8 +14061,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 389,
-			"versionNonce": 385537301,
+			"version": 398,
+			"versionNonce": 1144486267,
 			"isDeleted": false,
 			"id": "1ez19k29",
 			"fillStyle": "solid",
@@ -14081,14 +14081,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Inertimomentet for den lille cylinderiske masse",
 			"rawText": "Inertimomentet for den lille cylinderiske masse",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -14096,8 +14096,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 342,
-			"versionNonce": 177763003,
+			"version": 351,
+			"versionNonce": 1479749557,
 			"isDeleted": false,
 			"id": "yHtofPqS6qG-txZehS4rm",
 			"fillStyle": "solid",
@@ -14116,7 +14116,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14378,8 +14378,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 1600744053,
+			"version": 317,
+			"versionNonce": 1537249819,
 			"isDeleted": false,
 			"id": "OzBuVXpfI-z3HvgRnYqI5",
 			"fillStyle": "solid",
@@ -14398,7 +14398,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14490,8 +14490,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 304,
-			"versionNonce": 907043675,
+			"version": 313,
+			"versionNonce": 436039957,
 			"isDeleted": false,
 			"id": "Kt5qz9_zAv1p5VrGk3gdh",
 			"fillStyle": "solid",
@@ -14510,7 +14510,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14582,8 +14582,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 1008620501,
+			"version": 310,
+			"versionNonce": 597530299,
 			"isDeleted": false,
 			"id": "PC-V3UIEWtHDiSd8KzPS9",
 			"fillStyle": "solid",
@@ -14602,7 +14602,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14659,8 +14659,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 1518419963,
+			"version": 310,
+			"versionNonce": 532186741,
 			"isDeleted": false,
 			"id": "rfG9JpNCXUgTXUilISw-s",
 			"fillStyle": "solid",
@@ -14679,7 +14679,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14736,8 +14736,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 2033127733,
+			"version": 310,
+			"versionNonce": 986777435,
 			"isDeleted": false,
 			"id": "zrgDtOspSjH_o3_gkUKoc",
 			"fillStyle": "solid",
@@ -14756,7 +14756,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045663,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14813,8 +14813,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 302,
-			"versionNonce": 1106086043,
+			"version": 311,
+			"versionNonce": 1546252245,
 			"isDeleted": false,
 			"id": "YbZF-PutPP6ALnV-NgVRW",
 			"fillStyle": "solid",
@@ -14833,7 +14833,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14895,8 +14895,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 319,
-			"versionNonce": 1140925077,
+			"version": 328,
+			"versionNonce": 1200448507,
 			"isDeleted": false,
 			"id": "CKTKTn-xJlYHiXotDzANf",
 			"fillStyle": "solid",
@@ -14915,7 +14915,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15062,8 +15062,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 315,
-			"versionNonce": 1376238907,
+			"version": 324,
+			"versionNonce": 1298607413,
 			"isDeleted": false,
 			"id": "x2PNLU13pdo23jFQ-1O3K",
 			"fillStyle": "solid",
@@ -15082,7 +15082,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15209,8 +15209,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 323,
-			"versionNonce": 21628917,
+			"version": 332,
+			"versionNonce": 30747803,
 			"isDeleted": false,
 			"id": "0mfjwJu7dOd9Q9sHOIVga",
 			"fillStyle": "solid",
@@ -15229,7 +15229,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15396,8 +15396,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 311,
-			"versionNonce": 372399579,
+			"version": 320,
+			"versionNonce": 315997845,
 			"isDeleted": false,
 			"id": "v3mBbBGM2N2XXD_PgD1B3",
 			"fillStyle": "solid",
@@ -15416,7 +15416,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15523,8 +15523,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 344,
-			"versionNonce": 1661944149,
+			"version": 353,
+			"versionNonce": 2103107899,
 			"isDeleted": false,
 			"id": "P-m97aRu_VblvlXUYxhnt",
 			"fillStyle": "solid",
@@ -15543,7 +15543,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15815,8 +15815,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 266,
-			"versionNonce": 159378043,
+			"version": 275,
+			"versionNonce": 1126900725,
 			"isDeleted": false,
 			"id": "xiGjjnB0",
 			"fillStyle": "solid",
@@ -15835,14 +15835,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Flytter med",
 			"rawText": "Flytter med",
-			"baseline": 17,
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -15850,8 +15850,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 1051086517,
+			"version": 265,
+			"versionNonce": 864092635,
 			"isDeleted": false,
 			"id": "lxN6vg_yiR4j_DslrPvkT",
 			"fillStyle": "solid",
@@ -15870,7 +15870,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15977,8 +15977,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 548594459,
+			"version": 257,
+			"versionNonce": 40688981,
 			"isDeleted": false,
 			"id": "3WGCiZrOhA5d_JOHusTeD",
 			"fillStyle": "solid",
@@ -15997,7 +15997,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16064,8 +16064,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 582266901,
+			"version": 258,
+			"versionNonce": 1297747579,
 			"isDeleted": false,
 			"id": "_jSxpj2XV_j4jRIo_hBYp",
 			"fillStyle": "solid",
@@ -16084,7 +16084,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16156,8 +16156,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 273,
-			"versionNonce": 339593147,
+			"version": 282,
+			"versionNonce": 1475373749,
 			"isDeleted": false,
 			"id": "AQozDAo-IoEdBReAaEvUn",
 			"fillStyle": "solid",
@@ -16176,7 +16176,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16368,8 +16368,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 758113653,
+			"version": 258,
+			"versionNonce": 766019355,
 			"isDeleted": false,
 			"id": "h-0BqLQw339crIkZ_Xj86",
 			"fillStyle": "solid",
@@ -16388,7 +16388,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16460,8 +16460,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 250,
-			"versionNonce": 1782782043,
+			"version": 259,
+			"versionNonce": 1146833941,
 			"isDeleted": false,
 			"id": "JlYW956bYh7mrAPe95qvW",
 			"fillStyle": "solid",
@@ -16480,7 +16480,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16557,8 +16557,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 559771349,
+			"version": 262,
+			"versionNonce": 987687867,
 			"isDeleted": false,
 			"id": "uc3uzdrAH2BM1Ye-vOPug",
 			"fillStyle": "solid",
@@ -16577,7 +16577,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16669,8 +16669,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 1083528443,
+			"version": 257,
+			"versionNonce": 396558709,
 			"isDeleted": false,
 			"id": "zelLBqthT4ovP-ngbdOep",
 			"fillStyle": "solid",
@@ -16689,7 +16689,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405017,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16756,8 +16756,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 1037225013,
+			"version": 258,
+			"versionNonce": 1763687515,
 			"isDeleted": false,
 			"id": "yHGpOuS14gRpdAdd10Ck9",
 			"fillStyle": "solid",
@@ -16776,7 +16776,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16848,8 +16848,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1454833051,
+			"version": 264,
+			"versionNonce": 118295253,
 			"isDeleted": false,
 			"id": "g4zwZm-aX50A8CAmXK16C",
 			"fillStyle": "solid",
@@ -16868,7 +16868,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16965,8 +16965,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 1383431573,
+			"version": 273,
+			"versionNonce": 71137531,
 			"isDeleted": false,
 			"id": "k7KShkYp4ZoaGBSXuV09C",
 			"fillStyle": "solid",
@@ -16985,7 +16985,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17127,8 +17127,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1473942075,
+			"version": 256,
+			"versionNonce": 53405749,
 			"isDeleted": false,
 			"id": "2f_6RezDTjzmPPUzOf3BC",
 			"fillStyle": "solid",
@@ -17147,7 +17147,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17209,8 +17209,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 377160437,
+			"version": 256,
+			"versionNonce": 968532379,
 			"isDeleted": false,
 			"id": "PrmbI9z_vj5-BTBE2kl_q",
 			"fillStyle": "solid",
@@ -17229,7 +17229,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17291,8 +17291,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 271,
-			"versionNonce": 1692570331,
+			"version": 280,
+			"versionNonce": 1307449749,
 			"isDeleted": false,
 			"id": "DPZOSOERBjDyFlW4PKgF4",
 			"fillStyle": "solid",
@@ -17311,7 +17311,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045664,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17493,8 +17493,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 1047059541,
+			"version": 265,
+			"versionNonce": 1657386555,
 			"isDeleted": false,
 			"id": "Hc3Sq0jxWBdKB0tPFExzG",
 			"fillStyle": "solid",
@@ -17513,7 +17513,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17620,8 +17620,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 275,
-			"versionNonce": 1583447931,
+			"version": 284,
+			"versionNonce": 1350573813,
 			"isDeleted": false,
 			"id": "eCbdVcUaohN3vvbHqVt72",
 			"fillStyle": "solid",
@@ -17640,7 +17640,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17842,8 +17842,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 1377077685,
+			"version": 265,
+			"versionNonce": 239941339,
 			"isDeleted": false,
 			"id": "noxsxCO2qpzhKNxRozosg",
 			"fillStyle": "solid",
@@ -17862,7 +17862,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17964,8 +17964,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 278,
-			"versionNonce": 1855576091,
+			"version": 287,
+			"versionNonce": 829061205,
 			"isDeleted": false,
 			"id": "1Trz7jQG0Kv501k90SxHg",
 			"fillStyle": "solid",
@@ -17984,7 +17984,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18201,8 +18201,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 1118014229,
+			"version": 267,
+			"versionNonce": 1255646075,
 			"isDeleted": false,
 			"id": "Lv80yg3S8Ud79iDFYyPln",
 			"fillStyle": "solid",
@@ -18221,7 +18221,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18338,8 +18338,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 1400773819,
+			"version": 272,
+			"versionNonce": 713205173,
 			"isDeleted": false,
 			"id": "5mPyLeRx_9rWJPlu4zedT",
 			"fillStyle": "solid",
@@ -18358,7 +18358,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18500,8 +18500,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 272,
-			"versionNonce": 1082876021,
+			"version": 281,
+			"versionNonce": 816544795,
 			"isDeleted": false,
 			"id": "iY-ss3LicbkySwspSQ5qY",
 			"fillStyle": "solid",
@@ -18520,7 +18520,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18707,8 +18707,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1756417371,
+			"version": 254,
+			"versionNonce": 518924053,
 			"isDeleted": false,
 			"id": "MM2JSfLAX8sPVuPuqJNxs",
 			"fillStyle": "solid",
@@ -18727,7 +18727,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18779,8 +18779,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 1368492501,
+			"version": 253,
+			"versionNonce": 733692091,
 			"isDeleted": false,
 			"id": "kCQXIu5MDgBUHt_r7cSZ9",
 			"fillStyle": "solid",
@@ -18799,7 +18799,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18846,8 +18846,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1904503291,
+			"version": 256,
+			"versionNonce": 1898085493,
 			"isDeleted": false,
 			"id": "dSlzyaMcqS7V2N7i94zV-",
 			"fillStyle": "solid",
@@ -18866,7 +18866,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18928,8 +18928,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 650872629,
+			"version": 254,
+			"versionNonce": 94990683,
 			"isDeleted": false,
 			"id": "uBQTJUeJ8w6p_9tHjsGBt",
 			"fillStyle": "solid",
@@ -18948,7 +18948,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19000,8 +19000,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 586904219,
+			"version": 263,
+			"versionNonce": 417670613,
 			"isDeleted": false,
 			"id": "LJ0GI0IhbLsHySK6vVNcA",
 			"fillStyle": "solid",
@@ -19020,7 +19020,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19117,8 +19117,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 849270933,
+			"version": 262,
+			"versionNonce": 801672699,
 			"isDeleted": false,
 			"id": "9IP4BJnmE8GERuDo03Q9b",
 			"fillStyle": "solid",
@@ -19137,7 +19137,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19229,8 +19229,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1841850171,
+			"version": 254,
+			"versionNonce": 2035000117,
 			"isDeleted": false,
 			"id": "v559qEwkdaTm77Vs7j-Y_",
 			"fillStyle": "solid",
@@ -19249,7 +19249,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19301,8 +19301,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 2126577141,
+			"version": 250,
+			"versionNonce": 1293620891,
 			"isDeleted": false,
 			"id": "jzfUz47aPZbASRtOBReJp",
 			"fillStyle": "solid",
@@ -19321,7 +19321,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19353,8 +19353,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 139315163,
+			"version": 265,
+			"versionNonce": 1991996565,
 			"isDeleted": false,
 			"id": "s8JrlbD3Z7FhzuXKhnOZm",
 			"fillStyle": "solid",
@@ -19373,7 +19373,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405018,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19480,8 +19480,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1110931285,
+			"version": 271,
+			"versionNonce": 2085849915,
 			"isDeleted": false,
 			"id": "XrhWj13SD169-3AiXMn_k",
 			"fillStyle": "solid",
@@ -19500,7 +19500,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19637,8 +19637,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 290,
-			"versionNonce": 949884027,
+			"version": 299,
+			"versionNonce": 1290410485,
 			"isDeleted": false,
 			"id": "bY6WHckbM7dABKeVQ1sV-",
 			"fillStyle": "solid",
@@ -19657,7 +19657,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19934,8 +19934,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 928498869,
+			"version": 257,
+			"versionNonce": 1641311195,
 			"isDeleted": false,
 			"id": "fLrOakuQWtIVfFqs06hL8",
 			"fillStyle": "solid",
@@ -19954,7 +19954,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20021,8 +20021,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1585171739,
+			"version": 254,
+			"versionNonce": 618468181,
 			"isDeleted": false,
 			"id": "TD1UFvwA1etUNU3_LFAYs",
 			"fillStyle": "solid",
@@ -20041,7 +20041,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20093,8 +20093,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 835151381,
+			"version": 253,
+			"versionNonce": 1907374203,
 			"isDeleted": false,
 			"id": "_1PK41cu4VdO2UkID1q1r",
 			"fillStyle": "solid",
@@ -20113,7 +20113,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045665,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20160,8 +20160,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 1029271995,
+			"version": 255,
+			"versionNonce": 1793712309,
 			"isDeleted": false,
 			"id": "pgEuvtQIqumrt2O8q8slc",
 			"fillStyle": "solid",
@@ -20180,7 +20180,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20237,8 +20237,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 1954274165,
+			"version": 258,
+			"versionNonce": 2041147675,
 			"isDeleted": false,
 			"id": "ixpOKipYp6V3BHFfpmhth",
 			"fillStyle": "solid",
@@ -20257,7 +20257,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20329,8 +20329,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 106529371,
+			"version": 255,
+			"versionNonce": 1689649685,
 			"isDeleted": false,
 			"id": "UbzaxJ0qCZQYLdTibh_JQ",
 			"fillStyle": "solid",
@@ -20349,7 +20349,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20406,8 +20406,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 1203414229,
+			"version": 270,
+			"versionNonce": 1798477243,
 			"isDeleted": false,
 			"id": "8xzCSZuIgpVIqDc2wvwVF",
 			"fillStyle": "solid",
@@ -20426,7 +20426,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20558,8 +20558,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 575569659,
+			"version": 277,
+			"versionNonce": 121042805,
 			"isDeleted": false,
 			"id": "Wb198RjVYNdDEN22ON5eX",
 			"fillStyle": "solid",
@@ -20578,7 +20578,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20745,8 +20745,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1327055413,
+			"version": 264,
+			"versionNonce": 1701717595,
 			"isDeleted": false,
 			"id": "Sgj3C84B_zEr9bY3saCaO",
 			"fillStyle": "solid",
@@ -20765,7 +20765,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20867,8 +20867,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 1002104731,
+			"version": 266,
+			"versionNonce": 213008597,
 			"isDeleted": false,
 			"id": "6wSwAHgMBHIv-x7yjO8Ql",
 			"fillStyle": "solid",
@@ -20887,7 +20887,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20999,8 +20999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 528298901,
+			"version": 256,
+			"versionNonce": 2133762811,
 			"isDeleted": false,
 			"id": "wTc3C-1pFtFWYfC1joqR1",
 			"fillStyle": "solid",
@@ -21019,7 +21019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21081,8 +21081,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 147930171,
+			"version": 253,
+			"versionNonce": 1253924405,
 			"isDeleted": false,
 			"id": "V3EUtvB2YQJ3E_5qWzX01",
 			"fillStyle": "solid",
@@ -21101,7 +21101,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21148,8 +21148,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 354154741,
+			"version": 273,
+			"versionNonce": 1358334875,
 			"isDeleted": false,
 			"id": "D9pmmNKGfHzAmR3B544U3",
 			"fillStyle": "solid",
@@ -21168,7 +21168,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21315,8 +21315,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 1433664731,
+			"version": 251,
+			"versionNonce": 1212010389,
 			"isDeleted": false,
 			"id": "CFR4ctF3w9BCZskLk9Ct6",
 			"fillStyle": "solid",
@@ -21335,7 +21335,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21367,8 +21367,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 1769673301,
+			"version": 267,
+			"versionNonce": 1056464955,
 			"isDeleted": false,
 			"id": "HC19b3t4nOZPBNUEIsLOb",
 			"fillStyle": "solid",
@@ -21387,7 +21387,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21504,8 +21504,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 280,
-			"versionNonce": 1295362427,
+			"version": 289,
+			"versionNonce": 325653749,
 			"isDeleted": false,
 			"id": "6qFd6Qp9Y5QZeNXX4siIC",
 			"fillStyle": "solid",
@@ -21524,7 +21524,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21751,8 +21751,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 158334901,
+			"version": 255,
+			"versionNonce": 51814619,
 			"isDeleted": false,
 			"id": "vzVTa4d-mPUcnQkq8gvCh",
 			"fillStyle": "solid",
@@ -21771,7 +21771,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21828,8 +21828,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 89702939,
+			"version": 254,
+			"versionNonce": 1472507477,
 			"isDeleted": false,
 			"id": "K80d3b2y2WFW8RzG54kY2",
 			"fillStyle": "solid",
@@ -21848,7 +21848,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21900,8 +21900,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 723534101,
+			"version": 263,
+			"versionNonce": 1994640763,
 			"isDeleted": false,
 			"id": "0SvtyN0rxa-2dgMU7KxR7",
 			"fillStyle": "solid",
@@ -21920,7 +21920,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22017,8 +22017,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 1188021947,
+			"version": 268,
+			"versionNonce": 874912693,
 			"isDeleted": false,
 			"id": "fq1bEbBAFR63DB-PmAxVC",
 			"fillStyle": "solid",
@@ -22037,7 +22037,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405019,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22159,8 +22159,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 260,
-			"versionNonce": 604067445,
+			"version": 269,
+			"versionNonce": 497182235,
 			"isDeleted": false,
 			"id": "7-rFjyl8D59d9E71vdYIS",
 			"fillStyle": "solid",
@@ -22179,7 +22179,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22316,8 +22316,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 328,
-			"versionNonce": 406665051,
+			"version": 337,
+			"versionNonce": 1353899285,
 			"isDeleted": false,
 			"id": "ATAkSa96qg_2wafBRDMBY",
 			"fillStyle": "solid",
@@ -22336,7 +22336,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22608,8 +22608,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 288,
-			"versionNonce": 2128134101,
+			"version": 297,
+			"versionNonce": 1850010299,
 			"isDeleted": false,
 			"id": "oqV67SNbgIpgf1uUQt64u",
 			"fillStyle": "solid",
@@ -22628,7 +22628,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22700,8 +22700,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 287,
-			"versionNonce": 133403643,
+			"version": 296,
+			"versionNonce": 887124597,
 			"isDeleted": false,
 			"id": "2NDYTwdI9rFePzVDGoe1o",
 			"fillStyle": "solid",
@@ -22720,7 +22720,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045666,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22787,8 +22787,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 286,
-			"versionNonce": 1371274549,
+			"version": 295,
+			"versionNonce": 1567480667,
 			"isDeleted": false,
 			"id": "MYtYaMTJgtQZWmtr2z7eP",
 			"fillStyle": "solid",
@@ -22807,7 +22807,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22869,8 +22869,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 284,
-			"versionNonce": 905272475,
+			"version": 293,
+			"versionNonce": 1567906773,
 			"isDeleted": false,
 			"id": "U7nlcHhJuHejDAxsHV-e_",
 			"fillStyle": "solid",
@@ -22889,7 +22889,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22941,8 +22941,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 319,
-			"versionNonce": 1410371221,
+			"version": 328,
+			"versionNonce": 661633019,
 			"isDeleted": false,
 			"id": "OBrhxq9OxwHayMqNnZ3p9",
 			"fillStyle": "solid",
@@ -22961,7 +22961,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23188,8 +23188,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 284,
-			"versionNonce": 502599995,
+			"version": 293,
+			"versionNonce": 310647093,
 			"isDeleted": false,
 			"id": "9hmfKBE5__19a-cpE56vD",
 			"fillStyle": "solid",
@@ -23208,7 +23208,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23260,8 +23260,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 286,
-			"versionNonce": 881587189,
+			"version": 295,
+			"versionNonce": 1514995867,
 			"isDeleted": false,
 			"id": "1_Dq4gajvTA-3xgCaoqCg",
 			"fillStyle": "solid",
@@ -23280,7 +23280,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23342,8 +23342,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 285,
-			"versionNonce": 559231451,
+			"version": 294,
+			"versionNonce": 2104830613,
 			"isDeleted": false,
 			"id": "sTDe4Y2yDAyaeNqMNYbgq",
 			"fillStyle": "solid",
@@ -23362,7 +23362,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23419,8 +23419,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 299,
-			"versionNonce": 791915861,
+			"version": 308,
+			"versionNonce": 532165947,
 			"isDeleted": false,
 			"id": "G3Eq4KC2VrgPpcnuLMSGX",
 			"fillStyle": "solid",
@@ -23439,7 +23439,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23566,8 +23566,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 1361591931,
+			"version": 255,
+			"versionNonce": 2130513909,
 			"isDeleted": false,
 			"id": "DK4c9-3TUJARyToRVI8HI",
 			"fillStyle": "solid",
@@ -23586,7 +23586,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23683,8 +23683,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 1667054261,
+			"version": 272,
+			"versionNonce": 1192482267,
 			"isDeleted": false,
 			"id": "QTLPV_pBYZEecXQ17Z3at",
 			"fillStyle": "solid",
@@ -23703,7 +23703,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23885,8 +23885,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 382,
-			"versionNonce": 2016458523,
+			"version": 391,
+			"versionNonce": 1159809365,
 			"isDeleted": false,
 			"id": "9B18FUuEWfpuWGBYeqCrv",
 			"fillStyle": "solid",
@@ -23905,7 +23905,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24002,8 +24002,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 380,
-			"versionNonce": 1773018133,
+			"version": 389,
+			"versionNonce": 259154555,
 			"isDeleted": false,
 			"id": "UvK8RcpfZXYl9CRndvhYx",
 			"fillStyle": "solid",
@@ -24022,7 +24022,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24109,8 +24109,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 382,
-			"versionNonce": 1692474299,
+			"version": 391,
+			"versionNonce": 557274805,
 			"isDeleted": false,
 			"id": "1BQrctsKNXYrbFQAgagMI",
 			"fillStyle": "solid",
@@ -24129,7 +24129,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24226,8 +24226,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 387,
-			"versionNonce": 706466165,
+			"version": 396,
+			"versionNonce": 831937307,
 			"isDeleted": false,
 			"id": "Zb9E-q08oTau6LCQxoKH4",
 			"fillStyle": "solid",
@@ -24246,7 +24246,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24368,8 +24368,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1935404123,
+			"version": 381,
+			"versionNonce": 501528597,
 			"isDeleted": false,
 			"id": "spHjtfuwppfr2DaxJtkf-",
 			"fillStyle": "solid",
@@ -24388,7 +24388,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24435,8 +24435,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 1911282389,
+			"version": 382,
+			"versionNonce": 703741883,
 			"isDeleted": false,
 			"id": "psrXt00AgOMj49p5oNLPG",
 			"fillStyle": "solid",
@@ -24455,7 +24455,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24507,8 +24507,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 378,
-			"versionNonce": 1467197691,
+			"version": 387,
+			"versionNonce": 1428090229,
 			"isDeleted": false,
 			"id": "sTkNGFY0SkPQ6fcSOZjVJ",
 			"fillStyle": "solid",
@@ -24527,7 +24527,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24604,8 +24604,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 343,
-			"versionNonce": 1236514869,
+			"version": 352,
+			"versionNonce": 1118343259,
 			"isDeleted": false,
 			"id": "4iweN0lnJwWoIzQKpKHbu",
 			"fillStyle": "solid",
@@ -24624,7 +24624,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24741,8 +24741,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 332,
-			"versionNonce": 648728987,
+			"version": 341,
+			"versionNonce": 103511765,
 			"isDeleted": false,
 			"id": "RK068ryHqPDCCAaHesSIp",
 			"fillStyle": "solid",
@@ -24761,7 +24761,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24823,8 +24823,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 416,
-			"versionNonce": 190376341,
+			"version": 425,
+			"versionNonce": 1569443067,
 			"isDeleted": false,
 			"id": "ZNQMc1PfHJuSZyryZPmuE",
 			"fillStyle": "solid",
@@ -24843,7 +24843,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405020,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24915,8 +24915,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 407,
-			"versionNonce": 573826619,
+			"version": 416,
+			"versionNonce": 1805636661,
 			"isDeleted": false,
 			"id": "rVG0zim9FGiWOYjYCVK34",
 			"fillStyle": "solid",
@@ -24935,7 +24935,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25017,8 +25017,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 398,
-			"versionNonce": 940633845,
+			"version": 407,
+			"versionNonce": 2115925403,
 			"isDeleted": false,
 			"id": "c6qRcHfKUWMQu31bvpgMP",
 			"fillStyle": "solid",
@@ -25037,7 +25037,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045667,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25194,8 +25194,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 394,
-			"versionNonce": 1089562331,
+			"version": 403,
+			"versionNonce": 1365345685,
 			"isDeleted": false,
 			"id": "cENO_XPdvvjJdvIFtXPeU",
 			"fillStyle": "solid",
@@ -25214,7 +25214,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25351,8 +25351,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 388,
-			"versionNonce": 241256533,
+			"version": 397,
+			"versionNonce": 328403515,
 			"isDeleted": false,
 			"id": "k3-RO5QHs00tG-MFW_iaK",
 			"fillStyle": "solid",
@@ -25371,7 +25371,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25478,8 +25478,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 313,
-			"versionNonce": 2037764987,
+			"version": 322,
+			"versionNonce": 1789266677,
 			"isDeleted": false,
 			"id": "0u10IxdkvBQVcs__GAPhx",
 			"fillStyle": "solid",
@@ -25498,7 +25498,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25570,8 +25570,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 1612674485,
+			"version": 319,
+			"versionNonce": 46926555,
 			"isDeleted": false,
 			"id": "lWiYTPts-LziFwnrbfyfq",
 			"fillStyle": "solid",
@@ -25590,7 +25590,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25647,8 +25647,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 1275309083,
+			"version": 329,
+			"versionNonce": 1743971413,
 			"isDeleted": false,
 			"id": "hfeZN1vl2XHrzvJbtUNaJ",
 			"fillStyle": "solid",
@@ -25667,7 +25667,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25774,8 +25774,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 318,
-			"versionNonce": 678491925,
+			"version": 327,
+			"versionNonce": 1885075323,
 			"isDeleted": false,
 			"id": "vbI670QsfcUatceqqGet-",
 			"fillStyle": "solid",
@@ -25794,7 +25794,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25891,8 +25891,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 210596027,
+			"version": 317,
+			"versionNonce": 1293783477,
 			"isDeleted": false,
 			"id": "0-j0jjE9l3EeqWlgoDrds",
 			"fillStyle": "solid",
@@ -25911,7 +25911,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25963,8 +25963,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 1640713333,
+			"version": 317,
+			"versionNonce": 1250250779,
 			"isDeleted": false,
 			"id": "_TeIQk-uxHjtYfsBJlzaq",
 			"fillStyle": "solid",
@@ -25983,7 +25983,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26035,8 +26035,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 317,
-			"versionNonce": 1823842651,
+			"version": 326,
+			"versionNonce": 122393365,
 			"isDeleted": false,
 			"id": "nnRGkmY-ddfmq-XjwYNEb",
 			"fillStyle": "solid",
@@ -26055,7 +26055,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26152,8 +26152,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 374,
-			"versionNonce": 468973013,
+			"version": 383,
+			"versionNonce": 322606267,
 			"isDeleted": false,
 			"id": "jCLOlXbAIoRV4yWPXrWXH",
 			"fillStyle": "solid",
@@ -26172,7 +26172,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26239,8 +26239,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 1171176955,
+			"version": 382,
+			"versionNonce": 1123182709,
 			"isDeleted": false,
 			"id": "i0Avi0qm9kDEM6HSTi8Eu",
 			"fillStyle": "solid",
@@ -26259,7 +26259,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26321,8 +26321,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1375761205,
+			"version": 381,
+			"versionNonce": 1780368731,
 			"isDeleted": false,
 			"id": "Zfg4OgkhUNZLHAMCXJCKl",
 			"fillStyle": "solid",
@@ -26341,7 +26341,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26398,8 +26398,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 306,
-			"versionNonce": 584795803,
+			"version": 315,
+			"versionNonce": 30904789,
 			"isDeleted": false,
 			"id": "8P46O60NLFp-2EliXaZOJ",
 			"fillStyle": "solid",
@@ -26418,7 +26418,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26460,8 +26460,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 309,
-			"versionNonce": 5653653,
+			"version": 318,
+			"versionNonce": 1451418107,
 			"isDeleted": false,
 			"id": "Uv9iPrVxPqFho2Q-Q84cV",
 			"fillStyle": "solid",
@@ -26480,7 +26480,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26537,8 +26537,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 335,
-			"versionNonce": 177060667,
+			"version": 344,
+			"versionNonce": 1896910645,
 			"isDeleted": false,
 			"id": "w-UysGvNCh919xzA7DHe8",
 			"fillStyle": "solid",
@@ -26557,7 +26557,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26744,8 +26744,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 328,
-			"versionNonce": 2058021365,
+			"version": 337,
+			"versionNonce": 1365961371,
 			"isDeleted": false,
 			"id": "qceQa2wDYhphqhT6fWqIF",
 			"fillStyle": "solid",
@@ -26764,7 +26764,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26916,8 +26916,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 315,
-			"versionNonce": 155753435,
+			"version": 324,
+			"versionNonce": 2130894997,
 			"isDeleted": false,
 			"id": "GzQjfIk1jSGBOSQbclUOV",
 			"fillStyle": "solid",
@@ -26936,7 +26936,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27043,8 +27043,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 33809237,
+			"version": 317,
+			"versionNonce": 260628283,
 			"isDeleted": false,
 			"id": "B8Da-e-Wo3Gc-fxpDvfAX",
 			"fillStyle": "solid",
@@ -27063,7 +27063,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27135,8 +27135,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 309,
-			"versionNonce": 2065590395,
+			"version": 318,
+			"versionNonce": 828638709,
 			"isDeleted": false,
 			"id": "0Fk3nvSFY6-eJeAJFLXNh",
 			"fillStyle": "solid",
@@ -27155,7 +27155,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27232,8 +27232,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 309,
-			"versionNonce": 448180405,
+			"version": 318,
+			"versionNonce": 188694491,
 			"isDeleted": false,
 			"id": "Wt9HQJd1FYpBKo0uqEU6V",
 			"fillStyle": "solid",
@@ -27252,7 +27252,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405021,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27329,8 +27329,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 319,
-			"versionNonce": 366059803,
+			"version": 328,
+			"versionNonce": 993623893,
 			"isDeleted": false,
 			"id": "wRB0SVmA5ofbFQr_TJbSs",
 			"fillStyle": "solid",
@@ -27349,7 +27349,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27476,8 +27476,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 300,
-			"versionNonce": 577294869,
+			"version": 309,
+			"versionNonce": 1319144571,
 			"isDeleted": false,
 			"id": "dYyYs1caSf0Bp9YCQNuMn",
 			"fillStyle": "solid",
@@ -27496,7 +27496,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27528,8 +27528,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 302,
-			"versionNonce": 852805051,
+			"version": 311,
+			"versionNonce": 1389939893,
 			"isDeleted": false,
 			"id": "h7KOFZ579UOoieNCI__9_",
 			"fillStyle": "solid",
@@ -27548,7 +27548,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27590,8 +27590,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 638568309,
+			"version": 325,
+			"versionNonce": 2104444187,
 			"isDeleted": false,
 			"id": "tfCo6SSLvT52O5HtC1LBP",
 			"fillStyle": "solid",
@@ -27610,7 +27610,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27722,8 +27722,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 333,
-			"versionNonce": 1498043995,
+			"version": 342,
+			"versionNonce": 1206349333,
 			"isDeleted": false,
 			"id": "4gT7fiBPIIYK61daprqE1",
 			"fillStyle": "solid",
@@ -27742,7 +27742,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27939,8 +27939,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 327,
-			"versionNonce": 2012287189,
+			"version": 336,
+			"versionNonce": 522054075,
 			"isDeleted": false,
 			"id": "vVVxkz_JlCbcplrc8SoNb",
 			"fillStyle": "solid",
@@ -27959,7 +27959,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28126,8 +28126,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 134533883,
+			"version": 329,
+			"versionNonce": 1499128693,
 			"isDeleted": false,
 			"id": "F5WQaqI8BZL9ib_JVqpE0",
 			"fillStyle": "solid",
@@ -28146,7 +28146,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28278,8 +28278,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 321,
-			"versionNonce": 94514741,
+			"version": 330,
+			"versionNonce": 684653147,
 			"isDeleted": false,
 			"id": "d61eejKvkub9DgAcMrpes",
 			"fillStyle": "solid",
@@ -28298,7 +28298,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28435,8 +28435,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 311,
-			"versionNonce": 1065794459,
+			"version": 320,
+			"versionNonce": 1266199765,
 			"isDeleted": false,
 			"id": "6OKOq37nrM3aTHer2uKCK",
 			"fillStyle": "solid",
@@ -28455,7 +28455,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28542,8 +28542,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 1846058901,
+			"version": 329,
+			"versionNonce": 1196750587,
 			"isDeleted": false,
 			"id": "MRu714LFQXrqw7H7qzQI7",
 			"fillStyle": "solid",
@@ -28562,7 +28562,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28694,8 +28694,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 1275236411,
+			"version": 242,
+			"versionNonce": 1037453877,
 			"isDeleted": false,
 			"id": "aEIfjaS5A-2u_qAms5tMF",
 			"fillStyle": "solid",
@@ -28714,7 +28714,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28791,8 +28791,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1465509109,
+			"version": 239,
+			"versionNonce": 1764908955,
 			"isDeleted": false,
 			"id": "ugebZw2qkiF0bvv5_k9YP",
 			"fillStyle": "solid",
@@ -28811,7 +28811,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28873,8 +28873,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 1331351771,
+			"version": 240,
+			"versionNonce": 1096366997,
 			"isDeleted": false,
 			"id": "mhHfEwy7KrTjwhgphAthO",
 			"fillStyle": "solid",
@@ -28893,7 +28893,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28960,8 +28960,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 85687893,
+			"version": 244,
+			"versionNonce": 144290875,
 			"isDeleted": false,
 			"id": "0eem0ZxO_cjN-Eed5pTaq",
 			"fillStyle": "solid",
@@ -28980,7 +28980,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29067,8 +29067,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 186776955,
+			"version": 237,
+			"versionNonce": 775356661,
 			"isDeleted": false,
 			"id": "C0sFwprPRPNTUhbbxhqMt",
 			"fillStyle": "solid",
@@ -29087,7 +29087,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29139,8 +29139,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 774040501,
+			"version": 244,
+			"versionNonce": 896365787,
 			"isDeleted": false,
 			"id": "wYGz9Z4PnTstFkQAYE2Pg",
 			"fillStyle": "solid",
@@ -29159,7 +29159,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29246,8 +29246,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1788515867,
+			"version": 236,
+			"versionNonce": 972364373,
 			"isDeleted": false,
 			"id": "T0EUSuIlGcIMpBWwQ3oHF",
 			"fillStyle": "solid",
@@ -29266,7 +29266,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29313,8 +29313,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 311799061,
+			"version": 236,
+			"versionNonce": 1598038395,
 			"isDeleted": false,
 			"id": "lBIhfjg2FXsbMm8rPE4ik",
 			"fillStyle": "solid",
@@ -29333,7 +29333,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29380,8 +29380,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 1287068347,
+			"version": 251,
+			"versionNonce": 1298728885,
 			"isDeleted": false,
 			"id": "hbryJnk--bgQcUoBseqmu",
 			"fillStyle": "solid",
@@ -29400,7 +29400,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29522,8 +29522,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1374241397,
+			"version": 238,
+			"versionNonce": 1599355419,
 			"isDeleted": false,
 			"id": "2VoQoGtdlt8PG1Zeo1R9e",
 			"fillStyle": "solid",
@@ -29542,7 +29542,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29599,8 +29599,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 236587867,
+			"version": 235,
+			"versionNonce": 448284949,
 			"isDeleted": false,
 			"id": "lOb9wD1a6OIiwAICxtwOS",
 			"fillStyle": "solid",
@@ -29619,7 +29619,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29661,8 +29661,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 14887893,
+			"version": 237,
+			"versionNonce": 1117535931,
 			"isDeleted": false,
 			"id": "qfEl7W98eY03lVi5KO6hF",
 			"fillStyle": "solid",
@@ -29681,7 +29681,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405022,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29733,8 +29733,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1393944571,
+			"version": 241,
+			"versionNonce": 1935171189,
 			"isDeleted": false,
 			"id": "f4OeN-znJ4IjUbwvPBPNX",
 			"fillStyle": "solid",
@@ -29753,7 +29753,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29825,8 +29825,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 2140727605,
+			"version": 238,
+			"versionNonce": 1404743515,
 			"isDeleted": false,
 			"id": "toacgQZifFvuHsedkmULy",
 			"fillStyle": "solid",
@@ -29845,7 +29845,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29902,8 +29902,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 296562843,
+			"version": 240,
+			"versionNonce": 1578026965,
 			"isDeleted": false,
 			"id": "rA9zpw5tt9qNhTAin8oVa",
 			"fillStyle": "solid",
@@ -29922,7 +29922,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29989,8 +29989,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 258996885,
+			"version": 237,
+			"versionNonce": 1694632955,
 			"isDeleted": false,
 			"id": "Dm1qhtH0K2bgVhYF_gFNw",
 			"fillStyle": "solid",
@@ -30009,7 +30009,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30061,8 +30061,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1536320827,
+			"version": 236,
+			"versionNonce": 1827734837,
 			"isDeleted": false,
 			"id": "MTwvw89JoCYd9qgNSoyu5",
 			"fillStyle": "solid",
@@ -30081,7 +30081,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30128,8 +30128,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 689823733,
+			"version": 235,
+			"versionNonce": 1517606043,
 			"isDeleted": false,
 			"id": "U9DBJxG3shUqaUolO2PnC",
 			"fillStyle": "solid",
@@ -30148,7 +30148,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30190,8 +30190,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1747453403,
+			"version": 239,
+			"versionNonce": 1399101077,
 			"isDeleted": false,
 			"id": "bQnJVg4PfuE6Cj_D2cGBC",
 			"fillStyle": "solid",
@@ -30210,7 +30210,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30272,8 +30272,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 313006421,
+			"version": 237,
+			"versionNonce": 1942325563,
 			"isDeleted": false,
 			"id": "jKYCoboFrPQ-CjhErjp6N",
 			"fillStyle": "solid",
@@ -30292,7 +30292,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30344,8 +30344,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1585484411,
+			"version": 237,
+			"versionNonce": 1008663541,
 			"isDeleted": false,
 			"id": "siU3x2jQKVUQhxUIHsosI",
 			"fillStyle": "solid",
@@ -30364,7 +30364,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30416,8 +30416,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 895755957,
+			"version": 251,
+			"versionNonce": 1448520155,
 			"isDeleted": false,
 			"id": "CeFTO7Y4piOcJyTdqPuEb",
 			"fillStyle": "solid",
@@ -30436,7 +30436,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30558,8 +30558,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 286,
-			"versionNonce": 1600031515,
+			"version": 295,
+			"versionNonce": 1596306773,
 			"isDeleted": false,
 			"id": "dCOA7lEg0khbg81bc_mi0",
 			"fillStyle": "solid",
@@ -30578,7 +30578,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30635,8 +30635,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 286,
-			"versionNonce": 871860245,
+			"version": 295,
+			"versionNonce": 1463465595,
 			"isDeleted": false,
 			"id": "7DGMfZxwiTFZPhPAbxJXe",
 			"fillStyle": "solid",
@@ -30655,7 +30655,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30712,8 +30712,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 292,
-			"versionNonce": 1328836539,
+			"version": 301,
+			"versionNonce": 1473135285,
 			"isDeleted": false,
 			"id": "lgCt3GEw2Il1aYyNSExJg",
 			"fillStyle": "solid",
@@ -30732,7 +30732,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30819,8 +30819,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1079491957,
+			"version": 235,
+			"versionNonce": 87306011,
 			"isDeleted": false,
 			"id": "cmE61hjjMvuSbdu1vrIia",
 			"fillStyle": "solid",
@@ -30839,7 +30839,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30881,8 +30881,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1613021275,
+			"version": 237,
+			"versionNonce": 985539605,
 			"isDeleted": false,
 			"id": "mVsz4IEATUcpEP3ns1fmf",
 			"fillStyle": "solid",
@@ -30901,7 +30901,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30953,8 +30953,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 835339989,
+			"version": 248,
+			"versionNonce": 1924502459,
 			"isDeleted": false,
 			"id": "vHx5OScafAqtHTAVQikv9",
 			"fillStyle": "solid",
@@ -30973,7 +30973,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31105,8 +31105,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 250,
-			"versionNonce": 1543634171,
+			"version": 259,
+			"versionNonce": 1810553205,
 			"isDeleted": false,
 			"id": "WA5qXdn5piXeSw7KC84y4",
 			"fillStyle": "solid",
@@ -31125,7 +31125,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31312,8 +31312,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1524933685,
+			"version": 232,
+			"versionNonce": 1071735899,
 			"isDeleted": false,
 			"id": "_RlbvpCzsycrgmKqgsjGA",
 			"fillStyle": "solid",
@@ -31332,7 +31332,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31384,8 +31384,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 776906139,
+			"version": 232,
+			"versionNonce": 882500309,
 			"isDeleted": false,
 			"id": "QpxdrvLCxzyTTS128kx95",
 			"fillStyle": "solid",
@@ -31404,7 +31404,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31456,8 +31456,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 529290645,
+			"version": 253,
+			"versionNonce": 1686774011,
 			"isDeleted": false,
 			"id": "FvZwM8Bb8l45wJq00Kp8C",
 			"fillStyle": "solid",
@@ -31476,7 +31476,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31633,8 +31633,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 775764539,
+			"version": 237,
+			"versionNonce": 425771061,
 			"isDeleted": false,
 			"id": "vbXI8lSNe8IalyKaurWfN",
 			"fillStyle": "solid",
@@ -31653,7 +31653,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31730,8 +31730,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 271,
-			"versionNonce": 1257691893,
+			"version": 280,
+			"versionNonce": 976374171,
 			"isDeleted": false,
 			"id": "WyTtMmM0t2FaVncc2z4aB",
 			"fillStyle": "solid",
@@ -31750,7 +31750,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405023,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32042,8 +32042,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 682638043,
+			"version": 229,
+			"versionNonce": 1881469333,
 			"isDeleted": false,
 			"id": "RFZNl1IfPEe-A9ZJufeU2",
 			"fillStyle": "solid",
@@ -32062,7 +32062,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32094,8 +32094,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 631878741,
+			"version": 242,
+			"versionNonce": 1175215675,
 			"isDeleted": false,
 			"id": "4eBeI7vp1M0cMXjfzPlO2",
 			"fillStyle": "solid",
@@ -32114,7 +32114,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32216,8 +32216,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 708454267,
+			"version": 250,
+			"versionNonce": 907802357,
 			"isDeleted": false,
 			"id": "Su6BtkDoHUkGfMUSgdYYR",
 			"fillStyle": "solid",
@@ -32236,7 +32236,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32378,8 +32378,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 275,
-			"versionNonce": 1266311605,
+			"version": 284,
+			"versionNonce": 1123737307,
 			"isDeleted": false,
 			"id": "z2XZJgrhqlU6x-oDMG18-",
 			"fillStyle": "solid",
@@ -32398,7 +32398,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32710,8 +32710,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 152928283,
+			"version": 244,
+			"versionNonce": 634081365,
 			"isDeleted": false,
 			"id": "g18hXOK-bJrWWtaCVHNH7",
 			"fillStyle": "solid",
@@ -32730,7 +32730,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32837,8 +32837,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1099850517,
+			"version": 241,
+			"versionNonce": 1804618619,
 			"isDeleted": false,
 			"id": "q7N4LyBUFywqeNkaV5-g9",
 			"fillStyle": "solid",
@@ -32857,7 +32857,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32949,8 +32949,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 793560251,
+			"version": 235,
+			"versionNonce": 218660277,
 			"isDeleted": false,
 			"id": "APlvqj40qucrQHigQ2GeN",
 			"fillStyle": "solid",
@@ -32969,7 +32969,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33036,8 +33036,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1281046645,
+			"version": 233,
+			"versionNonce": 68101147,
 			"isDeleted": false,
 			"id": "xOstUGlvL-DfHvpO20Td1",
 			"fillStyle": "solid",
@@ -33056,7 +33056,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33113,8 +33113,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 610956635,
+			"version": 243,
+			"versionNonce": 1660485397,
 			"isDeleted": false,
 			"id": "RZu5czkewiPl4y1ERxOzE",
 			"fillStyle": "solid",
@@ -33133,7 +33133,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33240,8 +33240,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 94790101,
+			"version": 250,
+			"versionNonce": 610920635,
 			"isDeleted": false,
 			"id": "kRiHTwxTeNIILrxiJE6QS",
 			"fillStyle": "solid",
@@ -33260,7 +33260,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33402,8 +33402,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1472795131,
+			"version": 231,
+			"versionNonce": 504517749,
 			"isDeleted": false,
 			"id": "dxxCo7h3zOFoVChJ9tfnb",
 			"fillStyle": "solid",
@@ -33422,7 +33422,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33469,8 +33469,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 847601461,
+			"version": 232,
+			"versionNonce": 1111693659,
 			"isDeleted": false,
 			"id": "zSZlcuIW2HnH5i7yxJSwy",
 			"fillStyle": "solid",
@@ -33489,7 +33489,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33541,8 +33541,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 711662235,
+			"version": 237,
+			"versionNonce": 1243217365,
 			"isDeleted": false,
 			"id": "2ak8_GXRUHQVL3WBM-h7L",
 			"fillStyle": "solid",
@@ -33561,7 +33561,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33638,8 +33638,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 1499312277,
+			"version": 255,
+			"versionNonce": 2062366203,
 			"isDeleted": false,
 			"id": "Adz9YRrIxh6pLJ8FzyqCK",
 			"fillStyle": "solid",
@@ -33658,7 +33658,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33825,8 +33825,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 956501819,
+			"version": 233,
+			"versionNonce": 1579514677,
 			"isDeleted": false,
 			"id": "m5cIw7Tsl00GZ9a8WCJ1u",
 			"fillStyle": "solid",
@@ -33845,7 +33845,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33912,8 +33912,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 400872949,
+			"version": 232,
+			"versionNonce": 493534875,
 			"isDeleted": false,
 			"id": "HDBft_GvxHNZnHhjZ_2II",
 			"fillStyle": "solid",
@@ -33932,7 +33932,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33994,8 +33994,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1710452699,
+			"version": 229,
+			"versionNonce": 1385843861,
 			"isDeleted": false,
 			"id": "5CkFNbMX1x63h6q0trNoU",
 			"fillStyle": "solid",
@@ -34014,7 +34014,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34061,8 +34061,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 958418773,
+			"version": 234,
+			"versionNonce": 1953379131,
 			"isDeleted": false,
 			"id": "3PdhhZtAxTAYTRuZms8ag",
 			"fillStyle": "solid",
@@ -34081,7 +34081,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34153,8 +34153,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 592362619,
+			"version": 228,
+			"versionNonce": 1999499765,
 			"isDeleted": false,
 			"id": "Xi8pas0FCD7vj9eDYRcT9",
 			"fillStyle": "solid",
@@ -34173,7 +34173,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34215,8 +34215,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 191208629,
+			"version": 242,
+			"versionNonce": 1348080603,
 			"isDeleted": false,
 			"id": "VlDrEFxtOW8uFT5ADhQLj",
 			"fillStyle": "solid",
@@ -34235,7 +34235,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34342,8 +34342,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 2094495003,
+			"version": 231,
+			"versionNonce": 149285717,
 			"isDeleted": false,
 			"id": "_VKkLblGbtNV2IB4TJNA2",
 			"fillStyle": "solid",
@@ -34362,7 +34362,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34419,8 +34419,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1985625621,
+			"version": 229,
+			"versionNonce": 1363206267,
 			"isDeleted": false,
 			"id": "AVNXHGxsseEhUvtz4FNpS",
 			"fillStyle": "solid",
@@ -34439,7 +34439,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405024,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34486,8 +34486,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1644173755,
+			"version": 246,
+			"versionNonce": 135772341,
 			"isDeleted": false,
 			"id": "Xniyh_uKCA46esI0mlo5T",
 			"fillStyle": "solid",
@@ -34506,7 +34506,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34638,8 +34638,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1358148469,
+			"version": 229,
+			"versionNonce": 1894062363,
 			"isDeleted": false,
 			"id": "PrxA-CfqWid-aQjsypTVb",
 			"fillStyle": "solid",
@@ -34658,7 +34658,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34705,8 +34705,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 524,
-			"versionNonce": 803940955,
+			"version": 533,
+			"versionNonce": 1315494421,
 			"isDeleted": false,
 			"id": "49acz3P_BlBRlwIjLwu_L",
 			"fillStyle": "solid",
@@ -34725,7 +34725,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -34750,8 +34750,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 737,
-			"versionNonce": 2004319445,
+			"version": 746,
+			"versionNonce": 1287208379,
 			"isDeleted": false,
 			"id": "gBkYZqCH3eo0DKh5A308b",
 			"fillStyle": "solid",
@@ -34770,7 +34770,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -34795,8 +34795,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 376,
-			"versionNonce": 2070619899,
+			"version": 385,
+			"versionNonce": 1691275125,
 			"isDeleted": false,
 			"id": "m4By_0raUYuwPl6W9DgWG",
 			"fillStyle": "solid",
@@ -34815,7 +34815,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -34840,8 +34840,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 337,
-			"versionNonce": 561715765,
+			"version": 346,
+			"versionNonce": 803196507,
 			"isDeleted": false,
 			"id": "67-YWewjw9VMDoRuaOkeb",
 			"fillStyle": "solid",
@@ -34860,7 +34860,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35087,8 +35087,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 453152667,
+			"version": 310,
+			"versionNonce": 428808405,
 			"isDeleted": false,
 			"id": "uOabrRfl-42hI8ZVwXodL",
 			"fillStyle": "solid",
@@ -35107,7 +35107,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35154,8 +35154,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 2011433877,
+			"version": 310,
+			"versionNonce": 1563118331,
 			"isDeleted": false,
 			"id": "AzRpPezf6FKSRZAtZChg3",
 			"fillStyle": "solid",
@@ -35174,7 +35174,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35221,8 +35221,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 1893983291,
+			"version": 329,
+			"versionNonce": 1446983221,
 			"isDeleted": false,
 			"id": "93A4EWan7QigkmND1-_aj",
 			"fillStyle": "solid",
@@ -35241,7 +35241,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35383,8 +35383,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 308,
-			"versionNonce": 1793577205,
+			"version": 317,
+			"versionNonce": 421409691,
 			"isDeleted": false,
 			"id": "M2zSTJh_JYShgCfZfEGpz",
 			"fillStyle": "solid",
@@ -35403,7 +35403,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35485,8 +35485,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 304,
-			"versionNonce": 1961993435,
+			"version": 313,
+			"versionNonce": 902080405,
 			"isDeleted": false,
 			"id": "Yn12v29H9J3tHZA7GS_Ig",
 			"fillStyle": "solid",
@@ -35505,7 +35505,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35567,8 +35567,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 309,
-			"versionNonce": 1208740437,
+			"version": 318,
+			"versionNonce": 1944782907,
 			"isDeleted": false,
 			"id": "IO8yC8B0QyH6JDhakEd79",
 			"fillStyle": "solid",
@@ -35587,7 +35587,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35669,8 +35669,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 333,
-			"versionNonce": 2126401915,
+			"version": 342,
+			"versionNonce": 1515515125,
 			"isDeleted": false,
 			"id": "V-IkyZXf3J2ReQSPz4Su7",
 			"fillStyle": "solid",
@@ -35689,7 +35689,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35896,8 +35896,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 299,
-			"versionNonce": 270915509,
+			"version": 308,
+			"versionNonce": 1400129755,
 			"isDeleted": false,
 			"id": "uMv9cLDIUV96MsacxFw3l",
 			"fillStyle": "solid",
@@ -35916,7 +35916,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35948,8 +35948,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 313,
-			"versionNonce": 1334602267,
+			"version": 322,
+			"versionNonce": 58033749,
 			"isDeleted": false,
 			"id": "pZoebTtmMXdZsDP3AEtQS",
 			"fillStyle": "solid",
@@ -35968,7 +35968,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36075,8 +36075,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 319,
-			"versionNonce": 224074005,
+			"version": 328,
+			"versionNonce": 1028420987,
 			"isDeleted": false,
 			"id": "CSU-XG7SvFIKLXZjj8ZVP",
 			"fillStyle": "solid",
@@ -36095,7 +36095,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36232,8 +36232,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 299,
-			"versionNonce": 1548644027,
+			"version": 308,
+			"versionNonce": 1677456309,
 			"isDeleted": false,
 			"id": "cigQ9uaZI7_lym9yDxejq",
 			"fillStyle": "solid",
@@ -36252,7 +36252,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36284,8 +36284,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 314,
-			"versionNonce": 690040437,
+			"version": 323,
+			"versionNonce": 1622543899,
 			"isDeleted": false,
 			"id": "qZhoF6BQV0YOkk4Ka7MzQ",
 			"fillStyle": "solid",
@@ -36304,7 +36304,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36416,8 +36416,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 1470553947,
+			"version": 319,
+			"versionNonce": 940422421,
 			"isDeleted": false,
 			"id": "qxPP8gEsO1alobtwayp1-",
 			"fillStyle": "solid",
@@ -36436,7 +36436,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36488,8 +36488,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 305,
-			"versionNonce": 37590997,
+			"version": 314,
+			"versionNonce": 1621332667,
 			"isDeleted": false,
 			"id": "l0yec9FKHiBCBhbSGlTc8",
 			"fillStyle": "solid",
@@ -36508,7 +36508,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36575,8 +36575,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 333,
-			"versionNonce": 2078817275,
+			"version": 342,
+			"versionNonce": 455101045,
 			"isDeleted": false,
 			"id": "vf09P48JwVUhAfn_fyWfH",
 			"fillStyle": "solid",
@@ -36595,7 +36595,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36647,8 +36647,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 1120261429,
+			"version": 325,
+			"versionNonce": 1572307803,
 			"isDeleted": false,
 			"id": "zowX8OO8GrR6iLY46E7iJ",
 			"fillStyle": "solid",
@@ -36667,7 +36667,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405025,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36789,8 +36789,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 300,
-			"versionNonce": 353698971,
+			"version": 309,
+			"versionNonce": 502870997,
 			"isDeleted": false,
 			"id": "54XcoaTuVSFcwCmETa_bY",
 			"fillStyle": "solid",
@@ -36809,7 +36809,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36851,8 +36851,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 302,
-			"versionNonce": 908027541,
+			"version": 311,
+			"versionNonce": 1078222843,
 			"isDeleted": false,
 			"id": "xXkU0JSVoEC36895lDs6_",
 			"fillStyle": "solid",
@@ -36871,7 +36871,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36923,8 +36923,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 307,
-			"versionNonce": 1256175931,
+			"version": 316,
+			"versionNonce": 481161525,
 			"isDeleted": false,
 			"id": "EGdnLN9o9T79MyKimkrL-",
 			"fillStyle": "solid",
@@ -36943,7 +36943,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37020,8 +37020,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 520080373,
+			"version": 319,
+			"versionNonce": 1112320155,
 			"isDeleted": false,
 			"id": "pqBjCqF41HywfLTqNRCI2",
 			"fillStyle": "solid",
@@ -37040,7 +37040,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37132,8 +37132,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 318,
-			"versionNonce": 715839963,
+			"version": 327,
+			"versionNonce": 1420034709,
 			"isDeleted": false,
 			"id": "wTwr6SdOmOZH08Et2Kyr0",
 			"fillStyle": "solid",
@@ -37152,7 +37152,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37254,8 +37254,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1298957653,
+			"version": 248,
+			"versionNonce": 964877627,
 			"isDeleted": false,
 			"id": "w9-OnbZXSem-bY8YOH_7p",
 			"fillStyle": "solid",
@@ -37274,7 +37274,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37331,8 +37331,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1904797307,
+			"version": 248,
+			"versionNonce": 982575093,
 			"isDeleted": false,
 			"id": "1TR-51DgqlxNHyO7eo9vB",
 			"fillStyle": "solid",
@@ -37351,7 +37351,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37408,8 +37408,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 1958417077,
+			"version": 250,
+			"versionNonce": 558464475,
 			"isDeleted": false,
 			"id": "e__5OphIX7nYhL8u2AHvR",
 			"fillStyle": "solid",
@@ -37428,7 +37428,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37495,8 +37495,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 373055259,
+			"version": 248,
+			"versionNonce": 276439381,
 			"isDeleted": false,
 			"id": "E-mx_TgzUpsjDpiPGXXSV",
 			"fillStyle": "solid",
@@ -37515,7 +37515,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37572,8 +37572,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 1100018709,
+			"version": 249,
+			"versionNonce": 1689455227,
 			"isDeleted": false,
 			"id": "jPd7X_ALcOZPZC94KNvZI",
 			"fillStyle": "solid",
@@ -37592,7 +37592,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37669,8 +37669,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 322421691,
+			"version": 245,
+			"versionNonce": 1001729717,
 			"isDeleted": false,
 			"id": "ICLw2c1uq0SilGyJ3hNhf",
 			"fillStyle": "solid",
@@ -37689,7 +37689,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37746,8 +37746,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 803449205,
+			"version": 243,
+			"versionNonce": 1753350939,
 			"isDeleted": false,
 			"id": "W85Rb990y0i1iPY5_iysI",
 			"fillStyle": "solid",
@@ -37766,7 +37766,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37828,8 +37828,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1889375323,
+			"version": 241,
+			"versionNonce": 1525125141,
 			"isDeleted": false,
 			"id": "wUwkBSmT98sUUdrdJc5y7",
 			"fillStyle": "solid",
@@ -37848,7 +37848,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37900,8 +37900,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 553169621,
+			"version": 242,
+			"versionNonce": 1428744123,
 			"isDeleted": false,
 			"id": "CrdBxcothn1VaLAD9Dp8W",
 			"fillStyle": "solid",
@@ -37920,7 +37920,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37977,8 +37977,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 239096059,
+			"version": 243,
+			"versionNonce": 470205813,
 			"isDeleted": false,
 			"id": "QDkScaXO6IejZqgJXygdC",
 			"fillStyle": "solid",
@@ -37997,7 +37997,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38059,8 +38059,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 828739637,
+			"version": 256,
+			"versionNonce": 550123611,
 			"isDeleted": false,
 			"id": "NP7KiihMDjbrnW-bq3qK7",
 			"fillStyle": "solid",
@@ -38079,7 +38079,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38206,8 +38206,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 765622683,
+			"version": 262,
+			"versionNonce": 1381519061,
 			"isDeleted": false,
 			"id": "FTtdfRC5zM3OfC1OOoiB1",
 			"fillStyle": "solid",
@@ -38226,7 +38226,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38383,8 +38383,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1326432661,
+			"version": 247,
+			"versionNonce": 1496872187,
 			"isDeleted": false,
 			"id": "vGoVgM_9f-ugXd0LjkteB",
 			"fillStyle": "solid",
@@ -38403,7 +38403,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38485,8 +38485,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 1006014011,
+			"version": 250,
+			"versionNonce": 1282518069,
 			"isDeleted": false,
 			"id": "bMDEBZApbm0OrQSGKewPi",
 			"fillStyle": "solid",
@@ -38505,7 +38505,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38602,8 +38602,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 254592757,
+			"version": 240,
+			"versionNonce": 771104155,
 			"isDeleted": false,
 			"id": "3j_lsvYNEOMUxiwU8Ul8K",
 			"fillStyle": "solid",
@@ -38622,7 +38622,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38679,8 +38679,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1545539291,
+			"version": 238,
+			"versionNonce": 1782078869,
 			"isDeleted": false,
 			"id": "selodxif_5EX7odoqS19r",
 			"fillStyle": "solid",
@@ -38699,7 +38699,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38746,8 +38746,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 1145184341,
+			"version": 262,
+			"versionNonce": 976597563,
 			"isDeleted": false,
 			"id": "nUG6dPcN67ad03FgtQK4C",
 			"fillStyle": "solid",
@@ -38766,7 +38766,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405026,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38938,8 +38938,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 816741243,
+			"version": 244,
+			"versionNonce": 1927406325,
 			"isDeleted": false,
 			"id": "8x1znuQnE18VOW86WygIG",
 			"fillStyle": "solid",
@@ -38958,7 +38958,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39040,8 +39040,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 1411730869,
+			"version": 270,
+			"versionNonce": 249148123,
 			"isDeleted": false,
 			"id": "VUpdecXP84Gn-lis5bery",
 			"fillStyle": "solid",
@@ -39060,7 +39060,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39272,8 +39272,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1709659163,
+			"version": 236,
+			"versionNonce": 720616533,
 			"isDeleted": false,
 			"id": "UI_dJ_N2oUatyOemDq2CJ",
 			"fillStyle": "solid",
@@ -39292,7 +39292,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39334,8 +39334,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1308348181,
+			"version": 235,
+			"versionNonce": 2088017787,
 			"isDeleted": false,
 			"id": "tbBkwmZsLgKuZcpY4gfB9",
 			"fillStyle": "solid",
@@ -39354,7 +39354,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39391,8 +39391,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 2075924667,
+			"version": 244,
+			"versionNonce": 709061045,
 			"isDeleted": false,
 			"id": "6PtNwpITKJETXBDKzWMe4",
 			"fillStyle": "solid",
@@ -39411,7 +39411,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39493,8 +39493,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1077617781,
+			"version": 243,
+			"versionNonce": 491321371,
 			"isDeleted": false,
 			"id": "xkDs50yd-8yjGkYJihFiR",
 			"fillStyle": "solid",
@@ -39513,7 +39513,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39590,8 +39590,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 1338984795,
+			"version": 251,
+			"versionNonce": 1911974677,
 			"isDeleted": false,
 			"id": "4B2OYhXF9ALZgi7aza7m5",
 			"fillStyle": "solid",
@@ -39610,7 +39610,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39727,8 +39727,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1319685589,
+			"version": 234,
+			"versionNonce": 524893371,
 			"isDeleted": false,
 			"id": "7Ji3XX7Pn15495oX_P7-K",
 			"fillStyle": "solid",
@@ -39747,7 +39747,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39779,8 +39779,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1735615995,
+			"version": 238,
+			"versionNonce": 1115832437,
 			"isDeleted": false,
 			"id": "ElwenxiT_augTIz9Dgn4k",
 			"fillStyle": "solid",
@@ -39799,7 +39799,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39851,8 +39851,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 140135221,
+			"version": 249,
+			"versionNonce": 1310190939,
 			"isDeleted": false,
 			"id": "HwA6Q6q6h1LlTW2FxnflO",
 			"fillStyle": "solid",
@@ -39871,7 +39871,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39978,8 +39978,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 2041245339,
+			"version": 260,
+			"versionNonce": 833382869,
 			"isDeleted": false,
 			"id": "z-ZovFzTJKt92N0TQf3EC",
 			"fillStyle": "solid",
@@ -39998,7 +39998,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40090,8 +40090,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 2109021333,
+			"version": 243,
+			"versionNonce": 1560775163,
 			"isDeleted": false,
 			"id": "wUqbsgbgeaSIjQwSDRIzt",
 			"fillStyle": "solid",
@@ -40110,7 +40110,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40187,8 +40187,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 958948155,
+			"version": 241,
+			"versionNonce": 9070389,
 			"isDeleted": false,
 			"id": "KQILWEJoXXMtunSaJvRJy",
 			"fillStyle": "solid",
@@ -40207,7 +40207,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40274,8 +40274,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 376357365,
+			"version": 239,
+			"versionNonce": 1897566875,
 			"isDeleted": false,
 			"id": "aKS45dj1vAwwilLTARUTE",
 			"fillStyle": "solid",
@@ -40294,7 +40294,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045674,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40351,8 +40351,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1582187483,
+			"version": 239,
+			"versionNonce": 830584981,
 			"isDeleted": false,
 			"id": "4ztUGMo9Fvq1ZEAwHl2P7",
 			"fillStyle": "solid",
@@ -40371,7 +40371,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40438,8 +40438,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 663534421,
+			"version": 236,
+			"versionNonce": 1795393339,
 			"isDeleted": false,
 			"id": "u9QzEDBdU-GEVqNyyg-3E",
 			"fillStyle": "solid",
@@ -40458,7 +40458,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40510,8 +40510,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 1898909819,
+			"version": 245,
+			"versionNonce": 1581768181,
 			"isDeleted": false,
 			"id": "BqtoJdxLcu-tX2p-P_zbs",
 			"fillStyle": "solid",
@@ -40530,7 +40530,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40627,8 +40627,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1231325365,
+			"version": 263,
+			"versionNonce": 1898244059,
 			"isDeleted": false,
 			"id": "fkLrhetyuINLGnToNdsIi",
 			"fillStyle": "solid",
@@ -40647,7 +40647,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40834,8 +40834,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1401768219,
+			"version": 234,
+			"versionNonce": 1306679125,
 			"isDeleted": false,
 			"id": "-wNUGgDhQ0PTICDvMO9qy",
 			"fillStyle": "solid",
@@ -40854,7 +40854,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40896,8 +40896,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1838918165,
+			"version": 236,
+			"versionNonce": 965817467,
 			"isDeleted": false,
 			"id": "AVsq8-usfyDWdSQb8AaZ2",
 			"fillStyle": "solid",
@@ -40916,7 +40916,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40968,8 +40968,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 182152635,
+			"version": 254,
+			"versionNonce": 1252435125,
 			"isDeleted": false,
 			"id": "WIn-4XY9159TA2n7ldjnU",
 			"fillStyle": "solid",
@@ -40988,7 +40988,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41130,8 +41130,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 891789173,
+			"version": 240,
+			"versionNonce": 336260379,
 			"isDeleted": false,
 			"id": "R9pjmY1dFpo3o4rJilTkF",
 			"fillStyle": "solid",
@@ -41150,7 +41150,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405027,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41222,8 +41222,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1245445723,
+			"version": 244,
+			"versionNonce": 943343125,
 			"isDeleted": false,
 			"id": "4nKaVEScCTLKLeH845qjJ",
 			"fillStyle": "solid",
@@ -41242,7 +41242,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41329,8 +41329,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 105769173,
+			"version": 267,
+			"versionNonce": 872714683,
 			"isDeleted": false,
 			"id": "Vk9rYTXc9WB1F0C-J8BOl",
 			"fillStyle": "solid",
@@ -41349,7 +41349,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41561,8 +41561,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1015118587,
+			"version": 233,
+			"versionNonce": 1771223925,
 			"isDeleted": false,
 			"id": "aj8hX58TamIl0NzmDKTei",
 			"fillStyle": "solid",
@@ -41581,7 +41581,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41618,8 +41618,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1654916661,
+			"version": 244,
+			"versionNonce": 983605851,
 			"isDeleted": false,
 			"id": "pTaoT3cFxb9VIWwRGr1s7",
 			"fillStyle": "solid",
@@ -41638,7 +41638,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41735,8 +41735,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 237921179,
+			"version": 250,
+			"versionNonce": 922059989,
 			"isDeleted": false,
 			"id": "tK3ccF9yJfi8bjdsThfH5",
 			"fillStyle": "solid",
@@ -41755,7 +41755,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41882,8 +41882,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 2098165653,
+			"version": 233,
+			"versionNonce": 11640571,
 			"isDeleted": false,
 			"id": "qt8jFf9nrtfbvDw2a5tsT",
 			"fillStyle": "solid",
@@ -41902,7 +41902,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41939,8 +41939,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 930428987,
+			"version": 247,
+			"versionNonce": 1408770613,
 			"isDeleted": false,
 			"id": "9sG7qu4Dx2UboDMYEnhP9",
 			"fillStyle": "solid",
@@ -41959,7 +41959,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42071,8 +42071,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 264617205,
+			"version": 239,
+			"versionNonce": 549062555,
 			"isDeleted": false,
 			"id": "xP9-L4mRcx4CETEGLGSvv",
 			"fillStyle": "solid",
@@ -42091,7 +42091,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42193,8 +42193,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 104364251,
+			"version": 233,
+			"versionNonce": 1702892437,
 			"isDeleted": false,
 			"id": "WeYDrHstD9lcjJcebhMkC",
 			"fillStyle": "solid",
@@ -42213,7 +42213,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42285,8 +42285,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 1917605461,
+			"version": 240,
+			"versionNonce": 1089231931,
 			"isDeleted": false,
 			"id": "gH8V4IKmCHPuX-RRx3x-3",
 			"fillStyle": "solid",
@@ -42305,7 +42305,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42412,8 +42412,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1745528187,
+			"version": 243,
+			"versionNonce": 1472387317,
 			"isDeleted": false,
 			"id": "0VpWJkkU4lu-xI0AmVbyv",
 			"fillStyle": "solid",
@@ -42432,7 +42432,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42554,8 +42554,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1870185397,
+			"version": 226,
+			"versionNonce": 489364699,
 			"isDeleted": false,
 			"id": "6HL20W6eykIaLaQ9mlvSK",
 			"fillStyle": "solid",
@@ -42574,7 +42574,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42611,8 +42611,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 1949187611,
+			"version": 227,
+			"versionNonce": 1950741077,
 			"isDeleted": false,
 			"id": "d20oj5rdk5_TAm88pFpUT",
 			"fillStyle": "solid",
@@ -42631,7 +42631,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045675,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42673,8 +42673,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1534100757,
+			"version": 231,
+			"versionNonce": 1359530363,
 			"isDeleted": false,
 			"id": "c0zVKc3VNmVLVyJzmSQr-",
 			"fillStyle": "solid",
@@ -42693,7 +42693,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045677,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42755,8 +42755,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 899007163,
+			"version": 236,
+			"versionNonce": 937353141,
 			"isDeleted": false,
 			"id": "qNgx_2vTEgmyRgIyKC_zP",
 			"fillStyle": "solid",
@@ -42775,7 +42775,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045677,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42862,8 +42862,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 1772690037,
+			"version": 242,
+			"versionNonce": 1640489499,
 			"isDeleted": false,
 			"id": "OshkrmgkEUECZgZpjjKIe",
 			"fillStyle": "solid",
@@ -42882,7 +42882,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045677,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42999,8 +42999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 887337819,
+			"version": 229,
+			"versionNonce": 1756569877,
 			"isDeleted": false,
 			"id": "GFnwf_V7Ww0hYxN6kKuub",
 			"fillStyle": "solid",
@@ -43019,7 +43019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045677,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43071,8 +43071,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1122501589,
+			"version": 230,
+			"versionNonce": 140175035,
 			"isDeleted": false,
 			"id": "rNf9VHA9Jb-xDaHaq0h4I",
 			"fillStyle": "solid",
@@ -43091,7 +43091,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43148,8 +43148,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1114279931,
+			"version": 230,
+			"versionNonce": 1815623285,
 			"isDeleted": false,
 			"id": "uPrhLsSS5lrYeFJnloRUC",
 			"fillStyle": "solid",
@@ -43168,7 +43168,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43225,8 +43225,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 1531101493,
+			"version": 240,
+			"versionNonce": 996431707,
 			"isDeleted": false,
 			"id": "WOLY4N8fOFOa12i6RsBom",
 			"fillStyle": "solid",
@@ -43245,7 +43245,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43352,8 +43352,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 2939035,
+			"version": 243,
+			"versionNonce": 1563664341,
 			"isDeleted": false,
 			"id": "uRyg98u4T5IKL5FEZu_3v",
 			"fillStyle": "solid",
@@ -43372,7 +43372,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43494,8 +43494,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 136237717,
+			"version": 235,
+			"versionNonce": 2033628155,
 			"isDeleted": false,
 			"id": "8pLtCIzQOK0GiyPClTYC0",
 			"fillStyle": "solid",
@@ -43514,7 +43514,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405028,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43596,8 +43596,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 735907131,
+			"version": 240,
+			"versionNonce": 1639636277,
 			"isDeleted": false,
 			"id": "NSLKf0OQEtKCdm9xx_h6F",
 			"fillStyle": "solid",
@@ -43616,7 +43616,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43723,8 +43723,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1446098933,
+			"version": 230,
+			"versionNonce": 1372880027,
 			"isDeleted": false,
 			"id": "YxxogmsJ-kvCHlhSjSvYK",
 			"fillStyle": "solid",
@@ -43743,7 +43743,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43800,8 +43800,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 685616603,
+			"version": 224,
+			"versionNonce": 1093889685,
 			"isDeleted": false,
 			"id": "-ADW50XhxLNTeIprdCNdy",
 			"fillStyle": "solid",
@@ -43820,7 +43820,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43847,8 +43847,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 528544085,
+			"version": 245,
+			"versionNonce": 821047611,
 			"isDeleted": false,
 			"id": "uqrNUN_RzrZaGqD1hNnbf",
 			"fillStyle": "solid",
@@ -43867,7 +43867,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43999,8 +43999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1245788795,
+			"version": 235,
+			"versionNonce": 978506741,
 			"isDeleted": false,
 			"id": "pD8mM_mY2zGvgpY5r_mwm",
 			"fillStyle": "solid",
@@ -44019,7 +44019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44101,8 +44101,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 1633812149,
+			"version": 250,
+			"versionNonce": 1743540699,
 			"isDeleted": false,
 			"id": "D8G5xBnFz-uTzSzoek45L",
 			"fillStyle": "solid",
@@ -44121,7 +44121,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44278,8 +44278,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1556755227,
+			"version": 228,
+			"versionNonce": 421432661,
 			"isDeleted": false,
 			"id": "VUcWZ_Gc22lmOrLVTEcXe",
 			"fillStyle": "solid",
@@ -44298,7 +44298,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44340,8 +44340,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 1383751701,
+			"version": 227,
+			"versionNonce": 2010865275,
 			"isDeleted": false,
 			"id": "H0cHv9369a2RlBNjf9E8l",
 			"fillStyle": "solid",
@@ -44360,7 +44360,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44402,8 +44402,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1894455227,
+			"version": 236,
+			"versionNonce": 216799925,
 			"isDeleted": false,
 			"id": "NdSiNaTeGfiusJUFIyI7V",
 			"fillStyle": "solid",
@@ -44422,7 +44422,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44509,8 +44509,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 952079733,
+			"version": 228,
+			"versionNonce": 461362971,
 			"isDeleted": false,
 			"id": "B_3FJOYs4NA1BOgE6bCZI",
 			"fillStyle": "solid",
@@ -44529,7 +44529,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44576,8 +44576,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1690724443,
+			"version": 238,
+			"versionNonce": 1046543381,
 			"isDeleted": false,
 			"id": "ToI7BmnEx7G1-yRy42uZe",
 			"fillStyle": "solid",
@@ -44596,7 +44596,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44693,8 +44693,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 2138513109,
+			"version": 241,
+			"versionNonce": 290208699,
 			"isDeleted": false,
 			"id": "aJ4BU100uobYzvKJDYa-w",
 			"fillStyle": "solid",
@@ -44713,7 +44713,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44825,8 +44825,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 424,
-			"versionNonce": 774808827,
+			"version": 433,
+			"versionNonce": 628273525,
 			"isDeleted": false,
 			"id": "6MT1nkSxogzce_TgCKVW4",
 			"fillStyle": "solid",
@@ -44845,7 +44845,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -44866,8 +44866,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 221674549,
+			"version": 252,
+			"versionNonce": 627248219,
 			"isDeleted": false,
 			"id": "07MIL9FaKaZMyDBTslhRG",
 			"fillStyle": "solid",
@@ -44886,7 +44886,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44978,8 +44978,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1688620443,
+			"version": 264,
+			"versionNonce": 526826197,
 			"isDeleted": false,
 			"id": "GsrurKCjJbqZFgWv0Gy63",
 			"fillStyle": "solid",
@@ -44998,7 +44998,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045678,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45150,8 +45150,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 1508060565,
+			"version": 242,
+			"versionNonce": 2073479419,
 			"isDeleted": false,
 			"id": "ChF09esadzzJOcyDxx2Xq",
 			"fillStyle": "solid",
@@ -45170,7 +45170,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45212,8 +45212,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 190833211,
+			"version": 239,
+			"versionNonce": 1154652213,
 			"isDeleted": false,
 			"id": "y7OidnPJnkXiX6qeUwCYK",
 			"fillStyle": "solid",
@@ -45232,7 +45232,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45259,8 +45259,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 1152561909,
+			"version": 252,
+			"versionNonce": 426373531,
 			"isDeleted": false,
 			"id": "dshmDUnu5atN-F-W0KIbX",
 			"fillStyle": "solid",
@@ -45279,7 +45279,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45371,8 +45371,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 457040603,
+			"version": 242,
+			"versionNonce": 2140916117,
 			"isDeleted": false,
 			"id": "0yPm4antQbYJVkzYXvoY3",
 			"fillStyle": "solid",
@@ -45391,7 +45391,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45433,8 +45433,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 707431509,
+			"version": 251,
+			"versionNonce": 806291003,
 			"isDeleted": false,
 			"id": "g2RupIiSDhWABVDvqTLHK",
 			"fillStyle": "solid",
@@ -45453,7 +45453,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45540,8 +45540,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1288884091,
+			"version": 241,
+			"versionNonce": 1626853109,
 			"isDeleted": false,
 			"id": "oTDQLI0rU1A-R8GWtUmet",
 			"fillStyle": "solid",
@@ -45560,7 +45560,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45597,8 +45597,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 975190453,
+			"version": 258,
+			"versionNonce": 644384475,
 			"isDeleted": false,
 			"id": "CtSO3K9i39dOOdy8VdoJS",
 			"fillStyle": "solid",
@@ -45617,7 +45617,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405029,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45739,8 +45739,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 576792603,
+			"version": 251,
+			"versionNonce": 929835093,
 			"isDeleted": false,
 			"id": "WrgZDQP4gscKkDxJ0A6Nz",
 			"fillStyle": "solid",
@@ -45759,7 +45759,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45846,8 +45846,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 230243093,
+			"version": 252,
+			"versionNonce": 1661531003,
 			"isDeleted": false,
 			"id": "F5jIpl8UafzluVhBGFfdq",
 			"fillStyle": "solid",
@@ -45866,7 +45866,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45958,8 +45958,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 836463803,
+			"version": 256,
+			"versionNonce": 1691243957,
 			"isDeleted": false,
 			"id": "_iwuJCzvwqkISnMXj2dWx",
 			"fillStyle": "solid",
@@ -45978,7 +45978,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46090,8 +46090,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 2104168565,
+			"version": 248,
+			"versionNonce": 1446169627,
 			"isDeleted": false,
 			"id": "UtSUawsSqSBpDC2UKURm7",
 			"fillStyle": "solid",
@@ -46110,7 +46110,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46207,8 +46207,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 786701659,
+			"version": 238,
+			"versionNonce": 1950603029,
 			"isDeleted": false,
 			"id": "HCb3IQPiVdD1-EX0PVj78",
 			"fillStyle": "solid",
@@ -46227,7 +46227,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46274,8 +46274,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 922434005,
+			"version": 235,
+			"versionNonce": 1138266299,
 			"isDeleted": false,
 			"id": "0HH9HMCqJqZZIoMFTeWUS",
 			"fillStyle": "solid",
@@ -46294,7 +46294,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46326,8 +46326,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 885897723,
+			"version": 235,
+			"versionNonce": 1883384949,
 			"isDeleted": false,
 			"id": "XcVDIoqi8Rh4JVXc32htL",
 			"fillStyle": "solid",
@@ -46346,7 +46346,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46373,8 +46373,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 327104309,
+			"version": 258,
+			"versionNonce": 1302118747,
 			"isDeleted": false,
 			"id": "24u6oY6LGEgp9R6anHIcx",
 			"fillStyle": "solid",
@@ -46393,7 +46393,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46545,8 +46545,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1352319643,
+			"version": 237,
+			"versionNonce": 2022626773,
 			"isDeleted": false,
 			"id": "5P3EMjOB-fsddzq0bgNam",
 			"fillStyle": "solid",
@@ -46565,7 +46565,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46612,8 +46612,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 761038997,
+			"version": 241,
+			"versionNonce": 1020386811,
 			"isDeleted": false,
 			"id": "jFTgBsPP1A4TEgCGcr50h",
 			"fillStyle": "solid",
@@ -46632,7 +46632,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46699,8 +46699,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1258141499,
+			"version": 234,
+			"versionNonce": 406803253,
 			"isDeleted": false,
 			"id": "BIBnj3GscOur1BcOA3bOA",
 			"fillStyle": "solid",
@@ -46719,7 +46719,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46751,8 +46751,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 910732789,
+			"version": 233,
+			"versionNonce": 209348251,
 			"isDeleted": false,
 			"id": "hOcEGeDqT73EnKPNF6irp",
 			"fillStyle": "solid",
@@ -46771,7 +46771,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46798,8 +46798,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 844699611,
+			"version": 266,
+			"versionNonce": 1538860181,
 			"isDeleted": false,
 			"id": "Xcs-yXfu739P9hZ3DCMcD",
 			"fillStyle": "solid",
@@ -46818,7 +46818,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47015,8 +47015,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 222898005,
+			"version": 245,
+			"versionNonce": 860412731,
 			"isDeleted": false,
 			"id": "ptawxzs-WYO9zbB1BzdSL",
 			"fillStyle": "solid",
@@ -47035,7 +47035,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045679,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47127,8 +47127,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 616522875,
+			"version": 233,
+			"versionNonce": 649185781,
 			"isDeleted": false,
 			"id": "YogeIc1H4phk2PKiVcR5y",
 			"fillStyle": "solid",
@@ -47147,7 +47147,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47174,8 +47174,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 347305141,
+			"version": 233,
+			"versionNonce": 765443035,
 			"isDeleted": false,
 			"id": "W0FycER33O21pa3vGI2-E",
 			"fillStyle": "solid",
@@ -47194,7 +47194,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47221,8 +47221,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1509104923,
+			"version": 244,
+			"versionNonce": 1244578645,
 			"isDeleted": false,
 			"id": "4f2xpnKgwoQyCvfQqELlR",
 			"fillStyle": "solid",
@@ -47241,7 +47241,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47328,8 +47328,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 1210914325,
+			"version": 258,
+			"versionNonce": 1200719995,
 			"isDeleted": false,
 			"id": "mdsIs2f-xqvIGjIrHV6rQ",
 			"fillStyle": "solid",
@@ -47348,7 +47348,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47505,8 +47505,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 1835450811,
+			"version": 268,
+			"versionNonce": 1518702773,
 			"isDeleted": false,
 			"id": "QlUv2e6vDPEd9VsyryRlW",
 			"fillStyle": "solid",
@@ -47525,7 +47525,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47732,8 +47732,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 313232245,
+			"version": 242,
+			"versionNonce": 652263707,
 			"isDeleted": false,
 			"id": "7z1h1_iN-Sa-7MG-kVBeV",
 			"fillStyle": "solid",
@@ -47752,7 +47752,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47829,8 +47829,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1748816475,
+			"version": 236,
+			"versionNonce": 1163637269,
 			"isDeleted": false,
 			"id": "s_977ljw5cf9QT_UOD2lF",
 			"fillStyle": "solid",
@@ -47849,7 +47849,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47896,8 +47896,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1685345493,
+			"version": 235,
+			"versionNonce": 352314811,
 			"isDeleted": false,
 			"id": "0Vai9grveR0JPx5FZdsdC",
 			"fillStyle": "solid",
@@ -47916,7 +47916,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405030,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47958,8 +47958,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 189255419,
+			"version": 237,
+			"versionNonce": 665233269,
 			"isDeleted": false,
 			"id": "TLN4Uj6xropGrhZFcHnqF",
 			"fillStyle": "solid",
@@ -47978,7 +47978,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48030,8 +48030,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 152891957,
+			"version": 246,
+			"versionNonce": 152139355,
 			"isDeleted": false,
 			"id": "JJ4ga9719ekZ9bVnr8eoZ",
 			"fillStyle": "solid",
@@ -48050,7 +48050,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48147,8 +48147,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1493841819,
+			"version": 238,
+			"versionNonce": 1672212693,
 			"isDeleted": false,
 			"id": "GQqTY_QCsNynie7g4Wu6o",
 			"fillStyle": "solid",
@@ -48167,7 +48167,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48224,8 +48224,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 1032512405,
+			"version": 258,
+			"versionNonce": 1911026427,
 			"isDeleted": false,
 			"id": "sIxT7Xg1tKNSW-E1LzruY",
 			"fillStyle": "solid",
@@ -48244,7 +48244,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48401,8 +48401,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1605798971,
+			"version": 233,
+			"versionNonce": 1996557877,
 			"isDeleted": false,
 			"id": "EHPDkLf1rn1Dzwu7MjPZH",
 			"fillStyle": "solid",
@@ -48421,7 +48421,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48448,8 +48448,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 99854581,
+			"version": 241,
+			"versionNonce": 1074125723,
 			"isDeleted": false,
 			"id": "m-V2BGxZGUM8NpwtDM3rU",
 			"fillStyle": "solid",
@@ -48468,7 +48468,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48540,8 +48540,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1127173339,
+			"version": 238,
+			"versionNonce": 277577621,
 			"isDeleted": false,
 			"id": "p8mbgd9nPzf0qi3bojzAC",
 			"fillStyle": "solid",
@@ -48560,7 +48560,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48617,8 +48617,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1138541141,
+			"version": 236,
+			"versionNonce": 798863419,
 			"isDeleted": false,
 			"id": "voQIFHwIySb7_o6uIXkeY",
 			"fillStyle": "solid",
@@ -48637,7 +48637,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48684,8 +48684,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 117897595,
+			"version": 235,
+			"versionNonce": 1719715061,
 			"isDeleted": false,
 			"id": "FSkt37K59akn3xTphGi6a",
 			"fillStyle": "solid",
@@ -48704,7 +48704,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48746,8 +48746,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 203141045,
+			"version": 236,
+			"versionNonce": 1385296091,
 			"isDeleted": false,
 			"id": "GZkgIkh_CWV8-bgTr-oRo",
 			"fillStyle": "solid",
@@ -48766,7 +48766,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48813,8 +48813,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 411046427,
+			"version": 247,
+			"versionNonce": 1281777237,
 			"isDeleted": false,
 			"id": "XstT8EgFdIUKBQXTdrAvW",
 			"fillStyle": "solid",
@@ -48833,7 +48833,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48935,8 +48935,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1020653845,
+			"version": 233,
+			"versionNonce": 1517624699,
 			"isDeleted": false,
 			"id": "S66rI0O2hkO80s2h7nSEU",
 			"fillStyle": "solid",
@@ -48955,7 +48955,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045680,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48982,8 +48982,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 411899579,
+			"version": 242,
+			"versionNonce": 152161205,
 			"isDeleted": false,
 			"id": "n73k-mnE1cyOEq8n6jY_K",
 			"fillStyle": "solid",
@@ -49002,7 +49002,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49079,8 +49079,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1400964725,
+			"version": 235,
+			"versionNonce": 579450395,
 			"isDeleted": false,
 			"id": "0Zzw6EN9pmvNVSmLKNwWz",
 			"fillStyle": "solid",
@@ -49099,7 +49099,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49141,8 +49141,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1708164955,
+			"version": 237,
+			"versionNonce": 1822985493,
 			"isDeleted": false,
 			"id": "7HI7kxWGkWt5tKiZP6JaU",
 			"fillStyle": "solid",
@@ -49161,7 +49161,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49213,8 +49213,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 48394197,
+			"version": 236,
+			"versionNonce": 2042772155,
 			"isDeleted": false,
 			"id": "MjRY8pu7v6wHoKkoo5GIi",
 			"fillStyle": "solid",
@@ -49233,7 +49233,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49280,8 +49280,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 1721558011,
+			"version": 257,
+			"versionNonce": 648028789,
 			"isDeleted": false,
 			"id": "UB5Cog7YkP9gP66kuP8pQ",
 			"fillStyle": "solid",
@@ -49300,7 +49300,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49447,8 +49447,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 152022325,
+			"version": 237,
+			"versionNonce": 750857051,
 			"isDeleted": false,
 			"id": "19sHKMvmQijTvqRGJ3KKK",
 			"fillStyle": "solid",
@@ -49467,7 +49467,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49519,8 +49519,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 318024859,
+			"version": 236,
+			"versionNonce": 1539181525,
 			"isDeleted": false,
 			"id": "76Y94HDOtb1lXe2YGgLgE",
 			"fillStyle": "solid",
@@ -49539,7 +49539,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49586,8 +49586,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 1164852885,
+			"version": 249,
+			"versionNonce": 1339623419,
 			"isDeleted": false,
 			"id": "7FxZ6aNc8ysw3vJyQGpME",
 			"fillStyle": "solid",
@@ -49606,7 +49606,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49718,8 +49718,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1049256251,
+			"version": 244,
+			"versionNonce": 2081933621,
 			"isDeleted": false,
 			"id": "S-P76bDLa-DkTmTMnxDJ-",
 			"fillStyle": "solid",
@@ -49738,7 +49738,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49825,8 +49825,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 246653941,
+			"version": 241,
+			"versionNonce": 1225543835,
 			"isDeleted": false,
 			"id": "HQv1h2mA10pwe7wTVVFn3",
 			"fillStyle": "solid",
@@ -49845,7 +49845,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405031,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49917,8 +49917,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 583041499,
+			"version": 263,
+			"versionNonce": 1494407829,
 			"isDeleted": false,
 			"id": "h4dyMuHa38GOHV2JGZmZa",
 			"fillStyle": "solid",
@@ -49937,7 +49937,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50119,8 +50119,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1222991189,
+			"version": 233,
+			"versionNonce": 437093691,
 			"isDeleted": false,
 			"id": "8otcko5bLhqPaU7Snc9x0",
 			"fillStyle": "solid",
@@ -50139,7 +50139,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50166,8 +50166,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 682200699,
+			"version": 244,
+			"versionNonce": 2070200309,
 			"isDeleted": false,
 			"id": "K3BGlXL5ig6FkgneJAwJP",
 			"fillStyle": "solid",
@@ -50186,7 +50186,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50273,8 +50273,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 995682997,
+			"version": 247,
+			"versionNonce": 1782523355,
 			"isDeleted": false,
 			"id": "DqviIRhMGgzSdlYP87iKi",
 			"fillStyle": "solid",
@@ -50293,7 +50293,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50395,8 +50395,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1929905947,
+			"version": 235,
+			"versionNonce": 957544789,
 			"isDeleted": false,
 			"id": "KJ_PRnfcWC7kgH_JnjZAR",
 			"fillStyle": "solid",
@@ -50415,7 +50415,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50457,8 +50457,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 649317397,
+			"version": 234,
+			"versionNonce": 1353953915,
 			"isDeleted": false,
 			"id": "7HZmIKsB_GLxi63Ku2xJX",
 			"fillStyle": "solid",
@@ -50477,7 +50477,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50514,8 +50514,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 676228027,
+			"version": 257,
+			"versionNonce": 192087733,
 			"isDeleted": false,
 			"id": "Rl1Pnn09l6fygM54xVJLY",
 			"fillStyle": "solid",
@@ -50534,7 +50534,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50686,8 +50686,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 451641717,
+			"version": 233,
+			"versionNonce": 1580051227,
 			"isDeleted": false,
 			"id": "kzLwd_4QiMLGpk_cHBOsE",
 			"fillStyle": "solid",
@@ -50706,7 +50706,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50738,8 +50738,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 2090810459,
+			"version": 246,
+			"versionNonce": 623536149,
 			"isDeleted": false,
 			"id": "ceY4gcRtzgZdgUi79bOA9",
 			"fillStyle": "solid",
@@ -50758,7 +50758,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50860,8 +50860,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 222661333,
+			"version": 236,
+			"versionNonce": 1730121659,
 			"isDeleted": false,
 			"id": "TyBJjhkrITOisB3bdxUi8",
 			"fillStyle": "solid",
@@ -50880,7 +50880,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50932,8 +50932,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 2077030651,
+			"version": 235,
+			"versionNonce": 1211014517,
 			"isDeleted": false,
 			"id": "ODKipGSI3ER2FD6QexsM6",
 			"fillStyle": "solid",
@@ -50952,7 +50952,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045681,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50999,8 +50999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 777480245,
+			"version": 233,
+			"versionNonce": 229367899,
 			"isDeleted": false,
 			"id": "J8cOB5Wq5oD6H6UFd0DuZ",
 			"fillStyle": "solid",
@@ -51019,7 +51019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51056,8 +51056,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 324673947,
+			"version": 242,
+			"versionNonce": 1539647189,
 			"isDeleted": false,
 			"id": "K2CJPysZYDvjm4WygMiv_",
 			"fillStyle": "solid",
@@ -51076,7 +51076,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51158,8 +51158,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 432533,
+			"version": 236,
+			"versionNonce": 195370235,
 			"isDeleted": false,
 			"id": "XQlcxgebW2yIkYpjO0V1z",
 			"fillStyle": "solid",
@@ -51178,7 +51178,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51230,8 +51230,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1551447611,
+			"version": 232,
+			"versionNonce": 1115915317,
 			"isDeleted": false,
 			"id": "M28rDLAG78iVFS90qxEZl",
 			"fillStyle": "solid",
@@ -51250,7 +51250,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51277,8 +51277,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 730373877,
+			"version": 253,
+			"versionNonce": 1015924123,
 			"isDeleted": false,
 			"id": "QDoONjnWOyYGl1DTNHmXF",
 			"fillStyle": "solid",
@@ -51297,7 +51297,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51434,8 +51434,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 638367451,
+			"version": 243,
+			"versionNonce": 1884239253,
 			"isDeleted": false,
 			"id": "arGB2roklQ2mxRAFIhpbI",
 			"fillStyle": "solid",
@@ -51454,7 +51454,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51536,8 +51536,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 392362069,
+			"version": 233,
+			"versionNonce": 1738037819,
 			"isDeleted": false,
 			"id": "h7iCrTKv_YiNT9gRl8TXp",
 			"fillStyle": "solid",
@@ -51556,7 +51556,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51593,8 +51593,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1051140987,
+			"version": 233,
+			"versionNonce": 1079884533,
 			"isDeleted": false,
 			"id": "AteKZmJ3Pn56NvfKEEwQh",
 			"fillStyle": "solid",
@@ -51613,7 +51613,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51650,8 +51650,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1030432181,
+			"version": 234,
+			"versionNonce": 1235704539,
 			"isDeleted": false,
 			"id": "McquBrde8gYDGRwrMnXHd",
 			"fillStyle": "solid",
@@ -51670,7 +51670,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51712,8 +51712,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 2123037723,
+			"version": 235,
+			"versionNonce": 187995221,
 			"isDeleted": false,
 			"id": "4_fc-7OSz7xGSGP7U6vo2",
 			"fillStyle": "solid",
@@ -51732,7 +51732,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51779,8 +51779,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1086760725,
+			"version": 247,
+			"versionNonce": 1598900091,
 			"isDeleted": false,
 			"id": "zRx_QcLoyVtuGKwE1Pzj3",
 			"fillStyle": "solid",
@@ -51799,7 +51799,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51901,8 +51901,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 296403131,
+			"version": 274,
+			"versionNonce": 2091467189,
 			"isDeleted": false,
 			"id": "RTY5DXfuUsA85ibNL968z",
 			"fillStyle": "solid",
@@ -51921,7 +51921,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405032,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52163,8 +52163,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1139473525,
+			"version": 247,
+			"versionNonce": 1858904091,
 			"isDeleted": false,
 			"id": "pxNHhD-jGE_vVXYYmqL7-",
 			"fillStyle": "solid",
@@ -52183,7 +52183,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52285,8 +52285,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 289,
-			"versionNonce": 27849051,
+			"version": 298,
+			"versionNonce": 702628629,
 			"isDeleted": false,
 			"id": "7p-Oj1ZozpirMGHryDGaS",
 			"fillStyle": "solid",
@@ -52305,7 +52305,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52667,8 +52667,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 2124260821,
+			"version": 232,
+			"versionNonce": 1377297595,
 			"isDeleted": false,
 			"id": "JIlyTZxR23NkSlUfNQRiI",
 			"fillStyle": "solid",
@@ -52687,7 +52687,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52714,8 +52714,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 2144865787,
+			"version": 232,
+			"versionNonce": 1733433461,
 			"isDeleted": false,
 			"id": "x3oFAYG5XYxEkAPHRm1rN",
 			"fillStyle": "solid",
@@ -52734,7 +52734,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52761,8 +52761,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 334766901,
+			"version": 243,
+			"versionNonce": 13735259,
 			"isDeleted": false,
 			"id": "k8rVBxQF9Fmdzx0Am12UF",
 			"fillStyle": "solid",
@@ -52781,7 +52781,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52863,8 +52863,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1866110619,
+			"version": 248,
+			"versionNonce": 1589723605,
 			"isDeleted": false,
 			"id": "kpvG_FNfgEannt6Eji_X4",
 			"fillStyle": "solid",
@@ -52883,7 +52883,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52990,8 +52990,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 676590741,
+			"version": 236,
+			"versionNonce": 1514942971,
 			"isDeleted": false,
 			"id": "Eri0VKTc1VxCDmWDDluH_",
 			"fillStyle": "solid",
@@ -53010,7 +53010,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53062,8 +53062,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 780340027,
+			"version": 235,
+			"versionNonce": 1698971445,
 			"isDeleted": false,
 			"id": "pb07ZM6lgWW2DxLpWJI6q",
 			"fillStyle": "solid",
@@ -53082,7 +53082,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53129,8 +53129,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 930257397,
+			"version": 255,
+			"versionNonce": 797588123,
 			"isDeleted": false,
 			"id": "AywNk5gF2lEj58yOsX1ki",
 			"fillStyle": "solid",
@@ -53149,7 +53149,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045682,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53296,8 +53296,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 571730907,
+			"version": 231,
+			"versionNonce": 289443989,
 			"isDeleted": false,
 			"id": "4pyQMnfUQgeg662vFXs56",
 			"fillStyle": "solid",
@@ -53316,7 +53316,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53363,8 +53363,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 281,
-			"versionNonce": 710251349,
+			"version": 290,
+			"versionNonce": 222179131,
 			"isDeleted": false,
 			"id": "jPdvCeAnN5J9uw35CUJ8V",
 			"fillStyle": "solid",
@@ -53383,7 +53383,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53730,8 +53730,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 2113910907,
+			"version": 243,
+			"versionNonce": 275494389,
 			"isDeleted": false,
 			"id": "-sWutrqslZgfWN9F5TgKK",
 			"fillStyle": "solid",
@@ -53750,7 +53750,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53857,8 +53857,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 760373429,
+			"version": 263,
+			"versionNonce": 1170903003,
 			"isDeleted": false,
 			"id": "QDyJ_2mFn7OmSIcfPLo3Q",
 			"fillStyle": "solid",
@@ -53877,7 +53877,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54084,8 +54084,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 1342763291,
+			"version": 252,
+			"versionNonce": 1036726101,
 			"isDeleted": false,
 			"id": "Qmc0VnSpdN4FEHlkPQYYR",
 			"fillStyle": "solid",
@@ -54104,7 +54104,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54256,8 +54256,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1175355925,
+			"version": 232,
+			"versionNonce": 994172027,
 			"isDeleted": false,
 			"id": "0glVO5TMR9kqys6T6O9LS",
 			"fillStyle": "solid",
@@ -54276,7 +54276,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54333,8 +54333,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1235359163,
+			"version": 231,
+			"versionNonce": 2008317109,
 			"isDeleted": false,
 			"id": "egVc9XNeKcFNh5pwySuqE",
 			"fillStyle": "solid",
@@ -54353,7 +54353,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54405,8 +54405,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 696219509,
+			"version": 247,
+			"versionNonce": 1768330523,
 			"isDeleted": false,
 			"id": "Sbkp6mGPX7vbEIQRV6akJ",
 			"fillStyle": "solid",
@@ -54425,7 +54425,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54557,8 +54557,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 275,
-			"versionNonce": 1240311387,
+			"version": 284,
+			"versionNonce": 902635029,
 			"isDeleted": false,
 			"id": "t8dQRtuVqhx3RERHNtF0Q",
 			"fillStyle": "solid",
@@ -54577,7 +54577,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54894,8 +54894,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1374339285,
+			"version": 233,
+			"versionNonce": 799750587,
 			"isDeleted": false,
 			"id": "m7lBZiBCqnkTa7qAQhLCc",
 			"fillStyle": "solid",
@@ -54914,7 +54914,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54971,8 +54971,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 666772219,
+			"version": 233,
+			"versionNonce": 1594528629,
 			"isDeleted": false,
 			"id": "SwwsulcuBd_hOPBUgE_BJ",
 			"fillStyle": "solid",
@@ -54991,7 +54991,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55053,8 +55053,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1424350773,
+			"version": 233,
+			"versionNonce": 1530022491,
 			"isDeleted": false,
 			"id": "1mM-8TL8fl6sJPU51ewVh",
 			"fillStyle": "solid",
@@ -55073,7 +55073,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405033,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55135,8 +55135,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 999689115,
+			"version": 241,
+			"versionNonce": 1605524693,
 			"isDeleted": false,
 			"id": "D0RIKc2EXLg1YT1lvVKwb",
 			"fillStyle": "solid",
@@ -55155,7 +55155,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55252,8 +55252,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 250,
-			"versionNonce": 2035699605,
+			"version": 259,
+			"versionNonce": 1892566779,
 			"isDeleted": false,
 			"id": "bZUc0jfw0NMbkRUpE-xRu",
 			"fillStyle": "solid",
@@ -55272,7 +55272,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55339,8 +55339,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 251,
-			"versionNonce": 698867771,
+			"version": 260,
+			"versionNonce": 2136603189,
 			"isDeleted": false,
 			"id": "wWVVGi3BUGA41oqxGmq8i",
 			"fillStyle": "solid",
@@ -55359,7 +55359,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55431,8 +55431,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 225547509,
+			"version": 272,
+			"versionNonce": 922857371,
 			"isDeleted": false,
 			"id": "hreZ8BXqwYtx8BmEYsXW4",
 			"fillStyle": "solid",
@@ -55451,7 +55451,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55583,8 +55583,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 386,
-			"versionNonce": 1809195227,
+			"version": 395,
+			"versionNonce": 1994845077,
 			"isDeleted": false,
 			"id": "oNVpPVu4bfyTSbD9zQe8Q",
 			"fillStyle": "solid",
@@ -55603,7 +55603,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55760,8 +55760,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 367,
-			"versionNonce": 2092772949,
+			"version": 376,
+			"versionNonce": 2147419195,
 			"isDeleted": false,
 			"id": "c1D0PENS-JkvpvgMJCZML",
 			"fillStyle": "solid",
@@ -55780,7 +55780,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55842,8 +55842,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 464735611,
+			"version": 382,
+			"versionNonce": 1183756533,
 			"isDeleted": false,
 			"id": "ClrfqczwH_EBpLYHBSs8J",
 			"fillStyle": "solid",
@@ -55862,7 +55862,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55954,8 +55954,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 367,
-			"versionNonce": 638491573,
+			"version": 376,
+			"versionNonce": 866698459,
 			"isDeleted": false,
 			"id": "xA_JxOtvPLEz8eSJaPTgF",
 			"fillStyle": "solid",
@@ -55974,7 +55974,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56031,8 +56031,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 417,
-			"versionNonce": 2088887835,
+			"version": 426,
+			"versionNonce": 1272367701,
 			"isDeleted": false,
 			"id": "I5900AhcPNGXYAH6zSM9e",
 			"fillStyle": "solid",
@@ -56051,7 +56051,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56223,8 +56223,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 304,
-			"versionNonce": 1904958741,
+			"version": 313,
+			"versionNonce": 428962171,
 			"isDeleted": false,
 			"id": "wTir-MBk4tGcs08khREEB",
 			"fillStyle": "solid",
@@ -56243,7 +56243,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56280,8 +56280,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 302,
-			"versionNonce": 1161063099,
+			"version": 311,
+			"versionNonce": 395622325,
 			"isDeleted": false,
 			"id": "qmKkLM94eqR9TKSNhHPML",
 			"fillStyle": "solid",
@@ -56300,7 +56300,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56327,8 +56327,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 648606325,
+			"version": 325,
+			"versionNonce": 1660652059,
 			"isDeleted": false,
 			"id": "5kcNv0jteX2_7FsPqdtqf",
 			"fillStyle": "solid",
@@ -56347,7 +56347,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56449,8 +56449,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 317,
-			"versionNonce": 711809883,
+			"version": 326,
+			"versionNonce": 65927445,
 			"isDeleted": false,
 			"id": "yS-LmDDhi_kcBfuu4EfDK",
 			"fillStyle": "solid",
@@ -56469,7 +56469,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56576,8 +56576,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 349,
-			"versionNonce": 36494293,
+			"version": 358,
+			"versionNonce": 1960414907,
 			"isDeleted": false,
 			"id": "XQ7ivtamkjq0cOpVb-GuH",
 			"fillStyle": "solid",
@@ -56596,7 +56596,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56868,8 +56868,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 318,
-			"versionNonce": 679426043,
+			"version": 327,
+			"versionNonce": 173543029,
 			"isDeleted": false,
 			"id": "J85pV3TITgALdG2tGsP28",
 			"fillStyle": "solid",
@@ -56888,7 +56888,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57000,8 +57000,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 204249397,
+			"version": 329,
+			"versionNonce": 1909325659,
 			"isDeleted": false,
 			"id": "YbOHtC_B74fRrlnnIsM24",
 			"fillStyle": "solid",
@@ -57020,7 +57020,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57147,8 +57147,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 306,
-			"versionNonce": 225214619,
+			"version": 315,
+			"versionNonce": 1503164373,
 			"isDeleted": false,
 			"id": "V5WptQb69osSfsRd2AnpD",
 			"fillStyle": "solid",
@@ -57167,7 +57167,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57224,8 +57224,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 772647573,
+			"version": 319,
+			"versionNonce": 69950459,
 			"isDeleted": false,
 			"id": "Ml46hrPpWn2KpOBlO40FT",
 			"fillStyle": "solid",
@@ -57244,7 +57244,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57326,8 +57326,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 303,
-			"versionNonce": 1122481467,
+			"version": 312,
+			"versionNonce": 734311733,
 			"isDeleted": false,
 			"id": "LRIBEUWRFZ_rm8hfsAbmY",
 			"fillStyle": "solid",
@@ -57346,7 +57346,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57393,8 +57393,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 336,
-			"versionNonce": 142970869,
+			"version": 345,
+			"versionNonce": 1744053403,
 			"isDeleted": false,
 			"id": "nPUZ9ZQvo3NJWmsu8PJGv",
 			"fillStyle": "solid",
@@ -57413,7 +57413,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57620,8 +57620,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 1481856475,
+			"version": 325,
+			"versionNonce": 1547847317,
 			"isDeleted": false,
 			"id": "yZP879la7Y9gMK6i7ELQp",
 			"fillStyle": "solid",
@@ -57640,7 +57640,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57772,8 +57772,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 316,
-			"versionNonce": 161073493,
+			"version": 325,
+			"versionNonce": 886757691,
 			"isDeleted": false,
 			"id": "xo7-RuGoBRxe9XsWqFB4v",
 			"fillStyle": "solid",
@@ -57792,7 +57792,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405034,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57924,8 +57924,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 292,
-			"versionNonce": 1287774843,
+			"version": 301,
+			"versionNonce": 1036430325,
 			"isDeleted": false,
 			"id": "vqh_5VTLD4-__r6NiGvrz",
 			"fillStyle": "solid",
@@ -57944,7 +57944,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58296,8 +58296,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 1117771445,
+			"version": 250,
+			"versionNonce": 1749154267,
 			"isDeleted": false,
 			"id": "n5Zdx3vf0zq9n5fpSNL9j",
 			"fillStyle": "solid",
@@ -58316,7 +58316,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58413,8 +58413,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 418765595,
+			"version": 247,
+			"versionNonce": 811033941,
 			"isDeleted": false,
 			"id": "Uosin0wWLXy5Yxh_Zm1iS",
 			"fillStyle": "solid",
@@ -58433,7 +58433,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58515,8 +58515,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 2117941269,
+			"version": 239,
+			"versionNonce": 792462971,
 			"isDeleted": false,
 			"id": "_e8YrKat4MuirgqOiNsOP",
 			"fillStyle": "solid",
@@ -58535,7 +58535,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58577,8 +58577,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 2036449211,
+			"version": 247,
+			"versionNonce": 2001334965,
 			"isDeleted": false,
 			"id": "KlihKW6yLj6nC0b8J07aG",
 			"fillStyle": "solid",
@@ -58597,7 +58597,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58679,8 +58679,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 375876981,
+			"version": 250,
+			"versionNonce": 1888190235,
 			"isDeleted": false,
 			"id": "ZcPlOps9UpRMhOi86ZPzb",
 			"fillStyle": "solid",
@@ -58699,7 +58699,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58751,8 +58751,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 2015891547,
+			"version": 248,
+			"versionNonce": 1329845269,
 			"isDeleted": false,
 			"id": "7C5YyhtTLKzvNSptzQJ1q",
 			"fillStyle": "solid",
@@ -58771,7 +58771,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58813,8 +58813,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 174323413,
+			"version": 279,
+			"versionNonce": 379773883,
 			"isDeleted": false,
 			"id": "r_J9Leo2Qlq5ZdR6MymWw",
 			"fillStyle": "solid",
@@ -58833,7 +58833,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045684,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59150,8 +59150,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 924536059,
+			"version": 239,
+			"versionNonce": 1144686965,
 			"isDeleted": false,
 			"id": "SB8giQ3KbShZFUCJ4kqKc",
 			"fillStyle": "solid",
@@ -59170,7 +59170,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59302,8 +59302,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1422414901,
+			"version": 237,
+			"versionNonce": 430224475,
 			"isDeleted": false,
 			"id": "AksYN-qPjBfQUIpoZ5grU",
 			"fillStyle": "solid",
@@ -59322,7 +59322,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59449,8 +59449,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 2042492315,
+			"version": 228,
+			"versionNonce": 1198756565,
 			"isDeleted": false,
 			"id": "kNQ8c3aKQFKn1VnDa1RMK",
 			"fillStyle": "solid",
@@ -59469,7 +59469,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59551,8 +59551,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 24774037,
+			"version": 220,
+			"versionNonce": 1231253755,
 			"isDeleted": false,
 			"id": "cJeCXf15iUlF9HTMCw4Ik",
 			"fillStyle": "solid",
@@ -59571,7 +59571,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59613,8 +59613,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1866631739,
+			"version": 229,
+			"versionNonce": 92565557,
 			"isDeleted": false,
 			"id": "_jUd9EwESUzwv0yxMFqbO",
 			"fillStyle": "solid",
@@ -59633,7 +59633,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59720,8 +59720,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 61770485,
+			"version": 223,
+			"versionNonce": 1466014107,
 			"isDeleted": false,
 			"id": "qLxbAEYHRGfjkdxbHonoR",
 			"fillStyle": "solid",
@@ -59740,7 +59740,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59797,8 +59797,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 1015778011,
+			"version": 222,
+			"versionNonce": 2085790101,
 			"isDeleted": false,
 			"id": "TCPyFNWqdyl0gU51_uV2v",
 			"fillStyle": "solid",
@@ -59817,7 +59817,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59869,8 +59869,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1273717845,
+			"version": 241,
+			"versionNonce": 550612539,
 			"isDeleted": false,
 			"id": "UgknoSnQIe03Hl5Jkag-w",
 			"fillStyle": "solid",
@@ -59889,7 +59889,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60036,8 +60036,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 1177253755,
+			"version": 223,
+			"versionNonce": 1360242421,
 			"isDeleted": false,
 			"id": "Pq_EvUcjT8F3QlyygIVgY",
 			"fillStyle": "solid",
@@ -60056,7 +60056,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60113,8 +60113,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 503714229,
+			"version": 218,
+			"versionNonce": 949366491,
 			"isDeleted": false,
 			"id": "otvKG7V3nEqnhxaEpmdRM",
 			"fillStyle": "solid",
@@ -60133,7 +60133,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60160,8 +60160,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 979685403,
+			"version": 239,
+			"versionNonce": 1716322389,
 			"isDeleted": false,
 			"id": "qfHkcNv4oIPxIqpu-EMLU",
 			"fillStyle": "solid",
@@ -60180,7 +60180,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60317,8 +60317,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 656675605,
+			"version": 219,
+			"versionNonce": 826383227,
 			"isDeleted": false,
 			"id": "rSYrOjQSO0oiKmIvqG3_k",
 			"fillStyle": "solid",
@@ -60337,7 +60337,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60374,8 +60374,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1529484475,
+			"version": 218,
+			"versionNonce": 835988917,
 			"isDeleted": false,
 			"id": "nHiAz1Ewa8Hds82Pt4BhH",
 			"fillStyle": "solid",
@@ -60394,7 +60394,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60426,8 +60426,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1404758133,
+			"version": 229,
+			"versionNonce": 655782939,
 			"isDeleted": false,
 			"id": "7ByOVnCyN-05ZMTUXf48O",
 			"fillStyle": "solid",
@@ -60446,7 +60446,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60533,8 +60533,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 136168795,
+			"version": 228,
+			"versionNonce": 1389276949,
 			"isDeleted": false,
 			"id": "fd3DxjsZflkBe5W6tt7Bd",
 			"fillStyle": "solid",
@@ -60553,7 +60553,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405035,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60635,8 +60635,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1703940565,
+			"version": 247,
+			"versionNonce": 168245435,
 			"isDeleted": false,
 			"id": "jmziax6cHfpiKaGoadGlE",
 			"fillStyle": "solid",
@@ -60655,7 +60655,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60832,8 +60832,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 143811067,
+			"version": 231,
+			"versionNonce": 1739719797,
 			"isDeleted": false,
 			"id": "8yw41ZixMU-GZUi8pCF8P",
 			"fillStyle": "solid",
@@ -60852,7 +60852,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60954,8 +60954,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1236864821,
+			"version": 220,
+			"versionNonce": 666265947,
 			"isDeleted": false,
 			"id": "fRC973tldTpomB5ibVLmf",
 			"fillStyle": "solid",
@@ -60974,7 +60974,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61021,8 +61021,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 361392795,
+			"version": 220,
+			"versionNonce": 608415189,
 			"isDeleted": false,
 			"id": "pLGKlXU6VopiOs2wfOtPd",
 			"fillStyle": "solid",
@@ -61041,7 +61041,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61088,8 +61088,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 781934741,
+			"version": 220,
+			"versionNonce": 1970701819,
 			"isDeleted": false,
 			"id": "pgO-IcSHvqWlwP87Gyrqu",
 			"fillStyle": "solid",
@@ -61108,7 +61108,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045685,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61155,8 +61155,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 599285563,
+			"version": 242,
+			"versionNonce": 664349493,
 			"isDeleted": false,
 			"id": "7coyjB37p9EVGEJWoUu3d",
 			"fillStyle": "solid",
@@ -61175,7 +61175,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61332,8 +61332,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 1508673013,
+			"version": 222,
+			"versionNonce": 441061019,
 			"isDeleted": false,
 			"id": "TocOBSFOBnlo0Qn8yxEgQ",
 			"fillStyle": "solid",
@@ -61352,7 +61352,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61414,8 +61414,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1837023195,
+			"version": 226,
+			"versionNonce": 303561877,
 			"isDeleted": false,
 			"id": "plIKuS16NqWPoq7y4WzZB",
 			"fillStyle": "solid",
@@ -61434,7 +61434,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61516,8 +61516,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1051852629,
+			"version": 230,
+			"versionNonce": 954434363,
 			"isDeleted": false,
 			"id": "wEWOtdJze_jVNaOXEnIrQ",
 			"fillStyle": "solid",
@@ -61536,7 +61536,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61633,8 +61633,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1022364795,
+			"version": 247,
+			"versionNonce": 1534435829,
 			"isDeleted": false,
 			"id": "Z6HOJA_u4v-KW_IcmgzBf",
 			"fillStyle": "solid",
@@ -61653,7 +61653,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61840,8 +61840,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 278,
-			"versionNonce": 1396788405,
+			"version": 287,
+			"versionNonce": 2040882139,
 			"isDeleted": false,
 			"id": "qYhWdNkLuMzk4R2XYgs6-",
 			"fillStyle": "solid",
@@ -61860,7 +61860,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62247,8 +62247,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1976485147,
+			"version": 230,
+			"versionNonce": 1756863317,
 			"isDeleted": false,
 			"id": "e2N32hY1SciDbn_kaEWJr",
 			"fillStyle": "solid",
@@ -62267,7 +62267,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62369,8 +62369,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 658501141,
+			"version": 226,
+			"versionNonce": 1419915387,
 			"isDeleted": false,
 			"id": "KaxKgtU0eDYIsKleN9rul",
 			"fillStyle": "solid",
@@ -62389,7 +62389,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62471,8 +62471,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1603103163,
+			"version": 217,
+			"versionNonce": 1647536309,
 			"isDeleted": false,
 			"id": "8EkPsRyxBPp0GkgaE6bT-",
 			"fillStyle": "solid",
@@ -62491,7 +62491,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62528,8 +62528,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 967009141,
+			"version": 226,
+			"versionNonce": 463235355,
 			"isDeleted": false,
 			"id": "BeH-XhyQUcMfwCieA6faf",
 			"fillStyle": "solid",
@@ -62548,7 +62548,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62630,8 +62630,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 793672283,
+			"version": 234,
+			"versionNonce": 1234078229,
 			"isDeleted": false,
 			"id": "u7W_rTQypNQmO4IpLuCJT",
 			"fillStyle": "solid",
@@ -62650,7 +62650,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62767,8 +62767,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 246492373,
+			"version": 237,
+			"versionNonce": 1141280187,
 			"isDeleted": false,
 			"id": "iplFHOlT_Mmfl_rdyams6",
 			"fillStyle": "solid",
@@ -62787,7 +62787,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62919,8 +62919,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 1373927163,
+			"version": 221,
+			"versionNonce": 1337884533,
 			"isDeleted": false,
 			"id": "FWaMii0nDrNFqu1-h1sm0",
 			"fillStyle": "solid",
@@ -62939,7 +62939,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62991,8 +62991,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 100583989,
+			"version": 219,
+			"versionNonce": 1896029787,
 			"isDeleted": false,
 			"id": "iBUNrtQ-I_P2uCWz8mfDh",
 			"fillStyle": "solid",
@@ -63011,7 +63011,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63058,8 +63058,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1976688539,
+			"version": 229,
+			"versionNonce": 1795737813,
 			"isDeleted": false,
 			"id": "o6Q8VydT5Qs7TLumPetw7",
 			"fillStyle": "solid",
@@ -63078,7 +63078,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63175,8 +63175,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1886501781,
+			"version": 236,
+			"versionNonce": 1030003451,
 			"isDeleted": false,
 			"id": "xHILqKhScVZq016GL9FdR",
 			"fillStyle": "solid",
@@ -63195,7 +63195,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63327,8 +63327,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1430860859,
+			"version": 224,
+			"versionNonce": 755164725,
 			"isDeleted": false,
 			"id": "YDNZjY5yRWJol9tKw1ojW",
 			"fillStyle": "solid",
@@ -63347,7 +63347,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405036,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63419,8 +63419,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1715437813,
+			"version": 217,
+			"versionNonce": 1168999323,
 			"isDeleted": false,
 			"id": "Un_52OGEaVmP8gpVFGK3o",
 			"fillStyle": "solid",
@@ -63439,7 +63439,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63471,8 +63471,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1076688091,
+			"version": 235,
+			"versionNonce": 1485985685,
 			"isDeleted": false,
 			"id": "uSSzdyhW1h6ld8hgxBBY3",
 			"fillStyle": "solid",
@@ -63491,7 +63491,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63618,8 +63618,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1559075413,
+			"version": 217,
+			"versionNonce": 1913673787,
 			"isDeleted": false,
 			"id": "TpXZZqSa7wjBofwjOVJ3m",
 			"fillStyle": "solid",
@@ -63638,7 +63638,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63670,8 +63670,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 1712300411,
+			"version": 216,
+			"versionNonce": 938253557,
 			"isDeleted": false,
 			"id": "dySLY0KpG8LK8z98Jy_nt",
 			"fillStyle": "solid",
@@ -63690,7 +63690,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045686,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63717,8 +63717,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 2102495157,
+			"version": 228,
+			"versionNonce": 7313627,
 			"isDeleted": false,
 			"id": "Plki1nlipbjZryc56Q7d4",
 			"fillStyle": "solid",
@@ -63737,7 +63737,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63829,8 +63829,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1614002715,
+			"version": 228,
+			"versionNonce": 848770645,
 			"isDeleted": false,
 			"id": "ItIaiOoZe1RpzKd_ft6a_",
 			"fillStyle": "solid",
@@ -63849,7 +63849,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63941,8 +63941,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 965789973,
+			"version": 247,
+			"versionNonce": 1314768251,
 			"isDeleted": false,
 			"id": "A0BVhG8CtTJGjQOG1I1nQ",
 			"fillStyle": "solid",
@@ -63961,7 +63961,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64148,8 +64148,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 2072755899,
+			"version": 226,
+			"versionNonce": 593994677,
 			"isDeleted": false,
 			"id": "MhnbqRodOlfT0jEiten7f",
 			"fillStyle": "solid",
@@ -64168,7 +64168,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64250,8 +64250,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 589356661,
+			"version": 218,
+			"versionNonce": 1662869019,
 			"isDeleted": false,
 			"id": "TtkRiGQghfk7FIse-3iA8",
 			"fillStyle": "solid",
@@ -64270,7 +64270,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64312,8 +64312,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1119498075,
+			"version": 218,
+			"versionNonce": 1854104853,
 			"isDeleted": false,
 			"id": "_RZA5QhWX10POqGTriqgP",
 			"fillStyle": "solid",
@@ -64332,7 +64332,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64374,8 +64374,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 13060053,
+			"version": 219,
+			"versionNonce": 966845115,
 			"isDeleted": false,
 			"id": "-Nq__UWbVe52rjcUJg8p3",
 			"fillStyle": "solid",
@@ -64394,7 +64394,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64441,8 +64441,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1209109499,
+			"version": 232,
+			"versionNonce": 1465907829,
 			"isDeleted": false,
 			"id": "30xJMKOcGHIdDC5GrMfFq",
 			"fillStyle": "solid",
@@ -64461,7 +64461,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64573,8 +64573,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 614040885,
+			"version": 220,
+			"versionNonce": 1250612059,
 			"isDeleted": false,
 			"id": "qTjVhC9ouSYMJ3a1jpgin",
 			"fillStyle": "solid",
@@ -64593,7 +64593,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64645,8 +64645,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 798250139,
+			"version": 227,
+			"versionNonce": 381871061,
 			"isDeleted": false,
 			"id": "jboaFXI9DUd0ETencgW5Q",
 			"fillStyle": "solid",
@@ -64665,7 +64665,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64752,8 +64752,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 33363605,
+			"version": 220,
+			"versionNonce": 1445834747,
 			"isDeleted": false,
 			"id": "u1zy3WuoaQ5ZqIuelXPWb",
 			"fillStyle": "solid",
@@ -64772,7 +64772,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64819,8 +64819,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 2029324603,
+			"version": 246,
+			"versionNonce": 817996085,
 			"isDeleted": false,
 			"id": "5eKtlCQ-8kHlxAI9e4CNl",
 			"fillStyle": "solid",
@@ -64839,7 +64839,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65021,8 +65021,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 61307893,
+			"version": 235,
+			"versionNonce": 1854666907,
 			"isDeleted": false,
 			"id": "UX7xYjdUXxlEUPvTo--RB",
 			"fillStyle": "solid",
@@ -65041,7 +65041,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65168,8 +65168,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 525,
-			"versionNonce": 160836059,
+			"version": 534,
+			"versionNonce": 180466325,
 			"isDeleted": false,
 			"id": "jt1FAguu4s4vuxzlLx1b6",
 			"fillStyle": "solid",
@@ -65188,7 +65188,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -65213,8 +65213,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 347,
-			"versionNonce": 564016469,
+			"version": 356,
+			"versionNonce": 1096297787,
 			"isDeleted": false,
 			"id": "qzboi_LTJygU8Rzhq73Ed",
 			"fillStyle": "solid",
@@ -65233,7 +65233,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -65258,8 +65258,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1988769403,
+			"version": 256,
+			"versionNonce": 1098422261,
 			"isDeleted": false,
 			"id": "IZcet3_9L4paTU9SnNmxJ",
 			"fillStyle": "solid",
@@ -65278,7 +65278,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65510,8 +65510,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 926335669,
+			"version": 229,
+			"versionNonce": 569691611,
 			"isDeleted": false,
 			"id": "sYLFcH0GaIe95fcbJBsIa",
 			"fillStyle": "solid",
@@ -65530,7 +65530,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405037,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65622,8 +65622,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 244559643,
+			"version": 239,
+			"versionNonce": 1055641941,
 			"isDeleted": false,
 			"id": "o9rRNplVXi34_b2HUkNGp",
 			"fillStyle": "solid",
@@ -65642,7 +65642,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65789,8 +65789,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 420914197,
+			"version": 219,
+			"versionNonce": 1400134267,
 			"isDeleted": false,
 			"id": "teZ72tZ91K4WGTMy5oZr5",
 			"fillStyle": "solid",
@@ -65809,7 +65809,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65856,8 +65856,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 606409659,
+			"version": 222,
+			"versionNonce": 275832501,
 			"isDeleted": false,
 			"id": "0Ft4IX1jj_9zncAfK58V_",
 			"fillStyle": "solid",
@@ -65876,7 +65876,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045687,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65933,8 +65933,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1798527349,
+			"version": 237,
+			"versionNonce": 312038171,
 			"isDeleted": false,
 			"id": "yDj3bHpYYOTk4IpIagMzp",
 			"fillStyle": "solid",
@@ -65953,7 +65953,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66090,8 +66090,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 392225883,
+			"version": 218,
+			"versionNonce": 2091728917,
 			"isDeleted": false,
 			"id": "Gjh4xfOcYDn5-PpyelAKc",
 			"fillStyle": "solid",
@@ -66110,7 +66110,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66152,8 +66152,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 919757525,
+			"version": 215,
+			"versionNonce": 1607874491,
 			"isDeleted": false,
 			"id": "gqS2BVUusN_VzwluBkgVq",
 			"fillStyle": "solid",
@@ -66172,7 +66172,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66199,8 +66199,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 538550523,
+			"version": 230,
+			"versionNonce": 1503032693,
 			"isDeleted": false,
 			"id": "2JzkXyW6Q3uPoiYDERwiK",
 			"fillStyle": "solid",
@@ -66219,7 +66219,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66321,8 +66321,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1082736693,
+			"version": 230,
+			"versionNonce": 156076123,
 			"isDeleted": false,
 			"id": "MRbkGkpgsv4ZXq4pgV7NB",
 			"fillStyle": "solid",
@@ -66341,7 +66341,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66443,8 +66443,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1473366427,
+			"version": 244,
+			"versionNonce": 577896149,
 			"isDeleted": false,
 			"id": "rmuDIxT5WQnXgyT2-knvQ",
 			"fillStyle": "solid",
@@ -66463,7 +66463,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66635,8 +66635,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 507343253,
+			"version": 220,
+			"versionNonce": 1959904507,
 			"isDeleted": false,
 			"id": "Qkwand8b2FaibXuIQjzPT",
 			"fillStyle": "solid",
@@ -66655,7 +66655,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66702,8 +66702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 62643771,
+			"version": 226,
+			"versionNonce": 1305828405,
 			"isDeleted": false,
 			"id": "R7I8g5cd3GsWZSRaIjPsJ",
 			"fillStyle": "solid",
@@ -66722,7 +66722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66814,8 +66814,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 220493557,
+			"version": 218,
+			"versionNonce": 702901659,
 			"isDeleted": false,
 			"id": "Xw9kRSFNczNObnxRTjxXe",
 			"fillStyle": "solid",
@@ -66834,7 +66834,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66886,8 +66886,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 515530459,
+			"version": 217,
+			"versionNonce": 1671826837,
 			"isDeleted": false,
 			"id": "uf2fDSJuFpwcXcOQTF0v8",
 			"fillStyle": "solid",
@@ -66906,7 +66906,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66953,8 +66953,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 130273365,
+			"version": 217,
+			"versionNonce": 465240635,
 			"isDeleted": false,
 			"id": "n4oA5dTdjt45grBA0j7aS",
 			"fillStyle": "solid",
@@ -66973,7 +66973,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67020,8 +67020,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 593480571,
+			"version": 231,
+			"versionNonce": 1394184949,
 			"isDeleted": false,
 			"id": "InSIcrHcH01Ov5D0dizIn",
 			"fillStyle": "solid",
@@ -67040,7 +67040,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67152,8 +67152,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 468778421,
+			"version": 219,
+			"versionNonce": 859112155,
 			"isDeleted": false,
 			"id": "mBQKZkYLGLPO71TwpjZha",
 			"fillStyle": "solid",
@@ -67172,7 +67172,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67229,8 +67229,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 367961115,
+			"version": 230,
+			"versionNonce": 146107477,
 			"isDeleted": false,
 			"id": "DDWdVBu1z3HZuoHfrgh0g",
 			"fillStyle": "solid",
@@ -67249,7 +67249,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67361,8 +67361,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 13729557,
+			"version": 222,
+			"versionNonce": 417722235,
 			"isDeleted": false,
 			"id": "8TWncGLENG_9RLolqpnsB",
 			"fillStyle": "solid",
@@ -67381,7 +67381,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67453,8 +67453,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1314482363,
+			"version": 217,
+			"versionNonce": 1146034613,
 			"isDeleted": false,
 			"id": "fJJozqR_5Y1oBrlRfozw-",
 			"fillStyle": "solid",
@@ -67473,7 +67473,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67520,8 +67520,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 350,
-			"versionNonce": 1826280565,
+			"version": 359,
+			"versionNonce": 1058031643,
 			"isDeleted": false,
 			"id": "5aaypMH_wU2xGKzpe6-22",
 			"fillStyle": "solid",
@@ -67540,7 +67540,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67632,8 +67632,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 360,
-			"versionNonce": 37919067,
+			"version": 369,
+			"versionNonce": 789322517,
 			"isDeleted": false,
 			"id": "q5sMBeaYwoSvrm-nn7Wos",
 			"fillStyle": "solid",
@@ -67652,7 +67652,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67799,8 +67799,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 340,
-			"versionNonce": 735215061,
+			"version": 349,
+			"versionNonce": 732335291,
 			"isDeleted": false,
 			"id": "gSxHugw7Y6puM9jyHJN_3",
 			"fillStyle": "solid",
@@ -67819,7 +67819,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405038,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67866,8 +67866,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 343,
-			"versionNonce": 251442683,
+			"version": 352,
+			"versionNonce": 828502133,
 			"isDeleted": false,
 			"id": "UDLjjsF4b9zEsdku6dygP",
 			"fillStyle": "solid",
@@ -67886,7 +67886,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67943,8 +67943,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 358,
-			"versionNonce": 1959656245,
+			"version": 367,
+			"versionNonce": 38485339,
 			"isDeleted": false,
 			"id": "PLwCAaoW1Y51GHZTWffOb",
 			"fillStyle": "solid",
@@ -67963,7 +67963,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045688,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68100,8 +68100,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 339,
-			"versionNonce": 59391643,
+			"version": 348,
+			"versionNonce": 152443349,
 			"isDeleted": false,
 			"id": "oY6jB_pBE-BmtnXXzWDxE",
 			"fillStyle": "solid",
@@ -68120,7 +68120,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68162,8 +68162,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 336,
-			"versionNonce": 3329173,
+			"version": 345,
+			"versionNonce": 1313921531,
 			"isDeleted": false,
 			"id": "4kUfSLQuab2Y4KbybnPLZ",
 			"fillStyle": "solid",
@@ -68182,7 +68182,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68209,8 +68209,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 351,
-			"versionNonce": 1788719931,
+			"version": 360,
+			"versionNonce": 524162869,
 			"isDeleted": false,
 			"id": "N-_znuG5T8t5rb2TGck1P",
 			"fillStyle": "solid",
@@ -68229,7 +68229,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68331,8 +68331,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 365,
-			"versionNonce": 1572237813,
+			"version": 374,
+			"versionNonce": 213508763,
 			"isDeleted": false,
 			"id": "hTR8imNLOpocBJLHw7aJk",
 			"fillStyle": "solid",
@@ -68351,7 +68351,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68523,8 +68523,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 341,
-			"versionNonce": 1419351003,
+			"version": 350,
+			"versionNonce": 507472021,
 			"isDeleted": false,
 			"id": "dlW4d6q27lsy5geQ2g40C",
 			"fillStyle": "solid",
@@ -68543,7 +68543,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68590,8 +68590,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 347,
-			"versionNonce": 173960021,
+			"version": 356,
+			"versionNonce": 1983436603,
 			"isDeleted": false,
 			"id": "ImmZfYPT9xEh9eRxYShhL",
 			"fillStyle": "solid",
@@ -68610,7 +68610,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68702,8 +68702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 339,
-			"versionNonce": 563110011,
+			"version": 348,
+			"versionNonce": 1204784629,
 			"isDeleted": false,
 			"id": "rodirDs74RwbEEG4hH92x",
 			"fillStyle": "solid",
@@ -68722,7 +68722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68774,8 +68774,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 338,
-			"versionNonce": 1182808245,
+			"version": 347,
+			"versionNonce": 154154971,
 			"isDeleted": false,
 			"id": "ajx5-9aZ4RHqO9ZRc13dT",
 			"fillStyle": "solid",
@@ -68794,7 +68794,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68841,8 +68841,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 338,
-			"versionNonce": 189045019,
+			"version": 347,
+			"versionNonce": 183764821,
 			"isDeleted": false,
 			"id": "GOcScnot1ZsRmY28xoefh",
 			"fillStyle": "solid",
@@ -68861,7 +68861,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68908,8 +68908,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 352,
-			"versionNonce": 734091797,
+			"version": 361,
+			"versionNonce": 1404208251,
 			"isDeleted": false,
 			"id": "PgRg39mPe9XWUQ5BoJmYG",
 			"fillStyle": "solid",
@@ -68928,7 +68928,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69040,8 +69040,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 340,
-			"versionNonce": 1864940987,
+			"version": 349,
+			"versionNonce": 1510102197,
 			"isDeleted": false,
 			"id": "Wpdbrls9ZxQdn70R5QEyZ",
 			"fillStyle": "solid",
@@ -69060,7 +69060,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69117,8 +69117,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 351,
-			"versionNonce": 51859317,
+			"version": 360,
+			"versionNonce": 2105687323,
 			"isDeleted": false,
 			"id": "RRmPRJ8tsS9F7t-rX44kT",
 			"fillStyle": "solid",
@@ -69137,7 +69137,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69249,8 +69249,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 345,
-			"versionNonce": 1482640987,
+			"version": 354,
+			"versionNonce": 1084225045,
 			"isDeleted": false,
 			"id": "DPPeImzjZ5GHgOCBv_PNn",
 			"fillStyle": "solid",
@@ -69269,7 +69269,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69336,8 +69336,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 342,
-			"versionNonce": 1523030229,
+			"version": 351,
+			"versionNonce": 303161787,
 			"isDeleted": false,
 			"id": "RaNjQLF5l4h6xzsh_81yp",
 			"fillStyle": "solid",
@@ -69356,7 +69356,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69408,8 +69408,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1236978427,
+			"version": 246,
+			"versionNonce": 969042805,
 			"isDeleted": false,
 			"id": "sSttlVMTImiuG50AAC0Iq",
 			"fillStyle": "solid",
@@ -69428,7 +69428,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69620,8 +69620,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 422,
-			"versionNonce": 1550300725,
+			"version": 431,
+			"versionNonce": 176419419,
 			"isDeleted": false,
 			"id": "qwtKqaXxLhRvdJlAZpT-j",
 			"fillStyle": "solid",
@@ -69640,7 +69640,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69732,8 +69732,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 435,
-			"versionNonce": 1203614619,
+			"version": 444,
+			"versionNonce": 1169110229,
 			"isDeleted": false,
 			"id": "JjoUIFwwaIA_dFIZ757Uk",
 			"fillStyle": "solid",
@@ -69752,7 +69752,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69899,8 +69899,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 1658660757,
+			"version": 421,
+			"versionNonce": 397078267,
 			"isDeleted": false,
 			"id": "Oole6VhragZv11y1N4mhJ",
 			"fillStyle": "solid",
@@ -69919,7 +69919,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69966,8 +69966,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 415,
-			"versionNonce": 580552763,
+			"version": 424,
+			"versionNonce": 1073467957,
 			"isDeleted": false,
 			"id": "IuPt6YA0hju16jAqxmArS",
 			"fillStyle": "solid",
@@ -69986,7 +69986,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70043,8 +70043,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 430,
-			"versionNonce": 1348300021,
+			"version": 439,
+			"versionNonce": 738809755,
 			"isDeleted": false,
 			"id": "UFUXMvSMF1oZv3Erm4Hoz",
 			"fillStyle": "solid",
@@ -70063,7 +70063,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405039,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70200,8 +70200,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 411,
-			"versionNonce": 3393755,
+			"version": 420,
+			"versionNonce": 1972224917,
 			"isDeleted": false,
 			"id": "n8JB5oQPn8QqQad3BJhwA",
 			"fillStyle": "solid",
@@ -70220,7 +70220,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045689,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70262,8 +70262,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 408,
-			"versionNonce": 611190357,
+			"version": 417,
+			"versionNonce": 1171369019,
 			"isDeleted": false,
 			"id": "snKCQghqDlKZgqIOoem73",
 			"fillStyle": "solid",
@@ -70282,7 +70282,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70309,8 +70309,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 423,
-			"versionNonce": 639366523,
+			"version": 432,
+			"versionNonce": 2056947957,
 			"isDeleted": false,
 			"id": "WxTl54jzpV4nSMgys6KBc",
 			"fillStyle": "solid",
@@ -70329,7 +70329,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70431,8 +70431,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 437,
-			"versionNonce": 1373926325,
+			"version": 446,
+			"versionNonce": 2028367067,
 			"isDeleted": false,
 			"id": "uw0Zw31H4e5JQWWmpIUjW",
 			"fillStyle": "solid",
@@ -70451,7 +70451,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70623,8 +70623,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 60132891,
+			"version": 421,
+			"versionNonce": 1084727893,
 			"isDeleted": false,
 			"id": "ojOcWuAETDdFPN3CDGeka",
 			"fillStyle": "solid",
@@ -70643,7 +70643,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70690,8 +70690,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 1424373013,
+			"version": 427,
+			"versionNonce": 953817467,
 			"isDeleted": false,
 			"id": "T_idVmfGzJGedPPZvaYUR",
 			"fillStyle": "solid",
@@ -70710,7 +70710,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70802,8 +70802,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 410,
-			"versionNonce": 2073236155,
+			"version": 419,
+			"versionNonce": 1821020085,
 			"isDeleted": false,
 			"id": "VR3KLeTvQbNgm_pQhIsxj",
 			"fillStyle": "solid",
@@ -70822,7 +70822,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70874,8 +70874,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 409,
-			"versionNonce": 149473909,
+			"version": 418,
+			"versionNonce": 1659843099,
 			"isDeleted": false,
 			"id": "BZFZDuBBO71kVlrO-_uo0",
 			"fillStyle": "solid",
@@ -70894,7 +70894,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70941,8 +70941,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 409,
-			"versionNonce": 1857487707,
+			"version": 418,
+			"versionNonce": 1818808597,
 			"isDeleted": false,
 			"id": "_zCf2L05OTRnhYkygrauW",
 			"fillStyle": "solid",
@@ -70961,7 +70961,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71008,8 +71008,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 423,
-			"versionNonce": 1051833301,
+			"version": 432,
+			"versionNonce": 135804603,
 			"isDeleted": false,
 			"id": "xoZ8lgN_paJvP8Ro3WuSF",
 			"fillStyle": "solid",
@@ -71028,7 +71028,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71140,8 +71140,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 412,
-			"versionNonce": 89382907,
+			"version": 421,
+			"versionNonce": 1303897717,
 			"isDeleted": false,
 			"id": "wf29dDbjTeyFzVsh0_O3z",
 			"fillStyle": "solid",
@@ -71160,7 +71160,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71217,8 +71217,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 422,
-			"versionNonce": 307654965,
+			"version": 431,
+			"versionNonce": 1995941723,
 			"isDeleted": false,
 			"id": "blngZN2HH0hmZ4lOMXx_J",
 			"fillStyle": "solid",
@@ -71237,7 +71237,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71349,8 +71349,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 376,
-			"versionNonce": 963389595,
+			"version": 385,
+			"versionNonce": 1396527061,
 			"isDeleted": false,
 			"id": "Enmf6rIZgVLinALUddJ1W",
 			"fillStyle": "solid",
@@ -71369,7 +71369,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71596,8 +71596,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 20742805,
+			"version": 386,
+			"versionNonce": 98567163,
 			"isDeleted": false,
 			"id": "zMQquvpWKB7T1wxnsL4lK",
 			"fillStyle": "solid",
@@ -71616,7 +71616,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71848,8 +71848,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 302,
-			"versionNonce": 548560187,
+			"version": 311,
+			"versionNonce": 1259244853,
 			"isDeleted": false,
 			"id": "Uf_pBN2mYfhMbKxtc0UFZ",
 			"fillStyle": "solid",
@@ -71868,7 +71868,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72050,8 +72050,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 265,
-			"versionNonce": 1075406837,
+			"version": 290,
+			"versionNonce": 483642523,
 			"isDeleted": false,
 			"id": "CE99DMpYsB-vv47M2iqhL",
 			"fillStyle": "solid",
@@ -72060,17 +72060,17 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -231.40053416886747,
-			"y": 1783.906370783891,
+			"x": -219.15749093758336,
+			"y": 1808.392457246459,
 			"strokeColor": "#0b7285",
 			"backgroundColor": "transparent",
-			"width": 318.52182241586524,
-			"height": 58.142864520733156,
+			"width": 311.17598402282715,
+			"height": 36.10538047728801,
 			"seed": 1417335913,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -72084,56 +72084,15 @@ Flytter med ^xiGjjnB0
 					0
 				],
 				[
-					318.52182241586524,
-					58.142864520733156
+					311.17598402282715,
+					36.10538047728801
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 331,
-			"versionNonce": 1988689371,
-			"isDeleted": false,
-			"id": "0uSpNjOES9bw0jA9BBteC",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 187.39679155228617,
-			"y": 1789.8048787090715,
-			"strokeColor": "#0b7285",
-			"backgroundColor": "transparent",
-			"width": 303.354022686298,
-			"height": 47.18848595252393,
-			"seed": 1931968105,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626405040,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					303.354022686298,
-					47.18848595252393
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 381,
-			"versionNonce": 1358078293,
+			"version": 390,
+			"versionNonce": 613490325,
 			"isDeleted": false,
 			"id": "QSDMQLMFGhMUvTSL1UsGz",
 			"fillStyle": "solid",
@@ -72152,7 +72111,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -72173,8 +72132,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1711442555,
+			"version": 381,
+			"versionNonce": 2139455803,
 			"isDeleted": false,
 			"id": "SOxnyMbdMHdCXP5F2OIk8",
 			"fillStyle": "solid",
@@ -72193,7 +72152,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72260,8 +72219,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 1495117493,
+			"version": 379,
+			"versionNonce": 1182434293,
 			"isDeleted": false,
 			"id": "QOV7jv1vkpk4rDIfwbOHg",
 			"fillStyle": "solid",
@@ -72280,7 +72239,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72337,8 +72296,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 420,
-			"versionNonce": 333546267,
+			"version": 429,
+			"versionNonce": 1465360859,
 			"isDeleted": false,
 			"id": "fp5bngAUGIi5m4ccWnr99",
 			"fillStyle": "solid",
@@ -72357,7 +72316,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72659,8 +72618,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 926945301,
+			"version": 218,
+			"versionNonce": 617626965,
 			"isDeleted": false,
 			"id": "7luE7QHYvWz1jYHHwsISq",
 			"fillStyle": "solid",
@@ -72679,7 +72638,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405040,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72761,8 +72720,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1754818491,
+			"version": 237,
+			"versionNonce": 2103225979,
 			"isDeleted": false,
 			"id": "rInUzK91dfPV4O0Wf0TrI",
 			"fillStyle": "solid",
@@ -72781,7 +72740,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045690,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72983,8 +72942,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1498367349,
+			"version": 220,
+			"versionNonce": 384289461,
 			"isDeleted": false,
 			"id": "_rcInQWbWaLdJ-iHigUcF",
 			"fillStyle": "solid",
@@ -73003,7 +72962,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73125,8 +73084,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 441038939,
+			"version": 246,
+			"versionNonce": 72820507,
 			"isDeleted": false,
 			"id": "PdIVPIoYRF2UqdHgW-h3D",
 			"fillStyle": "solid",
@@ -73145,7 +73104,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73417,8 +73376,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1385221845,
+			"version": 232,
+			"versionNonce": 1835445269,
 			"isDeleted": false,
 			"id": "UH79yUnzmq1uhPY0mQrRl",
 			"fillStyle": "solid",
@@ -73437,7 +73396,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73639,8 +73598,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 1992815867,
+			"version": 214,
+			"versionNonce": 45714363,
 			"isDeleted": false,
 			"id": "pLCsRnSi-rx6fw9mO686j",
 			"fillStyle": "solid",
@@ -73659,7 +73618,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73726,8 +73685,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 832187445,
+			"version": 214,
+			"versionNonce": 1212309877,
 			"isDeleted": false,
 			"id": "SzynPNsBn8H9ZlOOE2fvU",
 			"fillStyle": "solid",
@@ -73746,7 +73705,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73813,8 +73772,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1838521755,
+			"version": 220,
+			"versionNonce": 480664667,
 			"isDeleted": false,
 			"id": "ccbwyCuTcFWeb31CjN9U0",
 			"fillStyle": "solid",
@@ -73833,7 +73792,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73930,8 +73889,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 374398357,
+			"version": 272,
+			"versionNonce": 750807765,
 			"isDeleted": false,
 			"id": "l1woxq3F_4N-d0hGCKYPZ",
 			"fillStyle": "solid",
@@ -73940,8 +73899,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -251.9189297929891,
-			"y": 1950.7510414060052,
+			"x": -253.11894200002035,
+			"y": 2663.551059716552,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 40.00753651494563,
@@ -73950,7 +73909,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74172,8 +74131,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 1508192827,
+			"version": 237,
+			"versionNonce": 1307580667,
 			"isDeleted": false,
 			"id": "srQ5JzjXkO6lh-i9g7FRc",
 			"fillStyle": "solid",
@@ -74182,8 +74141,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -202.38576912722823,
-			"y": 1953.6087074216302,
+			"x": -203.58578133425948,
+			"y": 2666.408725732177,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 20.003821331521692,
@@ -74192,7 +74151,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74239,8 +74198,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 132801269,
+			"version": 237,
+			"versionNonce": 1534478389,
 			"isDeleted": false,
 			"id": "i-aXWhyieSfgdCQfVmQy5",
 			"fillStyle": "solid",
@@ -74249,8 +74208,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -210.00624721826085,
-			"y": 1938.367751239565,
+			"x": -211.2062594252921,
+			"y": 2651.167769550112,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -74259,7 +74218,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74306,8 +74265,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 211366619,
+			"version": 254,
+			"versionNonce": 1947812251,
 			"isDeleted": false,
 			"id": "G0ZZmPuzE-vp_8vytr1HL",
 			"fillStyle": "solid",
@@ -74316,8 +74275,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -184.2870938554891,
-			"y": 1926.937034103016,
+			"x": -185.48710606252035,
+			"y": 2639.737052413563,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 19.051248301630437,
@@ -74326,7 +74285,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74458,8 +74417,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 183254101,
+			"version": 259,
+			"versionNonce": 1716091285,
 			"isDeleted": false,
 			"id": "8efIiVy4rBENtXoaw8CXn",
 			"fillStyle": "solid",
@@ -74468,8 +74427,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -158.5679404927174,
-			"y": 1939.3203242694563,
+			"x": -159.76795269974866,
+			"y": 2652.120342580003,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 27.624299422554316,
@@ -74478,7 +74437,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74635,8 +74594,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 373563259,
+			"version": 237,
+			"versionNonce": 408180283,
 			"isDeleted": false,
 			"id": "uOgzzMshQlxG4y1vP7KhA",
 			"fillStyle": "solid",
@@ -74645,8 +74604,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -98.55658264625004,
-			"y": 1950.7510414060052,
+			"x": -99.75659485328129,
+			"y": 2663.551059716552,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.146102241847814,
@@ -74655,7 +74614,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74702,8 +74661,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1999366581,
+			"version": 238,
+			"versionNonce": 107970293,
 			"isDeleted": false,
 			"id": "uYWAcBIjrIFlBYfOYgBoN",
 			"fillStyle": "solid",
@@ -74712,8 +74671,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -109.03477982695654,
-			"y": 1943.1305633149725,
+			"x": -110.23479203398779,
+			"y": 2655.9305816255196,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -74722,7 +74681,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74774,8 +74733,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1361606683,
+			"version": 244,
+			"versionNonce": 2038683355,
 			"isDeleted": false,
 			"id": "Y14QbIRwmp2LelD2lBdqy",
 			"fillStyle": "solid",
@@ -74784,8 +74743,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -69.97971019380441,
-			"y": 1937.4151782096737,
+			"x": -71.17972240083566,
+			"y": 2650.215196520221,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 22.861540421195627,
@@ -74794,7 +74753,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74876,8 +74835,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 231664405,
+			"version": 262,
+			"versionNonce": 846059605,
 			"isDeleted": false,
 			"id": "thZKKWwdTeJVeTRYJBznS",
 			"fillStyle": "solid",
@@ -74886,8 +74845,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -49.97599501038053,
-			"y": 1944.0830832708148,
+			"x": -51.17600721741178,
+			"y": 2656.883101581362,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 40.96021569293487,
@@ -74896,7 +74855,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75068,8 +75027,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 725138619,
+			"version": 251,
+			"versionNonce": 1446658939,
 			"isDeleted": false,
 			"id": "YoYcu4PG9sx2TovHdVJcz",
 			"fillStyle": "solid",
@@ -75078,8 +75037,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 16.703267897228216,
-			"y": 1945.9882293305975,
+			"x": 15.503255690196966,
+			"y": 2658.7882476411446,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 20.956394361413118,
@@ -75088,7 +75047,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75205,8 +75164,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1330298997,
+			"version": 240,
+			"versionNonce": 1947862453,
 			"isDeleted": false,
 			"id": "jrMOGqlClpIx5YMnGwPmu",
 			"fillStyle": "solid",
@@ -75215,8 +75174,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 71.95176059423909,
-			"y": 1948.8459484202708,
+			"x": 70.75174838720784,
+			"y": 2661.645966730818,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 32.38705842391306,
@@ -75225,7 +75184,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75287,8 +75246,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 806841691,
+			"version": 237,
+			"versionNonce": 1991908379,
 			"isDeleted": false,
 			"id": "NlWjqVRTRcPxvpR68sUBE",
 			"fillStyle": "solid",
@@ -75297,8 +75256,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 71.95176059423909,
-			"y": 1959.3240925269283,
+			"x": 70.75174838720784,
+			"y": 2672.124110837475,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 29.529339334239125,
@@ -75307,7 +75266,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75354,8 +75313,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 291826133,
+			"version": 246,
+			"versionNonce": 2123990805,
 			"isDeleted": false,
 			"id": "QBsTfxg9EjUkk34nLlMVQ",
 			"fillStyle": "solid",
@@ -75364,8 +75323,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 116.72216225864122,
-			"y": 1947.8933753903793,
+			"x": 115.52215005160997,
+			"y": 2660.693393700926,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 30.48191236413038,
@@ -75374,7 +75333,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75466,8 +75425,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 1394018811,
+			"version": 263,
+			"versionNonce": 1995825339,
 			"isDeleted": false,
 			"id": "py4FKWxU4-d6kD8VdtocP",
 			"fillStyle": "solid",
@@ -75476,8 +75435,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -252.8716089709783,
-			"y": 2065.0583189195922,
+			"x": -254.07162117800954,
+			"y": 2777.858337230139,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 26.671726392663004,
@@ -75486,7 +75445,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75683,8 +75642,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 1429399349,
+			"version": 233,
+			"versionNonce": 73522293,
 			"isDeleted": false,
 			"id": "OViVUwc0EPkNtsx0PES7E",
 			"fillStyle": "solid",
@@ -75693,8 +75652,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -218.57940448728266,
-			"y": 2067.9160380092662,
+			"x": -219.7794166943139,
+			"y": 2780.716056319813,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 15.240956182065247,
@@ -75703,7 +75662,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405041,
+			"updated": 1668678045691,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75750,8 +75709,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 2033848987,
+			"version": 232,
+			"versionNonce": 1351618907,
 			"isDeleted": false,
 			"id": "IhYH7r2JKndXnhahrmRXp",
 			"fillStyle": "solid",
@@ -75760,8 +75719,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -226.19988257831528,
-			"y": 2056.4852677986682,
+			"x": -227.39989478534653,
+			"y": 2769.285286109215,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 3.810292119565247,
@@ -75770,7 +75729,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75812,8 +75771,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 1561999509,
+			"version": 249,
+			"versionNonce": 1295549909,
 			"isDeleted": false,
 			"id": "Tb1qRXAxUQ6ADfh8nPkKs",
 			"fillStyle": "solid",
@@ -75822,8 +75781,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -189.04995900494572,
-			"y": 2016.4777312837227,
+			"x": -190.24997121197697,
+			"y": 2729.27774959427,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 21.908967391304316,
@@ -75832,7 +75791,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75959,8 +75918,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 1127417659,
+			"version": 237,
+			"versionNonce": 618343931,
 			"isDeleted": false,
 			"id": "14HHaFzSgXFiuJEywIWfk",
 			"fillStyle": "solid",
@@ -75969,8 +75928,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -165.2359517019566,
-			"y": 2067.9160380092662,
+			"x": -166.43596390898784,
+			"y": 2780.716056319813,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 44.770401664402186,
@@ -75979,7 +75938,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76046,8 +76005,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 47209973,
+			"version": 235,
+			"versionNonce": 204669749,
 			"isDeleted": false,
 			"id": "tc_G0X5K7x58rXqxvCk9h",
 			"fillStyle": "solid",
@@ -76056,8 +76015,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -181.4294809139131,
-			"y": 2075.5365161002987,
+			"x": -182.62949312094435,
+			"y": 2788.336534410846,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 3.810292119565247,
@@ -76066,7 +76025,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76123,8 +76082,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 392456155,
+			"version": 235,
+			"versionNonce": 1188673179,
 			"isDeleted": false,
 			"id": "M8f2uvdva6AgOZs6bidk7",
 			"fillStyle": "solid",
@@ -76133,8 +76092,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -166.1885247318479,
-			"y": 2077.4416090860327,
+			"x": -167.38853693887916,
+			"y": 2790.24162739658,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 30.481912364130437,
@@ -76143,7 +76102,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76200,8 +76159,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1297798997,
+			"version": 235,
+			"versionNonce": 1974916245,
 			"isDeleted": false,
 			"id": "bGHY1xBGKNoUYCOqk4Y5H",
 			"fillStyle": "solid",
@@ -76210,8 +76169,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -114.75021800630446,
-			"y": 2062.2006529039672,
+			"x": -115.95023021333571,
+			"y": 2775.000671214514,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.146102241847814,
@@ -76220,7 +76179,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76277,8 +76236,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 1809888379,
+			"version": 232,
+			"versionNonce": 87960379,
 			"isDeleted": false,
 			"id": "OAWtO4E24Oi859AqSqRfT",
 			"fillStyle": "solid",
@@ -76287,8 +76246,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -127.13356124679359,
-			"y": 2048.8647897076357,
+			"x": -128.33357345382484,
+			"y": 2761.664808018183,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -76297,7 +76256,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76339,8 +76298,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1192174773,
+			"version": 240,
+			"versionNonce": 360282613,
 			"isDeleted": false,
 			"id": "S9bW7RP1P_aTHjMaxCtAZ",
 			"fillStyle": "solid",
@@ -76349,8 +76308,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -78.55286746282621,
-			"y": 2026.9558753903805,
+			"x": -79.75287966985746,
+			"y": 2739.755893700927,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 21.90886124320656,
@@ -76359,7 +76318,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76441,8 +76400,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1349152027,
+			"version": 238,
+			"versionNonce": 879430619,
 			"isDeleted": false,
 			"id": "QTSrNdIMB5IE-4DvXhT1v",
 			"fillStyle": "solid",
@@ -76451,8 +76410,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -46.16580903891315,
-			"y": 2065.0583189195922,
+			"x": -47.3658212459444,
+			"y": 2777.858337230139,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 57.153744904891255,
@@ -76461,7 +76420,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76533,8 +76492,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 328386069,
+			"version": 234,
+			"versionNonce": 1686139733,
 			"isDeleted": false,
 			"id": "iHAvqMwFHVq_oVkGvWru0",
 			"fillStyle": "solid",
@@ -76543,8 +76502,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -74.74268149135884,
-			"y": 2080.2993281757063,
+			"x": -75.94269369839009,
+			"y": 2793.099346486253,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 2.8577190896738784,
@@ -76553,7 +76512,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76605,8 +76564,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 947130811,
+			"version": 234,
+			"versionNonce": 2020792443,
 			"isDeleted": false,
 			"id": "ApAdIRHgQuKlveYfnnSt_",
 			"fillStyle": "solid",
@@ -76615,8 +76574,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -57.596579249511024,
-			"y": 2084.1095672212227,
+			"x": -58.796591456542274,
+			"y": 2796.90958553177,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 40.96010954483694,
@@ -76625,7 +76584,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76677,8 +76636,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1171995509,
+			"version": 245,
+			"versionNonce": 522272949,
 			"isDeleted": false,
 			"id": "WiEHwFIJaoD4jZjZ-1Hh3",
 			"fillStyle": "solid",
@@ -76687,8 +76646,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -39.4979039777719,
-			"y": 2091.7300453122552,
+			"x": -40.69791618480315,
+			"y": 2804.530063622802,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 22.861434273097814,
@@ -76697,7 +76656,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76804,8 +76763,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 85992027,
+			"version": 232,
+			"versionNonce": 1326977307,
 			"isDeleted": false,
 			"id": "t_QJB9ATavMez3e79qmxF",
 			"fillStyle": "solid",
@@ -76814,8 +76773,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3.300553434293647,
-			"y": 2057.4378408285597,
+			"x": -4.500565641324897,
+			"y": 2770.237859139107,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 13.335810122282624,
@@ -76824,7 +76783,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76866,8 +76825,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1982727381,
+			"version": 234,
+			"versionNonce": 1526817301,
 			"isDeleted": false,
 			"id": "VN1KVLe6Pm2lFUttPin6j",
 			"fillStyle": "solid",
@@ -76876,8 +76835,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2.3479804044023354,
-			"y": 2068.8685579651087,
+			"x": -3.5479926114335854,
+			"y": 2781.668576275656,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.146102241847814,
@@ -76886,7 +76845,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76938,8 +76897,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 1329667835,
+			"version": 241,
+			"versionNonce": 1506620859,
 			"isDeleted": false,
 			"id": "s6fYLte360hFzff9IOL4p",
 			"fillStyle": "solid",
@@ -76948,8 +76907,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 33.8492639909781,
-			"y": 2059.3429868883422,
+			"x": 32.64925178394685,
+			"y": 2772.143005198889,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 27.62429942255426,
@@ -76958,7 +76917,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77040,8 +76999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 404791861,
+			"version": 236,
+			"versionNonce": 1561745269,
 			"isDeleted": false,
 			"id": "KiJFhwh-B27vgKg2N-xfr",
 			"fillStyle": "solid",
@@ -77050,8 +77009,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -285.2586673948913,
-			"y": 2003.1418680873912,
+			"x": -286.45867960192254,
+			"y": 2715.941886397938,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0,
@@ -77060,7 +77019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77122,8 +77081,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1901692827,
+			"version": 234,
+			"versionNonce": 1739900507,
 			"isDeleted": false,
 			"id": "-zL_cq0PmHcw9cYjO9YBp",
 			"fillStyle": "solid",
@@ -77132,8 +77091,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -276.6856162739674,
-			"y": 1998.3790560119837,
+			"x": -277.88562848099866,
+			"y": 2711.179074322531,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -77142,7 +77101,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77194,8 +77153,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 278434709,
+			"version": 239,
+			"versionNonce": 799383765,
 			"isDeleted": false,
 			"id": "_M1DzfoyrU27fslyqygiE",
 			"fillStyle": "solid",
@@ -77204,8 +77163,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -270.0177112128261,
-			"y": 2012.6674922382065,
+			"x": -271.21772341985735,
+			"y": 2725.4675105487536,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 23.814007302989125,
@@ -77214,7 +77173,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77291,8 +77250,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 1369168955,
+			"version": 233,
+			"versionNonce": 1067533051,
 			"isDeleted": false,
 			"id": "kAQMXzK8ul_LoxbJr9Dv7",
 			"fillStyle": "solid",
@@ -77301,8 +77260,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -280.4956960973352,
-			"y": 2139.3581129922813,
+			"x": -281.69570830436646,
+			"y": 2852.158131302828,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -77311,7 +77270,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77358,8 +77317,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 197875957,
+			"version": 241,
+			"versionNonce": 2017771061,
 			"isDeleted": false,
 			"id": "fXRhs2noD6BOkfNI0K4AS",
 			"fillStyle": "solid",
@@ -77368,8 +77327,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -276.68551012586784,
-			"y": 2123.164583780325,
+			"x": -277.8855223328991,
+			"y": 2835.964602090872,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 3.8101859714673765,
@@ -77378,7 +77337,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045692,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77465,8 +77424,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 1810537691,
+			"version": 230,
+			"versionNonce": 706030491,
 			"isDeleted": false,
 			"id": "CvBsZH8SmCQcfkLyST_13",
 			"fillStyle": "solid",
@@ -77475,8 +77434,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -290.02132024815046,
-			"y": 2127.927342781684,
+			"x": -291.2213324551817,
+			"y": 2840.727361092231,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -77485,7 +77444,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77517,8 +77476,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 322859605,
+			"version": 239,
+			"versionNonce": 232337301,
 			"isDeleted": false,
 			"id": "xiFoi0TJMN7dJccP7gpjn",
 			"fillStyle": "solid",
@@ -77527,8 +77486,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -276.68551012586784,
-			"y": 2134.595300916874,
+			"x": -277.8855223328991,
+			"y": 2847.395319227421,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 19.051142153532567,
@@ -77537,7 +77496,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405042,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77614,8 +77573,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 467159419,
+			"version": 239,
+			"versionNonce": 994246715,
 			"isDeleted": false,
 			"id": "Lgs1gYPrLneAsF8D1QxGJ",
 			"fillStyle": "solid",
@@ -77624,8 +77583,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -257.6342618242374,
-			"y": 2184.128461582635,
+			"x": -258.83427403126865,
+			"y": 2896.928479893182,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -77634,7 +77593,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77711,8 +77670,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1674010549,
+			"version": 234,
+			"versionNonce": 1318614261,
 			"isDeleted": false,
 			"id": "hrOqRqYT8_uMhuuOBDSsj",
 			"fillStyle": "solid",
@@ -77721,8 +77680,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -240.48815958238959,
-			"y": 2214.6104270208143,
+			"x": -241.68817178942084,
+			"y": 2927.410445331361,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 33.339631453804316,
@@ -77731,7 +77690,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77783,8 +77742,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 648503835,
+			"version": 251,
+			"versionNonce": 1561149659,
 			"isDeleted": false,
 			"id": "XxPQH0FQ02NS8sVVErx8T",
 			"fillStyle": "solid",
@@ -77793,8 +77752,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -257.6342618242374,
-			"y": 2235.5667683081783,
+			"x": -258.83427403126865,
+			"y": 2948.366786618725,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 36.19724439538044,
@@ -77803,7 +77762,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77940,8 +77899,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 59482389,
+			"version": 233,
+			"versionNonce": 906497621,
 			"isDeleted": false,
 			"id": "HerPF59qYosBvoT4rtx3g",
 			"fillStyle": "solid",
@@ -77950,8 +77909,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -200.48062306744396,
-			"y": 2219.3732390962214,
+			"x": -201.6806352744752,
+			"y": 2932.1732574067682,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 12.383237092391312,
@@ -77960,7 +77919,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78007,8 +77966,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 88762043,
+			"version": 232,
+			"versionNonce": 419851643,
 			"isDeleted": false,
 			"id": "cy5Z4OmboWTAJ8oWKC62c",
 			"fillStyle": "solid",
@@ -78017,8 +77976,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -208.10110115847658,
-			"y": 2206.9899489297813,
+			"x": -209.30111336550783,
+			"y": 2919.789967240328,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -78027,7 +77986,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78069,8 +78028,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 402699893,
+			"version": 232,
+			"versionNonce": 855473077,
 			"isDeleted": false,
 			"id": "ObQZai1jVL4_Ry1gbg9ck",
 			"fillStyle": "solid",
@@ -78079,8 +78038,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -172.85632364488964,
-			"y": 2171.7451714161944,
+			"x": -174.0563358519209,
+			"y": 2884.5451897267412,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 2.8577190896738784,
@@ -78089,7 +78048,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78131,8 +78090,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 1852036955,
+			"version": 233,
+			"versionNonce": 577832475,
 			"isDeleted": false,
 			"id": "5zABLCZbzq7cl7pCYQbX4",
 			"fillStyle": "solid",
@@ -78141,8 +78100,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -157.6153674628244,
-			"y": 2166.982359340787,
+			"x": -158.81537966985564,
+			"y": 2879.782377651334,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 32.38705842391306,
@@ -78151,7 +78110,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78198,8 +78157,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 2079072213,
+			"version": 232,
+			"versionNonce": 1033780501,
 			"isDeleted": false,
 			"id": "CEBLoQQaZH79q2iEzZQlK",
 			"fillStyle": "solid",
@@ -78208,8 +78167,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -161.42555343429183,
-			"y": 2214.6104270208143,
+			"x": -162.62556564132308,
+			"y": 2927.410445331361,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 23.81411345108694,
@@ -78218,7 +78177,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78275,8 +78234,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 541471739,
+			"version": 254,
+			"versionNonce": 541035195,
 			"isDeleted": false,
 			"id": "6GW0xF-4rR-mwa60mCEa6",
 			"fillStyle": "solid",
@@ -78285,8 +78244,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -185.23966688537877,
-			"y": 2226.9937171872543,
+			"x": -186.43967909241002,
+			"y": 2939.793735497801,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 18.098569123641255,
@@ -78295,7 +78254,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78462,8 +78421,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 358833461,
+			"version": 232,
+			"versionNonce": 761254517,
 			"isDeleted": false,
 			"id": "97u-jOSJPyy0HoUNZhc6a",
 			"fillStyle": "solid",
@@ -78472,8 +78431,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -122.37058994923746,
-			"y": 2217.4680930364393,
+			"x": -123.5706021562687,
+			"y": 2930.268111346986,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.146102241847814,
@@ -78482,7 +78441,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78539,8 +78498,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 1794374811,
+			"version": 232,
+			"versionNonce": 924089179,
 			"isDeleted": false,
 			"id": "-5RJd_g3UiuymZh70L22c",
 			"fillStyle": "solid",
@@ -78549,8 +78508,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -125.22830903891139,
-			"y": 2205.084802869999,
+			"x": -126.42832124594264,
+			"y": 2917.884821180546,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 4.762759001358688,
@@ -78559,7 +78518,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78616,8 +78575,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 1808526997,
+			"version": 232,
+			"versionNonce": 1325906901,
 			"isDeleted": false,
 			"id": "XVVV7yr0s-iMnriQz3S0C",
 			"fillStyle": "solid",
@@ -78626,8 +78585,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -86.17323940575926,
-			"y": 2175.555410461711,
+			"x": -87.37325161279051,
+			"y": 2888.355428772258,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597825667,
@@ -78636,7 +78595,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78693,8 +78652,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 2048897339,
+			"version": 232,
+			"versionNonce": 1396856827,
 			"isDeleted": false,
 			"id": "XdvP1iNm_si8zyo1TzHZc",
 			"fillStyle": "solid",
@@ -78703,8 +78662,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -71.88485625358533,
-			"y": 2172.697744446086,
+			"x": -73.08486846061658,
+			"y": 2885.497762756633,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 34.29220448369563,
@@ -78713,7 +78672,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78770,8 +78729,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 2111525877,
+			"version": 243,
+			"versionNonce": 984316213,
 			"isDeleted": false,
 			"id": "Gh32nQhy36NWtA8AczyQE",
 			"fillStyle": "solid",
@@ -78780,8 +78739,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -53.7861809818462,
-			"y": 2179.3656495072273,
+			"x": -54.98619318887745,
+			"y": 2892.165667817774,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 20.95639436141306,
@@ -78790,7 +78749,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78902,8 +78861,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 1596707291,
+			"version": 243,
+			"versionNonce": 852205723,
 			"isDeleted": false,
 			"id": "eFmfbPnF9opYzIALT4jDD",
 			"fillStyle": "solid",
@@ -78912,8 +78871,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -58.5490461313027,
-			"y": 2211.7527610051893,
+			"x": -59.74905833833395,
+			"y": 2924.552779315736,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 57.15374490489131,
@@ -78922,7 +78881,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79034,8 +78993,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1469517141,
+			"version": 244,
+			"versionNonce": 1773177493,
 			"isDeleted": false,
 			"id": "X3eLqseTkhFGw--Y_TK5Y",
 			"fillStyle": "solid",
@@ -79044,8 +79003,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -80.45790737450926,
-			"y": 2226.041144157363,
+			"x": -81.65791958154051,
+			"y": 2938.84116246791,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 31.434485394021692,
@@ -79054,7 +79013,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79171,8 +79130,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 1529536123,
+			"version": 231,
+			"versionNonce": 795006267,
 			"isDeleted": false,
 			"id": "5YlQ0tqI59tEgsqFru2UB",
 			"fillStyle": "solid",
@@ -79181,8 +79140,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -11.87349840711795,
-			"y": 2212.7052809610313,
+			"x": -13.0735106141492,
+			"y": 2925.505299271578,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 16.193635360054373,
@@ -79191,7 +79150,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79243,8 +79202,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 1750375093,
+			"version": 230,
+			"versionNonce": 214724597,
 			"isDeleted": false,
 			"id": "RxHOxvTSHqvzH3SDQ09Tj",
 			"fillStyle": "solid",
@@ -79253,8 +79212,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -13.778644466900573,
-			"y": 2217.4680930364393,
+			"x": -14.978656673931823,
+			"y": 2930.268111346986,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.146102241847757,
@@ -79263,7 +79222,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79310,8 +79269,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1759467291,
+			"version": 256,
+			"versionNonce": 1214936539,
 			"isDeleted": false,
 			"id": "BlihMqTCvE9CRq3nmim9p",
 			"fillStyle": "solid",
@@ -79320,8 +79279,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 30.039184167610188,
-			"y": 2211.75270793114,
+			"x": 28.839171960578938,
+			"y": 2924.552726241687,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 30.48201851222825,
@@ -79330,7 +79289,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045693,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79432,8 +79391,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 414809109,
+			"version": 233,
+			"versionNonce": 570730837,
 			"isDeleted": false,
 			"id": "JSu8IlUN-XYUTtB3gnE5O",
 			"fillStyle": "solid",
@@ -79442,8 +79401,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -298.59437136907434,
-			"y": 2265.0961607164663,
+			"x": -299.7943835761056,
+			"y": 2977.896179027013,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 2.8577190896739353,
@@ -79452,7 +79411,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79519,8 +79478,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 112966587,
+			"version": 232,
+			"versionNonce": 1827996283,
 			"isDeleted": false,
 			"id": "-9UNecnTVCe9_2eqK69do",
 			"fillStyle": "solid",
@@ -79529,8 +79488,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -290.9738932780417,
-			"y": 2262.2384416267923,
+			"x": -292.17390548507296,
+			"y": 2975.038459937339,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597825667,
@@ -79539,7 +79498,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79601,8 +79560,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 549138805,
+			"version": 243,
+			"versionNonce": 1252964021,
 			"isDeleted": false,
 			"id": "ClqfEEsl3GgUCqA8EJ2PV",
 			"fillStyle": "solid",
@@ -79611,8 +79570,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -283.35341518700915,
-			"y": 2281.289689928423,
+			"x": -284.5534273940404,
+			"y": 2994.08970823897,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 22.861434273097814,
@@ -79621,7 +79580,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405043,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79743,8 +79702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 192,
-			"versionNonce": 1088588891,
+			"version": 228,
+			"versionNonce": 96795419,
 			"isDeleted": false,
 			"id": "EBe6SSGxlX_fSnleT-jwU",
 			"fillStyle": "solid",
@@ -79753,8 +79712,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -260.4919809139116,
-			"y": 2325.1074654888844,
+			"x": -261.69199312094287,
+			"y": 3037.9074837994312,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -79763,7 +79722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79815,8 +79774,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 496974549,
+			"version": 233,
+			"versionNonce": 1634736149,
 			"isDeleted": false,
 			"id": "Pq5p5mGmbB-ccsdmg13KH",
 			"fillStyle": "solid",
@@ -79825,8 +79784,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -249.0612107033138,
-			"y": 2323.2023725031504,
+			"x": -250.26122291034505,
+			"y": 3036.0023908136973,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 30.48201851222825,
@@ -79835,7 +79794,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79907,8 +79866,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 2066106619,
+			"version": 243,
+			"versionNonce": 1062002619,
 			"isDeleted": false,
 			"id": "bDQqVkXeZ26UpkUz-khfd",
 			"fillStyle": "solid",
@@ -79917,8 +79876,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -228.10492248999856,
-			"y": 2328.9177045344004,
+			"x": -229.3049346970298,
+			"y": 3041.7177228449473,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 18.098675271739125,
@@ -79927,7 +79886,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80054,8 +80013,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 1744508981,
+			"version": 252,
+			"versionNonce": 1346260341,
 			"isDeleted": false,
 			"id": "jXdZ66J3_Bh0lgqkCXmrG",
 			"fillStyle": "solid",
@@ -80064,8 +80023,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -211.91128712994424,
-			"y": 2334.6330896396994,
+			"x": -213.1112993369755,
+			"y": 3047.4331079502463,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 3.810292119565247,
@@ -80074,7 +80033,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80246,8 +80205,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 2064216475,
+			"version": 238,
+			"versionNonce": 330248283,
 			"isDeleted": false,
 			"id": "epEsPHMb19GCTCJ97c59Y",
 			"fillStyle": "solid",
@@ -80256,8 +80215,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -126.18088206880293,
-			"y": 2332.7279435799173,
+			"x": -127.38089427583418,
+			"y": 3045.527961890464,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 18.09856912364131,
@@ -80266,7 +80225,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80323,8 +80282,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 699681173,
+			"version": 238,
+			"versionNonce": 643749589,
 			"isDeleted": false,
 			"id": "jIzMDdUDjwHw-S4iblLvp",
 			"fillStyle": "solid",
@@ -80333,8 +80292,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -139.51669219108555,
-			"y": 2317.4869873978523,
+			"x": -140.7167043981168,
+			"y": 3030.287005708399,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -80343,7 +80302,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80400,8 +80359,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 834569787,
+			"version": 262,
+			"versionNonce": 348024059,
 			"isDeleted": false,
 			"id": "2wozeGXrACat2BS1MavFv",
 			"fillStyle": "solid",
@@ -80410,8 +80369,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -99.50915567613993,
-			"y": 2319.392133457635,
+			"x": -100.70916788317118,
+			"y": 3032.192151768182,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -80420,7 +80379,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80492,8 +80451,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 872435445,
+			"version": 247,
+			"versionNonce": 1852257333,
 			"isDeleted": false,
 			"id": "YDB8ybY5CPwJrEdoPBlzq",
 			"fillStyle": "solid",
@@ -80502,8 +80461,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -89.03095849543342,
-			"y": 2317.486987397852,
+			"x": -90.23097070246467,
+			"y": 3030.287005708399,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 21.908861243206502,
@@ -80512,7 +80471,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80574,8 +80533,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1177028315,
+			"version": 260,
+			"versionNonce": 1979520411,
 			"isDeleted": false,
 			"id": "IKBG6ZN27b7hFhes_Wa8q",
 			"fillStyle": "solid",
@@ -80584,8 +80543,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -76.6476152549443,
-			"y": 2330.8228505941834,
+			"x": -77.84762746197555,
+			"y": 3043.6228689047302,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.905039911684753,
@@ -80594,7 +80553,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80651,8 +80610,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 358918229,
+			"version": 225,
+			"versionNonce": 1144841621,
 			"isDeleted": false,
 			"id": "Kqe8XvG5LGqbkXi9DDZtS",
 			"fillStyle": "solid",
@@ -80661,8 +80620,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 61.47366956163171,
-			"y": 2326.0600385187754,
+			"x": 60.27365735460046,
+			"y": 3038.8600568293223,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 21.908861243206502,
@@ -80671,7 +80630,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80713,8 +80672,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 1591243643,
+			"version": 226,
+			"versionNonce": 1453173307,
 			"isDeleted": false,
 			"id": "4PXLMWihqUuFXGZSDRY7e",
 			"fillStyle": "solid",
@@ -80723,8 +80682,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 61.47366956163171,
-			"y": 2335.585662669591,
+			"x": 60.27365735460046,
+			"y": 3048.385680980138,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 18.098675271739125,
@@ -80733,7 +80692,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80785,8 +80744,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1874253237,
+			"version": 236,
+			"versionNonce": 722823925,
 			"isDeleted": false,
 			"id": "n-T-6z4Wu0ROJp26xI6xs",
 			"fillStyle": "solid",
@@ -80795,8 +80754,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 91.0031150439687,
-			"y": 2328.917704534401,
+			"x": 89.80310283693746,
+			"y": 3041.717722844948,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 20.956394361413004,
@@ -80805,7 +80764,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80897,8 +80856,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 739396635,
+			"version": 259,
+			"versionNonce": 1266854619,
 			"isDeleted": false,
 			"id": "5L_WAOMjuXrOz0x3YOFUo",
 			"fillStyle": "solid",
@@ -80907,8 +80866,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -184.28709385548763,
-			"y": 2334.6330896396994,
+			"x": -185.48710606251888,
+			"y": 3047.4331079502463,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 25.719153362771692,
@@ -80917,7 +80876,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81139,8 +81098,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 236738325,
+			"version": 226,
+			"versionNonce": 594953301,
 			"isDeleted": false,
 			"id": "MMlzgCgJlmSWX5WW3SbLj",
 			"fillStyle": "solid",
@@ -81149,8 +81108,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -176.66661576445506,
-			"y": 2320.3446534134764,
+			"x": -177.8666279714863,
+			"y": 3033.1446717240233,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 10.478091032608688,
@@ -81159,7 +81118,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81211,8 +81170,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 835195067,
+			"version": 224,
+			"versionNonce": 691967867,
 			"isDeleted": false,
 			"id": "39P7jHNGPg7obA3NMo7HJ",
 			"fillStyle": "solid",
@@ -81221,8 +81180,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -169.99860455521593,
-			"y": 2310.81908233671,
+			"x": -171.19861676224718,
+			"y": 3023.6191006472573,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 2.8577190896738784,
@@ -81231,7 +81190,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81278,8 +81237,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 990555253,
+			"version": 279,
+			"versionNonce": 20246965,
 			"isDeleted": false,
 			"id": "3PhcM-AuHj-0EZMfhz0x6",
 			"fillStyle": "solid",
@@ -81288,8 +81247,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -61.40665907287905,
-			"y": 2314.6293213822264,
+			"x": -62.6066712799103,
+			"y": 3027.4293396927733,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 12.383237092391312,
@@ -81298,7 +81257,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81465,8 +81424,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1369194843,
+			"version": 256,
+			"versionNonce": 236187675,
 			"isDeleted": false,
 			"id": "Y_EY8FHD1Kuppd5Yhw6QE",
 			"fillStyle": "solid",
@@ -81475,8 +81434,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -42.355410771248614,
-			"y": 2315.581894412118,
+			"x": -43.555422978279864,
+			"y": 3028.381912722665,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 10.478197180706502,
@@ -81485,7 +81444,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81532,8 +81491,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1447515605,
+			"version": 256,
+			"versionNonce": 24572693,
 			"isDeleted": false,
 			"id": "b4AJKIw7WJHCbDyg-PHI6",
 			"fillStyle": "solid",
@@ -81542,8 +81501,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -37.592651769889926,
-			"y": 2307.9614163210854,
+			"x": -38.792663976921176,
+			"y": 3020.7614346316323,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.9525730298913118,
@@ -81552,7 +81511,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81599,8 +81558,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 350313979,
+			"version": 223,
+			"versionNonce": 737490107,
 			"isDeleted": false,
 			"id": "usYyLf1hQO7v2a3vXY7ps",
 			"fillStyle": "solid",
@@ -81609,8 +81568,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -9.015779317444299,
-			"y": 2332.7279435799164,
+			"x": -10.215791524475549,
+			"y": 3045.5279618904633,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 10.478197180706502,
@@ -81619,7 +81578,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81661,8 +81620,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 719835957,
+			"version": 223,
+			"versionNonce": 548522101,
 			"isDeleted": false,
 			"id": "bQyPKSs9pDK-cnahCWf7y",
 			"fillStyle": "solid",
@@ -81671,8 +81630,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -14.731217496792055,
-			"y": 2327.965184578558,
+			"x": -15.931229703823305,
+			"y": 3040.7652028891052,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.9051460597826235,
@@ -81681,7 +81640,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81723,8 +81682,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 916055707,
+			"version": 237,
+			"versionNonce": 1384441179,
 			"isDeleted": false,
 			"id": "wtxmC7ohTAgKy6xQVU27T",
 			"fillStyle": "solid",
@@ -81733,8 +81692,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8.130216776305701,
-			"y": 2317.4869873978514,
+			"x": 6.930204569274451,
+			"y": 3030.2870057083983,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.14610224184787,
@@ -81743,7 +81702,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81860,8 +81819,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 89236629,
+			"version": 225,
+			"versionNonce": 816509397,
 			"isDeleted": false,
 			"id": "HRzJ2CKo5OEPamh50eWHv",
 			"fillStyle": "solid",
@@ -81870,8 +81829,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 22.41870607657745,
-			"y": 2310.81908233671,
+			"x": 21.2186938695462,
+			"y": 3023.6191006472573,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 14.288489300271749,
@@ -81880,7 +81839,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405044,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81932,8 +81891,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1836604219,
+			"version": 224,
+			"versionNonce": 957710843,
 			"isDeleted": false,
 			"id": "rwF-lFb3w0M7oMrD4TLWi",
 			"fillStyle": "solid",
@@ -81942,8 +81901,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 33.84937013907745,
-			"y": 2298.43579217027,
+			"x": 32.6493579320462,
+			"y": 3011.2358104808172,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 3.8101859714673765,
@@ -81952,7 +81911,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81999,8 +81958,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 154814965,
+			"version": 224,
+			"versionNonce": 779611957,
 			"isDeleted": false,
 			"id": "koDoGazEyNOHkhKr8bYQe",
 			"fillStyle": "solid",
@@ -82009,8 +81968,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -287.37431057615356,
-			"y": 2372.387498051854,
+			"x": -288.5743227831848,
+			"y": 3085.187516362401,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.6852589142628176,
@@ -82019,7 +81978,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82106,8 +82065,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1977564123,
+			"version": 221,
+			"versionNonce": 145328795,
 			"isDeleted": false,
 			"id": "rh3KneazQxxiUV3x7N99J",
 			"fillStyle": "solid",
@@ -82116,8 +82075,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -298.60966213865356,
-			"y": 2375.196335942479,
+			"x": -299.8096743456848,
+			"y": 3087.996354253026,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.5617738381409936,
@@ -82126,7 +82085,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82198,8 +82157,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1202144085,
+			"version": 236,
+			"versionNonce": 1484669077,
 			"isDeleted": false,
 			"id": "-LWWGoBv1ksdbxp88Tz61",
 			"fillStyle": "solid",
@@ -82208,8 +82167,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -284.00373014746765,
-			"y": 2382.4993019380718,
+			"x": -285.2037423544989,
+			"y": 3095.2993202486186,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 24.156024639423038,
@@ -82218,7 +82177,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82365,8 +82324,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1541474427,
+			"version": 234,
+			"versionNonce": 636714811,
 			"isDeleted": false,
 			"id": "7em3xrbwfnTNPHyR3gIz7",
 			"fillStyle": "solid",
@@ -82375,8 +82334,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -245.75418178166916,
-			"y": 2547.664523243833,
+			"x": -246.9541939887004,
+			"y": 3260.46454155438,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.7926200573391322,
@@ -82385,7 +82344,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82462,8 +82421,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 351146165,
+			"version": 238,
+			"versionNonce": 74671605,
 			"isDeleted": false,
 			"id": "94a_YlPfeOetyZJtJGFlj",
 			"fillStyle": "solid",
@@ -82472,8 +82431,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -226.9309220488099,
-			"y": 2551.2499381556977,
+			"x": -228.13093425584114,
+			"y": 3264.049956466245,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 46.610219057052625,
@@ -82482,7 +82441,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82579,8 +82538,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 88097051,
+			"version": 233,
+			"versionNonce": 995483611,
 			"isDeleted": false,
 			"id": "ONmVtxhVhxRw1KnoYhVJA",
 			"fillStyle": "solid",
@@ -82589,8 +82548,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.32080287586368,
-			"y": 2565.591497919049,
+			"x": -181.52081508289493,
+			"y": 3278.391516229596,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 23.305059586473103,
@@ -82599,7 +82558,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82671,8 +82630,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 515125781,
+			"version": 231,
+			"versionNonce": 895278933,
 			"isDeleted": false,
 			"id": "aVlk97-1LcrzKoF25HWmc",
 			"fillStyle": "solid",
@@ -82681,8 +82640,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.32080287586368,
-			"y": 2575.4513577128932,
+			"x": -181.52081508289493,
+			"y": 3288.2513760234406,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 28.68321941080976,
@@ -82691,7 +82650,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82753,8 +82712,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 288,
-			"versionNonce": 2070898107,
+			"version": 324,
+			"versionNonce": 48442491,
 			"isDeleted": false,
 			"id": "XAVbbM5eC8sWEbFZf53rK",
 			"fillStyle": "solid",
@@ -82763,8 +82722,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -150.74132337843741,
-			"y": 2575.4513577128932,
+			"x": -151.94133558546866,
+			"y": 3288.2513760234406,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 302.0695145375346,
@@ -82773,7 +82732,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83315,8 +83274,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 1106192245,
+			"version": 231,
+			"versionNonce": 1905274037,
 			"isDeleted": false,
 			"id": "gkzq1TbzZE7JosgqG3KC7",
 			"fillStyle": "solid",
@@ -83325,8 +83284,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -136.39966373097943,
-			"y": 2541.390078361853,
+			"x": -137.59967593801068,
+			"y": 3254.1900966723997,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 17.030639675520135,
@@ -83335,7 +83294,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83412,8 +83371,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 1972434523,
+			"version": 260,
+			"versionNonce": 1348330779,
 			"isDeleted": false,
 			"id": "HF4il0ho6pkZHbfe26fEq",
 			"fillStyle": "solid",
@@ -83422,8 +83381,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -119.36912393956572,
-			"y": 2519.8777137457987,
+			"x": -120.56913614659697,
+			"y": 3232.677732056346,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 20.615979674304775,
@@ -83432,7 +83391,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83654,8 +83613,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 551842005,
+			"version": 225,
+			"versionNonce": 1488113173,
 			"isDeleted": false,
 			"id": "HpepqE5LgdPRMj1vcLQtf",
 			"fillStyle": "solid",
@@ -83664,8 +83623,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -69.17356488372826,
-			"y": 2527.944853598197,
+			"x": -70.37357709075951,
+			"y": 3240.7448719087442,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 11.652579735289807,
@@ -83674,7 +83633,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83721,8 +83680,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 578253563,
+			"version": 227,
+			"versionNonce": 1530431931,
 			"isDeleted": false,
 			"id": "5IQKJxdQ00L24u-WlCR8D",
 			"fillStyle": "solid",
@@ -83731,8 +83690,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -76.34434476540412,
-			"y": 2518.08501877538,
+			"x": -77.54435697243537,
+			"y": 3230.8850370859273,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 0.8963599707227762,
@@ -83741,7 +83700,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83798,8 +83757,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 2032766517,
+			"version": 227,
+			"versionNonce": 2042250101,
 			"isDeleted": false,
 			"id": "ruIbo5yoHX7OIcz-MvlxP",
 			"fillStyle": "solid",
@@ -83808,8 +83767,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -69.17356488372826,
-			"y": 2548.5608832145554,
+			"x": -70.37357709075951,
+			"y": 3261.3609015251022,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 22.408799499856748,
@@ -83818,7 +83777,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83875,8 +83834,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 849697691,
+			"version": 264,
+			"versionNonce": 1217763931,
 			"isDeleted": false,
 			"id": "vEqYdnNOfr0r-MQolz0Rz",
 			"fillStyle": "solid",
@@ -83885,8 +83844,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -38.69772541557924,
-			"y": 2503.7434340410014,
+			"x": -39.89773762261049,
+			"y": 3216.5434523515487,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 9.859859793844208,
@@ -83895,7 +83854,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84137,8 +84096,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 967049109,
+			"version": 268,
+			"versionNonce": 1760300245,
 			"isDeleted": false,
 			"id": "h2uHgVy4AdX5OpirnJs9p",
 			"fillStyle": "solid",
@@ -84147,8 +84106,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -23.571461397376936,
-			"y": 2520.102570315552,
+			"x": -24.771473604408186,
+			"y": 3232.902588626099,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 18.103061436553926,
@@ -84157,7 +84116,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84419,8 +84378,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 575483963,
+			"version": 225,
+			"versionNonce": 1967625979,
 			"isDeleted": false,
 			"id": "F8xc1xxzHhP3Lv23hj41O",
 			"fillStyle": "solid",
@@ -84429,8 +84388,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 0.149786722097474,
-			"y": 2522.599538310064,
+			"x": -1.050225484933776,
+			"y": 3235.3995566206113,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 10.612122671944793,
@@ -84439,7 +84398,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84486,8 +84445,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 1485391093,
+			"version": 232,
+			"versionNonce": 366848565,
 			"isDeleted": false,
 			"id": "gg50NBEZ4qWD81N5mCJdi",
 			"fillStyle": "solid",
@@ -84496,8 +84455,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 15.1315946891703,
-			"y": 2527.5934742990876,
+			"x": 13.93158248213905,
+			"y": 3240.3934926096344,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 13.733376141425909,
@@ -84506,7 +84465,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84588,8 +84547,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 1129410779,
+			"version": 227,
+			"versionNonce": 2144403355,
 			"isDeleted": false,
 			"id": "NK84GBwDeTQkU_ut5jQEm",
 			"fillStyle": "solid",
@@ -84598,8 +84557,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 38.85284280864471,
-			"y": 2540.702582356081,
+			"x": 37.65283060161346,
+			"y": 3253.5026006666285,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 11.236373365841017,
@@ -84608,7 +84567,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84665,8 +84624,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1767824981,
+			"version": 234,
+			"versionNonce": 1635031957,
 			"isDeleted": false,
 			"id": "-t6WYXVZUMm95p6cMtnnl",
 			"fillStyle": "solid",
@@ -84675,8 +84634,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 50.713466868381886,
-			"y": 2516.3571009332463,
+			"x": 49.513454661350636,
+			"y": 3229.157119243793,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 12.484874753633463,
@@ -84685,7 +84644,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84777,8 +84736,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 192,
-			"versionNonce": 121937275,
+			"version": 228,
+			"versionNonce": 308565051,
 			"isDeleted": false,
 			"id": "CTZsOz0eLCph1fp3k-NWj",
 			"fillStyle": "solid",
@@ -84787,8 +84746,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 64.44677344766222,
-			"y": 2515.108616935991,
+			"x": 63.246761240630974,
+			"y": 3227.9086352465383,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.8727520816886696,
@@ -84797,7 +84756,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405045,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84859,8 +84818,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1929006005,
+			"version": 246,
+			"versionNonce": 1944477941,
 			"isDeleted": false,
 			"id": "oiX12cffbzCD6wfcweIDc",
 			"fillStyle": "solid",
@@ -84869,8 +84828,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 91.28920547447223,
-			"y": 2538.205614361569,
+			"x": 90.08919326744098,
+			"y": 3251.005632672116,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 21.224245343889496,
@@ -84879,7 +84838,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85031,8 +84990,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 157890075,
+			"version": 224,
+			"versionNonce": 1826886875,
 			"isDeleted": false,
 			"id": "nI9Hn-fP4RyWg3Tk_NtCe",
 			"fillStyle": "solid",
@@ -85041,8 +85000,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 103.14982953420952,
-			"y": 2521.3510543128073,
+			"x": 101.94981732717827,
+			"y": 3234.1510726233546,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 8.739370590256124,
@@ -85051,7 +85010,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85093,8 +85052,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 92343573,
+			"version": 226,
+			"versionNonce": 1387821653,
 			"isDeleted": false,
 			"id": "vvLAN8ea76g802Kv3ba9I",
 			"fillStyle": "solid",
@@ -85103,8 +85062,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 111.26501899271483,
-			"y": 2508.8661969497102,
+			"x": 110.06500678568358,
+			"y": 3221.6662152602576,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 2.497002775584893,
@@ -85113,7 +85072,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85165,8 +85124,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1488042683,
+			"version": 236,
+			"versionNonce": 786612603,
 			"isDeleted": false,
 			"id": "xlAV9-gIIOS-Hm-qOZtF2",
 			"fillStyle": "solid",
@@ -85175,8 +85134,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 128.74376017322703,
-			"y": 2527.5934742990876,
+			"x": 127.54374796619578,
+			"y": 3240.3934926096344,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 16.85449048661598,
@@ -85185,7 +85144,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85287,8 +85246,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 275292789,
+			"version": 225,
+			"versionNonce": 918579125,
 			"isDeleted": false,
 			"id": "HNUEc3cpE97xtxyBVA30K",
 			"fillStyle": "solid",
@@ -85297,8 +85256,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 148.09532299757336,
-			"y": 2519.4783196216554,
+			"x": 146.8953107905421,
+			"y": 3232.2783379322027,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 14.357557273176587,
@@ -85307,7 +85266,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85354,8 +85313,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 29403995,
+			"version": 224,
+			"versionNonce": 1638062619,
 			"isDeleted": false,
 			"id": "Cf1RYrblY4GjQTg4pkYwf",
 			"fillStyle": "solid",
@@ -85364,8 +85323,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 153.71350968049393,
-			"y": 2507.617712952454,
+			"x": 152.51349747346268,
+			"y": 3220.417731263001,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.8727520816886696,
@@ -85374,7 +85333,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85416,8 +85375,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 2021034965,
+			"version": 290,
+			"versionNonce": 572762389,
 			"isDeleted": false,
 			"id": "5syTkfyYPWc5K2ArXXF7B",
 			"fillStyle": "solid",
@@ -85426,8 +85385,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -45.41995743516267,
-			"y": 2504.496494264046,
+			"x": -46.61996964219392,
+			"y": 3217.296512574593,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 201.63040032909595,
@@ -85436,7 +85395,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85808,8 +85767,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1491634171,
+			"version": 246,
+			"versionNonce": 1108795067,
 			"isDeleted": false,
 			"id": "6bfmc_HMrymZ2-RzR3FRS",
 			"fillStyle": "solid",
@@ -85818,8 +85777,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -36.68058684490694,
-			"y": 2626.223831816069,
+			"x": -37.88059905193819,
+			"y": 3339.023850126616,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 26.842432026810005,
@@ -85828,7 +85787,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85980,8 +85939,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 1841318197,
+			"version": 248,
+			"versionNonce": 911720053,
 			"isDeleted": false,
 			"id": "AufChzjaK4b_RDAHz1uEn",
 			"fillStyle": "solid",
@@ -85990,8 +85949,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -10.462335949847613,
-			"y": 2614.363225146868,
+			"x": -11.662348156878863,
+			"y": 3327.163243457415,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 27.466682720706228,
@@ -86000,7 +85959,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86162,8 +86121,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 69980315,
+			"version": 234,
+			"versionNonce": 1256279899,
 			"isDeleted": false,
 			"id": "fhBIBsiIThY_1k2SIzw5G",
 			"fillStyle": "solid",
@@ -86172,8 +86131,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -11.710837337640044,
-			"y": 2610.6177731550997,
+			"x": -12.910849544671294,
+			"y": 3323.4177914656466,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 4.369685295128017,
@@ -86182,7 +86141,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86274,8 +86233,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 28007061,
+			"version": 223,
+			"versionNonce": 1243752405,
 			"isDeleted": false,
 			"id": "aysN_bcr1EE1feUF0WquM",
 			"fillStyle": "solid",
@@ -86284,8 +86243,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7.016474792810072,
-			"y": 2599.381399789259,
+			"x": 5.816462585778822,
+			"y": 3312.1814180998063,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 8.739440152401624,
@@ -86294,7 +86253,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86331,8 +86290,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1161626939,
+			"version": 224,
+			"versionNonce": 2119478267,
 			"isDeleted": false,
 			"id": "_JcLh9yJo1mdUjXgDsVka",
 			"fillStyle": "solid",
@@ -86341,8 +86300,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 14.007943440156737,
-			"y": 2597.1340868569105,
+			"x": 12.807931233125487,
+			"y": 3309.9341051674573,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.2485013877924465,
@@ -86351,7 +86310,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86388,8 +86347,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 2095923189,
+			"version": 227,
+			"versionNonce": 1066951989,
 			"isDeleted": false,
 			"id": "xNYxU4lzSUxxMFs-1u8WE",
 			"fillStyle": "solid",
@@ -86398,8 +86357,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -100.03547155527795,
-			"y": 2516.630472241224,
+			"x": -101.2354837623092,
+			"y": 3229.430490551771,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 15.787375759177076,
@@ -86408,7 +86367,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86465,8 +86424,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 58631643,
+			"version": 223,
+			"versionNonce": 1886614683,
 			"isDeleted": false,
 			"id": "BRVt9gzjgiKGnSDPXSoEQ",
 			"fillStyle": "solid",
@@ -86475,8 +86434,8 @@ Flytter med ^xiGjjnB0
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -92.14184650601442,
-			"y": 2509.8645258648057,
+			"x": -93.34185871304567,
+			"y": 3222.6645441753526,
 			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"width": 1.1276786728448034,
@@ -86485,7 +86444,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86522,18 +86481,18 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "rectangle",
-			"version": 180,
-			"versionNonce": 1972074837,
+			"version": 217,
+			"versionNonce": 438302357,
 			"isDeleted": false,
 			"id": "p-pGklIzs6FVMJ2kDzhsY",
 			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -285.96812486317594,
-			"y": 1918.6776118516443,
+			"x": -287.1681370702072,
+			"y": 2631.4776301621914,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 429.4144287109375,
@@ -86542,24 +86501,24 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 196,
-			"versionNonce": 369308283,
+			"version": 233,
+			"versionNonce": 284174651,
 			"isDeleted": false,
 			"id": "RSi0GL3Y_BX2GdCCv15hG",
 			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -290.34996080067594,
-			"y": 2441.2049556016445,
+			"x": -291.5499730077072,
+			"y": 3154.0049739121914,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 481.4803964687933,
@@ -86568,14 +86527,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045696,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 288,
-			"versionNonce": 618366645,
+			"version": 297,
+			"versionNonce": 1416518645,
 			"isDeleted": false,
 			"id": "Pzbl0XNCjce8VPy0fVUkz",
 			"fillStyle": "solid",
@@ -86594,7 +86553,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -86615,8 +86574,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "ellipse",
-			"version": 681,
-			"versionNonce": 1301097243,
+			"version": 690,
+			"versionNonce": 892160475,
 			"isDeleted": false,
 			"id": "JlD6RoHBxwCaIlRMLT5kq",
 			"fillStyle": "solid",
@@ -86635,14 +86594,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 721,
-			"versionNonce": 2105731093,
+			"version": 730,
+			"versionNonce": 1988695381,
 			"isDeleted": false,
 			"id": "dPNxFV_GFDD0yJbdZnKX7",
 			"fillStyle": "solid",
@@ -86661,14 +86620,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 644,
-			"versionNonce": 1049563067,
+			"version": 653,
+			"versionNonce": 1648187003,
 			"isDeleted": false,
 			"id": "s_Qvq_rdRFpw18kgbCalc",
 			"fillStyle": "solid",
@@ -86687,7 +86646,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -86708,8 +86667,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 644,
-			"versionNonce": 24583541,
+			"version": 653,
+			"versionNonce": 1808114357,
 			"isDeleted": false,
 			"id": "VMz72RMzdrAxkzUyg5Ldd",
 			"fillStyle": "solid",
@@ -86728,7 +86687,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87200,8 +87159,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 573,
-			"versionNonce": 1261133915,
+			"version": 582,
+			"versionNonce": 1457704731,
 			"isDeleted": false,
 			"id": "7uq5IzyFY3QgFn9SwDNG3",
 			"fillStyle": "solid",
@@ -87220,7 +87179,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87302,8 +87261,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 678,
-			"versionNonce": 1476241109,
+			"version": 687,
+			"versionNonce": 415859733,
 			"isDeleted": false,
 			"id": "PlTHs6d48OjpncjNMpata",
 			"fillStyle": "solid",
@@ -87322,7 +87281,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405046,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87409,8 +87368,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 914,
-			"versionNonce": 1832164603,
+			"version": 923,
+			"versionNonce": 1435513787,
 			"isDeleted": false,
 			"id": "8lrI5fh_NyLirM6VZMGrJ",
 			"fillStyle": "solid",
@@ -87429,7 +87388,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -87450,8 +87409,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 719,
-			"versionNonce": 598475829,
+			"version": 728,
+			"versionNonce": 831142261,
 			"isDeleted": false,
 			"id": "IJE3GtjWs-DAL_M26UBPD",
 			"fillStyle": "solid",
@@ -87470,7 +87429,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87562,8 +87521,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 714,
-			"versionNonce": 1076708763,
+			"version": 723,
+			"versionNonce": 778568795,
 			"isDeleted": false,
 			"id": "DIuYwFX22lZP8dokmuJIV",
 			"fillStyle": "solid",
@@ -87582,7 +87541,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87649,8 +87608,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 714,
-			"versionNonce": 409449877,
+			"version": 723,
+			"versionNonce": 1330463445,
 			"isDeleted": false,
 			"id": "ZHi-uPqR6eJsfV11OUh5o",
 			"fillStyle": "solid",
@@ -87669,7 +87628,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87736,8 +87695,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 743,
-			"versionNonce": 1263000123,
+			"version": 752,
+			"versionNonce": 154976507,
 			"isDeleted": false,
 			"id": "bS-b4zOoSBelxZZZWuz_A",
 			"fillStyle": "solid",
@@ -87756,7 +87715,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87968,8 +87927,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 594,
-			"versionNonce": 1365654261,
+			"version": 603,
+			"versionNonce": 1185423413,
 			"isDeleted": false,
 			"id": "dS6MLkgFfEX_pkAKuPA6z",
 			"fillStyle": "solid",
@@ -87988,7 +87947,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88435,8 +88394,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 567,
-			"versionNonce": 191290075,
+			"version": 576,
+			"versionNonce": 1871767963,
 			"isDeleted": false,
 			"id": "wxKBnOSiwKE60kc1H9vrc",
 			"fillStyle": "solid",
@@ -88455,7 +88414,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88727,8 +88686,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 538,
-			"versionNonce": 1731007573,
+			"version": 547,
+			"versionNonce": 1031819669,
 			"isDeleted": false,
 			"id": "rd1Ytaw5084ne0TKifAZF",
 			"fillStyle": "solid",
@@ -88747,7 +88706,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88819,8 +88778,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 537,
-			"versionNonce": 1025296251,
+			"version": 546,
+			"versionNonce": 378994235,
 			"isDeleted": false,
 			"id": "FY0POtK9sBK3tZ4t4QdaG",
 			"fillStyle": "solid",
@@ -88839,7 +88798,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88906,8 +88865,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 536,
-			"versionNonce": 1167180213,
+			"version": 545,
+			"versionNonce": 17520373,
 			"isDeleted": false,
 			"id": "3Bwf1u4qsoGSyFGEHMx7_",
 			"fillStyle": "solid",
@@ -88926,7 +88885,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88988,8 +88947,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 534,
-			"versionNonce": 1722556443,
+			"version": 543,
+			"versionNonce": 1764851419,
 			"isDeleted": false,
 			"id": "TDdtXmX-1BLd1Xon8-sqs",
 			"fillStyle": "solid",
@@ -89008,7 +88967,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89060,8 +89019,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 646,
-			"versionNonce": 1102693141,
+			"version": 655,
+			"versionNonce": 466530389,
 			"isDeleted": false,
 			"id": "1zieejXiozx1XoROPAJoB",
 			"fillStyle": "solid",
@@ -89080,7 +89039,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89307,8 +89266,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 624,
-			"versionNonce": 570909883,
+			"version": 633,
+			"versionNonce": 1374874491,
 			"isDeleted": false,
 			"id": "tIJewAc0cwEgPFPJmCvBp",
 			"fillStyle": "solid",
@@ -89327,7 +89286,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89379,8 +89338,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 626,
-			"versionNonce": 1880791157,
+			"version": 635,
+			"versionNonce": 731897269,
 			"isDeleted": false,
 			"id": "Rpk_qm7d605LvyjiWSI0P",
 			"fillStyle": "solid",
@@ -89399,7 +89358,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89461,8 +89420,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 628,
-			"versionNonce": 651236699,
+			"version": 637,
+			"versionNonce": 1159578651,
 			"isDeleted": false,
 			"id": "ByVfGAYopGnoQMdmDn1AH",
 			"fillStyle": "solid",
@@ -89481,7 +89440,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89538,8 +89497,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 640,
-			"versionNonce": 981058005,
+			"version": 649,
+			"versionNonce": 2007260949,
 			"isDeleted": false,
 			"id": "bNns3mGXNH4asu_0NYBoc",
 			"fillStyle": "solid",
@@ -89558,7 +89517,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89685,8 +89644,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 331,
-			"versionNonce": 341553659,
+			"version": 340,
+			"versionNonce": 178555067,
 			"isDeleted": false,
 			"id": "OO2Yhydla4vMKM3BjHgHy",
 			"fillStyle": "solid",
@@ -89705,7 +89664,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90682,8 +90641,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 904707893,
+			"version": 204,
+			"versionNonce": 1179759733,
 			"isDeleted": false,
 			"id": "MEJ8bLjRuiNxFFFoaPt-p",
 			"fillStyle": "solid",
@@ -90702,7 +90661,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90994,8 +90953,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 2074720923,
+			"version": 204,
+			"versionNonce": 1210693979,
 			"isDeleted": false,
 			"id": "P8vq4xXFo3jA5Rkewi0RG",
 			"fillStyle": "solid",
@@ -91014,7 +90973,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91306,8 +91265,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 953749653,
+			"version": 156,
+			"versionNonce": 1936547285,
 			"isDeleted": false,
 			"id": "tITA33FBKZnWAUdLLNO0x",
 			"fillStyle": "solid",
@@ -91326,7 +91285,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91378,8 +91337,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 453,
-			"versionNonce": 695054139,
+			"version": 462,
+			"versionNonce": 1258280443,
 			"isDeleted": false,
 			"id": "26nYlzPgXBK3wq1Mth_O2",
 			"fillStyle": "solid",
@@ -91398,7 +91357,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405047,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -91419,8 +91378,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 356,
-			"versionNonce": 821310965,
+			"version": 365,
+			"versionNonce": 1175247669,
 			"isDeleted": false,
 			"id": "kmswb30bd9X9ck10R7gmI",
 			"fillStyle": "solid",
@@ -91439,7 +91398,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91651,8 +91610,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 805965787,
+			"version": 250,
+			"versionNonce": 304701083,
 			"isDeleted": false,
 			"id": "4ZHp6f7TOwb9ZB_c7oGxr",
 			"fillStyle": "solid",
@@ -91671,7 +91630,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91753,8 +91712,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 960737109,
+			"version": 241,
+			"versionNonce": 110472341,
 			"isDeleted": false,
 			"id": "7PKK062nPcT-b3oDL8HCk",
 			"fillStyle": "solid",
@@ -91773,7 +91732,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91810,8 +91769,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 831609979,
+			"version": 245,
+			"versionNonce": 408474427,
 			"isDeleted": false,
 			"id": "vnA3_Ryso4BsPDhQVH6Bi",
 			"fillStyle": "solid",
@@ -91830,7 +91789,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91887,8 +91846,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 1880947893,
+			"version": 274,
+			"versionNonce": 1421693429,
 			"isDeleted": false,
 			"id": "h_9f4rackgUQbf5chKgSJ",
 			"fillStyle": "solid",
@@ -91907,7 +91866,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92024,8 +91983,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1774589211,
+			"version": 157,
+			"versionNonce": 1576055771,
 			"isDeleted": false,
 			"id": "l1gedNuhrstC0OqZUXzPD",
 			"fillStyle": "solid",
@@ -92044,7 +92003,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92316,8 +92275,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 220569109,
+			"version": 190,
+			"versionNonce": 1032407893,
 			"isDeleted": false,
 			"id": "Qb8YsrfhvEJ7DXmUtqewP",
 			"fillStyle": "solid",
@@ -92336,7 +92295,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92773,8 +92732,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 2015017403,
+			"version": 166,
+			"versionNonce": 855867515,
 			"isDeleted": false,
 			"id": "sG7xh2nfr13z7sllG4Xkm",
 			"fillStyle": "solid",
@@ -92793,7 +92752,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93115,8 +93074,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 928191349,
+			"version": 118,
+			"versionNonce": 290396341,
 			"isDeleted": false,
 			"id": "PwSA5vXke1CEQNhGZ51xR",
 			"fillStyle": "solid",
@@ -93135,7 +93094,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93217,8 +93176,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1773259355,
+			"version": 113,
+			"versionNonce": 1096005915,
 			"isDeleted": false,
 			"id": "JvmbGC1cNyRFrx8UDK0uF",
 			"fillStyle": "solid",
@@ -93237,7 +93196,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93294,8 +93253,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 451599573,
+			"version": 111,
+			"versionNonce": 2041854485,
 			"isDeleted": false,
 			"id": "-b4O69QHeoQwIrS77YDzK",
 			"fillStyle": "solid",
@@ -93314,7 +93273,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93361,8 +93320,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 56477435,
+			"version": 119,
+			"versionNonce": 1448336827,
 			"isDeleted": false,
 			"id": "mpmCnNsbxAf5OpNdQpUqm",
 			"fillStyle": "solid",
@@ -93381,7 +93340,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93468,8 +93427,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1065515573,
+			"version": 110,
+			"versionNonce": 1336815477,
 			"isDeleted": false,
 			"id": "0zgnyzCW2YLnb8VJoMZjL",
 			"fillStyle": "solid",
@@ -93488,7 +93447,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93530,8 +93489,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1268854683,
+			"version": 113,
+			"versionNonce": 1831235163,
 			"isDeleted": false,
 			"id": "lZjHscFdlmF4eo9-V354u",
 			"fillStyle": "solid",
@@ -93550,7 +93509,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045698,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93607,8 +93566,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 503278485,
+			"version": 143,
+			"versionNonce": 830634197,
 			"isDeleted": false,
 			"id": "cJ5IAGiVYpDoJdFzbfX7I",
 			"fillStyle": "solid",
@@ -93627,7 +93586,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93834,8 +93793,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1420723259,
+			"version": 109,
+			"versionNonce": 2023615227,
 			"isDeleted": false,
 			"id": "r7T8OoLhxqCyVHvDMuieA",
 			"fillStyle": "solid",
@@ -93854,7 +93813,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93891,8 +93850,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1989619957,
+			"version": 107,
+			"versionNonce": 1489409589,
 			"isDeleted": false,
 			"id": "rw8UGHry5rBGx3Rzqcre1",
 			"fillStyle": "solid",
@@ -93911,7 +93870,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93938,8 +93897,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1181238491,
+			"version": 123,
+			"versionNonce": 1832702875,
 			"isDeleted": false,
 			"id": "o4yd13ZBUbzhn12PalAQw",
 			"fillStyle": "solid",
@@ -93958,7 +93917,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94065,8 +94024,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1724861013,
+			"version": 120,
+			"versionNonce": 811599765,
 			"isDeleted": false,
 			"id": "P7q_hcXPxyzd3p9YsEdi6",
 			"fillStyle": "solid",
@@ -94085,7 +94044,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94177,8 +94136,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 677441915,
+			"version": 184,
+			"versionNonce": 188065851,
 			"isDeleted": false,
 			"id": "dZxnDotnJOa6xM3Ed6tqj",
 			"fillStyle": "solid",
@@ -94197,7 +94156,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94619,8 +94578,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1065170869,
+			"version": 125,
+			"versionNonce": 713313525,
 			"isDeleted": false,
 			"id": "PpZMJtsblbs8VjEHUBbDJ",
 			"fillStyle": "solid",
@@ -94639,7 +94598,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94766,8 +94725,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1809517083,
+			"version": 134,
+			"versionNonce": 1751836891,
 			"isDeleted": false,
 			"id": "1bsCdwUTv6-4biUkH3uz4",
 			"fillStyle": "solid",
@@ -94786,7 +94745,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405048,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94953,8 +94912,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 449214741,
+			"version": 113,
+			"versionNonce": 1454958165,
 			"isDeleted": false,
 			"id": "6fIZ9H1XM5PSc6bthpX5A",
 			"fillStyle": "solid",
@@ -94973,7 +94932,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95040,8 +94999,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 902368955,
+			"version": 111,
+			"versionNonce": 980358523,
 			"isDeleted": false,
 			"id": "Amzy00AzWCNeVp39gfu-l",
 			"fillStyle": "solid",
@@ -95060,7 +95019,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95117,8 +95076,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 840994421,
+			"version": 109,
+			"versionNonce": 936596405,
 			"isDeleted": false,
 			"id": "D8wvp0Lg269_Z1N_lGrJq",
 			"fillStyle": "solid",
@@ -95137,7 +95096,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95184,8 +95143,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1758297947,
+			"version": 166,
+			"versionNonce": 1619308059,
 			"isDeleted": false,
 			"id": "hOcTAE_OMYp_aZEhf_RMk",
 			"fillStyle": "solid",
@@ -95204,7 +95163,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95536,8 +95495,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1951463381,
+			"version": 218,
+			"versionNonce": 1509496085,
 			"isDeleted": false,
 			"id": "Z1eYRtFXmbU0KlwJnbC0S",
 			"fillStyle": "solid",
@@ -95556,7 +95515,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96148,8 +96107,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1866128379,
+			"version": 127,
+			"versionNonce": 765342395,
 			"isDeleted": false,
 			"id": "Tsxrra6DqsiOurFnPc3tx",
 			"fillStyle": "solid",
@@ -96168,7 +96127,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96305,8 +96264,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1533883701,
+			"version": 134,
+			"versionNonce": 681552501,
 			"isDeleted": false,
 			"id": "pPgND4TnsZyxE-ZHyqy-l",
 			"fillStyle": "solid",
@@ -96325,7 +96284,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96497,8 +96456,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1158915227,
+			"version": 218,
+			"versionNonce": 1918772059,
 			"isDeleted": false,
 			"id": "Z5XGY3omcmkJuMAuM-QSA",
 			"fillStyle": "solid",
@@ -96517,7 +96476,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96614,8 +96573,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 47892117,
+			"version": 217,
+			"versionNonce": 76321749,
 			"isDeleted": false,
 			"id": "Za6m2kjSyQBXK_TeAkM_3",
 			"fillStyle": "solid",
@@ -96634,7 +96593,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96726,8 +96685,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 1107974459,
+			"version": 139,
+			"versionNonce": 1192689659,
 			"isDeleted": false,
 			"id": "rH6kymsYUvdTKI5B5uZdI",
 			"fillStyle": "solid",
@@ -96746,7 +96705,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96798,8 +96757,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 2102340597,
+			"version": 138,
+			"versionNonce": 433410357,
 			"isDeleted": false,
 			"id": "AdxBy5yMtPq-LCUNtfkK6",
 			"fillStyle": "solid",
@@ -96818,7 +96777,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96865,8 +96824,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 595687899,
+			"version": 143,
+			"versionNonce": 365643931,
 			"isDeleted": false,
 			"id": "CwIurWLMwBAxo-o4gZJky",
 			"fillStyle": "solid",
@@ -96885,7 +96844,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96957,8 +96916,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 1792009557,
+			"version": 139,
+			"versionNonce": 1977574037,
 			"isDeleted": false,
 			"id": "GLr9FxSeb2Z8qyvrFxxVD",
 			"fillStyle": "solid",
@@ -96977,7 +96936,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045699,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97029,8 +96988,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 1451984507,
+			"version": 137,
+			"versionNonce": 1680702779,
 			"isDeleted": false,
 			"id": "TT-y1fGWnBWqS9VgRxSk7",
 			"fillStyle": "solid",
@@ -97049,7 +97008,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97091,8 +97050,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 1320317621,
+			"version": 148,
+			"versionNonce": 1566590965,
 			"isDeleted": false,
 			"id": "pH3uWqeyh5SyV7hY1k0rL",
 			"fillStyle": "solid",
@@ -97111,7 +97070,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97213,8 +97172,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 32177947,
+			"version": 146,
+			"versionNonce": 1570774491,
 			"isDeleted": false,
 			"id": "-kWe3tI1sEAalqnwNNMtg",
 			"fillStyle": "solid",
@@ -97233,7 +97192,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97320,8 +97279,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 631002133,
+			"version": 150,
+			"versionNonce": 1650295125,
 			"isDeleted": false,
 			"id": "VizhBSGrLGM9bRY9ImFcy",
 			"fillStyle": "solid",
@@ -97340,7 +97299,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97452,8 +97411,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 1343382459,
+			"version": 156,
+			"versionNonce": 490056315,
 			"isDeleted": false,
 			"id": "Oi1cFf7GpsGqIVzoh5f2A",
 			"fillStyle": "solid",
@@ -97472,7 +97431,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97614,8 +97573,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 998443381,
+			"version": 137,
+			"versionNonce": 975998645,
 			"isDeleted": false,
 			"id": "A2U2rH5p9lebCu6WBjJqN",
 			"fillStyle": "solid",
@@ -97634,7 +97593,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97681,8 +97640,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 2032415835,
+			"version": 138,
+			"versionNonce": 934322971,
 			"isDeleted": false,
 			"id": "l8FPsB_yzRPd_4TeHXaGf",
 			"fillStyle": "solid",
@@ -97701,7 +97660,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97753,8 +97712,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 1101796053,
+			"version": 156,
+			"versionNonce": 1400041493,
 			"isDeleted": false,
 			"id": "zbl77jmJaQ0yQhetcteCO",
 			"fillStyle": "solid",
@@ -97773,7 +97732,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97915,8 +97874,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 217247995,
+			"version": 117,
+			"versionNonce": 92506043,
 			"isDeleted": false,
 			"id": "DC9aq_Jz_s2MU5I6FCMcW",
 			"fillStyle": "solid",
@@ -97935,7 +97894,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405049,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97992,8 +97951,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 615313461,
+			"version": 112,
+			"versionNonce": 740697461,
 			"isDeleted": false,
 			"id": "a4tFsl_JIIroBwsE6rrAP",
 			"fillStyle": "solid",
@@ -98012,7 +97971,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98039,8 +97998,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 2097224091,
+			"version": 126,
+			"versionNonce": 751884379,
 			"isDeleted": false,
 			"id": "QBEI53FhnAvjrU5TRFl8f",
 			"fillStyle": "solid",
@@ -98059,7 +98018,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98161,8 +98120,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 577446293,
+			"version": 122,
+			"versionNonce": 1737207509,
 			"isDeleted": false,
 			"id": "SaP7Y2rch_90ROoC3Qfr9",
 			"fillStyle": "solid",
@@ -98181,7 +98140,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98263,8 +98222,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1719742011,
+			"version": 152,
+			"versionNonce": 1802179835,
 			"isDeleted": false,
 			"id": "rsWDipPc2g-ZZW3ZnikvK",
 			"fillStyle": "solid",
@@ -98283,7 +98242,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98530,8 +98489,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 538715893,
+			"version": 148,
+			"versionNonce": 607718453,
 			"isDeleted": false,
 			"id": "xZe1RB4jhABu7U3plxl23",
 			"fillStyle": "solid",
@@ -98550,7 +98509,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98642,8 +98601,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 475377371,
+			"version": 148,
+			"versionNonce": 550813083,
 			"isDeleted": false,
 			"id": "018EwuJHES8sQN2bm2VQG",
 			"fillStyle": "solid",
@@ -98662,7 +98621,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98749,8 +98708,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1078296661,
+			"version": 91,
+			"versionNonce": 303283605,
 			"isDeleted": false,
 			"id": "IjT9ZkjQHJaMQcaZkDEuX",
 			"fillStyle": "solid",
@@ -98769,7 +98728,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98826,8 +98785,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1896946555,
+			"version": 91,
+			"versionNonce": 406868539,
 			"isDeleted": false,
 			"id": "dNXq0rTZEUiMA61-17ykD",
 			"fillStyle": "solid",
@@ -98846,7 +98805,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98903,8 +98862,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 951889333,
+			"version": 104,
+			"versionNonce": 1213285109,
 			"isDeleted": false,
 			"id": "m5FuXtKTSOhILFxipBtnW",
 			"fillStyle": "solid",
@@ -98923,7 +98882,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99045,8 +99004,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1089860635,
+			"version": 87,
+			"versionNonce": 311448283,
 			"isDeleted": false,
 			"id": "JOA-ZpGxln_QFgxDDelHL",
 			"fillStyle": "solid",
@@ -99065,7 +99024,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99097,8 +99056,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1755787029,
+			"version": 86,
+			"versionNonce": 1534532693,
 			"isDeleted": false,
 			"id": "NRHcdf94_ACkDBfmnh4Xt",
 			"fillStyle": "solid",
@@ -99117,7 +99076,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045700,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99144,8 +99103,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1006024891,
+			"version": 102,
+			"versionNonce": 274153339,
 			"isDeleted": false,
 			"id": "puIkwRIzIWQjxaAna_qB9",
 			"fillStyle": "solid",
@@ -99164,7 +99123,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99276,8 +99235,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 779781237,
+			"version": 97,
+			"versionNonce": 861587893,
 			"isDeleted": false,
 			"id": "Fn9qKDO0nkSP40MoiiXAg",
 			"fillStyle": "solid",
@@ -99296,7 +99255,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99383,8 +99342,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1874192731,
+			"version": 122,
+			"versionNonce": 1540855835,
 			"isDeleted": false,
 			"id": "IwRZMci-BPE8Vjvn6qcKK",
 			"fillStyle": "solid",
@@ -99403,7 +99362,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99615,8 +99574,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 2113678805,
+			"version": 98,
+			"versionNonce": 555862805,
 			"isDeleted": false,
 			"id": "QFAtbfuugNkQ97mVTjeUz",
 			"fillStyle": "solid",
@@ -99635,7 +99594,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99727,8 +99686,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 293996027,
+			"version": 98,
+			"versionNonce": 1392762043,
 			"isDeleted": false,
 			"id": "W6jBlrdtqs9Fbv5ZX34_D",
 			"fillStyle": "solid",
@@ -99747,7 +99706,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99834,8 +99793,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 910273333,
+			"version": 93,
+			"versionNonce": 893493365,
 			"isDeleted": false,
 			"id": "Vq3Lncbyiv5X3Qd6-5eYL",
 			"fillStyle": "solid",
@@ -99854,7 +99813,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99961,8 +99920,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 141135515,
+			"version": 84,
+			"versionNonce": 1904119131,
 			"isDeleted": false,
 			"id": "9HHogioAnLALzemxAUU_W",
 			"fillStyle": "solid",
@@ -99981,7 +99940,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100048,8 +100007,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 934313109,
+			"version": 105,
+			"versionNonce": 1434438101,
 			"isDeleted": false,
 			"id": "72cNVhiOuSwcMzw_6jR3n",
 			"fillStyle": "solid",
@@ -100068,7 +100027,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100240,8 +100199,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 923992891,
+			"version": 81,
+			"versionNonce": 446310907,
 			"isDeleted": false,
 			"id": "1_iVnNbOhKQM--ksxZkCA",
 			"fillStyle": "solid",
@@ -100260,7 +100219,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405050,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100312,8 +100271,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 972956149,
+			"version": 79,
+			"versionNonce": 317835061,
 			"isDeleted": false,
 			"id": "UCWARPqXfoLUlYFDnODLW",
 			"fillStyle": "solid",
@@ -100332,7 +100291,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100374,8 +100333,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 98886619,
+			"version": 108,
+			"versionNonce": 593048219,
 			"isDeleted": false,
 			"id": "Zv3SShDUDhxunEALVchN6",
 			"fillStyle": "solid",
@@ -100394,7 +100353,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100581,8 +100540,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1647319893,
+			"version": 91,
+			"versionNonce": 1073551509,
 			"isDeleted": false,
 			"id": "70_EPya9PdCXp-lO_Eh55",
 			"fillStyle": "solid",
@@ -100601,7 +100560,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100703,8 +100662,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 754036859,
+			"version": 105,
+			"versionNonce": 476981051,
 			"isDeleted": false,
 			"id": "FJPMNeTUuvKsMFLOMB47k",
 			"fillStyle": "solid",
@@ -100723,7 +100682,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100890,8 +100849,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 412870837,
+			"version": 108,
+			"versionNonce": 1180122613,
 			"isDeleted": false,
 			"id": "B7b6W-5d1A9epuFDcYf9_",
 			"fillStyle": "solid",
@@ -100910,7 +100869,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101097,8 +101056,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1039919387,
+			"version": 168,
+			"versionNonce": 1547405275,
 			"isDeleted": false,
 			"id": "WHslzGjUTydh58B5Lc2-F",
 			"fillStyle": "solid",
@@ -101117,7 +101076,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101379,8 +101338,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 165,
-			"versionNonce": 518457877,
+			"version": 174,
+			"versionNonce": 1023784789,
 			"isDeleted": false,
 			"id": "w4CGHat0WjwqwYgrkDlsb",
 			"fillStyle": "solid",
@@ -101399,7 +101358,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101691,8 +101650,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1853230523,
+			"version": 125,
+			"versionNonce": 1221842043,
 			"isDeleted": false,
 			"id": "sc5uGjW7rQkLED4mNt_2D",
 			"fillStyle": "solid",
@@ -101711,7 +101670,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101758,8 +101717,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1711734645,
+			"version": 126,
+			"versionNonce": 1046348981,
 			"isDeleted": false,
 			"id": "LpOjkwKVVPXct1GNL9CeO",
 			"fillStyle": "solid",
@@ -101778,7 +101737,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101830,8 +101789,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 562208347,
+			"version": 156,
+			"versionNonce": 1643744539,
 			"isDeleted": false,
 			"id": "fK2_Qifvx_OARlPD25SYM",
 			"fillStyle": "solid",
@@ -101850,7 +101809,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102052,8 +102011,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 608258261,
+			"version": 135,
+			"versionNonce": 2114299413,
 			"isDeleted": false,
 			"id": "fuASRmpvM4nesryG__wnO",
 			"fillStyle": "solid",
@@ -102072,7 +102031,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102169,8 +102128,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 838081275,
+			"version": 142,
+			"versionNonce": 186593723,
 			"isDeleted": false,
 			"id": "V49NDk__GCO6mdozQOMtx",
 			"fillStyle": "solid",
@@ -102189,7 +102148,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045701,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102316,8 +102275,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 724264501,
+			"version": 171,
+			"versionNonce": 519183221,
 			"isDeleted": false,
 			"id": "kA_ni1YvkQb0OfBq_eIXO",
 			"fillStyle": "solid",
@@ -102336,7 +102295,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102613,8 +102572,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 2085421979,
+			"version": 126,
+			"versionNonce": 359088731,
 			"isDeleted": false,
 			"id": "v4Yet0fcKZ__RywpTtemD",
 			"fillStyle": "solid",
@@ -102633,7 +102592,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102685,8 +102644,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 2108348309,
+			"version": 128,
+			"versionNonce": 1231611093,
 			"isDeleted": false,
 			"id": "uwL8ggCr6w6DmoNMcDOGg",
 			"fillStyle": "solid",
@@ -102705,7 +102664,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102767,8 +102726,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 683661371,
+			"version": 130,
+			"versionNonce": 161758971,
 			"isDeleted": false,
 			"id": "m8xBUdl7cU2W_a4xI-Zna",
 			"fillStyle": "solid",
@@ -102787,7 +102746,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102859,8 +102818,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 636820725,
+			"version": 124,
+			"versionNonce": 16745013,
 			"isDeleted": false,
 			"id": "4nhIg3y88k82Hin4Art_H",
 			"fillStyle": "solid",
@@ -102879,7 +102838,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102921,8 +102880,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 892279003,
+			"version": 142,
+			"versionNonce": 844670875,
 			"isDeleted": false,
 			"id": "jFaWvO__weSc8TY3ZZJJD",
 			"fillStyle": "solid",
@@ -102941,7 +102900,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103003,8 +102962,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1267709525,
+			"version": 211,
+			"versionNonce": 983266197,
 			"isDeleted": false,
 			"id": "vdC9ebt1vxLojLwdgEOzO",
 			"fillStyle": "solid",
@@ -103023,7 +102982,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103145,8 +103104,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1059931515,
+			"version": 132,
+			"versionNonce": 1706490939,
 			"isDeleted": false,
 			"id": "aHwhArw0Hl7FKN-KcjwcP",
 			"fillStyle": "solid",
@@ -103165,7 +103124,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103237,8 +103196,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 156246965,
+			"version": 127,
+			"versionNonce": 846346485,
 			"isDeleted": false,
 			"id": "aQJTpYa-f6xMhZx_B6sxb",
 			"fillStyle": "solid",
@@ -103257,7 +103216,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405051,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103314,8 +103273,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 234675739,
+			"version": 132,
+			"versionNonce": 262257883,
 			"isDeleted": false,
 			"id": "VG7apTyCHSdXfRw5AJ2TX",
 			"fillStyle": "solid",
@@ -103334,7 +103293,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103411,8 +103370,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 56354069,
+			"version": 123,
+			"versionNonce": 34165333,
 			"isDeleted": false,
 			"id": "r7KnPNpWomgfwAfTK35jF",
 			"fillStyle": "solid",
@@ -103431,7 +103390,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103468,8 +103427,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1552966331,
+			"version": 124,
+			"versionNonce": 2074831227,
 			"isDeleted": false,
 			"id": "-34rN4Z2XGnHtJeZoBUoZ",
 			"fillStyle": "solid",
@@ -103488,7 +103447,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103530,8 +103489,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 1026062965,
+			"version": 137,
+			"versionNonce": 1983266741,
 			"isDeleted": false,
 			"id": "1pjIQsKsKwasWaINapMa0",
 			"fillStyle": "solid",
@@ -103550,7 +103509,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103657,8 +103616,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1670009691,
+			"version": 124,
+			"versionNonce": 1595310619,
 			"isDeleted": false,
 			"id": "wtxdSOrshTE3egL_w_TdU",
 			"fillStyle": "solid",
@@ -103677,7 +103636,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103719,8 +103678,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 190,
-			"versionNonce": 796615637,
+			"version": 199,
+			"versionNonce": 622756117,
 			"isDeleted": false,
 			"id": "JtP6GIvmUHkubwV4_UxPA",
 			"fillStyle": "solid",
@@ -103739,7 +103698,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -103760,8 +103719,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 97,
-			"versionNonce": 591212539,
+			"version": 106,
+			"versionNonce": 584419003,
 			"isDeleted": false,
 			"id": "aTPKSxgmmd97BX84Nz8cV",
 			"fillStyle": "solid",
@@ -103780,7 +103739,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -103801,8 +103760,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 79,
-			"versionNonce": 510271797,
+			"version": 88,
+			"versionNonce": 1144493685,
 			"isDeleted": false,
 			"id": "Bz7dcLUUpZRQ99Un3nyp8",
 			"fillStyle": "solid",
@@ -103821,7 +103780,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -103842,8 +103801,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1839954075,
+			"version": 220,
+			"versionNonce": 1837823835,
 			"isDeleted": false,
 			"id": "Cz73A_UCXsE4_QkklZaR_",
 			"fillStyle": "solid",
@@ -103862,7 +103821,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104314,8 +104273,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 794440341,
+			"version": 125,
+			"versionNonce": 1044840405,
 			"isDeleted": false,
 			"id": "Ytf5oC72e0vPPh2VAbG4-",
 			"fillStyle": "solid",
@@ -104334,7 +104293,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104391,8 +104350,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 814198075,
+			"version": 125,
+			"versionNonce": 1837716475,
 			"isDeleted": false,
 			"id": "OwPguQyXmND-vtcmIszWp",
 			"fillStyle": "solid",
@@ -104411,7 +104370,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045702,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104468,8 +104427,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 1057036277,
+			"version": 129,
+			"versionNonce": 157433141,
 			"isDeleted": false,
 			"id": "tzQ9oUFhCrkfBQkh-Max0",
 			"fillStyle": "solid",
@@ -104488,7 +104447,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104565,8 +104524,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 2134134235,
+			"version": 126,
+			"versionNonce": 1658002587,
 			"isDeleted": false,
 			"id": "zI8bOpnfeuNsDqp3v5mCq",
 			"fillStyle": "solid",
@@ -104585,7 +104544,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104647,8 +104606,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 2003063125,
+			"version": 125,
+			"versionNonce": 1022283413,
 			"isDeleted": false,
 			"id": "zltQqsZ3iUW8MNV1V4YSQ",
 			"fillStyle": "solid",
@@ -104667,7 +104626,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104724,8 +104683,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1556339323,
+			"version": 131,
+			"versionNonce": 1763365179,
 			"isDeleted": false,
 			"id": "ZrFqyLK5chFszKFOwoaGt",
 			"fillStyle": "solid",
@@ -104744,7 +104703,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104831,8 +104790,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 635002549,
+			"version": 124,
+			"versionNonce": 1738683381,
 			"isDeleted": false,
 			"id": "CQ3u7CTnuL08MQ3WVBT56",
 			"fillStyle": "solid",
@@ -104851,7 +104810,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104903,8 +104862,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1173934875,
+			"version": 131,
+			"versionNonce": 29553115,
 			"isDeleted": false,
 			"id": "tzn6bRtz7X-ntSx15bwjv",
 			"fillStyle": "solid",
@@ -104923,7 +104882,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105005,8 +104964,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1359331349,
+			"version": 122,
+			"versionNonce": 629271893,
 			"isDeleted": false,
 			"id": "Xm2ShYpjUd2ATFEewBTi-",
 			"fillStyle": "solid",
@@ -105025,7 +104984,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105067,8 +105026,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 2068166587,
+			"version": 122,
+			"versionNonce": 1574829691,
 			"isDeleted": false,
 			"id": "Bll9gm_talGvwXBp_V6eW",
 			"fillStyle": "solid",
@@ -105087,7 +105046,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105129,8 +105088,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 249492853,
+			"version": 137,
+			"versionNonce": 1977842357,
 			"isDeleted": false,
 			"id": "NQ1_htpb-DbDKc64jFboK",
 			"fillStyle": "solid",
@@ -105149,7 +105108,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105266,8 +105225,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 181209179,
+			"version": 121,
+			"versionNonce": 1747875611,
 			"isDeleted": false,
 			"id": "UhMtzwvelfahKk3aWovwV",
 			"fillStyle": "solid",
@@ -105286,7 +105245,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105323,8 +105282,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 447381205,
+			"version": 129,
+			"versionNonce": 1366055957,
 			"isDeleted": false,
 			"id": "nIDOhrvN6cxCxvDfl3Wex",
 			"fillStyle": "solid",
@@ -105343,7 +105302,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405052,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105415,8 +105374,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 442582267,
+			"version": 220,
+			"versionNonce": 254204859,
 			"isDeleted": false,
 			"id": "HAChyhz2vg6S4WihnXRgm",
 			"fillStyle": "solid",
@@ -105435,7 +105394,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105967,8 +105926,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 721280053,
+			"version": 157,
+			"versionNonce": 1184117,
 			"isDeleted": false,
 			"id": "U-CRkudqcpfChP8HKVMia",
 			"fillStyle": "solid",
@@ -105987,7 +105946,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106204,8 +106163,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1904536987,
+			"version": 131,
+			"versionNonce": 1323936859,
 			"isDeleted": false,
 			"id": "fKNGUHmC31Bad8DP_ttUx",
 			"fillStyle": "solid",
@@ -106224,7 +106183,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106311,8 +106270,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 129928597,
+			"version": 124,
+			"versionNonce": 790239957,
 			"isDeleted": false,
 			"id": "dLuT8HOeeq1DPBNZt71UN",
 			"fillStyle": "solid",
@@ -106331,7 +106290,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106383,8 +106342,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1131053627,
+			"version": 127,
+			"versionNonce": 2068408571,
 			"isDeleted": false,
 			"id": "y0sG56oID4_AgPhU1dfE8",
 			"fillStyle": "solid",
@@ -106403,7 +106362,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106470,8 +106429,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1612845813,
+			"version": 115,
+			"versionNonce": 1192884277,
 			"isDeleted": false,
 			"id": "20TAfhs8K6hNROcCgPJS3",
 			"fillStyle": "solid",
@@ -106490,7 +106449,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106652,8 +106611,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 955548379,
+			"version": 100,
+			"versionNonce": 1237881243,
 			"isDeleted": false,
 			"id": "zPiyJleZQDXQCcB9ZH1_I",
 			"fillStyle": "solid",
@@ -106672,7 +106631,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106759,8 +106718,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1622010965,
+			"version": 92,
+			"versionNonce": 32975253,
 			"isDeleted": false,
 			"id": "GvAPeK75pdXRS10_DwKvJ",
 			"fillStyle": "solid",
@@ -106779,7 +106738,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106826,8 +106785,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 984969083,
+			"version": 98,
+			"versionNonce": 463054395,
 			"isDeleted": false,
 			"id": "BJqKlLMh2WFGoxM-fB3_t",
 			"fillStyle": "solid",
@@ -106846,7 +106805,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106923,8 +106882,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 154638773,
+			"version": 74,
+			"versionNonce": 1088892661,
 			"isDeleted": false,
 			"id": "lBQeGtwD8wfiMU_jzB5Tb",
 			"fillStyle": "solid",
@@ -106943,7 +106902,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107000,8 +106959,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 2062534683,
+			"version": 73,
+			"versionNonce": 127870683,
 			"isDeleted": false,
 			"id": "48utBFNj5tqvy-YlfC4t9",
 			"fillStyle": "solid",
@@ -107020,7 +106979,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107072,8 +107031,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1122278165,
+			"version": 84,
+			"versionNonce": 577734741,
 			"isDeleted": false,
 			"id": "gFNcOkXqFkusCmCKGgjuR",
 			"fillStyle": "solid",
@@ -107092,7 +107051,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107199,8 +107158,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1066798267,
+			"version": 74,
+			"versionNonce": 611029883,
 			"isDeleted": false,
 			"id": "OW4xagfpMgZZQB07e6ZWI",
 			"fillStyle": "solid",
@@ -107219,7 +107178,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107276,8 +107235,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 908750965,
+			"version": 84,
+			"versionNonce": 1483060661,
 			"isDeleted": false,
 			"id": "ggFxQbwkLhpnNqdm5XTEv",
 			"fillStyle": "solid",
@@ -107296,7 +107255,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107403,8 +107362,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1816837467,
+			"version": 90,
+			"versionNonce": 306277403,
 			"isDeleted": false,
 			"id": "868hmXLFnxqcay-42o7CO",
 			"fillStyle": "solid",
@@ -107423,7 +107382,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107560,8 +107519,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1624152533,
+			"version": 140,
+			"versionNonce": 1039087381,
 			"isDeleted": false,
 			"id": "cpA-9Z1BmDm6WViw1Md1H",
 			"fillStyle": "solid",
@@ -107580,7 +107539,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107807,8 +107766,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1281382907,
+			"version": 134,
+			"versionNonce": 1158885563,
 			"isDeleted": false,
 			"id": "EpmCgUWNSye9Vlxc6En2l",
 			"fillStyle": "solid",
@@ -107827,7 +107786,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108024,8 +107983,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 166,
-			"versionNonce": 1810274101,
+			"version": 175,
+			"versionNonce": 763464821,
 			"isDeleted": false,
 			"id": "axvcYTr-37ivu_1AaXr4M",
 			"fillStyle": "solid",
@@ -108044,7 +108003,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108471,8 +108430,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 484008603,
+			"version": 81,
+			"versionNonce": 243491163,
 			"isDeleted": false,
 			"id": "Z7KNfs2PsFA4CGtJQ0RYX",
 			"fillStyle": "solid",
@@ -108491,7 +108450,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108608,8 +108567,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1104668821,
+			"version": 72,
+			"versionNonce": 383923669,
 			"isDeleted": false,
 			"id": "t9W8avUxWQbQieB5zMPSH",
 			"fillStyle": "solid",
@@ -108628,7 +108587,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108700,8 +108659,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1449678651,
+			"version": 70,
+			"versionNonce": 1743027707,
 			"isDeleted": false,
 			"id": "6_fyJ2NqKePLDgLMKwu8I",
 			"fillStyle": "solid",
@@ -108720,7 +108679,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108782,8 +108741,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1683492341,
+			"version": 72,
+			"versionNonce": 1428599605,
 			"isDeleted": false,
 			"id": "t1Z83EplL-f1S9KmpSDMK",
 			"fillStyle": "solid",
@@ -108802,7 +108761,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405053,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108874,8 +108833,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 930068443,
+			"version": 65,
+			"versionNonce": 2084112027,
 			"isDeleted": false,
 			"id": "VwY28BCzU08DNUtJMXrHX",
 			"fillStyle": "solid",
@@ -108894,7 +108853,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108931,8 +108890,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 40666965,
+			"version": 73,
+			"versionNonce": 1152681109,
 			"isDeleted": false,
 			"id": "SaTV1KDfxd4VXCjdxMO_y",
 			"fillStyle": "solid",
@@ -108951,7 +108910,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109023,8 +108982,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 235013243,
+			"version": 67,
+			"versionNonce": 1915976507,
 			"isDeleted": false,
 			"id": "ntouKt6haoH1oGV9Vcaes",
 			"fillStyle": "solid",
@@ -109043,7 +109002,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109090,8 +109049,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1315624117,
+			"version": 67,
+			"versionNonce": 423700981,
 			"isDeleted": false,
 			"id": "8b3S97gBtv_yEWSl244cm",
 			"fillStyle": "solid",
@@ -109110,7 +109069,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109157,8 +109116,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1105313051,
+			"version": 77,
+			"versionNonce": 1983273947,
 			"isDeleted": false,
 			"id": "4YjDM0lFvVtLF_CA-abxl",
 			"fillStyle": "solid",
@@ -109177,7 +109136,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109274,8 +109233,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 335050261,
+			"version": 65,
+			"versionNonce": 1943151445,
 			"isDeleted": false,
 			"id": "m2OHvnN2sCuykylVIZA_z",
 			"fillStyle": "solid",
@@ -109294,7 +109253,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109331,8 +109290,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 511795643,
+			"version": 94,
+			"versionNonce": 72624251,
 			"isDeleted": false,
 			"id": "4FWAFOepSOebjPw_4BDCC",
 			"fillStyle": "solid",
@@ -109351,7 +109310,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109528,8 +109487,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 235596661,
+			"version": 96,
+			"versionNonce": 951906485,
 			"isDeleted": false,
 			"id": "VBzs8pvZFDu9FykHiji8M",
 			"fillStyle": "solid",
@@ -109548,7 +109507,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109745,8 +109704,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1560506971,
+			"version": 77,
+			"versionNonce": 1917804827,
 			"isDeleted": false,
 			"id": "-VQjoYUj734Rq1WVofp9G",
 			"fillStyle": "solid",
@@ -109765,7 +109724,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109867,8 +109826,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 2095559893,
+			"version": 91,
+			"versionNonce": 631706133,
 			"isDeleted": false,
 			"id": "Pme2LCB7ebsdTIhpkKE09",
 			"fillStyle": "solid",
@@ -109887,7 +109846,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109959,8 +109918,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1849323259,
+			"version": 107,
+			"versionNonce": 966428091,
 			"isDeleted": false,
 			"id": "oDmolpywGrTj-0ssOfL_4",
 			"fillStyle": "solid",
@@ -109979,7 +109938,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110131,8 +110090,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 2082755125,
+			"version": 84,
+			"versionNonce": 663095157,
 			"isDeleted": false,
 			"id": "i5-RwB27lcSW-2X98Z3ZH",
 			"fillStyle": "solid",
@@ -110151,7 +110110,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110188,8 +110147,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 78174107,
+			"version": 81,
+			"versionNonce": 22550107,
 			"isDeleted": false,
 			"id": "IHNBCRoZdTt_NyvYZQmgq",
 			"fillStyle": "solid",
@@ -110208,7 +110167,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110230,8 +110189,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 413549461,
+			"version": 100,
+			"versionNonce": 1889489109,
 			"isDeleted": false,
 			"id": "pKqwSCqdpOx0eLVmEVIHs",
 			"fillStyle": "solid",
@@ -110250,7 +110209,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110367,8 +110326,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1585523771,
+			"version": 97,
+			"versionNonce": 1750766331,
 			"isDeleted": false,
 			"id": "TjUNAS7MxmJsPjsuO8wzj",
 			"fillStyle": "solid",
@@ -110387,7 +110346,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110489,8 +110448,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 648218869,
+			"version": 128,
+			"versionNonce": 1317563957,
 			"isDeleted": false,
 			"id": "XrvQ3mPUc62THW1PSjAtm",
 			"fillStyle": "solid",
@@ -110509,7 +110468,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110766,8 +110725,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1336274139,
+			"version": 95,
+			"versionNonce": 254049179,
 			"isDeleted": false,
 			"id": "wK9NjAVYUTfdqmJTef75I",
 			"fillStyle": "solid",
@@ -110786,7 +110745,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110878,8 +110837,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1470112341,
+			"version": 92,
+			"versionNonce": 1076289429,
 			"isDeleted": false,
 			"id": "ljT8TQ3EzfoeKawidTKEG",
 			"fillStyle": "solid",
@@ -110898,7 +110857,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -110975,8 +110934,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 195664251,
+			"version": 85,
+			"versionNonce": 1642614843,
 			"isDeleted": false,
 			"id": "aKvo41fVsTYWpGwmFterD",
 			"fillStyle": "solid",
@@ -110995,7 +110954,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111037,8 +110996,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 275976117,
+			"version": 92,
+			"versionNonce": 1269834997,
 			"isDeleted": false,
 			"id": "0IBmq8uX0H18vrq3j7h7o",
 			"fillStyle": "solid",
@@ -111057,7 +111016,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111134,8 +111093,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 802075163,
+			"version": 97,
+			"versionNonce": 579375323,
 			"isDeleted": false,
 			"id": "nCGyH5C2U1FECyoKpIZdR",
 			"fillStyle": "solid",
@@ -111154,7 +111113,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111256,8 +111215,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 2134987029,
+			"version": 98,
+			"versionNonce": 346668629,
 			"isDeleted": false,
 			"id": "Wru9EQ_DSq6NrBgYbAmZS",
 			"fillStyle": "solid",
@@ -111276,7 +111235,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405054,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111378,8 +111337,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 218609339,
+			"version": 97,
+			"versionNonce": 848805243,
 			"isDeleted": false,
 			"id": "_942A51xmAL6NPVgUV_jO",
 			"fillStyle": "solid",
@@ -111398,7 +111357,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111500,8 +111459,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1904240245,
+			"version": 113,
+			"versionNonce": 837364661,
 			"isDeleted": false,
 			"id": "KLdtiLQTrhy2QawPzCV2N",
 			"fillStyle": "solid",
@@ -111520,7 +111479,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111702,8 +111661,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 838281051,
+			"version": 85,
+			"versionNonce": 492328475,
 			"isDeleted": false,
 			"id": "eXC4VoTnzsTroNYF2dst0",
 			"fillStyle": "solid",
@@ -111722,7 +111681,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111764,8 +111723,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1777717205,
+			"version": 84,
+			"versionNonce": 1133767957,
 			"isDeleted": false,
 			"id": "E6TQ623wumxKalvTijeTF",
 			"fillStyle": "solid",
@@ -111784,7 +111743,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111821,8 +111780,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 888112123,
+			"version": 106,
+			"versionNonce": 1639766715,
 			"isDeleted": false,
 			"id": "sVNGxee5Obn-3xv7-1zTZ",
 			"fillStyle": "solid",
@@ -111841,7 +111800,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -111988,8 +111947,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1991707957,
+			"version": 96,
+			"versionNonce": 1226801781,
 			"isDeleted": false,
 			"id": "53mBpCMUweWf0eHKk1gqE",
 			"fillStyle": "solid",
@@ -112008,7 +111967,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112105,8 +112064,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1039355035,
+			"version": 97,
+			"versionNonce": 2087177051,
 			"isDeleted": false,
 			"id": "m0xw8CeFqRBqkdxDzSfKD",
 			"fillStyle": "solid",
@@ -112125,7 +112084,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112222,8 +112181,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1193909909,
+			"version": 119,
+			"versionNonce": 928082901,
 			"isDeleted": false,
 			"id": "S7gLx1lExp1PFlLU4IiSS",
 			"fillStyle": "solid",
@@ -112242,7 +112201,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112454,8 +112413,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1354039611,
+			"version": 89,
+			"versionNonce": 833333243,
 			"isDeleted": false,
 			"id": "QhPXcPnqXe-2CtZnGK0uI",
 			"fillStyle": "solid",
@@ -112474,7 +112433,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112536,8 +112495,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 33752053,
+			"version": 87,
+			"versionNonce": 1312762165,
 			"isDeleted": false,
 			"id": "SZbKumk1lLq0uSQcsd6nm",
 			"fillStyle": "solid",
@@ -112556,7 +112515,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112608,8 +112567,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1452745179,
+			"version": 108,
+			"versionNonce": 394981531,
 			"isDeleted": false,
 			"id": "qGSFGyagX71DqKglndWF9",
 			"fillStyle": "solid",
@@ -112628,7 +112587,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112780,8 +112739,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1531493717,
+			"version": 61,
+			"versionNonce": 793655957,
 			"isDeleted": false,
 			"id": "w3tUh1_Xs705jFmQYodMa",
 			"fillStyle": "solid",
@@ -112800,7 +112759,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112822,8 +112781,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1756114555,
+			"version": 72,
+			"versionNonce": 1605903675,
 			"isDeleted": false,
 			"id": "MRT_D8OWSxhwUR7jcFbie",
 			"fillStyle": "solid",
@@ -112842,7 +112801,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -112929,8 +112888,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1783646901,
+			"version": 71,
+			"versionNonce": 859054069,
 			"isDeleted": false,
 			"id": "LsX9cl7gI8lszMIUzmKm_",
 			"fillStyle": "solid",
@@ -112949,7 +112908,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113031,8 +112990,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1505142555,
+			"version": 82,
+			"versionNonce": 1637205467,
 			"isDeleted": false,
 			"id": "9adqEr8vy6UIQORvq6Dvs",
 			"fillStyle": "solid",
@@ -113051,7 +113010,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113188,8 +113147,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1069493269,
+			"version": 87,
+			"versionNonce": 2146851157,
 			"isDeleted": false,
 			"id": "ycMi48lDsaWiF8xMYaK4O",
 			"fillStyle": "solid",
@@ -113208,7 +113167,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113310,8 +113269,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2689979,
+			"version": 76,
+			"versionNonce": 1681281659,
 			"isDeleted": false,
 			"id": "wyZ76kWzRcx8QS-icK90X",
 			"fillStyle": "solid",
@@ -113330,7 +113289,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113377,8 +113336,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 998957429,
+			"version": 73,
+			"versionNonce": 1592420021,
 			"isDeleted": false,
 			"id": "Jnw-5Rg6f6JfNCkLxMZjq",
 			"fillStyle": "solid",
@@ -113397,7 +113356,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113429,8 +113388,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1076223067,
+			"version": 84,
+			"versionNonce": 677137179,
 			"isDeleted": false,
 			"id": "cXX83HHYYuYDtMXze2Rca",
 			"fillStyle": "solid",
@@ -113449,7 +113408,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113536,8 +113495,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 586738389,
+			"version": 85,
+			"versionNonce": 1387644949,
 			"isDeleted": false,
 			"id": "3goWiyms5HbU36GWGT-uU",
 			"fillStyle": "solid",
@@ -113556,7 +113515,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113648,8 +113607,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1434425595,
+			"version": 82,
+			"versionNonce": 846868411,
 			"isDeleted": false,
 			"id": "ToMQbU4-FQqPiDdtKcr4b",
 			"fillStyle": "solid",
@@ -113668,7 +113627,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113745,8 +113704,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1990117429,
+			"version": 73,
+			"versionNonce": 1833827701,
 			"isDeleted": false,
 			"id": "U9znR2_Y_7kidU-nZRPAi",
 			"fillStyle": "solid",
@@ -113765,7 +113724,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405055,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113797,8 +113756,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1572389275,
+			"version": 73,
+			"versionNonce": 1420984411,
 			"isDeleted": false,
 			"id": "Cg1T_50NSaDfhqwyBRl12",
 			"fillStyle": "solid",
@@ -113817,7 +113776,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113844,8 +113803,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 140638613,
+			"version": 84,
+			"versionNonce": 1710786261,
 			"isDeleted": false,
 			"id": "_XH9ivjFsXd5AKcdYWTS0",
 			"fillStyle": "solid",
@@ -113864,7 +113823,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -113951,8 +113910,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 570676795,
+			"version": 80,
+			"versionNonce": 2027404539,
 			"isDeleted": false,
 			"id": "FkFjdC7QyvXsmyaohqdqe",
 			"fillStyle": "solid",
@@ -113971,7 +113930,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114038,8 +113997,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1366818549,
+			"version": 81,
+			"versionNonce": 1867179061,
 			"isDeleted": false,
 			"id": "B1vwzR9WaXtB1C97fspm-",
 			"fillStyle": "solid",
@@ -114058,7 +114017,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114130,8 +114089,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 558061275,
+			"version": 74,
+			"versionNonce": 711746971,
 			"isDeleted": false,
 			"id": "MXPLanV_NT53E4doj9QU1",
 			"fillStyle": "solid",
@@ -114150,7 +114109,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114182,8 +114141,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 140925013,
+			"version": 73,
+			"versionNonce": 1294636437,
 			"isDeleted": false,
 			"id": "peqjuHb_Op5GEoIkDzzCy",
 			"fillStyle": "solid",
@@ -114202,7 +114161,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045706,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114229,8 +114188,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1510589307,
+			"version": 83,
+			"versionNonce": 1621293627,
 			"isDeleted": false,
 			"id": "lXTLaCVM1HUrr0HAjpUil",
 			"fillStyle": "solid",
@@ -114249,7 +114208,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114331,8 +114290,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1996654005,
+			"version": 92,
+			"versionNonce": 718084853,
 			"isDeleted": false,
 			"id": "oPoId4BRU8NnnrBFUkYlG",
 			"fillStyle": "solid",
@@ -114351,7 +114310,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114478,8 +114437,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1419353115,
+			"version": 131,
+			"versionNonce": 140376795,
 			"isDeleted": false,
 			"id": "QFTc4w-CaWhbGCeTUNc37",
 			"fillStyle": "solid",
@@ -114498,7 +114457,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114560,8 +114519,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 275908373,
+			"version": 79,
+			"versionNonce": 817362005,
 			"isDeleted": false,
 			"id": "iHokbc7IlHEAvySKtKMmQ",
 			"fillStyle": "solid",
@@ -114580,7 +114539,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114637,8 +114596,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1826971835,
+			"version": 73,
+			"versionNonce": 1311762299,
 			"isDeleted": false,
 			"id": "FsDDRQRxzkVwdmB99K6b4",
 			"fillStyle": "solid",
@@ -114657,7 +114616,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114749,8 +114708,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1193958517,
+			"version": 73,
+			"versionNonce": 1522573749,
 			"isDeleted": false,
 			"id": "2y1Aqz5WkhYT_-C98Fmc4",
 			"fillStyle": "solid",
@@ -114769,7 +114728,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114861,8 +114820,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1552912731,
+			"version": 71,
+			"versionNonce": 677068827,
 			"isDeleted": false,
 			"id": "Ym4XL53oq3Z_GmF8r5SdB",
 			"fillStyle": "solid",
@@ -114881,7 +114840,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114963,8 +114922,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 586221013,
+			"version": 65,
+			"versionNonce": 235709205,
 			"isDeleted": false,
 			"id": "sA2QL52hmfv_ZS5-zQqJw",
 			"fillStyle": "solid",
@@ -114983,7 +114942,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115035,8 +114994,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 82488827,
+			"version": 65,
+			"versionNonce": 550667451,
 			"isDeleted": false,
 			"id": "PjJIQh3BQt-eXfalbTl8U",
 			"fillStyle": "solid",
@@ -115055,7 +115014,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115107,8 +115066,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 383484725,
+			"version": 71,
+			"versionNonce": 1863415925,
 			"isDeleted": false,
 			"id": "6i60WOrhbYhLbozMYiZZI",
 			"fillStyle": "solid",
@@ -115127,7 +115086,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115204,8 +115163,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 2029598363,
+			"version": 64,
+			"versionNonce": 1597519195,
 			"isDeleted": false,
 			"id": "RjONPkT2pjlW6h0L48CvQ",
 			"fillStyle": "solid",
@@ -115224,7 +115183,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115271,8 +115230,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 391074965,
+			"version": 62,
+			"versionNonce": 2006229461,
 			"isDeleted": false,
 			"id": "5kVvKO84h1ogG8e5qtO5g",
 			"fillStyle": "solid",
@@ -115291,7 +115250,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115328,8 +115287,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1198369595,
+			"version": 73,
+			"versionNonce": 1927205371,
 			"isDeleted": false,
 			"id": "JHj1cd3ZoN7H7Hr8nVDmf",
 			"fillStyle": "solid",
@@ -115348,7 +115307,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115440,8 +115399,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1879177717,
+			"version": 65,
+			"versionNonce": 1286315829,
 			"isDeleted": false,
 			"id": "UPWz-FhfKrH6XIw-FD9Ao",
 			"fillStyle": "solid",
@@ -115460,7 +115419,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115512,8 +115471,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 78285787,
+			"version": 81,
+			"versionNonce": 1556667035,
 			"isDeleted": false,
 			"id": "O4TckM4CrINEgBGv83ilU",
 			"fillStyle": "solid",
@@ -115532,7 +115491,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -115659,8 +115618,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1509487445,
+			"version": 126,
+			"versionNonce": 1421602965,
 			"isDeleted": false,
 			"id": "dAY0OvtTsEPlx2T7EzFZ_",
 			"fillStyle": "solid",
@@ -115679,7 +115638,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405056,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116036,8 +115995,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 348280955,
+			"version": 73,
+			"versionNonce": 1504235323,
 			"isDeleted": false,
 			"id": "VWltBseTCmZ_xMhPVyCP0",
 			"fillStyle": "solid",
@@ -116056,7 +116015,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116143,8 +116102,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1367982261,
+			"version": 76,
+			"versionNonce": 226170357,
 			"isDeleted": false,
 			"id": "gXjWSCAkfX8P2aTO3kIpq",
 			"fillStyle": "solid",
@@ -116163,7 +116122,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116265,8 +116224,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 897028379,
+			"version": 84,
+			"versionNonce": 1809919963,
 			"isDeleted": false,
 			"id": "ompU6wRFnHkGul379Jgae",
 			"fillStyle": "solid",
@@ -116285,7 +116244,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116432,8 +116391,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 744088085,
+			"version": 74,
+			"versionNonce": 569282389,
 			"isDeleted": false,
 			"id": "zhCABXrrUaQB0WNtB9zwU",
 			"fillStyle": "solid",
@@ -116452,7 +116411,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116549,8 +116508,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1211938235,
+			"version": 63,
+			"versionNonce": 629439611,
 			"isDeleted": false,
 			"id": "Zhs09JoO0Ghz-AHp_f_Qp",
 			"fillStyle": "solid",
@@ -116569,7 +116528,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045707,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116611,8 +116570,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1868486517,
+			"version": 67,
+			"versionNonce": 1080810677,
 			"isDeleted": false,
 			"id": "jj6obuy9VXatdAv4paqd9",
 			"fillStyle": "solid",
@@ -116631,7 +116590,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116693,8 +116652,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1546929755,
+			"version": 94,
+			"versionNonce": 844444955,
 			"isDeleted": false,
 			"id": "rJzyIW3AwDk9squtcrBoY",
 			"fillStyle": "solid",
@@ -116713,7 +116672,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -116910,8 +116869,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1692278997,
+			"version": 75,
+			"versionNonce": 815300117,
 			"isDeleted": false,
 			"id": "8V2xt4CGThfJQtflF47sq",
 			"fillStyle": "solid",
@@ -116930,7 +116889,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117032,8 +116991,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 2016461563,
+			"version": 63,
+			"versionNonce": 566614459,
 			"isDeleted": false,
 			"id": "ktU12NKBE7cXDsQYu5eWr",
 			"fillStyle": "solid",
@@ -117052,7 +117011,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117094,8 +117053,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1919761973,
+			"version": 69,
+			"versionNonce": 694809461,
 			"isDeleted": false,
 			"id": "LRy2aeY8dnEzNO_4u1lgp",
 			"fillStyle": "solid",
@@ -117114,7 +117073,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117186,8 +117145,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 615820187,
+			"version": 72,
+			"versionNonce": 1895361115,
 			"isDeleted": false,
 			"id": "Z0_KE2SAvsXQqYMRcVShW",
 			"fillStyle": "solid",
@@ -117206,7 +117165,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117293,8 +117252,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 787591061,
+			"version": 76,
+			"versionNonce": 1730526421,
 			"isDeleted": false,
 			"id": "bw5AlxTjursPs4FmxdDwc",
 			"fillStyle": "solid",
@@ -117313,7 +117272,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117435,8 +117394,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 905084987,
+			"version": 90,
+			"versionNonce": 1421928187,
 			"isDeleted": false,
 			"id": "dzL6CMovuSqd1kkv6TxII",
 			"fillStyle": "solid",
@@ -117455,7 +117414,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117647,8 +117606,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 950072565,
+			"version": 61,
+			"versionNonce": 23157301,
 			"isDeleted": false,
 			"id": "gI_jUiCr5XjGymrdKhI6X",
 			"fillStyle": "solid",
@@ -117667,7 +117626,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117714,8 +117673,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1439482075,
+			"version": 60,
+			"versionNonce": 1134579611,
 			"isDeleted": false,
 			"id": "QBU63jPTagWAPiqFji0mc",
 			"fillStyle": "solid",
@@ -117734,7 +117693,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117776,8 +117735,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1258327637,
+			"version": 81,
+			"versionNonce": 16927637,
 			"isDeleted": false,
 			"id": "xwqocjVEYdszeSbbQiRsW",
 			"fillStyle": "solid",
@@ -117796,7 +117755,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -117943,8 +117902,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1305865595,
+			"version": 68,
+			"versionNonce": 1070179387,
 			"isDeleted": false,
 			"id": "1rA9w0q847Hi406ZnXPF1",
 			"fillStyle": "solid",
@@ -117963,7 +117922,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118045,8 +118004,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 350616501,
+			"version": 71,
+			"versionNonce": 910037237,
 			"isDeleted": false,
 			"id": "1vhVjx_L6iqlCLMUFALj1",
 			"fillStyle": "solid",
@@ -118065,7 +118024,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118157,8 +118116,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 290489883,
+			"version": 95,
+			"versionNonce": 1629447387,
 			"isDeleted": false,
 			"id": "_J0mXNUxmsb1aLgcNFjw0",
 			"fillStyle": "solid",
@@ -118177,7 +118136,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118394,8 +118353,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1316404501,
+			"version": 72,
+			"versionNonce": 1318726229,
 			"isDeleted": false,
 			"id": "lC6zgkh3_BsQauz_GlLpX",
 			"fillStyle": "solid",
@@ -118414,7 +118373,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118511,8 +118470,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 120523451,
+			"version": 97,
+			"versionNonce": 523506043,
 			"isDeleted": false,
 			"id": "wrjV7KbN3ICMhufBczCkS",
 			"fillStyle": "solid",
@@ -118531,7 +118490,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118758,8 +118717,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 254300789,
+			"version": 65,
+			"versionNonce": 720115637,
 			"isDeleted": false,
 			"id": "fMQXIzPXbYR7d-SPuka41",
 			"fillStyle": "solid",
@@ -118778,7 +118737,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405057,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118845,8 +118804,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 336853851,
+			"version": 63,
+			"versionNonce": 1531587099,
 			"isDeleted": false,
 			"id": "2ptGR49FajGxT0yIsr5Bp",
 			"fillStyle": "solid",
@@ -118865,7 +118824,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118922,8 +118881,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1673542613,
+			"version": 58,
+			"versionNonce": 1968789781,
 			"isDeleted": false,
 			"id": "EVDDlEhIpEhgeUvV8qccG",
 			"fillStyle": "solid",
@@ -118942,7 +118901,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -118974,8 +118933,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1683085307,
+			"version": 61,
+			"versionNonce": 710160059,
 			"isDeleted": false,
 			"id": "6e6UB3qHk1r0TpxRnXd5H",
 			"fillStyle": "solid",
@@ -118994,7 +118953,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045708,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -119041,8 +119000,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 609483061,
+			"version": 101,
+			"versionNonce": 2002218613,
 			"isDeleted": false,
 			"id": "nU_wn8yDKyvNJSmTwj43n",
 			"fillStyle": "solid",
@@ -119061,7 +119020,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -119243,8 +119202,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1978343579,
+			"version": 160,
+			"versionNonce": 1593089883,
 			"isDeleted": false,
 			"id": "pVEqGn0ET7RT9BG0m4YHt",
 			"fillStyle": "solid",
@@ -119263,7 +119222,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -119815,8 +119774,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 172558997,
+			"version": 117,
+			"versionNonce": 799791061,
 			"isDeleted": false,
 			"id": "imHEuSxkXmT361Ye2SfUD",
 			"fillStyle": "solid",
@@ -119835,7 +119794,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -120177,8 +120136,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1653757243,
+			"version": 71,
+			"versionNonce": 1400765435,
 			"isDeleted": false,
 			"id": "uM3ho7-hVukpwjGcnPZQZ",
 			"fillStyle": "solid",
@@ -120197,7 +120156,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -120309,8 +120268,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 106229749,
+			"version": 59,
+			"versionNonce": 678171957,
 			"isDeleted": false,
 			"id": "TYmFbNJLDcjy5-9Tx4jgf",
 			"fillStyle": "solid",
@@ -120329,7 +120288,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -120381,8 +120340,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1772746203,
+			"version": 58,
+			"versionNonce": 1945289883,
 			"isDeleted": false,
 			"id": "L0vmFcYDmaVNtJeCaQhLU",
 			"fillStyle": "solid",
@@ -120401,7 +120360,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -120448,8 +120407,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1451043157,
+			"version": 72,
+			"versionNonce": 217949845,
 			"isDeleted": false,
 			"id": "eY9DW2tFhxBLapZ5AeYaz",
 			"fillStyle": "solid",
@@ -120468,7 +120427,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -120580,8 +120539,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "line",
-			"version": 208,
-			"versionNonce": 977568379,
+			"version": 217,
+			"versionNonce": 134576443,
 			"isDeleted": false,
 			"id": "FvzPqQB7UpCouuj-zUGVH",
 			"fillStyle": "solid",
@@ -120600,7 +120559,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -120620,91 +120579,9 @@ Flytter med ^xiGjjnB0
 			]
 		},
 		{
-			"type": "line",
-			"version": 95,
-			"versionNonce": 1545025205,
-			"isDeleted": false,
-			"id": "-X5XZaOtg4tDhRsuWtqbb",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -370.1043452343755,
-			"y": 1322.6918647720167,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"width": 1501.6025015024047,
-			"height": 1398.799250676082,
-			"seed": 350658005,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626405058,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1501.6025015024047,
-					1398.799250676082
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 112,
-			"versionNonce": 2099542811,
-			"isDeleted": false,
-			"id": "zoPT2DqKBsNZM8y8TihNI",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1239.3574185877405,
-			"y": 1322.6918647720167,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"width": 1609.4617638221162,
-			"height": 1410.5963134765634,
-			"seed": 1045079931,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626405058,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1609.4617638221162,
-					1410.5963134765634
-				]
-			]
-		},
-		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 835229717,
+			"version": 176,
+			"versionNonce": 1444853,
 			"isDeleted": false,
 			"id": "CqBszzgHwBnWhzXAhJbu9",
 			"fillStyle": "solid",
@@ -120723,7 +120600,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -120748,8 +120625,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "arrow",
-			"version": 81,
-			"versionNonce": 515661755,
+			"version": 90,
+			"versionNonce": 1025022427,
 			"isDeleted": false,
 			"id": "Mx8Al5iL59A-tKH8OR-bt",
 			"fillStyle": "solid",
@@ -120768,7 +120645,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -120789,8 +120666,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 25611637,
+			"version": 248,
+			"versionNonce": 834323797,
 			"isDeleted": false,
 			"id": "WIefbKFKL2DjztJv5aSrB",
 			"fillStyle": "solid",
@@ -120809,7 +120686,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121111,8 +120988,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 1496232027,
+			"version": 198,
+			"versionNonce": 1883154043,
 			"isDeleted": false,
 			"id": "BmztttPegEvt4ZVCyix5b",
 			"fillStyle": "solid",
@@ -121131,7 +121008,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121183,8 +121060,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 446125781,
+			"version": 199,
+			"versionNonce": 893473461,
 			"isDeleted": false,
 			"id": "-_rQt63dFFjbxMfFccNM7",
 			"fillStyle": "solid",
@@ -121203,7 +121080,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121260,8 +121137,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 2119036155,
+			"version": 197,
+			"versionNonce": 943333147,
 			"isDeleted": false,
 			"id": "YIeIsxPCHLqnuXR9varK2",
 			"fillStyle": "solid",
@@ -121280,7 +121157,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121327,8 +121204,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 1200600117,
+			"version": 200,
+			"versionNonce": 391066645,
 			"isDeleted": false,
 			"id": "rnmFIKeqRwTT2F8nyUpqF",
 			"fillStyle": "solid",
@@ -121347,7 +121224,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121409,8 +121286,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 27039131,
+			"version": 199,
+			"versionNonce": 796754875,
 			"isDeleted": false,
 			"id": "U38o9Atdq_t8tFogNJGcJ",
 			"fillStyle": "solid",
@@ -121429,7 +121306,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405058,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121486,8 +121363,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 1683318165,
+			"version": 204,
+			"versionNonce": 869919093,
 			"isDeleted": false,
 			"id": "j0Blf9Q8Xpel07Yll4Rpv",
 			"fillStyle": "solid",
@@ -121506,7 +121383,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121588,8 +121465,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1112353339,
+			"version": 197,
+			"versionNonce": 2116768859,
 			"isDeleted": false,
 			"id": "kakqTWb3Wng5DDq1X5FZv",
 			"fillStyle": "solid",
@@ -121608,7 +121485,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121655,8 +121532,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 874375925,
+			"version": 204,
+			"versionNonce": 1277620949,
 			"isDeleted": false,
 			"id": "DoRmGSGuQG6vA-gUvVHWn",
 			"fillStyle": "solid",
@@ -121675,7 +121552,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121757,8 +121634,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 356657883,
+			"version": 197,
+			"versionNonce": 605425915,
 			"isDeleted": false,
 			"id": "WjbHp6Gidv7sOQD-Ji9i5",
 			"fillStyle": "solid",
@@ -121777,7 +121654,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121824,8 +121701,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 2003747925,
+			"version": 197,
+			"versionNonce": 1556860981,
 			"isDeleted": false,
 			"id": "HBD4VDCKuAOhyPF9YQS80",
 			"fillStyle": "solid",
@@ -121844,7 +121721,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045709,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -121891,8 +121768,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 252581755,
+			"version": 208,
+			"versionNonce": 46152091,
 			"isDeleted": false,
 			"id": "lq9JuEALMFYK0jyohRl_Z",
 			"fillStyle": "solid",
@@ -121911,7 +121788,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122013,8 +121890,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 1109225909,
+			"version": 199,
+			"versionNonce": 867041685,
 			"isDeleted": false,
 			"id": "Wcor4dnRmfxIqhtNJLufM",
 			"fillStyle": "solid",
@@ -122033,7 +121910,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122090,8 +121967,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 234057755,
+			"version": 218,
+			"versionNonce": 660360763,
 			"isDeleted": false,
 			"id": "TpP0ibdEASTRNFfFju4PU",
 			"fillStyle": "solid",
@@ -122110,7 +121987,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122262,8 +122139,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 290419477,
+			"version": 197,
+			"versionNonce": 1174603509,
 			"isDeleted": false,
 			"id": "ra414OjwtSaE252iY2ZVT",
 			"fillStyle": "solid",
@@ -122282,7 +122159,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122329,8 +122206,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 65320123,
+			"version": 197,
+			"versionNonce": 1422708443,
 			"isDeleted": false,
 			"id": "owYKIg87ResjCu5o-c_v9",
 			"fillStyle": "solid",
@@ -122349,7 +122226,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122396,8 +122273,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 561662069,
+			"version": 216,
+			"versionNonce": 1179672661,
 			"isDeleted": false,
 			"id": "pXx98-6zjx7haG_CfJu64",
 			"fillStyle": "solid",
@@ -122416,7 +122293,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122553,8 +122430,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 8676699,
+			"version": 209,
+			"versionNonce": 1302608763,
 			"isDeleted": false,
 			"id": "vbJovd4TlmgGuMwGXialX",
 			"fillStyle": "solid",
@@ -122573,7 +122450,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122680,8 +122557,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 73626069,
+			"version": 196,
+			"versionNonce": 2053868981,
 			"isDeleted": false,
 			"id": "wwoP2YCxttlCVN7RG1qrK",
 			"fillStyle": "solid",
@@ -122700,7 +122577,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122742,8 +122619,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 2066022907,
+			"version": 196,
+			"versionNonce": 1579488283,
 			"isDeleted": false,
 			"id": "NYE8P4osi2lcxhHtJNrPB",
 			"fillStyle": "solid",
@@ -122762,7 +122639,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122804,8 +122681,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1998614325,
+			"version": 208,
+			"versionNonce": 1366953749,
 			"isDeleted": false,
 			"id": "gJmqLg7vcoDSbX1mtoftR",
 			"fillStyle": "solid",
@@ -122824,7 +122701,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -122926,8 +122803,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1556679323,
+			"version": 218,
+			"versionNonce": 641849531,
 			"isDeleted": false,
 			"id": "4WGSMAtFcUOULu3rCHr6n",
 			"fillStyle": "solid",
@@ -122946,7 +122823,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123098,8 +122975,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 2014757013,
+			"version": 195,
+			"versionNonce": 972121205,
 			"isDeleted": false,
 			"id": "tHgUN7pbDnTmPOLw8mxfP",
 			"fillStyle": "solid",
@@ -123118,7 +122995,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123155,8 +123032,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1243807547,
+			"version": 195,
+			"versionNonce": 597494107,
 			"isDeleted": false,
 			"id": "Edi5zhXyeo7TFyly3N8IV",
 			"fillStyle": "solid",
@@ -123175,7 +123052,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123212,8 +123089,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 486270453,
+			"version": 217,
+			"versionNonce": 932646357,
 			"isDeleted": false,
 			"id": "ORnMnU477zSn3YoH7AN0S",
 			"fillStyle": "solid",
@@ -123232,7 +123109,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123379,8 +123256,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 192,
-			"versionNonce": 764764123,
+			"version": 201,
+			"versionNonce": 2072585723,
 			"isDeleted": false,
 			"id": "XLikJJYemomloWHeIsLa_",
 			"fillStyle": "solid",
@@ -123399,7 +123276,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123466,8 +123343,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 685072213,
+			"version": 212,
+			"versionNonce": 964725557,
 			"isDeleted": false,
 			"id": "u7-iaXFG2TNZJWvVCPenl",
 			"fillStyle": "solid",
@@ -123486,7 +123363,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123603,8 +123480,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 20098171,
+			"version": 224,
+			"versionNonce": 84455067,
 			"isDeleted": false,
 			"id": "YAHtAm03APGAcZSfaI5zc",
 			"fillStyle": "solid",
@@ -123623,7 +123500,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405059,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -123805,8 +123682,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1643687093,
+			"version": 197,
+			"versionNonce": 806575253,
 			"isDeleted": false,
 			"id": "UGvkEzRJ7hTKYzwxlzX-3",
 			"fillStyle": "solid",
@@ -123825,7 +123702,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124052,8 +123929,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1488807195,
+			"version": 162,
+			"versionNonce": 315499323,
 			"isDeleted": false,
 			"id": "FXCrAaVETcj-0FPJFvEk4",
 			"fillStyle": "solid",
@@ -124072,7 +123949,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124119,8 +123996,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 163,
-			"versionNonce": 671829525,
+			"version": 172,
+			"versionNonce": 1661272565,
 			"isDeleted": false,
 			"id": "fqhh-rkzf0iTnxNxnKQPc",
 			"fillStyle": "solid",
@@ -124139,7 +124016,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124241,8 +124118,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 732432827,
+			"version": 169,
+			"versionNonce": 2101085147,
 			"isDeleted": false,
 			"id": "pS74ul8Y5OnhgVoaMhJS6",
 			"fillStyle": "solid",
@@ -124261,7 +124138,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124348,8 +124225,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 1241695093,
+			"version": 161,
+			"versionNonce": 123403093,
 			"isDeleted": false,
 			"id": "mUr6nSv6oVAt_EQ6CC-MK",
 			"fillStyle": "solid",
@@ -124368,7 +124245,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124415,8 +124292,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1595218523,
+			"version": 159,
+			"versionNonce": 1818546299,
 			"isDeleted": false,
 			"id": "itiCKVf3lqhiHQvr7OIv3",
 			"fillStyle": "solid",
@@ -124435,7 +124312,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124472,8 +124349,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 472157397,
+			"version": 183,
+			"versionNonce": 359319733,
 			"isDeleted": false,
 			"id": "RoJeNpU7dVGq6C4fwASoX",
 			"fillStyle": "solid",
@@ -124492,7 +124369,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124629,8 +124506,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 265754363,
+			"version": 161,
+			"versionNonce": 1644890395,
 			"isDeleted": false,
 			"id": "wGCdU54ycei-z29gOtFCD",
 			"fillStyle": "solid",
@@ -124649,7 +124526,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124691,8 +124568,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1309026869,
+			"version": 168,
+			"versionNonce": 1591339541,
 			"isDeleted": false,
 			"id": "rAVo09cKRZkUMTXteyHDS",
 			"fillStyle": "solid",
@@ -124711,7 +124588,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124793,8 +124670,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 477134747,
+			"version": 166,
+			"versionNonce": 60894651,
 			"isDeleted": false,
 			"id": "8XjOJOLElv2kFXRNEXdSo",
 			"fillStyle": "solid",
@@ -124813,7 +124690,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124890,8 +124767,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 9247637,
+			"version": 157,
+			"versionNonce": 1688067957,
 			"isDeleted": false,
 			"id": "FQhleo8nrWv9JXH1v2fkX",
 			"fillStyle": "solid",
@@ -124910,7 +124787,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -124942,8 +124819,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 1863570491,
+			"version": 167,
+			"versionNonce": 608812635,
 			"isDeleted": false,
 			"id": "Ye8yRtgjkqo6S-iCtxVhM",
 			"fillStyle": "solid",
@@ -124962,7 +124839,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125044,8 +124921,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 468639989,
+			"version": 164,
+			"versionNonce": 1828464853,
 			"isDeleted": false,
 			"id": "e1_IDxWWIsGNHhyGY49su",
 			"fillStyle": "solid",
@@ -125064,7 +124941,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125131,8 +125008,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 128160987,
+			"version": 162,
+			"versionNonce": 248986363,
 			"isDeleted": false,
 			"id": "pxGeVtleK31rLtLibk50Q",
 			"fillStyle": "solid",
@@ -125151,7 +125028,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125208,8 +125085,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1706097237,
+			"version": 168,
+			"versionNonce": 1502234165,
 			"isDeleted": false,
 			"id": "jSJlyawWKee9UOguthEQ7",
 			"fillStyle": "solid",
@@ -125228,7 +125105,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125310,8 +125187,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 1169310075,
+			"version": 179,
+			"versionNonce": 265036699,
 			"isDeleted": false,
 			"id": "phVF2LFYjBJx40VgpF5sg",
 			"fillStyle": "solid",
@@ -125330,7 +125207,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125472,8 +125349,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1453909941,
+			"version": 168,
+			"versionNonce": 1026406293,
 			"isDeleted": false,
 			"id": "nMt-zYslfySlChfvmT6wi",
 			"fillStyle": "solid",
@@ -125492,7 +125369,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125579,8 +125456,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1921145371,
+			"version": 160,
+			"versionNonce": 1062926395,
 			"isDeleted": false,
 			"id": "GdcK3f__TQGMAwB_TvDV2",
 			"fillStyle": "solid",
@@ -125599,7 +125476,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125646,8 +125523,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 821831957,
+			"version": 158,
+			"versionNonce": 840695029,
 			"isDeleted": false,
 			"id": "XgcWRT65A_rGtOdxrQGrt",
 			"fillStyle": "solid",
@@ -125666,7 +125543,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125703,8 +125580,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 184966843,
+			"version": 160,
+			"versionNonce": 191248603,
 			"isDeleted": false,
 			"id": "meBBvn2l3j_Nv4UHPBSKu",
 			"fillStyle": "solid",
@@ -125723,7 +125600,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125770,8 +125647,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1444953717,
+			"version": 160,
+			"versionNonce": 1876596309,
 			"isDeleted": false,
 			"id": "cJJhs8Igsr11jjBgMY7Du",
 			"fillStyle": "solid",
@@ -125790,7 +125667,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125837,8 +125714,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1239469915,
+			"version": 168,
+			"versionNonce": 25191803,
 			"isDeleted": false,
 			"id": "Cnl3qh4Ps5xrvzywe0L9k",
 			"fillStyle": "solid",
@@ -125857,7 +125734,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405060,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125939,8 +125816,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1557833685,
+			"version": 182,
+			"versionNonce": 557777845,
 			"isDeleted": false,
 			"id": "DdGzvwbFD_vPsUlUGEj_X",
 			"fillStyle": "solid",
@@ -125959,7 +125836,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126116,8 +125993,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1902390267,
+			"version": 169,
+			"versionNonce": 1491861019,
 			"isDeleted": false,
 			"id": "8EsWWjQVN8SScmQs3wAqY",
 			"fillStyle": "solid",
@@ -126136,7 +126013,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045711,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126228,8 +126105,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1732306229,
+			"version": 169,
+			"versionNonce": 2054079765,
 			"isDeleted": false,
 			"id": "H12SP4P90dUajAJdyDMh-",
 			"fillStyle": "solid",
@@ -126248,7 +126125,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126340,8 +126217,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 1435694235,
+			"version": 158,
+			"versionNonce": 1016824507,
 			"isDeleted": false,
 			"id": "7rx8QbyzjvdEUv_ddwdyg",
 			"fillStyle": "solid",
@@ -126360,7 +126237,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126397,8 +126274,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 951613077,
+			"version": 158,
+			"versionNonce": 249518709,
 			"isDeleted": false,
 			"id": "oFX-DK9jvVC8SBmWlPLsO",
 			"fillStyle": "solid",
@@ -126417,7 +126294,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126454,8 +126331,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 639609147,
+			"version": 173,
+			"versionNonce": 1429304155,
 			"isDeleted": false,
 			"id": "VUvnohudnXk6sXeyuo4-5",
 			"fillStyle": "solid",
@@ -126474,7 +126351,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126586,8 +126463,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 200727541,
+			"version": 167,
+			"versionNonce": 1733706709,
 			"isDeleted": false,
 			"id": "UTzah1_Y8G4TuC28HZjBu",
 			"fillStyle": "solid",
@@ -126606,7 +126483,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126688,8 +126565,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 2020395483,
+			"version": 159,
+			"versionNonce": 318787579,
 			"isDeleted": false,
 			"id": "YJAeirANx3fghXyO9e9Rl",
 			"fillStyle": "solid",
@@ -126708,7 +126585,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126750,8 +126627,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 687969621,
+			"version": 160,
+			"versionNonce": 1474887989,
 			"isDeleted": false,
 			"id": "Xue0TsAWUzEt-lbuh98mN",
 			"fillStyle": "solid",
@@ -126770,7 +126647,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126817,8 +126694,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 294442619,
+			"version": 165,
+			"versionNonce": 940218523,
 			"isDeleted": false,
 			"id": "2655HWmxQtNcrtcspr7jx",
 			"fillStyle": "solid",
@@ -126837,7 +126714,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126909,8 +126786,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 992879285,
+			"version": 157,
+			"versionNonce": 368906901,
 			"isDeleted": false,
 			"id": "OaVFKkUHfTpE-LVkYcZae",
 			"fillStyle": "solid",
@@ -126929,7 +126806,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126961,8 +126838,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 1883393819,
+			"version": 158,
+			"versionNonce": 570608955,
 			"isDeleted": false,
 			"id": "DWN59MUNgYmv3yezuzIP2",
 			"fillStyle": "solid",
@@ -126981,7 +126858,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127018,8 +126895,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1730282517,
+			"version": 164,
+			"versionNonce": 239597557,
 			"isDeleted": false,
 			"id": "hwxKLf5bW5LCxOjCmcgHs",
 			"fillStyle": "solid",
@@ -127038,7 +126915,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127105,8 +126982,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 385856443,
+			"version": 179,
+			"versionNonce": 1414229467,
 			"isDeleted": false,
 			"id": "RJTym79u-wF5hN-_YVaog",
 			"fillStyle": "solid",
@@ -127125,7 +127002,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127192,8 +127069,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 550680949,
+			"version": 179,
+			"versionNonce": 2060398933,
 			"isDeleted": false,
 			"id": "-nQnK5Zt-ew8WV_xoAISg",
 			"fillStyle": "solid",
@@ -127212,7 +127089,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127279,8 +127156,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 367494235,
+			"version": 184,
+			"versionNonce": 1106705019,
 			"isDeleted": false,
 			"id": "4PSX9DL1hYMRYuoIi4-hu",
 			"fillStyle": "solid",
@@ -127299,7 +127176,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127391,8 +127268,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 1099285205,
+			"version": 173,
+			"versionNonce": 954744501,
 			"isDeleted": false,
 			"id": "MZCK46VkTiV33qKvhJ8i-",
 			"fillStyle": "solid",
@@ -127411,7 +127288,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127468,8 +127345,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 163,
-			"versionNonce": 1422672123,
+			"version": 172,
+			"versionNonce": 1472721691,
 			"isDeleted": false,
 			"id": "mr1nnbkIIfE6UqCZ984h8",
 			"fillStyle": "solid",
@@ -127488,7 +127365,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127540,8 +127417,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 1573953589,
+			"version": 181,
+			"versionNonce": 1597546517,
 			"isDeleted": false,
 			"id": "eMwgiNeGnRKn6u2GbwUmd",
 			"fillStyle": "solid",
@@ -127560,7 +127437,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127657,8 +127534,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 489712027,
+			"version": 168,
+			"versionNonce": 1177606075,
 			"isDeleted": false,
 			"id": "xUbHk5nk-TBuv2T3KnheE",
 			"fillStyle": "solid",
@@ -127677,7 +127554,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127784,8 +127661,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1536741781,
+			"version": 163,
+			"versionNonce": 330683765,
 			"isDeleted": false,
 			"id": "3ebFweDDSw-m2HpSaDDAv",
 			"fillStyle": "solid",
@@ -127804,7 +127681,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127886,8 +127763,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1682341435,
+			"version": 159,
+			"versionNonce": 190064731,
 			"isDeleted": false,
 			"id": "w74RsxijLTbt_btUcmrYd",
 			"fillStyle": "solid",
@@ -127906,7 +127783,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -127968,8 +127845,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 1209259765,
+			"version": 165,
+			"versionNonce": 564485845,
 			"isDeleted": false,
 			"id": "en6z0wUjchBAVYmF16NIz",
 			"fillStyle": "solid",
@@ -127988,7 +127865,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405061,
+			"updated": 1668678045712,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128080,8 +127957,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1425080027,
+			"version": 154,
+			"versionNonce": 1023698171,
 			"isDeleted": false,
 			"id": "iA6tLISLgytXMCUkP5SQt",
 			"fillStyle": "solid",
@@ -128100,7 +127977,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128137,8 +128014,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1841770581,
+			"version": 163,
+			"versionNonce": 1335671861,
 			"isDeleted": false,
 			"id": "iQjVOuENiK9wS-YauZV36",
 			"fillStyle": "solid",
@@ -128157,7 +128034,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128234,8 +128111,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 432171899,
+			"version": 155,
+			"versionNonce": 314838427,
 			"isDeleted": false,
 			"id": "FiH_AHOUlSKMEB0_wd1Xv",
 			"fillStyle": "solid",
@@ -128254,7 +128131,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128296,8 +128173,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 713579957,
+			"version": 154,
+			"versionNonce": 1971416469,
 			"isDeleted": false,
 			"id": "p3TADIKpiR14z3lJf2fw7",
 			"fillStyle": "solid",
@@ -128316,7 +128193,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128353,8 +128230,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 1727874075,
+			"version": 171,
+			"versionNonce": 801481275,
 			"isDeleted": false,
 			"id": "8fvidLvAq7Vgp0yaxMa6U",
 			"fillStyle": "solid",
@@ -128373,7 +128250,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128495,8 +128372,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 92069653,
+			"version": 159,
+			"versionNonce": 1384706805,
 			"isDeleted": false,
 			"id": "eIdGl6-hZZJe7h2nQdEbG",
 			"fillStyle": "solid",
@@ -128515,7 +128392,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128577,8 +128454,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1150552251,
+			"version": 166,
+			"versionNonce": 753640155,
 			"isDeleted": false,
 			"id": "9yQfciwaPiVbMNT1CSQu3",
 			"fillStyle": "solid",
@@ -128597,7 +128474,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128689,8 +128566,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 85603445,
+			"version": 168,
+			"versionNonce": 590924885,
 			"isDeleted": false,
 			"id": "o_es3PL1l91J1TllqHR1U",
 			"fillStyle": "solid",
@@ -128709,7 +128586,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128816,8 +128693,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 405354843,
+			"version": 164,
+			"versionNonce": 1657311099,
 			"isDeleted": false,
 			"id": "YjfoBtFPl2F8YwhRQnXqk",
 			"fillStyle": "solid",
@@ -128836,7 +128713,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128923,8 +128800,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1160109525,
+			"version": 154,
+			"versionNonce": 2003204533,
 			"isDeleted": false,
 			"id": "qDOyUlQmEEJfHSZlAMGYk",
 			"fillStyle": "solid",
@@ -128943,7 +128820,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -128980,8 +128857,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 1863276027,
+			"version": 155,
+			"versionNonce": 1939793947,
 			"isDeleted": false,
 			"id": "3twA9TRExPV_5LGkz1Uai",
 			"fillStyle": "solid",
@@ -129000,7 +128877,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129042,8 +128919,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1286953781,
+			"version": 162,
+			"versionNonce": 1211595541,
 			"isDeleted": false,
 			"id": "Wg1DmzTLbvJHtTx8BhIxK",
 			"fillStyle": "solid",
@@ -129062,7 +128939,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129139,8 +129016,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 138993307,
+			"version": 185,
+			"versionNonce": 358689979,
 			"isDeleted": false,
 			"id": "-cgX90H8Xyeg92F0JE_a_",
 			"fillStyle": "solid",
@@ -129159,7 +129036,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129351,8 +129228,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 607005845,
+			"version": 154,
+			"versionNonce": 1310806133,
 			"isDeleted": false,
 			"id": "joeOe4NJGr6d-WvkJM47R",
 			"fillStyle": "solid",
@@ -129371,7 +129248,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129408,8 +129285,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 512250683,
+			"version": 154,
+			"versionNonce": 464641371,
 			"isDeleted": false,
 			"id": "VyWNRibgLb7eU5_1oXrdm",
 			"fillStyle": "solid",
@@ -129428,7 +129305,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129465,8 +129342,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 725996021,
+			"version": 176,
+			"versionNonce": 384399829,
 			"isDeleted": false,
 			"id": "kShQHagAZ3Wo2ra7h7mdA",
 			"fillStyle": "solid",
@@ -129485,7 +129362,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129632,8 +129509,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1915761627,
+			"version": 163,
+			"versionNonce": 1105426939,
 			"isDeleted": false,
 			"id": "4wXBI5bnL_3ROBtovZY1d",
 			"fillStyle": "solid",
@@ -129652,7 +129529,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129734,8 +129611,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 788646741,
+			"version": 187,
+			"versionNonce": 1537570613,
 			"isDeleted": false,
 			"id": "qyctRytbpGx2Z6pe6Ud-i",
 			"fillStyle": "solid",
@@ -129754,7 +129631,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -129956,8 +129833,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 324206715,
+			"version": 160,
+			"versionNonce": 888701595,
 			"isDeleted": false,
 			"id": "mVImfma5oHoKI2W-vXzFY",
 			"fillStyle": "solid",
@@ -129976,7 +129853,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130038,8 +129915,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1068996789,
+			"version": 157,
+			"versionNonce": 381339797,
 			"isDeleted": false,
 			"id": "zscNQoPJuM6gqPgGvFEcq",
 			"fillStyle": "solid",
@@ -130058,7 +129935,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130110,8 +129987,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 1806907675,
+			"version": 155,
+			"versionNonce": 1570993979,
 			"isDeleted": false,
 			"id": "i-VddtDyNmdUBEg757kiq",
 			"fillStyle": "solid",
@@ -130130,7 +130007,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405062,
+			"updated": 1668678045713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130172,8 +130049,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1192016405,
+			"version": 164,
+			"versionNonce": 1507782133,
 			"isDeleted": false,
 			"id": "7A9CpZ_psuHIZAlI0qUm9",
 			"fillStyle": "solid",
@@ -130192,7 +130069,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130274,8 +130151,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "rectangle",
-			"version": 101,
-			"versionNonce": 147021243,
+			"version": 110,
+			"versionNonce": 1783027675,
 			"isDeleted": false,
 			"id": "gYTkvbkW67VuAurhAppJl",
 			"fillStyle": "solid",
@@ -130294,14 +130171,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1576447861,
+			"version": 65,
+			"versionNonce": 1679255381,
 			"isDeleted": false,
 			"id": "gI3wInNE3w1jbGY1nr8mt",
 			"fillStyle": "solid",
@@ -130320,7 +130197,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130452,8 +130329,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 631631451,
+			"version": 72,
+			"versionNonce": 418718843,
 			"isDeleted": false,
 			"id": "qLJqhO9H6nmzb79wrp4oG",
 			"fillStyle": "solid",
@@ -130472,7 +130349,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130639,8 +130516,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1656420565,
+			"version": 49,
+			"versionNonce": 2008659125,
 			"isDeleted": false,
 			"id": "IUtOf4iTTl1eTb2j0iH87",
 			"fillStyle": "solid",
@@ -130659,7 +130536,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130711,8 +130588,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1965910779,
+			"version": 46,
+			"versionNonce": 1097915675,
 			"isDeleted": false,
 			"id": "EHuWsv7_FWf0OjJKHMC1s",
 			"fillStyle": "solid",
@@ -130731,7 +130608,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130768,8 +130645,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1324291637,
+			"version": 46,
+			"versionNonce": 1886082581,
 			"isDeleted": false,
 			"id": "eciab6_3ZF8c_4cLSsK73",
 			"fillStyle": "solid",
@@ -130788,7 +130665,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130825,8 +130702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 735859611,
+			"version": 46,
+			"versionNonce": 523010491,
 			"isDeleted": false,
 			"id": "ukHh1ib_sM4qkmPqk87kl",
 			"fillStyle": "solid",
@@ -130845,7 +130722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -130882,8 +130759,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1299744661,
+			"version": 59,
+			"versionNonce": 421645173,
 			"isDeleted": false,
 			"id": "xWBOSlMuXyCchYfq0_Gnv",
 			"fillStyle": "solid",
@@ -130902,7 +130779,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131004,8 +130881,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1239754811,
+			"version": 51,
+			"versionNonce": 1531613787,
 			"isDeleted": false,
 			"id": "I3skN5ns4xWD4yRVeuH2l",
 			"fillStyle": "solid",
@@ -131024,7 +130901,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131086,8 +130963,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 277662965,
+			"version": 47,
+			"versionNonce": 1109562581,
 			"isDeleted": false,
 			"id": "Y_pKIkk5d5nyLFAAK5CiN",
 			"fillStyle": "solid",
@@ -131106,7 +130983,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131148,8 +131025,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 623536347,
+			"version": 45,
+			"versionNonce": 1453166331,
 			"isDeleted": false,
 			"id": "-u5c3vpe-l5lYZ1fxyRZg",
 			"fillStyle": "solid",
@@ -131168,7 +131045,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131195,8 +131072,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1739679317,
+			"version": 55,
+			"versionNonce": 386085429,
 			"isDeleted": false,
 			"id": "Ls4NJVLYJLLfGd3eXtrw_",
 			"fillStyle": "solid",
@@ -131215,7 +131092,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131297,8 +131174,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 859739515,
+			"version": 85,
+			"versionNonce": 866645915,
 			"isDeleted": false,
 			"id": "BruFODZgryntrqUhlKdJ1",
 			"fillStyle": "solid",
@@ -131317,7 +131194,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131549,8 +131426,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 364630965,
+			"version": 98,
+			"versionNonce": 883499925,
 			"isDeleted": false,
 			"id": "H1lul37jZh425fvOR3BTh",
 			"fillStyle": "solid",
@@ -131569,7 +131446,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131866,8 +131743,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 325332507,
+			"version": 54,
+			"versionNonce": 547114043,
 			"isDeleted": false,
 			"id": "tyoZ5cWlGUXafMmSSfQGu",
 			"fillStyle": "solid",
@@ -131886,7 +131763,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131968,8 +131845,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1725011221,
+			"version": 49,
+			"versionNonce": 2135550197,
 			"isDeleted": false,
 			"id": "ZzgSPgsjRxiDTvUIwCL9b",
 			"fillStyle": "solid",
@@ -131988,7 +131865,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132045,8 +131922,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1485681339,
+			"version": 64,
+			"versionNonce": 1633488091,
 			"isDeleted": false,
 			"id": "E-K0Tg560C8uSyM5IJgd-",
 			"fillStyle": "solid",
@@ -132065,7 +131942,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132192,8 +132069,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 107489909,
+			"version": 48,
+			"versionNonce": 946537045,
 			"isDeleted": false,
 			"id": "keYTIcZa691czJmWF11BG",
 			"fillStyle": "solid",
@@ -132212,7 +132089,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132264,8 +132141,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 324903771,
+			"version": 57,
+			"versionNonce": 427604347,
 			"isDeleted": false,
 			"id": "PBvSezaquwrpdFB8lFJnA",
 			"fillStyle": "solid",
@@ -132284,7 +132161,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132381,8 +132258,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 356848597,
+			"version": 54,
+			"versionNonce": 1424093109,
 			"isDeleted": false,
 			"id": "mL3VpPmplL_ZtV3NvlOJ8",
 			"fillStyle": "solid",
@@ -132401,7 +132278,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045714,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132483,8 +132360,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 472285179,
+			"version": 53,
+			"versionNonce": 1446892059,
 			"isDeleted": false,
 			"id": "Klp4nw2-VZlxGT6TRRn6y",
 			"fillStyle": "solid",
@@ -132503,7 +132380,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405063,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132580,8 +132457,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 2138951989,
+			"version": 66,
+			"versionNonce": 315896085,
 			"isDeleted": false,
 			"id": "E417ahFkujFejCsRmZqnF",
 			"fillStyle": "solid",
@@ -132600,7 +132477,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132737,8 +132614,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 485148827,
+			"version": 61,
+			"versionNonce": 1486018235,
 			"isDeleted": false,
 			"id": "AVs58zh9p9GfFzj3gcrqE",
 			"fillStyle": "solid",
@@ -132757,7 +132634,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132874,8 +132751,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 309846677,
+			"version": 58,
+			"versionNonce": 1337411189,
 			"isDeleted": false,
 			"id": "Fiy5svYHKsKMNEZKLGtFD",
 			"fillStyle": "solid",
@@ -132894,7 +132771,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -132996,8 +132873,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1532820795,
+			"version": 61,
+			"versionNonce": 522078043,
 			"isDeleted": false,
 			"id": "RFYp94S4Xm7AdANb75MXM",
 			"fillStyle": "solid",
@@ -133016,7 +132893,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133133,8 +133010,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1390987253,
+			"version": 71,
+			"versionNonce": 508604373,
 			"isDeleted": false,
 			"id": "mD5HRZjkrcBM0Uu51Yg7W",
 			"fillStyle": "solid",
@@ -133153,7 +133030,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133320,8 +133197,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1121951195,
+			"version": 59,
+			"versionNonce": 808625147,
 			"isDeleted": false,
 			"id": "dCFbyFRuNabkc9o8iGTDM",
 			"fillStyle": "solid",
@@ -133340,7 +133217,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133447,8 +133324,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 316014933,
+			"version": 52,
+			"versionNonce": 481684789,
 			"isDeleted": false,
 			"id": "OiOuBLdCdymOqVhsOJnJd",
 			"fillStyle": "solid",
@@ -133467,7 +133344,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133539,8 +133416,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 780479099,
+			"version": 57,
+			"versionNonce": 600992923,
 			"isDeleted": false,
 			"id": "J_nH6NwVe6nw4nfIePekj",
 			"fillStyle": "solid",
@@ -133559,7 +133436,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133651,8 +133528,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1200950965,
+			"version": 58,
+			"versionNonce": 172785301,
 			"isDeleted": false,
 			"id": "peagYEfdYfRC52HeykKn_",
 			"fillStyle": "solid",
@@ -133671,7 +133548,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133773,8 +133650,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1930437403,
+			"version": 55,
+			"versionNonce": 1840259387,
 			"isDeleted": false,
 			"id": "lPgVAOez82Xl_-PZxiAuP",
 			"fillStyle": "solid",
@@ -133793,7 +133670,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133880,8 +133757,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 533426197,
+			"version": 48,
+			"versionNonce": 499770357,
 			"isDeleted": false,
 			"id": "WMzAcU7qq5r7_lbEb_OIo",
 			"fillStyle": "solid",
@@ -133900,7 +133777,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -133952,8 +133829,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 687015867,
+			"version": 44,
+			"versionNonce": 1731084763,
 			"isDeleted": false,
 			"id": "AQZJo91V1Lud4-uc7gwkX",
 			"fillStyle": "solid",
@@ -133972,7 +133849,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134004,8 +133881,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1500423541,
+			"version": 43,
+			"versionNonce": 456367445,
 			"isDeleted": false,
 			"id": "gxNGC4KD2ycuYE3-RO5F_",
 			"fillStyle": "solid",
@@ -134024,7 +133901,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134051,8 +133928,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 911235163,
+			"version": 58,
+			"versionNonce": 425676411,
 			"isDeleted": false,
 			"id": "IzkbuFnI0WyrU030RvNPz",
 			"fillStyle": "solid",
@@ -134071,7 +133948,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134173,8 +134050,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1472474837,
+			"version": 54,
+			"versionNonce": 702491317,
 			"isDeleted": false,
 			"id": "JnvmtAaLfMDbSsPnavYnb",
 			"fillStyle": "solid",
@@ -134193,7 +134070,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134275,8 +134152,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 419075323,
+			"version": 44,
+			"versionNonce": 1191560987,
 			"isDeleted": false,
 			"id": "PCA4HnSRPDx3omj4ZUYEA",
 			"fillStyle": "solid",
@@ -134295,7 +134172,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134322,8 +134199,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 2036436021,
+			"version": 44,
+			"versionNonce": 1785859093,
 			"isDeleted": false,
 			"id": "LeO9ZO2rCOtBYKNKxcs09",
 			"fillStyle": "solid",
@@ -134342,7 +134219,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134369,8 +134246,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1886666139,
+			"version": 49,
+			"versionNonce": 915680187,
 			"isDeleted": false,
 			"id": "WXUpYZZ_mYVfE0TsbK5I2",
 			"fillStyle": "solid",
@@ -134389,7 +134266,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134446,8 +134323,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 774651285,
+			"version": 49,
+			"versionNonce": 1289863541,
 			"isDeleted": false,
 			"id": "9WFV3Qw74R8TbE4NVQ8oG",
 			"fillStyle": "solid",
@@ -134466,7 +134343,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134523,8 +134400,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1206899259,
+			"version": 64,
+			"versionNonce": 1009581147,
 			"isDeleted": false,
 			"id": "MPgkcqWHuDMeS_g6RKGbZ",
 			"fillStyle": "solid",
@@ -134543,7 +134420,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045715,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134675,8 +134552,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1297728245,
+			"version": 55,
+			"versionNonce": 645122773,
 			"isDeleted": false,
 			"id": "KLDnUKz67b5-i8MXG1XRC",
 			"fillStyle": "solid",
@@ -134695,7 +134572,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134782,8 +134659,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 542102235,
+			"version": 54,
+			"versionNonce": 60995835,
 			"isDeleted": false,
 			"id": "_jnzE1l7UI3TTRdPm8VjC",
 			"fillStyle": "solid",
@@ -134802,7 +134679,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134884,8 +134761,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 728734805,
+			"version": 73,
+			"versionNonce": 129869877,
 			"isDeleted": false,
 			"id": "aGAagJJEEho3lHN71qBoX",
 			"fillStyle": "solid",
@@ -134904,7 +134781,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405064,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135086,8 +134963,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 975617915,
+			"version": 44,
+			"versionNonce": 444064155,
 			"isDeleted": false,
 			"id": "gkmxyIkB32YWMJr7g3V8s",
 			"fillStyle": "solid",
@@ -135106,7 +134983,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135143,8 +135020,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1883457973,
+			"version": 44,
+			"versionNonce": 1386535317,
 			"isDeleted": false,
 			"id": "RcAKFEI0JVPZqImWQtBpI",
 			"fillStyle": "solid",
@@ -135163,7 +135040,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135200,8 +135077,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 532092955,
+			"version": 64,
+			"versionNonce": 970913339,
 			"isDeleted": false,
 			"id": "5uUIz5vCyBOsuVCj5yCnn",
 			"fillStyle": "solid",
@@ -135220,7 +135097,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135357,8 +135234,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 754600725,
+			"version": 53,
+			"versionNonce": 274652917,
 			"isDeleted": false,
 			"id": "WhaS9h5RxmqS8pHfP2O4s",
 			"fillStyle": "solid",
@@ -135377,7 +135254,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135459,8 +135336,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1861442747,
+			"version": 44,
+			"versionNonce": 1354397403,
 			"isDeleted": false,
 			"id": "KvUEgcj32ea1KjnDBuNAS",
 			"fillStyle": "solid",
@@ -135479,7 +135356,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135516,8 +135393,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 839524469,
+			"version": 47,
+			"versionNonce": 124860501,
 			"isDeleted": false,
 			"id": "J7m694kgh1Vz16gEeJi8j",
 			"fillStyle": "solid",
@@ -135536,7 +135413,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135588,8 +135465,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1669205339,
+			"version": 47,
+			"versionNonce": 1302127483,
 			"isDeleted": false,
 			"id": "fq4m5VnVI2iLSN6D-6ff-",
 			"fillStyle": "solid",
@@ -135608,7 +135485,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135660,8 +135537,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 624445909,
+			"version": 54,
+			"versionNonce": 296838581,
 			"isDeleted": false,
 			"id": "4xh6PbX5yQRWQf0N4eFB1",
 			"fillStyle": "solid",
@@ -135680,7 +135557,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135767,8 +135644,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 547990011,
+			"version": 50,
+			"versionNonce": 684243995,
 			"isDeleted": false,
 			"id": "JLf1pcyEkbOWoSd0x4ZiK",
 			"fillStyle": "solid",
@@ -135787,7 +135664,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135854,8 +135731,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1469728565,
+			"version": 45,
+			"versionNonce": 843376405,
 			"isDeleted": false,
 			"id": "BkJswBiuhnDqpk-jfwxIe",
 			"fillStyle": "solid",
@@ -135874,7 +135751,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135916,8 +135793,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 997765787,
+			"version": 47,
+			"versionNonce": 774930619,
 			"isDeleted": false,
 			"id": "pu79Jo10nDGVY0DqJFgGX",
 			"fillStyle": "solid",
@@ -135936,7 +135813,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -135988,8 +135865,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1536530581,
+			"version": 47,
+			"versionNonce": 1805728885,
 			"isDeleted": false,
 			"id": "zsML5UIshMkUqGCEy4CTX",
 			"fillStyle": "solid",
@@ -136008,7 +135885,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136060,8 +135937,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 77440827,
+			"version": 53,
+			"versionNonce": 125219163,
 			"isDeleted": false,
 			"id": "n6pZvrZPXe4aNepTyv4Rn",
 			"fillStyle": "solid",
@@ -136080,7 +135957,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136162,8 +136039,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1524612597,
+			"version": 48,
+			"versionNonce": 1435231701,
 			"isDeleted": false,
 			"id": "1E7-URGac8bfRNnLcIp9H",
 			"fillStyle": "solid",
@@ -136182,7 +136059,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136239,8 +136116,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 310052827,
+			"version": 49,
+			"versionNonce": 99470843,
 			"isDeleted": false,
 			"id": "LqtmV8cUy8F_4KZL9KFsS",
 			"fillStyle": "solid",
@@ -136259,7 +136136,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136321,8 +136198,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 746469205,
+			"version": 50,
+			"versionNonce": 1931109173,
 			"isDeleted": false,
 			"id": "AkSDCjURxx2IwCETZWIV9",
 			"fillStyle": "solid",
@@ -136341,7 +136218,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136408,8 +136285,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 186864763,
+			"version": 46,
+			"versionNonce": 748181147,
 			"isDeleted": false,
 			"id": "MI6bXrFoR40kbuiaByqb3",
 			"fillStyle": "solid",
@@ -136428,7 +136305,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045716,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136475,8 +136352,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 717653173,
+			"version": 44,
+			"versionNonce": 1219638421,
 			"isDeleted": false,
 			"id": "HT7WMccJx6sGMRlHigmh_",
 			"fillStyle": "solid",
@@ -136495,7 +136372,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136532,8 +136409,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 777587995,
+			"version": 54,
+			"versionNonce": 2049493819,
 			"isDeleted": false,
 			"id": "lsCJFe5hv3DIw3Sol8j_e",
 			"fillStyle": "solid",
@@ -136552,7 +136429,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136639,8 +136516,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1230906901,
+			"version": 44,
+			"versionNonce": 839440885,
 			"isDeleted": false,
 			"id": "F8Z2_wehhOU-h-5jkZZrj",
 			"fillStyle": "solid",
@@ -136659,7 +136536,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136696,8 +136573,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 529445307,
+			"version": 49,
+			"versionNonce": 1929489371,
 			"isDeleted": false,
 			"id": "PWpigeHM3CfXvbO0B-r2c",
 			"fillStyle": "solid",
@@ -136716,7 +136593,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136773,8 +136650,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1799002997,
+			"version": 43,
+			"versionNonce": 2015613781,
 			"isDeleted": false,
 			"id": "Bp2Xs3PNOA0EgR9eWWQdf",
 			"fillStyle": "solid",
@@ -136793,7 +136670,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405065,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136825,8 +136702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1877394011,
+			"version": 43,
+			"versionNonce": 1798666363,
 			"isDeleted": false,
 			"id": "pq6x5SQzX-Nuwte0jYw95",
 			"fillStyle": "solid",
@@ -136845,7 +136722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136877,8 +136754,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 2023843029,
+			"version": 52,
+			"versionNonce": 660119733,
 			"isDeleted": false,
 			"id": "-Hx9eCBqhasgiHzkd9X9l",
 			"fillStyle": "solid",
@@ -136897,7 +136774,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -136974,8 +136851,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1748221691,
+			"version": 45,
+			"versionNonce": 277262619,
 			"isDeleted": false,
 			"id": "NHrAg6HSz4lZRCSwlaEmx",
 			"fillStyle": "solid",
@@ -136994,7 +136871,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137036,8 +136913,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 891814453,
+			"version": 50,
+			"versionNonce": 625787413,
 			"isDeleted": false,
 			"id": "2LqwMLEtcm-eMzrGu9V4v",
 			"fillStyle": "solid",
@@ -137056,7 +136933,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137123,8 +137000,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 318252955,
+			"version": 62,
+			"versionNonce": 879220155,
 			"isDeleted": false,
 			"id": "TDbdx5a5pYMlubK2iVqM5",
 			"fillStyle": "solid",
@@ -137143,7 +137020,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137270,8 +137147,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1437856661,
+			"version": 57,
+			"versionNonce": 116766581,
 			"isDeleted": false,
 			"id": "ETLtAyKyn7NsRa0g2go2K",
 			"fillStyle": "solid",
@@ -137290,7 +137167,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137392,8 +137269,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 107379771,
+			"version": 70,
+			"versionNonce": 1442539099,
 			"isDeleted": false,
 			"id": "vjwr13WIUyNwK9yPKOn_0",
 			"fillStyle": "solid",
@@ -137412,7 +137289,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137579,8 +137456,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1450883317,
+			"version": 46,
+			"versionNonce": 647561429,
 			"isDeleted": false,
 			"id": "mqszOBbaLGExnj8jeQcC0",
 			"fillStyle": "solid",
@@ -137599,7 +137476,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137646,8 +137523,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1851866331,
+			"version": 43,
+			"versionNonce": 1813242619,
 			"isDeleted": false,
 			"id": "RPqoIMwoJMmXxbMXBp8Sp",
 			"fillStyle": "solid",
@@ -137666,7 +137543,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137698,8 +137575,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 285332053,
+			"version": 64,
+			"versionNonce": 2043420213,
 			"isDeleted": false,
 			"id": "avxasilOBjaefnQGumhGI",
 			"fillStyle": "solid",
@@ -137718,7 +137595,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137855,8 +137732,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1450895739,
+			"version": 49,
+			"versionNonce": 1865665435,
 			"isDeleted": false,
 			"id": "7ouS72u6GJmSZ1BQDzFz6",
 			"fillStyle": "solid",
@@ -137875,7 +137752,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137937,8 +137814,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 304005045,
+			"version": 55,
+			"versionNonce": 661950357,
 			"isDeleted": false,
 			"id": "gYxyV17MQqv_IpfC6URoU",
 			"fillStyle": "solid",
@@ -137957,7 +137834,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138044,8 +137921,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 871760411,
+			"version": 80,
+			"versionNonce": 596484155,
 			"isDeleted": false,
 			"id": "ptBL9dTVneL70861GIaLy",
 			"fillStyle": "solid",
@@ -138064,7 +137941,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138281,8 +138158,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 804716821,
+			"version": 59,
+			"versionNonce": 1573377269,
 			"isDeleted": false,
 			"id": "oee8_HxI38wSADfsWK-ea",
 			"fillStyle": "solid",
@@ -138301,7 +138178,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138413,8 +138290,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 801441467,
+			"version": 46,
+			"versionNonce": 587456731,
 			"isDeleted": false,
 			"id": "ZheZS_QeeMw75C8HwKN1W",
 			"fillStyle": "solid",
@@ -138433,7 +138310,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138480,8 +138357,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1610618485,
+			"version": 46,
+			"versionNonce": 1749773909,
 			"isDeleted": false,
 			"id": "zg6whkxpP4n1pbgEhi3d7",
 			"fillStyle": "solid",
@@ -138500,7 +138377,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138547,8 +138424,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 814380891,
+			"version": 72,
+			"versionNonce": 657001851,
 			"isDeleted": false,
 			"id": "nVolG2vX2UlgiVBdo20us",
 			"fillStyle": "solid",
@@ -138567,7 +138444,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138619,8 +138496,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1291812821,
+			"version": 86,
+			"versionNonce": 97835957,
 			"isDeleted": false,
 			"id": "5796vrJjSWbNG3CjNSFmU",
 			"fillStyle": "solid",
@@ -138639,7 +138516,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138761,8 +138638,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 613995515,
+			"version": 72,
+			"versionNonce": 322938395,
 			"isDeleted": false,
 			"id": "HCmeH70mzJuksx92MtSMu",
 			"fillStyle": "solid",
@@ -138781,7 +138658,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138833,8 +138710,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 755678517,
+			"version": 71,
+			"versionNonce": 2122947861,
 			"isDeleted": false,
 			"id": "95AuC0WJPPSvEIjbzMYQo",
 			"fillStyle": "solid",
@@ -138853,7 +138730,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138900,8 +138777,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 200449179,
+			"version": 72,
+			"versionNonce": 1043999419,
 			"isDeleted": false,
 			"id": "j4lj6Vq-tFhiLe3lyZp_p",
 			"fillStyle": "solid",
@@ -138920,7 +138797,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138972,8 +138849,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1468485269,
+			"version": 88,
+			"versionNonce": 2044670581,
 			"isDeleted": false,
 			"id": "JxP-SRF2o0okEfge8btVm",
 			"fillStyle": "solid",
@@ -138992,7 +138869,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405066,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139124,8 +139001,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1112166715,
+			"version": 92,
+			"versionNonce": 2092637019,
 			"isDeleted": false,
 			"id": "GXf9ZJAck0lmqxvps4gjv",
 			"fillStyle": "solid",
@@ -139144,7 +139021,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139296,8 +139173,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 455783413,
+			"version": 96,
+			"versionNonce": 345709525,
 			"isDeleted": false,
 			"id": "YZ76ghBNjOeNYBQcOjd9x",
 			"fillStyle": "solid",
@@ -139316,7 +139193,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139488,8 +139365,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 151155163,
+			"version": 128,
+			"versionNonce": 1796536315,
 			"isDeleted": false,
 			"id": "m4KjPLWL3wyGu5koWg6Ng",
 			"fillStyle": "solid",
@@ -139508,7 +139385,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139610,8 +139487,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1408920917,
+			"version": 81,
+			"versionNonce": 919787829,
 			"isDeleted": false,
 			"id": "3NacYuaegqH4Sa_uC1Ftp",
 			"fillStyle": "solid",
@@ -139630,7 +139507,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139727,8 +139604,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1361935995,
+			"version": 63,
+			"versionNonce": 2001354907,
 			"isDeleted": false,
 			"id": "z6DcZkXnG-0f0ALUdJTDh",
 			"fillStyle": "solid",
@@ -139747,7 +139624,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139779,8 +139656,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1095498421,
+			"version": 66,
+			"versionNonce": 703326869,
 			"isDeleted": false,
 			"id": "YykLzthRSrjMI34jqMW77",
 			"fillStyle": "solid",
@@ -139799,7 +139676,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139846,8 +139723,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1166931739,
+			"version": 45,
+			"versionNonce": 722302267,
 			"isDeleted": false,
 			"id": "5uWAiQLab7_TkaPTeTRA5",
 			"fillStyle": "solid",
@@ -139866,7 +139743,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139908,8 +139785,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 465886229,
+			"version": 46,
+			"versionNonce": 1855705077,
 			"isDeleted": false,
 			"id": "CTlJ58niqUET-f436gjw5",
 			"fillStyle": "solid",
@@ -139928,7 +139805,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -139975,8 +139852,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 345398203,
+			"version": 46,
+			"versionNonce": 901846491,
 			"isDeleted": false,
 			"id": "szDN0LaJr3_wPWrnkoRkW",
 			"fillStyle": "solid",
@@ -139995,7 +139872,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140042,8 +139919,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1801097589,
+			"version": 99,
+			"versionNonce": 1390938453,
 			"isDeleted": false,
 			"id": "JzynbeaID_3nr6yLgcyBT",
 			"fillStyle": "solid",
@@ -140062,7 +139939,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140199,8 +140076,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 2053712987,
+			"version": 195,
+			"versionNonce": 913810043,
 			"isDeleted": false,
 			"id": "fIF9j596QRCZbUcCAt4Sz",
 			"fillStyle": "solid",
@@ -140219,7 +140096,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140271,8 +140148,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 491952853,
+			"version": 186,
+			"versionNonce": 1210455733,
 			"isDeleted": false,
 			"id": "Lg_an0qmCNS9KPjfvQTqk",
 			"fillStyle": "solid",
@@ -140291,7 +140168,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140373,8 +140250,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 181987579,
+			"version": 181,
+			"versionNonce": 1173592859,
 			"isDeleted": false,
 			"id": "ugBXyBDsmaj0s18a57GG9",
 			"fillStyle": "solid",
@@ -140393,7 +140270,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140450,8 +140327,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1514305589,
+			"version": 182,
+			"versionNonce": 2029746197,
 			"isDeleted": false,
 			"id": "I8rINrd3ldDIQu3dcK4OJ",
 			"fillStyle": "solid",
@@ -140470,7 +140347,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140532,8 +140409,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 996675995,
+			"version": 183,
+			"versionNonce": 1084719035,
 			"isDeleted": false,
 			"id": "CQXwsDoUd-zkXCP8a1lyT",
 			"fillStyle": "solid",
@@ -140552,7 +140429,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140619,8 +140496,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 470788501,
+			"version": 179,
+			"versionNonce": 526232949,
 			"isDeleted": false,
 			"id": "Oy6c0xUy4K2y6ydUz25Bc",
 			"fillStyle": "solid",
@@ -140639,7 +140516,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140686,8 +140563,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 759768635,
+			"version": 177,
+			"versionNonce": 1354092635,
 			"isDeleted": false,
 			"id": "crFtTh6LdytKTIfS8ilv3",
 			"fillStyle": "solid",
@@ -140706,7 +140583,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140743,8 +140620,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 66039541,
+			"version": 187,
+			"versionNonce": 445789909,
 			"isDeleted": false,
 			"id": "fMc9PejdWyv2e3kusezYS",
 			"fillStyle": "solid",
@@ -140763,7 +140640,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140850,8 +140727,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 928949979,
+			"version": 177,
+			"versionNonce": 938544379,
 			"isDeleted": false,
 			"id": "jmsKEmX9eRE-zphzC-9cR",
 			"fillStyle": "solid",
@@ -140870,7 +140747,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140907,8 +140784,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1885866069,
+			"version": 182,
+			"versionNonce": 1160680501,
 			"isDeleted": false,
 			"id": "SDE7BvOBsBnuAr5xen-ku",
 			"fillStyle": "solid",
@@ -140927,7 +140804,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -140984,8 +140861,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 809177979,
+			"version": 176,
+			"versionNonce": 1507571099,
 			"isDeleted": false,
 			"id": "YoRDb53-iOimxBo9ASBTl",
 			"fillStyle": "solid",
@@ -141004,7 +140881,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141036,8 +140913,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 1397634485,
+			"version": 176,
+			"versionNonce": 186140053,
 			"isDeleted": false,
 			"id": "vhXxEGq46f8hIXMb2TFSo",
 			"fillStyle": "solid",
@@ -141056,7 +140933,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405067,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141088,8 +140965,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 2015423515,
+			"version": 185,
+			"versionNonce": 94915131,
 			"isDeleted": false,
 			"id": "leosWq1HPGjjdiHJA7cTB",
 			"fillStyle": "solid",
@@ -141108,7 +140985,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141185,8 +141062,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 1204270869,
+			"version": 178,
+			"versionNonce": 1065667317,
 			"isDeleted": false,
 			"id": "NoA9dUPBw24rUNE1YKD6E",
 			"fillStyle": "solid",
@@ -141205,7 +141082,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141247,8 +141124,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 1124249787,
+			"version": 183,
+			"versionNonce": 3754715,
 			"isDeleted": false,
 			"id": "Rn4HFhLKJihe2xnMuC8uN",
 			"fillStyle": "solid",
@@ -141267,7 +141144,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141334,8 +141211,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1749683317,
+			"version": 195,
+			"versionNonce": 855221333,
 			"isDeleted": false,
 			"id": "Cvt1NclMiaW2EqeZBUBaC",
 			"fillStyle": "solid",
@@ -141354,7 +141231,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141481,8 +141358,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 579002715,
+			"version": 165,
+			"versionNonce": 1310799739,
 			"isDeleted": false,
 			"id": "uYj4TKjs4wabI1IuR-Z0e",
 			"fillStyle": "solid",
@@ -141501,7 +141378,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141603,8 +141480,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 1687860693,
+			"version": 203,
+			"versionNonce": 155996597,
 			"isDeleted": false,
 			"id": "sZodu72-w5JaDpF5F4Sa3",
 			"fillStyle": "solid",
@@ -141623,7 +141500,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141790,8 +141667,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 1341390331,
+			"version": 179,
+			"versionNonce": 1034063899,
 			"isDeleted": false,
 			"id": "Vl4QFpdlbi2qjxPQBIi-c",
 			"fillStyle": "solid",
@@ -141810,7 +141687,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141857,8 +141734,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 167,
-			"versionNonce": 1473196853,
+			"version": 176,
+			"versionNonce": 1336038165,
 			"isDeleted": false,
 			"id": "6dj7olm3DsO1mudsmmVJD",
 			"fillStyle": "solid",
@@ -141877,7 +141754,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -141909,8 +141786,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 911771291,
+			"version": 197,
+			"versionNonce": 816829627,
 			"isDeleted": false,
 			"id": "dN2nDE79srb5XKxc6dTVq",
 			"fillStyle": "solid",
@@ -141929,7 +141806,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -142066,8 +141943,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1582105749,
+			"version": 157,
+			"versionNonce": 1383147637,
 			"isDeleted": false,
 			"id": "o_yznPc71CHvX583p9eIq",
 			"fillStyle": "solid",
@@ -142086,7 +141963,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -142148,8 +142025,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1013119803,
+			"version": 188,
+			"versionNonce": 652969307,
 			"isDeleted": false,
 			"id": "5j4SzIdNdf7Qw2-Ovck1N",
 			"fillStyle": "solid",
@@ -142168,7 +142045,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -142255,8 +142132,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1808378357,
+			"version": 188,
+			"versionNonce": 863916501,
 			"isDeleted": false,
 			"id": "xJATWLogeYOzyi4rk3JJe",
 			"fillStyle": "solid",
@@ -142275,7 +142152,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -142492,8 +142369,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 1316346843,
+			"version": 138,
+			"versionNonce": 128459259,
 			"isDeleted": false,
 			"id": "xijgTg8e3qJug2lvJVhth",
 			"fillStyle": "solid",
@@ -142512,7 +142389,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -142814,8 +142691,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1632281429,
+			"version": 89,
+			"versionNonce": 1071599413,
 			"isDeleted": false,
 			"id": "ChmOmN9KrzBXzlXAkyQtm",
 			"fillStyle": "solid",
@@ -142834,7 +142711,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143141,8 +143018,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 681814139,
+			"version": 99,
+			"versionNonce": 736635547,
 			"isDeleted": false,
 			"id": "1Vg_epWottBoBJbIMYP15",
 			"fillStyle": "solid",
@@ -143161,7 +143038,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143268,8 +143145,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1663398069,
+			"version": 114,
+			"versionNonce": 100245653,
 			"isDeleted": false,
 			"id": "Ls80MORxRhjnfwummPCl0",
 			"fillStyle": "solid",
@@ -143288,7 +143165,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143335,8 +143212,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1622073627,
+			"version": 114,
+			"versionNonce": 677257019,
 			"isDeleted": false,
 			"id": "ZQIBDQb-yVbiNcc2nDPjF",
 			"fillStyle": "solid",
@@ -143355,7 +143232,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143402,8 +143279,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1862242837,
+			"version": 114,
+			"versionNonce": 729990645,
 			"isDeleted": false,
 			"id": "M_3rj76ziDAXZ0f8LrkKM",
 			"fillStyle": "solid",
@@ -143422,7 +143299,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143469,8 +143346,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 805963195,
+			"version": 117,
+			"versionNonce": 1466728411,
 			"isDeleted": false,
 			"id": "HDcPFK9g8BxeAm9_T-hZM",
 			"fillStyle": "solid",
@@ -143489,7 +143366,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143551,8 +143428,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 835618677,
+			"version": 110,
+			"versionNonce": 58736469,
 			"isDeleted": false,
 			"id": "Rg5PozSvQDCckX-oJN7qR",
 			"fillStyle": "solid",
@@ -143571,7 +143448,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143598,8 +143475,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 2111280731,
+			"version": 119,
+			"versionNonce": 589679739,
 			"isDeleted": false,
 			"id": "aGXnqWbVtXqM96S8UM47a",
 			"fillStyle": "solid",
@@ -143618,7 +143495,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143685,8 +143562,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 500682965,
+			"version": 114,
+			"versionNonce": 1682410677,
 			"isDeleted": false,
 			"id": "2D70Tq8E93Ismq529RQeO",
 			"fillStyle": "solid",
@@ -143705,7 +143582,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405068,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143752,8 +143629,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 686428923,
+			"version": 112,
+			"versionNonce": 256673051,
 			"isDeleted": false,
 			"id": "AIAU8lgi8-0jZVMgu2d1w",
 			"fillStyle": "solid",
@@ -143772,7 +143649,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143809,8 +143686,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1085337141,
+			"version": 122,
+			"versionNonce": 1031679509,
 			"isDeleted": false,
 			"id": "kHmpZT2eOlkgh_QxXJI3o",
 			"fillStyle": "solid",
@@ -143829,7 +143706,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143916,8 +143793,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 298056603,
+			"version": 113,
+			"versionNonce": 55781819,
 			"isDeleted": false,
 			"id": "SG2g_2xv3BAXuF6JvKhiZ",
 			"fillStyle": "solid",
@@ -143936,7 +143813,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -143978,8 +143855,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1497325461,
+			"version": 57,
+			"versionNonce": 1847174005,
 			"isDeleted": false,
 			"id": "1EwR-3F2HoizYkcyLwvP9",
 			"fillStyle": "solid",
@@ -143998,7 +143875,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144140,8 +144017,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "text",
-			"version": 618,
-			"versionNonce": 1687670843,
+			"version": 627,
+			"versionNonce": 1415330395,
 			"isDeleted": false,
 			"id": "71pvotqq",
 			"fillStyle": "hachure",
@@ -144155,12 +144032,12 @@ Flytter med ^xiGjjnB0
 			"strokeColor": "#5c940d",
 			"backgroundColor": "transparent",
 			"width": 933,
-			"height": 55,
+			"height": 54,
 			"seed": 1320613339,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": "[[Dæmpede Svingninger - Differentialligning]]",
 			"locked": false,
 			"fontSize": 42.83966927687235,
@@ -144175,8 +144052,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 767075573,
+			"version": 119,
+			"versionNonce": 1516203221,
 			"isDeleted": false,
 			"id": "Qaf49aNFwDYKrD9l-ORPG",
 			"fillStyle": "solid",
@@ -144195,7 +144072,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144387,8 +144264,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 591925467,
+			"version": 99,
+			"versionNonce": 255473403,
 			"isDeleted": false,
 			"id": "QSHuqlGC2zbOg3-Gs563z",
 			"fillStyle": "solid",
@@ -144407,7 +144284,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144439,8 +144316,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 564280917,
+			"version": 103,
+			"versionNonce": 1105529397,
 			"isDeleted": false,
 			"id": "XR2cU0j3ysCV4KFpvEePe",
 			"fillStyle": "solid",
@@ -144459,7 +144336,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144511,8 +144388,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1869036923,
+			"version": 102,
+			"versionNonce": 40869787,
 			"isDeleted": false,
 			"id": "YQmkIKpuW7ommzHiU8IMT",
 			"fillStyle": "solid",
@@ -144531,7 +144408,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144578,8 +144455,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 198290357,
+			"version": 118,
+			"versionNonce": 1435499413,
 			"isDeleted": false,
 			"id": "zNoL0OGommWu2K7tKshen",
 			"fillStyle": "solid",
@@ -144598,7 +144475,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144725,8 +144602,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 339203611,
+			"version": 112,
+			"versionNonce": 137294907,
 			"isDeleted": false,
 			"id": "fof2mics1PkhJn0KaCa7l",
 			"fillStyle": "solid",
@@ -144745,7 +144622,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144842,8 +144719,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1282174229,
+			"version": 115,
+			"versionNonce": 227918069,
 			"isDeleted": false,
 			"id": "a7CQCmtt2dLP35M1urARx",
 			"fillStyle": "solid",
@@ -144862,7 +144739,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144974,8 +144851,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 1353472699,
+			"version": 100,
+			"versionNonce": 274379995,
 			"isDeleted": false,
 			"id": "nsLX6Ln5qwiUopks4_43A",
 			"fillStyle": "solid",
@@ -144994,7 +144871,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145026,8 +144903,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 585630325,
+			"version": 99,
+			"versionNonce": 1065081429,
 			"isDeleted": false,
 			"id": "uLGvSVF1GmWmPBYoE4qg2",
 			"fillStyle": "solid",
@@ -145046,7 +144923,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145078,8 +144955,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1634159451,
+			"version": 107,
+			"versionNonce": 1787126139,
 			"isDeleted": false,
 			"id": "rXwZdEwQh_ElmhzC_ocUN",
 			"fillStyle": "solid",
@@ -145098,7 +144975,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145170,8 +145047,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1141500885,
+			"version": 120,
+			"versionNonce": 1947715509,
 			"isDeleted": false,
 			"id": "eULxbqHuj89noMzlPOOiY",
 			"fillStyle": "solid",
@@ -145190,7 +145067,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145327,8 +145204,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1253779451,
+			"version": 107,
+			"versionNonce": 1341225499,
 			"isDeleted": false,
 			"id": "7BjZs13hOx8HvgFB2g7i8",
 			"fillStyle": "solid",
@@ -145347,7 +145224,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145419,8 +145296,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 803711285,
+			"version": 101,
+			"versionNonce": 2106525973,
 			"isDeleted": false,
 			"id": "CWSzFIYRt_xklQhQyH6wq",
 			"fillStyle": "solid",
@@ -145439,7 +145316,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145481,8 +145358,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 1655337115,
+			"version": 101,
+			"versionNonce": 764509883,
 			"isDeleted": false,
 			"id": "VUi8SghdmNcnY_AGSTu2u",
 			"fillStyle": "solid",
@@ -145501,7 +145378,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145543,8 +145420,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 1206303381,
+			"version": 133,
+			"versionNonce": 1297555061,
 			"isDeleted": false,
 			"id": "8Lo1u97DoCsvQ_71wXLGm",
 			"fillStyle": "solid",
@@ -145563,7 +145440,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145765,8 +145642,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 451388731,
+			"version": 119,
+			"versionNonce": 772271963,
 			"isDeleted": false,
 			"id": "w2hPbQxcJBK6OX_JPm5yR",
 			"fillStyle": "solid",
@@ -145785,7 +145662,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -145917,8 +145794,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 616341493,
+			"version": 113,
+			"versionNonce": 171280341,
 			"isDeleted": false,
 			"id": "XaYCqXjLbNow04e_Ovv7p",
 			"fillStyle": "solid",
@@ -145937,7 +145814,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405069,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146039,8 +145916,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 181749211,
+			"version": 117,
+			"versionNonce": 61295611,
 			"isDeleted": false,
 			"id": "Mxhh_Loz4Cgg5xrsgnSno",
 			"fillStyle": "solid",
@@ -146059,7 +145936,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146181,8 +146058,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 745462101,
+			"version": 109,
+			"versionNonce": 1715455285,
 			"isDeleted": false,
 			"id": "ZgUwyyQwycnsD6FVChSz2",
 			"fillStyle": "solid",
@@ -146201,7 +146078,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146283,8 +146160,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 965071483,
+			"version": 102,
+			"versionNonce": 1920079003,
 			"isDeleted": false,
 			"id": "vP7YK5E7rkOGxZ8eBFLed",
 			"fillStyle": "solid",
@@ -146303,7 +146180,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146350,8 +146227,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 1750263477,
+			"version": 101,
+			"versionNonce": 886789781,
 			"isDeleted": false,
 			"id": "nnP8d1XS9vx4fb90aQOrv",
 			"fillStyle": "solid",
@@ -146370,7 +146247,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146412,8 +146289,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 666618651,
+			"version": 117,
+			"versionNonce": 437963067,
 			"isDeleted": false,
 			"id": "Wh9eXO91IJUEhyp0s0u1t",
 			"fillStyle": "solid",
@@ -146432,7 +146309,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146554,8 +146431,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 453920789,
+			"version": 103,
+			"versionNonce": 1086176245,
 			"isDeleted": false,
 			"id": "UAZ2SRNLEubzZWU_2pMl2",
 			"fillStyle": "solid",
@@ -146574,7 +146451,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146626,8 +146503,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 434745275,
+			"version": 102,
+			"versionNonce": 256475,
 			"isDeleted": false,
 			"id": "HgqP11vGKaL_IGspfumO-",
 			"fillStyle": "solid",
@@ -146646,7 +146523,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146693,8 +146570,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 378961269,
+			"version": 115,
+			"versionNonce": 1642886485,
 			"isDeleted": false,
 			"id": "1CzIq2CxCmxlNNXzOCpJz",
 			"fillStyle": "solid",
@@ -146713,7 +146590,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146825,8 +146702,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 573702235,
+			"version": 103,
+			"versionNonce": 1497364091,
 			"isDeleted": false,
 			"id": "vokPKHOzRPu3WO9omwft7",
 			"fillStyle": "solid",
@@ -146845,7 +146722,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146897,8 +146774,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 1378944725,
+			"version": 101,
+			"versionNonce": 1404895925,
 			"isDeleted": false,
 			"id": "UewfhdBvI-cVcuN7_3sB-",
 			"fillStyle": "solid",
@@ -146917,7 +146794,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -146959,8 +146836,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1785150715,
+			"version": 113,
+			"versionNonce": 345075483,
 			"isDeleted": false,
 			"id": "XXBnZ89sHKkl3Ss3lddfE",
 			"fillStyle": "solid",
@@ -146979,7 +146856,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147081,8 +146958,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1081304117,
+			"version": 118,
+			"versionNonce": 1255466005,
 			"isDeleted": false,
 			"id": "cwMomHoH2IYWnLS-zGMid",
 			"fillStyle": "solid",
@@ -147101,7 +146978,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147228,8 +147105,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "rectangle",
-			"version": 132,
-			"versionNonce": 1040967067,
+			"version": 141,
+			"versionNonce": 610980795,
 			"isDeleted": false,
 			"id": "nJzv_bvwzu2uqDpq9g-Vr",
 			"fillStyle": "solid",
@@ -147248,14 +147125,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1698895253,
+			"version": 50,
+			"versionNonce": 1261017461,
 			"isDeleted": false,
 			"id": "9-PNiPWyoR-icdHgbPHH4",
 			"fillStyle": "solid",
@@ -147274,7 +147151,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147431,8 +147308,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1414691387,
+			"version": 41,
+			"versionNonce": 149857371,
 			"isDeleted": false,
 			"id": "R6d4QyEWiZFOmMAXiGdaq",
 			"fillStyle": "solid",
@@ -147451,7 +147328,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147563,8 +147440,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 735419125,
+			"version": 27,
+			"versionNonce": 1040229077,
 			"isDeleted": false,
 			"id": "ZtcHYJF-SUn0bi9ixtDce",
 			"fillStyle": "solid",
@@ -147583,7 +147460,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147625,8 +147502,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1511881435,
+			"version": 27,
+			"versionNonce": 435118331,
 			"isDeleted": false,
 			"id": "VrIEYQrgOsYlO3_krYV_Z",
 			"fillStyle": "solid",
@@ -147645,7 +147522,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147687,8 +147564,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 2091938901,
+			"version": 35,
+			"versionNonce": 1206878261,
 			"isDeleted": false,
 			"id": "i7jS4PEGVsmOm7qRVj5Et",
 			"fillStyle": "solid",
@@ -147707,7 +147584,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147809,8 +147686,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1006593915,
+			"version": 34,
+			"versionNonce": 284133787,
 			"isDeleted": false,
 			"id": "l8NCFNvC3QLn2SzO1CW4N",
 			"fillStyle": "solid",
@@ -147829,7 +147706,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147926,8 +147803,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 329851317,
+			"version": 22,
+			"versionNonce": 1591456149,
 			"isDeleted": false,
 			"id": "0FwyJ5oM043D6swzA4Eg2",
 			"fillStyle": "solid",
@@ -147946,7 +147823,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147983,8 +147860,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 809156635,
+			"version": 21,
+			"versionNonce": 1394712123,
 			"isDeleted": false,
 			"id": "yUehoEr4bFWaVyNAKudY3",
 			"fillStyle": "solid",
@@ -148003,7 +147880,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -148035,8 +147912,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 367338261,
+			"version": 24,
+			"versionNonce": 536524533,
 			"isDeleted": false,
 			"id": "mBCXjrmfGehl5v8eL8ZKn",
 			"fillStyle": "solid",
@@ -148055,7 +147932,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405070,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -148102,8 +147979,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 12715195,
+			"version": 47,
+			"versionNonce": 2070421211,
 			"isDeleted": false,
 			"id": "20Tak32uYUUcycyxNFrjW",
 			"fillStyle": "solid",
@@ -148122,7 +147999,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -148284,8 +148161,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1742338165,
+			"version": 31,
+			"versionNonce": 1708265557,
 			"isDeleted": false,
 			"id": "EmCq2N-_e28GkYHwg1GUv",
 			"fillStyle": "solid",
@@ -148304,7 +148181,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -148386,8 +148263,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 355972443,
+			"version": 47,
+			"versionNonce": 609586043,
 			"isDeleted": false,
 			"id": "HqYChROTdJViJLP0th_z4",
 			"fillStyle": "solid",
@@ -148406,7 +148283,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -148563,8 +148440,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1129128405,
+			"version": 103,
+			"versionNonce": 506936757,
 			"isDeleted": false,
 			"id": "j1p45rqKJ9os-MDaAZwvw",
 			"fillStyle": "solid",
@@ -148583,7 +148460,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149025,8 +148902,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1022251515,
+			"version": 51,
+			"versionNonce": 1915511835,
 			"isDeleted": false,
 			"id": "mcI147FLYz2qQLMMdsiA_",
 			"fillStyle": "solid",
@@ -149045,7 +148922,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149227,8 +149104,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 223616821,
+			"version": 31,
+			"versionNonce": 1615838997,
 			"isDeleted": false,
 			"id": "xbjN_nI3_ZAPxj7F8rv8Q",
 			"fillStyle": "solid",
@@ -149247,7 +149124,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149329,8 +149206,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 954751643,
+			"version": 24,
+			"versionNonce": 1558128827,
 			"isDeleted": false,
 			"id": "lcUqm8tLXzeO8AAQrDOcA",
 			"fillStyle": "solid",
@@ -149349,7 +149226,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149396,8 +149273,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1817473173,
+			"version": 45,
+			"versionNonce": 1116804213,
 			"isDeleted": false,
 			"id": "5dg6T8n9AL-iBJNjl9q_5",
 			"fillStyle": "solid",
@@ -149416,7 +149293,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149568,8 +149445,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 98062139,
+			"version": 27,
+			"versionNonce": 974149979,
 			"isDeleted": false,
 			"id": "Sp8O7iAC1k97KdbAwL_ZC",
 			"fillStyle": "solid",
@@ -149588,7 +149465,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149650,8 +149527,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 503551477,
+			"version": 25,
+			"versionNonce": 1891679701,
 			"isDeleted": false,
 			"id": "TsSP-MODXUbxgCEU2_Hgw",
 			"fillStyle": "solid",
@@ -149670,7 +149547,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045722,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149722,8 +149599,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1713418203,
+			"version": 43,
+			"versionNonce": 118650363,
 			"isDeleted": false,
 			"id": "yWbxnRovbF2E5onucMWAd",
 			"fillStyle": "solid",
@@ -149742,7 +149619,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149894,8 +149771,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 224857941,
+			"version": 23,
+			"versionNonce": 32783157,
 			"isDeleted": false,
 			"id": "5c7bXJeWRoEdKnco_SL_E",
 			"fillStyle": "solid",
@@ -149914,7 +149791,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -149966,8 +149843,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 735313019,
+			"version": 31,
+			"versionNonce": 1927806619,
 			"isDeleted": false,
 			"id": "NHCmZWYKX2zPPUupsAwDs",
 			"fillStyle": "solid",
@@ -149986,7 +149863,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150073,8 +149950,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 685006005,
+			"version": 58,
+			"versionNonce": 244386965,
 			"isDeleted": false,
 			"id": "eMUt8GBahEm5uoFHVbEXf",
 			"fillStyle": "solid",
@@ -150093,7 +149970,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150325,8 +150202,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1119139099,
+			"version": 26,
+			"versionNonce": 675509051,
 			"isDeleted": false,
 			"id": "GJ3obOXCiPCUld6HIfasX",
 			"fillStyle": "solid",
@@ -150345,7 +150222,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150422,8 +150299,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 2012282389,
+			"version": 25,
+			"versionNonce": 105689589,
 			"isDeleted": false,
 			"id": "6M5ReAvCJP2SuwFwxDpBU",
 			"fillStyle": "solid",
@@ -150442,7 +150319,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150514,8 +150391,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 2050316731,
+			"version": 21,
+			"versionNonce": 1468486619,
 			"isDeleted": false,
 			"id": "CORW-S5JslMCSfsq1-o2E",
 			"fillStyle": "solid",
@@ -150534,7 +150411,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150586,8 +150463,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 1907520373,
+			"version": 19,
+			"versionNonce": 1177332565,
 			"isDeleted": false,
 			"id": "fMxbnZT0mEn8KziR5Llgz",
 			"fillStyle": "solid",
@@ -150606,7 +150483,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150648,8 +150525,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 259549787,
+			"version": 30,
+			"versionNonce": 12984443,
 			"isDeleted": false,
 			"id": "5i63qeIT1wJOnaKeOSwZv",
 			"fillStyle": "solid",
@@ -150668,7 +150545,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150760,8 +150637,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 308165845,
+			"version": 27,
+			"versionNonce": 1854306485,
 			"isDeleted": false,
 			"id": "yc6RKGD1zkCu_xg5XcA5p",
 			"fillStyle": "solid",
@@ -150780,7 +150657,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150862,8 +150739,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 2001757947,
+			"version": 25,
+			"versionNonce": 2109888795,
 			"isDeleted": false,
 			"id": "j9JRXXI6XUpCSzLUFkBkm",
 			"fillStyle": "solid",
@@ -150882,7 +150759,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -150949,8 +150826,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 831117877,
+			"version": 27,
+			"versionNonce": 2030017045,
 			"isDeleted": false,
 			"id": "_ugaqrDRPdEqINmZgm_V-",
 			"fillStyle": "solid",
@@ -150969,7 +150846,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405071,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151051,8 +150928,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1749012379,
+			"version": 24,
+			"versionNonce": 1273920955,
 			"isDeleted": false,
 			"id": "7KVrriRxam4oGRvKxcLEB",
 			"fillStyle": "solid",
@@ -151071,7 +150948,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151138,8 +151015,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 404409237,
+			"version": 49,
+			"versionNonce": 244158325,
 			"isDeleted": false,
 			"id": "JY2Ta6f0mTbbIXHNIJE4m",
 			"fillStyle": "solid",
@@ -151158,7 +151035,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151350,8 +151227,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 611918907,
+			"version": 21,
+			"versionNonce": 376245851,
 			"isDeleted": false,
 			"id": "CbZwCIeTgpCYzLJijRvYo",
 			"fillStyle": "solid",
@@ -151370,7 +151247,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151422,8 +151299,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1447465205,
+			"version": 20,
+			"versionNonce": 494262485,
 			"isDeleted": false,
 			"id": "jGiqOX1OOVEPuMfLoBwaz",
 			"fillStyle": "solid",
@@ -151442,7 +151319,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151489,8 +151366,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 64939227,
+			"version": 31,
+			"versionNonce": 1084155,
 			"isDeleted": false,
 			"id": "N22KVE54GdbH0k1dfzXwb",
 			"fillStyle": "solid",
@@ -151509,7 +151386,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151611,8 +151488,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1502784085,
+			"version": 21,
+			"versionNonce": 793638453,
 			"isDeleted": false,
 			"id": "vOlQ0jwfI9armWnHP99AA",
 			"fillStyle": "solid",
@@ -151631,7 +151508,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151683,8 +151560,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 1040421243,
+			"version": 19,
+			"versionNonce": 760968091,
 			"isDeleted": false,
 			"id": "HUvmdJ2_NVZuwjey003Ax",
 			"fillStyle": "solid",
@@ -151703,7 +151580,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151745,8 +151622,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1121228725,
+			"version": 24,
+			"versionNonce": 2130405269,
 			"isDeleted": false,
 			"id": "xxN3v7W5oHpFDW0V_cwvY",
 			"fillStyle": "solid",
@@ -151765,7 +151642,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -151832,8 +151709,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1948887579,
+			"version": 43,
+			"versionNonce": 243288123,
 			"isDeleted": false,
 			"id": "rTRpKOTFwbpekFP81rFsA",
 			"fillStyle": "solid",
@@ -151852,7 +151729,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045723,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152014,8 +151891,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 2083641621,
+			"version": 27,
+			"versionNonce": 1320398069,
 			"isDeleted": false,
 			"id": "AuYSRLR8fbEpZrFok_QN3",
 			"fillStyle": "solid",
@@ -152034,7 +151911,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152111,8 +151988,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 2068033211,
+			"version": 33,
+			"versionNonce": 1767999707,
 			"isDeleted": false,
 			"id": "c2K4zU8Rdj4TM3Lgpp36K",
 			"fillStyle": "solid",
@@ -152131,7 +152008,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152243,8 +152120,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 253750901,
+			"version": 36,
+			"versionNonce": 2113685077,
 			"isDeleted": false,
 			"id": "JtMRJbUBf91QmiNYf8nA0",
 			"fillStyle": "solid",
@@ -152263,7 +152140,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152390,8 +152267,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 1710497627,
+			"version": 18,
+			"versionNonce": 596751739,
 			"isDeleted": false,
 			"id": "DXtS5bjHtWTArEtZgEhiS",
 			"fillStyle": "solid",
@@ -152410,7 +152287,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152447,8 +152324,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 979654613,
+			"version": 18,
+			"versionNonce": 1605022645,
 			"isDeleted": false,
 			"id": "lS9ZLQDsCFVjhDspssUlM",
 			"fillStyle": "solid",
@@ -152467,7 +152344,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152504,8 +152381,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1317895163,
+			"version": 28,
+			"versionNonce": 1280527899,
 			"isDeleted": false,
 			"id": "iwpyQYqS2OD7iVdVM6LyW",
 			"fillStyle": "solid",
@@ -152524,7 +152401,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152606,8 +152483,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1209308469,
+			"version": 35,
+			"versionNonce": 1340372245,
 			"isDeleted": false,
 			"id": "GV00yfwXmfeguTm2FmcG4",
 			"fillStyle": "solid",
@@ -152626,7 +152503,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152748,8 +152625,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1628587163,
+			"version": 17,
+			"versionNonce": 1721291451,
 			"isDeleted": false,
 			"id": "C8JD9iLXwD_JQDg1up3zk",
 			"fillStyle": "solid",
@@ -152768,7 +152645,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152800,8 +152677,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 597042837,
+			"version": 17,
+			"versionNonce": 169806453,
 			"isDeleted": false,
 			"id": "tsn3l1gzMP4CboZMdt3KL",
 			"fillStyle": "solid",
@@ -152820,7 +152697,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152847,8 +152724,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 624228667,
+			"version": 23,
+			"versionNonce": 1929691995,
 			"isDeleted": false,
 			"id": "RBKN2PFuT6lr_ngpWmZ1x",
 			"fillStyle": "solid",
@@ -152867,7 +152744,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -152929,8 +152806,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 798919669,
+			"version": 30,
+			"versionNonce": 1059058645,
 			"isDeleted": false,
 			"id": "9YuAvyCseN-GzFrNb5EzQ",
 			"fillStyle": "solid",
@@ -152949,7 +152826,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153041,8 +152918,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 139991515,
+			"version": 22,
+			"versionNonce": 971612155,
 			"isDeleted": false,
 			"id": "oLOF0FBehJN_BnQ0DXx6I",
 			"fillStyle": "solid",
@@ -153061,7 +152938,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153118,8 +152995,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1546863957,
+			"version": 40,
+			"versionNonce": 1794945333,
 			"isDeleted": false,
 			"id": "d42_tK8wl-YjTZudtS3fq",
 			"fillStyle": "solid",
@@ -153138,7 +153015,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405072,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153285,8 +153162,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 663627387,
+			"version": 18,
+			"versionNonce": 1430907035,
 			"isDeleted": false,
 			"id": "LO4MuEbLkxPDiAxjFzE96",
 			"fillStyle": "solid",
@@ -153305,7 +153182,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405073,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153342,8 +153219,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 2091504309,
+			"version": 17,
+			"versionNonce": 1796915861,
 			"isDeleted": false,
 			"id": "aVkxUSktp1BzAHqCmD7GK",
 			"fillStyle": "solid",
@@ -153362,7 +153239,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405073,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153394,8 +153271,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1503239963,
+			"version": 20,
+			"versionNonce": 2060983611,
 			"isDeleted": false,
 			"id": "DJ_rYUq7xtObH0wWNjruz",
 			"fillStyle": "solid",
@@ -153414,7 +153291,7 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626405073,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153461,8 +153338,8 @@ Flytter med ^xiGjjnB0
 		},
 		{
 			"type": "rectangle",
-			"version": 70,
-			"versionNonce": 1571271701,
+			"version": 79,
+			"versionNonce": 1412409333,
 			"isDeleted": false,
 			"id": "uaAay8SuJskngj74cEyFb",
 			"fillStyle": "solid",
@@ -153481,14 +153358,14 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405073,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 98,
-			"versionNonce": 2028798907,
+			"version": 107,
+			"versionNonce": 100056539,
 			"isDeleted": false,
 			"id": "YPULxf6vGoZFCAAIYuFoP",
 			"fillStyle": "solid",
@@ -153507,403 +153384,39 @@ Flytter med ^xiGjjnB0
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1668626405073,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "arrow",
-			"version": 3977,
-			"versionNonce": 1074208699,
-			"isDeleted": true,
-			"id": "W5f-3juuB5vVDU0Bbo6U4",
+			"type": "line",
+			"version": 53,
+			"versionNonce": 138469717,
+			"isDeleted": false,
+			"id": "ChqEJIUwqCCahl5NdzScz",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1485.9802204999517,
-			"y": 1205.601541532846,
-			"strokeColor": "#495057",
+			"x": 120.38750159066319,
+			"y": 1800.004646639098,
+			"strokeColor": "#0b7285",
 			"backgroundColor": "transparent",
-			"width": 37.11318758199957,
-			"height": 0.36010936506147573,
-			"seed": 2000669589,
+			"width": 459.1141211731533,
+			"height": 36.7291296938522,
+			"seed": 498799464,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1668626359164,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"focus": -0.018198218976446558,
-				"gap": 4.2253227509913245,
-				"elementId": "fS3ShPXW6jiwCnuTVfzDT"
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "dot",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-37.11318758199957,
-					-0.36010936506147573
-				]
-			]
-		},
-		{
-			"type": "diamond",
-			"version": 2484,
-			"versionNonce": 455240053,
-			"isDeleted": true,
-			"id": "fS3ShPXW6jiwCnuTVfzDT",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1495.8447054417159,
-			"y": 1146.2134009139922,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"width": 277.744905971321,
-			"height": 119.48819869934447,
-			"seed": 1982080059,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "FuAmD2TKbFIDuT_8jFm78"
-				},
-				{
-					"type": "arrow",
-					"id": "9VZQ4Khf-UyQ8_OW3aoh6"
-				},
-				{
-					"type": "arrow",
-					"id": "dKP9gm0fBP5s-rXPpxi72"
-				},
-				{
-					"type": "arrow",
-					"id": "jk-DfDYFUNETIJ-3JPefw"
-				},
-				{
-					"type": "arrow",
-					"id": "iIe1CVpVueb5luzBzhQM5"
-				},
-				{
-					"type": "arrow",
-					"id": "5dhb7bWBuW8-y3AkZDtTU"
-				},
-				{
-					"type": "arrow",
-					"id": "dL8iZh07WOPJ396L_srwu"
-				}
-			],
-			"updated": 1668626405074,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 2241,
-			"versionNonce": 33538555,
-			"isDeleted": true,
-			"id": "e8zOj3Uf",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1574.4447074218788,
-			"y": 1188.9424372393537,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"width": 121,
-			"height": 36,
-			"seed": 147558645,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1668626389976,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Condition",
-			"rawText": "",
-			"baseline": 25,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Condition"
-		},
-		{
-			"type": "text",
-			"version": 2850,
-			"versionNonce": 1884401461,
-			"isDeleted": true,
-			"id": "buXXzjWM",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 6.2581208643144315,
-			"x": 1626.1464757782755,
-			"y": 1316.14585236137,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"width": 19,
-			"height": 18,
-			"seed": 1747576027,
-			"groupIds": [
-				"wdISv7sbmbY9huQN5CpKf"
-			],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1668626389977,
-			"link": null,
-			"locked": false,
-			"fontSize": 13.344432407818116,
-			"fontFamily": 1,
-			"text": "No",
-			"rawText": "",
-			"baseline": 12,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "No"
-		},
-		{
-			"type": "ellipse",
-			"version": 2919,
-			"versionNonce": 1839912027,
-			"isDeleted": true,
-			"id": "Kk8avkzA7mES5Cep-pp5N",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 2.57969569492513,
-			"x": 1611.7993570981737,
-			"y": 1301.4956943383695,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"width": 45.516056590394,
-			"height": 46.10146374329434,
-			"seed": 1937222229,
-			"groupIds": [
-				"wdISv7sbmbY9huQN5CpKf"
-			],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "ptO3E1cNv4yQURCbYzo0X"
-				},
-				{
-					"type": "arrow",
-					"id": "FuAmD2TKbFIDuT_8jFm78"
-				},
-				{
-					"type": "arrow",
-					"id": "5igMki8Mk10DUEP6sH51E"
-				},
-				{
-					"type": "arrow",
-					"id": "wGjid8Zq7BVvNTGtu5Hxn"
-				}
-			],
-			"updated": 1668626405074,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "arrow",
-			"version": 5469,
-			"versionNonce": 906032181,
-			"isDeleted": true,
-			"id": "Sx2MjdwTZNQMd-WEM-Alg",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 2.57969569492513,
-			"x": 1626.244126308967,
-			"y": 1295.2850578583975,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "#fff",
-			"width": 14.9843786032676,
-			"height": 21.924978598108964,
-			"seed": 1626247547,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626359164,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"focus": -0.019707117712358366,
-				"gap": 4.791363322435075,
-				"elementId": "fS3ShPXW6jiwCnuTVfzDT"
-			},
-			"endBinding": {
-				"focus": -0.06855681264676293,
-				"gap": 4.252230228151209,
-				"elementId": "Kk8avkzA7mES5Cep-pp5N"
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					14.9843786032676,
-					-21.924978598108964
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 5845,
-			"versionNonce": 1574917531,
-			"isDeleted": true,
-			"id": "M0QV_S5l7dhi6URJxBh2l",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1636.4211409849372,
-			"y": 1008.6935711292058,
-			"strokeColor": "#5c940d",
-			"backgroundColor": "transparent",
-			"width": 0.9663911336105002,
-			"height": 47.771362979509604,
-			"seed": 1478072245,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626359164,
+			"updated": 1668678045724,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
-			"endBinding": {
-				"focus": 0.023481296662465807,
-				"gap": 5.940796122470886,
-				"elementId": "JLQBMIYnFbcJA5ChYMM6y"
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.9663911336105002,
-					47.771362979509604
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 5388,
-			"versionNonce": 1922999701,
-			"isDeleted": true,
-			"id": "Tumpxfo9V4I1eerhtL6as",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 2.57969569492513,
-			"x": 1622.3754350828015,
-			"y": 1392.1366958975573,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "#fff",
-			"width": 22.86765787426384,
-			"height": 36.53302869166828,
-			"seed": 28617243,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626359164,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"focus": 0.04929900753611592,
-				"gap": 4.771712786968173,
-				"elementId": "Kk8avkzA7mES5Cep-pp5N"
-			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					22.86765787426384,
-					-36.53302869166828
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 7581,
-			"versionNonce": 137882171,
-			"isDeleted": true,
-			"id": "6JZUSXjFmpHFrZlcQeNdx",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1634.2311947374374,
-			"y": 1140.12937520692,
-			"strokeColor": "#5c940d",
-			"backgroundColor": "transparent",
-			"width": 0.9744534290330193,
-			"height": 25.013890040079218,
-			"seed": 550951189,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1668626359165,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"focus": -0.021965454695081814,
-				"gap": 5.780831808721864,
-				"elementId": "fS3ShPXW6jiwCnuTVfzDT"
-			},
-			"endBinding": {
-				"focus": -0.08902931635654686,
-				"gap": 6.643443049131285,
-				"elementId": "JLQBMIYnFbcJA5ChYMM6y"
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
 			"endArrowhead": null,
 			"points": [
 				[
@@ -153911,94 +153424,2625 @@ Flytter med ^xiGjjnB0
 					0
 				],
 				[
-					0.9744534290330193,
-					-25.013890040079218
+					459.1141211731533,
+					36.7291296938522
 				]
 			]
 		},
 		{
-			"type": "text",
-			"version": 2915,
-			"versionNonce": 978045595,
-			"isDeleted": true,
-			"id": "HnoAzKaP",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
+			"id": "SfuC56qcEsGP9VNT_7sWX",
+			"type": "freedraw",
+			"x": -252.5355431664159,
+			"y": 1932.5700464713664,
+			"width": 28.79998779296875,
+			"height": 36,
 			"angle": 0,
-			"x": 1624.5451193580407,
-			"y": 1076.9516909211748,
-			"strokeColor": "#5c940d",
+			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
-			"width": 23,
-			"height": 18,
-			"seed": 527347387,
-			"groupIds": [
-				"SI2vvdCtMYNQL4VdA20cL"
-			],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1668626389978,
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1080223035,
+			"version": 14,
+			"versionNonce": 1771943163,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
 			"link": null,
 			"locked": false,
-			"fontSize": 13.344432407818116,
-			"fontFamily": 1,
-			"text": "Yes",
-			"rawText": "",
-			"baseline": 12,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Yes"
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.20001220703125,
+					-10.79998779296875
+				],
+				[
+					6,
+					-9.5999755859375
+				],
+				[
+					-3.5999755859375,
+					-2.39996337890625
+				],
+				[
+					-10.79998779296875,
+					7.20001220703125
+				],
+				[
+					-13.20001220703125,
+					15.60003662109375
+				],
+				[
+					-12,
+					24
+				],
+				[
+					-3.5999755859375,
+					25.20001220703125
+				],
+				[
+					6,
+					21.60003662109375
+				],
+				[
+					13.20001220703125,
+					14.4000244140625
+				],
+				[
+					15.5999755859375,
+					14.4000244140625
+				],
+				[
+					15.5999755859375,
+					14.4000244140625
+				]
+			],
+			"pressures": [
+				0.0881500244140625,
+				0.891815185546875,
+				0.892059326171875,
+				0.892303466796875,
+				0.892547607421875,
+				0.892791748046875,
+				0.895721435546875,
+				0.899871826171875,
+				0.883758544921875,
+				0.5816802978515625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				15.5999755859375,
+				14.4000244140625
+			]
 		},
 		{
-			"type": "ellipse",
-			"version": 3055,
-			"versionNonce": 912224981,
-			"isDeleted": true,
-			"id": "JLQBMIYnFbcJA5ChYMM6y",
+			"id": "DVQh41J6mg1blUdmLT1Pb",
+			"type": "freedraw",
+			"x": -216.5355431664159,
+			"y": 1942.1700830924601,
+			"width": 4.79998779296875,
+			"height": 6,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1773937717,
+			"version": 12,
+			"versionNonce": 1342204981,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.4000244140625,
+					4.79998779296875
+				],
+				[
+					-4.79998779296875,
+					4.79998779296875
+				],
+				[
+					-4.79998779296875,
+					1.199951171875
+				],
+				[
+					-1.20001220703125,
+					-1.20001220703125
+				],
+				[
+					0,
+					0
+				],
+				[
+					-1.20001220703125,
+					1.199951171875
+				],
+				[
+					-1.20001220703125,
+					2.39996337890625
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.26788330078125,
+				0.631744384765625,
+				0.637115478515625,
+				0.6043853759765625,
+				0.5921783447265625,
+				0.5960845947265625,
+				0.400970458984375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-1.20001220703125,
+				2.39996337890625
+			]
+		},
+		{
+			"id": "5xvQczH_uWL039NCCv7kR",
+			"type": "freedraw",
+			"x": -203.33553095938464,
+			"y": 1934.9700708854289,
+			"width": 33.5999755859375,
+			"height": 25.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1868383419,
+			"version": 19,
+			"versionNonce": 2142461339,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					3.5999755859375
+				],
+				[
+					-2.4000244140625,
+					10.79998779296875
+				],
+				[
+					-4.79998779296875,
+					21.5999755859375
+				],
+				[
+					-3.60003662109375,
+					25.20001220703125
+				],
+				[
+					7.20001220703125,
+					18
+				],
+				[
+					19.20001220703125,
+					7.20001220703125
+				],
+				[
+					21.5999755859375,
+					3.5999755859375
+				],
+				[
+					20.39996337890625,
+					6
+				],
+				[
+					15.5999755859375,
+					15.5999755859375
+				],
+				[
+					14.39996337890625,
+					25.20001220703125
+				],
+				[
+					19.20001220703125,
+					25.20001220703125
+				],
+				[
+					26.39996337890625,
+					18
+				],
+				[
+					28.79998779296875,
+					8.39996337890625
+				],
+				[
+					27.5999755859375,
+					2.39996337890625
+				],
+				[
+					27.5999755859375,
+					1.20001220703125
+				],
+				[
+					27.5999755859375,
+					1.20001220703125
+				]
+			],
+			"pressures": [
+				0.2363739013671875,
+				0.685455322265625,
+				0.75946044921875,
+				0.78558349609375,
+				0.78753662109375,
+				0.78704833984375,
+				0.78436279296875,
+				0.78216552734375,
+				0.77752685546875,
+				0.77752685546875,
+				0.77996826171875,
+				0.78411865234375,
+				0.78509521484375,
+				0.75238037109375,
+				0.3394317626953125,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				27.5999755859375,
+				1.20001220703125
+			]
+		},
+		{
+			"id": "MTHmJYTnUtacbQKc7mVUW",
+			"type": "freedraw",
+			"x": -146.9355675804784,
+			"y": 1937.3700342643351,
+			"width": 18,
+			"height": 22.79998779296875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 829139547,
+			"version": 11,
+			"versionNonce": 233774485,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-14.39996337890625,
+					-1.199951171875
+				],
+				[
+					-15.5999755859375,
+					-1.199951171875
+				],
+				[
+					-10.79998779296875,
+					-4.79998779296875
+				],
+				[
+					-3.5999755859375,
+					-13.199951171875
+				],
+				[
+					-6,
+					-18
+				],
+				[
+					-14.39996337890625,
+					-22.79998779296875
+				],
+				[
+					-18,
+					-22.79998779296875
+				],
+				[
+					-18,
+					-22.79998779296875
+				]
+			],
+			"pressures": [
+				0.1970672607421875,
+				0.631500244140625,
+				0.627105712890625,
+				0.671051025390625,
+				0.81243896484375,
+				0.8368682861328125,
+				0.7394256591796875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-18,
+				-22.79998779296875
+			]
+		},
+		{
+			"id": "_ORQWSGtmPBppAzC84iUs",
+			"type": "freedraw",
+			"x": -101.33553095938464,
+			"y": 1951.7700586783976,
+			"width": 28.79998779296875,
+			"height": 2.4000244140625,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2146357627,
+			"version": 6,
+			"versionNonce": 1649078843,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-28.79998779296875,
+					2.4000244140625
+				],
+				[
+					-28.79998779296875,
+					1.20001220703125
+				],
+				[
+					-28.79998779296875,
+					1.20001220703125
+				]
+			],
+			"pressures": [
+				0.2393035888671875,
+				0.404632568359375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-28.79998779296875,
+				1.20001220703125
+			]
+		},
+		{
+			"id": "FG7U1nnvn0OmP977CGjHq",
+			"type": "freedraw",
+			"x": -119.33553095938464,
+			"y": 1944.5700464713664,
+			"width": 3.5999755859375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1901637237,
+			"version": 6,
+			"versionNonce": 1908450037,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.39996337890625,
+					24
+				],
+				[
+					3.5999755859375,
+					24
+				],
+				[
+					3.5999755859375,
+					24
+				]
+			],
+			"pressures": [
+				0.3230743408203125,
+				0.6207427978515625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.5999755859375,
+				24
+			]
+		},
+		{
+			"id": "ppF550KxxzpURAgKmmO0H",
+			"type": "freedraw",
+			"x": -68.93550654532214,
+			"y": 1944.5700464713664,
+			"width": 39.5999755859375,
+			"height": 20.39996337890625,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1207272603,
+			"version": 15,
+			"versionNonce": 38204123,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.2000732421875,
+					-8.39996337890625
+				],
+				[
+					-9.60003662109375,
+					-7.20001220703125
+				],
+				[
+					-16.800048828125,
+					2.4000244140625
+				],
+				[
+					-14.4000244140625,
+					12
+				],
+				[
+					-4.800048828125,
+					8.4000244140625
+				],
+				[
+					3.5999755859375,
+					-3.5999755859375
+				],
+				[
+					4.7999267578125,
+					-6
+				],
+				[
+					7.199951171875,
+					3.60003662109375
+				],
+				[
+					14.4000244140625,
+					9.60003662109375
+				],
+				[
+					21.5999755859375,
+					9.60003662109375
+				],
+				[
+					22.7999267578125,
+					8.4000244140625
+				],
+				[
+					22.7999267578125,
+					8.4000244140625
+				]
+			],
+			"pressures": [
+				0.1977996826171875,
+				0.677154541015625,
+				0.678131103515625,
+				0.678619384765625,
+				0.684722900390625,
+				0.684967041015625,
+				0.671051025390625,
+				0.659332275390625,
+				0.6940155029296875,
+				0.7372283935546875,
+				0.401702880859375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				22.7999267578125,
+				8.4000244140625
+			]
+		},
+		{
+			"id": "T_CK8Bd0KSh5kdA9AGIfS",
+			"type": "freedraw",
+			"x": -2.9355065453221414,
+			"y": 1939.7700586783976,
+			"width": 25.2000732421875,
+			"height": 8.4000244140625,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1521537275,
+			"version": 7,
+			"versionNonce": 1610251349,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10.800048828125,
+					-7.20001220703125
+				],
+				[
+					-22.800048828125,
+					-8.4000244140625
+				],
+				[
+					-25.2000732421875,
+					-7.20001220703125
+				],
+				[
+					-25.2000732421875,
+					-7.20001220703125
+				]
+			],
+			"pressures": [
+				0.1191558837890625,
+				0.884490966796875,
+				0.5003662109375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-25.2000732421875,
+				-7.20001220703125
+			]
+		},
+		{
+			"id": "YJ7rvPIu1--K46AkNReq6",
+			"type": "freedraw",
+			"x": -5.335530959384641,
+			"y": 1946.9700708854289,
+			"width": 26.4000244140625,
+			"height": 9.60003662109375,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 140480219,
+			"version": 7,
+			"versionNonce": 272228219,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6,
+					-9.60003662109375
+				],
+				[
+					-21.5999755859375,
+					-4.79998779296875
+				],
+				[
+					-26.4000244140625,
+					-3.60003662109375
+				],
+				[
+					-26.4000244140625,
+					-3.60003662109375
+				]
+			],
+			"pressures": [
+				0.424407958984375,
+				0.878387451171875,
+				0.6901092529296875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-26.4000244140625,
+				-3.60003662109375
+			]
+		},
+		{
+			"id": "e_SF-XCA2e3fQ3w-2P3lS",
+			"type": "freedraw",
+			"x": 29.46451786874036,
+			"y": 1931.3700342643351,
+			"width": 27.5999755859375,
+			"height": 22.79998779296875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 107362331,
+			"version": 25,
+			"versionNonce": 804734875,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678047429,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-2.39996337890625
+				],
+				[
+					1.199951171875,
+					-2.39996337890625
+				],
+				[
+					6,
+					-3.5999755859375
+				],
+				[
+					10.7999267578125,
+					-4.79998779296875
+				],
+				[
+					16.7999267578125,
+					-4.79998779296875
+				],
+				[
+					19.199951171875,
+					-2.39996337890625
+				],
+				[
+					20.39990234375,
+					1.20001220703125
+				],
+				[
+					20.39990234375,
+					3.60003662109375
+				],
+				[
+					18,
+					9.60003662109375
+				],
+				[
+					15.5999755859375,
+					12
+				],
+				[
+					10.7999267578125,
+					15.60003662109375
+				],
+				[
+					6,
+					18
+				],
+				[
+					3.5999755859375,
+					18
+				],
+				[
+					-2.4000244140625,
+					18
+				],
+				[
+					-4.800048828125,
+					16.800048828125
+				],
+				[
+					-7.2000732421875,
+					15.60003662109375
+				],
+				[
+					-7.2000732421875,
+					13.20001220703125
+				],
+				[
+					-7.2000732421875,
+					8.4000244140625
+				],
+				[
+					-3.60009765625,
+					3.60003662109375
+				],
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.4000244140625
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.126983642578125,
+				0.6942596435546875,
+				0.891815185546875,
+				0.894500732421875,
+				0.894500732421875,
+				0.893280029296875,
+				0.892303466796875,
+				0.891082763671875,
+				0.890350341796875,
+				0.889862060546875,
+				0.890106201171875,
+				0.891082763671875,
+				0.891571044921875,
+				0.891326904296875,
+				0.890838623046875,
+				0.893035888671875,
+				0.894012451171875,
+				0.896942138671875,
+				0.898651123046875,
+				0.888641357421875,
+				0.687164306640625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0,
+				2.4000244140625
+			]
+		},
+		{
+			"id": "_ee6_WqdujOviywdq1uTQ",
+			"type": "freedraw",
+			"x": -270.5355431664159,
+			"y": 1994.9700708854289,
+			"width": 3.5999755859375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1672926101,
+			"version": 6,
+			"versionNonce": 307104123,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678048883,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.20001220703125,
+					4.79998779296875
+				],
+				[
+					-2.4000244140625,
+					15.5999755859375
+				],
+				[
+					-3.5999755859375,
+					24
+				],
+				[
+					-3.5999755859375,
+					24
+				]
+			],
+			"pressures": [
+				0.049072265625,
+				0.7169647216796875,
+				0.7023162841796875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-3.5999755859375,
+				24
+			]
+		},
+		{
+			"id": "CxL5-05qz8YVI1USaINZS",
+			"type": "freedraw",
+			"x": -282.5355431664159,
+			"y": 1994.9700708854289,
+			"width": 3.5999755859375,
+			"height": 22.79998779296875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 143499189,
+			"version": 6,
+			"versionNonce": 196187995,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678049222,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.5999755859375,
+					15.5999755859375
+				],
+				[
+					-3.5999755859375,
+					22.79998779296875
+				],
+				[
+					-3.5999755859375,
+					21.5999755859375
+				],
+				[
+					-3.5999755859375,
+					21.5999755859375
+				]
+			],
+			"pressures": [
+				0.1982879638671875,
+				0.75823974609375,
+				0.6165924072265625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-3.5999755859375,
+				21.5999755859375
+			]
+		},
+		{
+			"id": "3WV6VjSsteCtN2gq0idVK",
+			"type": "freedraw",
+			"x": -264.5355431664159,
+			"y": 2002.1700830924601,
+			"width": 24,
+			"height": 32.39996337890625,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1935302613,
+			"version": 9,
+			"versionNonce": 98913621,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678049881,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.79998779296875,
+					15.5999755859375
+				],
+				[
+					-8.4000244140625,
+					30
+				],
+				[
+					-13.20001220703125,
+					32.39996337890625
+				],
+				[
+					-16.79998779296875,
+					21.5999755859375
+				],
+				[
+					-20.4000244140625,
+					13.199951171875
+				],
+				[
+					-24,
+					12
+				],
+				[
+					-24,
+					12
+				]
+			],
+			"pressures": [
+				0.047119140625,
+				0.75677490234375,
+				0.78070068359375,
+				0.80218505859375,
+				0.8139190673828125,
+				0.6974334716796875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-24,
+				12
+			]
+		},
+		{
+			"id": "439-y-HjkEkw6pzzNS3mi",
+			"type": "freedraw",
+			"x": -241.73555537344714,
+			"y": 2100.5701075065226,
+			"width": 44.4000244140625,
+			"height": 30,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 803249787,
+			"version": 22,
+			"versionNonce": 1052830837,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678054813,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-4.800048828125
+				],
+				[
+					0,
+					-3.60003662109375
+				],
+				[
+					1.20001220703125,
+					-2.4000244140625
+				],
+				[
+					1.20001220703125,
+					-1.20001220703125
+				],
+				[
+					1.20001220703125,
+					0
+				],
+				[
+					1.20001220703125,
+					3.5999755859375
+				],
+				[
+					1.20001220703125,
+					8.39996337890625
+				],
+				[
+					1.20001220703125,
+					14.39996337890625
+				],
+				[
+					1.20001220703125,
+					19.199951171875
+				],
+				[
+					8.4000244140625,
+					25.199951171875
+				],
+				[
+					12,
+					21.5999755859375
+				],
+				[
+					16.79998779296875,
+					15.5999755859375
+				],
+				[
+					22.79998779296875,
+					1.199951171875
+				],
+				[
+					27.5999755859375,
+					24
+				],
+				[
+					33.5999755859375,
+					25.199951171875
+				],
+				[
+					34.79998779296875,
+					25.199951171875
+				],
+				[
+					37.20001220703125,
+					18
+				],
+				[
+					40.79998779296875,
+					8.39996337890625
+				],
+				[
+					44.4000244140625,
+					6
+				],
+				[
+					44.4000244140625,
+					6
+				]
+			],
+			"pressures": [
+				0.0881500244140625,
+				0.3360137939453125,
+				0.7086639404296875,
+				0.77264404296875,
+				0.78533935546875,
+				0.8427276611328125,
+				0.8446807861328125,
+				0.8522491455078125,
+				0.8612823486328125,
+				0.8642120361328125,
+				0.8642120361328125,
+				0.8642120361328125,
+				0.8637237548828125,
+				0.8634796142578125,
+				0.8607940673828125,
+				0.878387451171875,
+				0.896453857421875,
+				0.902801513671875,
+				0.8344268798828125,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				44.4000244140625,
+				6
+			]
+		},
+		{
+			"id": "q1_UQCNaRj8NB4rKOySCL",
+			"type": "freedraw",
+			"x": -157.73555537344714,
+			"y": 2107.7700586783976,
+			"width": 19.20001220703125,
+			"height": 7.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 996802907,
+			"version": 7,
+			"versionNonce": 488512315,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678055377,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.4000244140625,
+					-6
+				],
+				[
+					-8.4000244140625,
+					-4.79998779296875
+				],
+				[
+					-16.79998779296875,
+					-1.199951171875
+				],
+				[
+					-16.79998779296875,
+					1.20001220703125
+				],
+				[
+					-16.79998779296875,
+					1.20001220703125
+				]
+			],
+			"pressures": [
+				0.178497314453125,
+				0.887664794921875,
+				0.79510498046875,
+				0.3738555908203125,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-16.79998779296875,
+				1.20001220703125
+			]
+		},
+		{
+			"id": "HCqa9YuRxxGYYUDzZ1Mvb",
+			"type": "freedraw",
+			"x": -154.13557978750964,
+			"y": 2118.5701075065226,
+			"width": 20.39996337890625,
+			"height": 8.4000244140625,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1607502325,
+			"version": 6,
+			"versionNonce": 700317979,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678055691,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.79998779296875,
+					-3.60003662109375
+				],
+				[
+					-16.79998779296875,
+					-4.800048828125
+				],
+				[
+					-20.39996337890625,
+					-8.4000244140625
+				],
+				[
+					-20.39996337890625,
+					-8.4000244140625
+				]
+			],
+			"pressures": [
+				0.186309814453125,
+				0.8290557861328125,
+				0.75994873046875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-20.39996337890625,
+				-8.4000244140625
+			]
+		},
+		{
+			"id": "yNcA7gJhZZ1J0wWzSOX0G",
+			"type": "freedraw",
+			"x": -38.93556758047839,
+			"y": 2044.1700830924601,
+			"width": 82.7999267578125,
+			"height": 99.5999755859375,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1509061141,
+			"version": 28,
+			"versionNonce": 1156343259,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678057778,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-8.4000244140625,
+					-6
+				],
+				[
+					-25.199951171875,
+					-8.4000244140625
+				],
+				[
+					-36,
+					-9.5999755859375
+				],
+				[
+					-44.4000244140625,
+					-12
+				],
+				[
+					-52.7999267578125,
+					-10.79998779296875
+				],
+				[
+					-55.199951171875,
+					-12
+				],
+				[
+					-57.5999755859375,
+					-12
+				],
+				[
+					-58.7999267578125,
+					-12
+				],
+				[
+					-60,
+					-12
+				],
+				[
+					-61.199951171875,
+					-10.79998779296875
+				],
+				[
+					-60,
+					-8.4000244140625
+				],
+				[
+					-60,
+					-1.20001220703125
+				],
+				[
+					-61.199951171875,
+					12
+				],
+				[
+					-62.4000244140625,
+					30
+				],
+				[
+					-63.5999755859375,
+					50.4000244140625
+				],
+				[
+					-63.5999755859375,
+					72
+				],
+				[
+					-64.7999267578125,
+					80.4000244140625
+				],
+				[
+					-66,
+					82.79998779296875
+				],
+				[
+					-67.199951171875,
+					86.4000244140625
+				],
+				[
+					-69.5999755859375,
+					87.5999755859375
+				],
+				[
+					-70.7999267578125,
+					87.5999755859375
+				],
+				[
+					-72,
+					86.4000244140625
+				],
+				[
+					-76.7999267578125,
+					76.79998779296875
+				],
+				[
+					-80.4000244140625,
+					60
+				],
+				[
+					-82.7999267578125,
+					50.4000244140625
+				],
+				[
+					-82.7999267578125,
+					50.4000244140625
+				]
+			],
+			"pressures": [
+				0.158966064453125,
+				0.653717041015625,
+				0.653717041015625,
+				0.651275634765625,
+				0.646392822265625,
+				0.642486572265625,
+				0.632720947265625,
+				0.6236724853515625,
+				0.6248931884765625,
+				0.6197662353515625,
+				0.5736236572265625,
+				0.5469970703125,
+				0.5462646484375,
+				0.5465087890625,
+				0.5758209228515625,
+				0.6136627197265625,
+				0.6158599853515625,
+				0.6163482666015625,
+				0.6190338134765625,
+				0.645416259765625,
+				0.662261962890625,
+				0.676177978515625,
+				0.7064666748046875,
+				0.7342987060546875,
+				0.408294677734375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-82.7999267578125,
+				50.4000244140625
+			]
+		},
+		{
+			"id": "MMA7xKSjQVBA7GPg1IjHV",
+			"type": "freedraw",
+			"x": -46.13551875235339,
+			"y": 2065.7700586783976,
+			"width": 32.4000244140625,
+			"height": 28.79998779296875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 450476373,
+			"version": 13,
+			"versionNonce": 2114319765,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678058865,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10.800048828125,
+					-9.5999755859375
+				],
+				[
+					-19.2000732421875,
+					-1.199951171875
+				],
+				[
+					-22.800048828125,
+					9.60003662109375
+				],
+				[
+					-20.4000244140625,
+					19.20001220703125
+				],
+				[
+					-13.2000732421875,
+					14.4000244140625
+				],
+				[
+					-7.2000732421875,
+					7.20001220703125
+				],
+				[
+					-3.5999755859375,
+					0
+				],
+				[
+					-2.4000244140625,
+					0
+				],
+				[
+					1.199951171875,
+					8.4000244140625
+				],
+				[
+					9.5999755859375,
+					13.20001220703125
+				],
+				[
+					9.5999755859375,
+					13.20001220703125
+				]
+			],
+			"pressures": [
+				0.0901031494140625,
+				0.5587158203125,
+				0.5716705322265625,
+				0.5870513916015625,
+				0.5855865478515625,
+				0.5826568603515625,
+				0.5775299072265625,
+				0.5658111572265625,
+				0.5675201416015625,
+				0.662506103515625,
+				0.664703369140625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				9.5999755859375,
+				13.20001220703125
+			]
+		},
+		{
+			"id": "JurDTSzZfkjGyjohr_Rdo",
+			"type": "freedraw",
+			"x": -76.13551875235339,
+			"y": 2064.5701075065226,
+			"width": 13.2000732421875,
+			"height": 4.800048828125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1169005115,
+			"version": 6,
+			"versionNonce": 215482805,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678059438,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-4.800048828125
+				],
+				[
+					-6,
+					-4.800048828125
+				],
+				[
+					-13.2000732421875,
+					-4.800048828125
+				],
+				[
+					-13.2000732421875,
+					-4.800048828125
+				]
+			],
+			"pressures": [
+				0.1164703369140625,
+				0.79510498046875,
+				0.650054931640625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-13.2000732421875,
+				-4.800048828125
+			]
+		},
+		{
+			"id": "YePdtjW4cuL7eo7s6ewDC",
+			"type": "freedraw",
+			"x": -29.33559199454089,
+			"y": 2100.5701075065226,
+			"width": 58.7999267578125,
+			"height": 7.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1307172891,
+			"version": 6,
+			"versionNonce": 1684537813,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678060223,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-24,
+					-4.800048828125
+				],
+				[
+					-46.7999267578125,
+					-7.20001220703125
+				],
+				[
+					-58.7999267578125,
+					-3.60003662109375
+				],
+				[
+					-58.7999267578125,
+					-3.60003662109375
+				]
+			],
+			"pressures": [
+				0.29302978515625,
+				0.7386932373046875,
+				0.5811920166015625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-58.7999267578125,
+				-3.60003662109375
+			]
+		},
+		{
+			"id": "ZShoIY9yltNivmlnnJHWw",
+			"type": "freedraw",
+			"x": -54.53554316641589,
+			"y": 2112.5701075065226,
+			"width": 40.7999267578125,
+			"height": 37.199951171875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2003923451,
+			"version": 8,
+			"versionNonce": 1511124821,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1668678061025,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-19.199951171875,
+					19.199951171875
+				],
+				[
+					-25.199951171875,
+					34.79998779296875
+				],
+				[
+					-10.800048828125,
+					37.199951171875
+				],
+				[
+					12,
+					30
+				],
+				[
+					15.5999755859375,
+					27.5999755859375
+				],
+				[
+					15.5999755859375,
+					27.5999755859375
+				]
+			],
+			"pressures": [
+				0.132354736328125,
+				0.77166748046875,
+				0.8319854736328125,
+				0.8527374267578125,
+				0.681304931640625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				15.5999755859375,
+				27.5999755859375
+			]
+		},
+		{
+			"id": "G6pVYPOxrXFR9WY8Eke7j",
+			"type": "freedraw",
+			"x": -246.5355431664159,
+			"y": 1967.3700342643351,
+			"width": 43.199951171875,
+			"height": 38.39996337890625,
+			"angle": 0,
+			"strokeColor": "#0b7285",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 1611.5761842561283,
-			"y": 1062.383623755281,
-			"strokeColor": "#5c940d",
-			"backgroundColor": "transparent",
-			"width": 45.516056590394,
-			"height": 46.10146374329434,
-			"seed": 1462038133,
-			"groupIds": [
-				"SI2vvdCtMYNQL4VdA20cL"
-			],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "F_Uawl3STzX7deLlp64TB"
-				},
-				{
-					"type": "arrow",
-					"id": "5dhb7bWBuW8-y3AkZDtTU"
-				}
-			],
-			"updated": 1668626405074,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 703090331,
+			"version": 25,
+			"versionNonce": 1102596731,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045724,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.20001220703125,
+					-4.79998779296875
+				],
+				[
+					-3.5999755859375,
+					-7.199951171875
+				],
+				[
+					-13.20001220703125,
+					-1.199951171875
+				],
+				[
+					-19.20001220703125,
+					12
+				],
+				[
+					-21.5999755859375,
+					26.4000244140625
+				],
+				[
+					-15.5999755859375,
+					31.20001220703125
+				],
+				[
+					-2.4000244140625,
+					24
+				],
+				[
+					6,
+					10.800048828125
+				],
+				[
+					7.20001220703125,
+					7.20001220703125
+				],
+				[
+					6,
+					16.800048828125
+				],
+				[
+					6,
+					30
+				],
+				[
+					18,
+					30
+				],
+				[
+					21.5999755859375,
+					30
+				],
+				[
+					21.5999755859375,
+					30
+				]
+			],
+			"pressures": [
+				0.2192840576171875,
+				0.75799560546875,
+				0.77020263671875,
+				0.77166748046875,
+				0.77459716796875,
+				0.77899169921875,
+				0.78533935546875,
+				0.78997802734375,
+				0.79266357421875,
+				0.78363037109375,
+				0.78509521484375,
+				0.8185577392578125,
+				0.8336944580078125,
+				0.3196563720703125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				21.5999755859375,
+				30
+			]
+		},
+		{
+			"id": "Piwl7ZYBiECnbto60NSWL",
+			"type": "freedraw",
+			"x": -161.33553095938464,
+			"y": 1937.3700342643351,
+			"width": 30,
+			"height": 25.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 715308923,
+			"version": 17,
+			"versionNonce": 212070069,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-8.4000244140625,
+					8.4000244140625
+				],
+				[
+					-8.4000244140625,
+					10.800048828125
+				],
+				[
+					4.79998779296875,
+					12
+				],
+				[
+					9.5999755859375,
+					15.60003662109375
+				],
+				[
+					7.20001220703125,
+					22.800048828125
+				],
+				[
+					-3.60003662109375,
+					25.20001220703125
+				],
+				[
+					-18,
+					25.20001220703125
+				],
+				[
+					-20.4000244140625,
+					25.20001220703125
+				],
+				[
+					-20.4000244140625,
+					25.20001220703125
+				]
+			],
+			"pressures": [
+				0.27008056640625,
+				0.4481048583984375,
+				0.4825286865234375,
+				0.5467529296875,
+				0.5557861328125,
+				0.5587158203125,
+				0.5658111572265625,
+				0.28765869140625,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-20.4000244140625,
+				25.20001220703125
+			]
+		},
+		{
+			"id": "OQsmcqSOFNpggieEG1A62",
+			"type": "freedraw",
+			"x": -256.1355187523534,
+			"y": 1952.9700708854289,
+			"width": 49.20001220703125,
+			"height": 28.800048828125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 758124155,
+			"version": 27,
+			"versionNonce": 1927234331,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.39996337890625,
+					-7.20001220703125
+				],
+				[
+					2.39996337890625,
+					-8.4000244140625
+				],
+				[
+					1.199951171875,
+					-9.60003662109375
+				],
+				[
+					-6,
+					-7.20001220703125
+				],
+				[
+					-9.60003662109375,
+					-4.79998779296875
+				],
+				[
+					-13.20001220703125,
+					0
+				],
+				[
+					-15.60003662109375,
+					7.20001220703125
+				],
+				[
+					-15.60003662109375,
+					14.39996337890625
+				],
+				[
+					-12,
+					19.20001220703125
+				],
+				[
+					-2.4000244140625,
+					15.5999755859375
+				],
+				[
+					6,
+					6
+				],
+				[
+					12,
+					-3.60003662109375
+				],
+				[
+					13.199951171875,
+					-6
+				],
+				[
+					12,
+					-1.20001220703125
+				],
+				[
+					8.39996337890625,
+					12
+				],
+				[
+					13.199951171875,
+					18
+				],
+				[
+					26.39996337890625,
+					15.5999755859375
+				],
+				[
+					33.5999755859375,
+					14.39996337890625
+				],
+				[
+					33.5999755859375,
+					14.39996337890625
+				]
+			],
+			"pressures": [
+				0.025146484375,
+				0.7379608154296875,
+				0.75628662109375,
+				0.75848388671875,
+				0.75921630859375,
+				0.76068115234375,
+				0.76336669921875,
+				0.76654052734375,
+				0.76776123046875,
+				0.76922607421875,
+				0.77069091796875,
+				0.77117919921875,
+				0.77166748046875,
+				0.76629638671875,
+				0.76556396484375,
+				0.77117919921875,
+				0.80487060546875,
+				0.80804443359375,
+				0.6097564697265625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				33.5999755859375,
+				14.39996337890625
+			]
+		},
+		{
+			"id": "6yMCSs_6YFdHdxW5WtUwO",
+			"type": "freedraw",
+			"x": -244.1355187523534,
+			"y": 1938.5700464713664,
+			"width": 48,
+			"height": 31.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1243582619,
+			"version": 27,
+			"versionNonce": 536760341,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-3.5999755859375
+				],
+				[
+					-1.20001220703125,
+					-3.5999755859375
+				],
+				[
+					-4.800048828125,
+					2.4000244140625
+				],
+				[
+					-10.800048828125,
+					15.60003662109375
+				],
+				[
+					-14.4000244140625,
+					27.60003662109375
+				],
+				[
+					-8.4000244140625,
+					27.60003662109375
+				],
+				[
+					0,
+					21.60003662109375
+				],
+				[
+					8.39996337890625,
+					12
+				],
+				[
+					13.199951171875,
+					2.4000244140625
+				],
+				[
+					15.5999755859375,
+					-1.20001220703125
+				],
+				[
+					14.39996337890625,
+					3.60003662109375
+				],
+				[
+					12,
+					13.20001220703125
+				],
+				[
+					10.79998779296875,
+					21.60003662109375
+				],
+				[
+					14.39996337890625,
+					25.20001220703125
+				],
+				[
+					20.39996337890625,
+					21.60003662109375
+				],
+				[
+					28.79998779296875,
+					12
+				],
+				[
+					33.5999755859375,
+					1.20001220703125
+				],
+				[
+					33.5999755859375,
+					2.4000244140625
+				],
+				[
+					33.5999755859375,
+					2.4000244140625
+				]
+			],
+			"pressures": [
+				0.134796142578125,
+				0.684722900390625,
+				0.7198944091796875,
+				0.76409912109375,
+				0.79754638671875,
+				0.80389404296875,
+				0.80682373046875,
+				0.80657958984375,
+				0.80218505859375,
+				0.80218505859375,
+				0.80145263671875,
+				0.79144287109375,
+				0.78997802734375,
+				0.79095458984375,
+				0.79730224609375,
+				0.80169677734375,
+				0.80706787109375,
+				0.7238006591796875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				33.5999755859375,
+				2.4000244140625
+			]
+		},
+		{
+			"id": "JPxvUn3V7abP3DdceQsdh",
+			"type": "freedraw",
+			"x": -176.9355675804784,
+			"y": 1949.3700342643351,
+			"width": 21.5999755859375,
+			"height": 18,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1912951893,
+			"version": 16,
+			"versionNonce": 568207291,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-21.5999755859375,
+					1.20001220703125
+				],
+				[
+					-20.39996337890625,
+					0
+				],
+				[
+					-8.39996337890625,
+					-9.5999755859375
+				],
+				[
+					-2.39996337890625,
+					-14.39996337890625
+				],
+				[
+					-6,
+					-16.79998779296875
+				],
+				[
+					-14.39996337890625,
+					-15.5999755859375
+				],
+				[
+					-19.199951171875,
+					-14.39996337890625
+				],
+				[
+					-20.39996337890625,
+					-14.39996337890625
+				],
+				[
+					-20.39996337890625,
+					-14.39996337890625
+				]
+			],
+			"pressures": [
+				0.3157501220703125,
+				0.5850982666015625,
+				0.6034088134765625,
+				0.6224517822265625,
+				0.677642822265625,
+				0.6996307373046875,
+				0.7030487060546875,
+				0.4669036865234375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-20.39996337890625,
+				-14.39996337890625
+			]
+		},
+		{
+			"id": "GLY18j12wQ0zlOn2hUYVP",
+			"type": "freedraw",
+			"x": -136.1355187523534,
+			"y": 1952.9700708854289,
+			"width": 26.4000244140625,
+			"height": 6,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 35486363,
+			"version": 9,
+			"versionNonce": 272991605,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.79998779296875,
+					-4.79998779296875
+				],
+				[
+					-8.4000244140625,
+					-1.20001220703125
+				],
+				[
+					-21.60003662109375,
+					1.20001220703125
+				],
+				[
+					-21.60003662109375,
+					1.20001220703125
+				]
+			],
+			"pressures": [
+				0.28594970703125,
+				0.8466339111328125,
+				0.8151397705078125,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-21.60003662109375,
+				1.20001220703125
+			]
+		},
+		{
+			"id": "pQ-GwExvbittuq5UIrDF7",
+			"type": "freedraw",
+			"x": -143.33553095938464,
+			"y": 1940.9700708854289,
+			"width": 1.20001220703125,
+			"height": 31.20001220703125,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 933043323,
+			"version": 7,
+			"versionNonce": 618100827,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.20001220703125,
+					21.5999755859375
+				],
+				[
+					-1.20001220703125,
+					31.20001220703125
+				],
+				[
+					-1.20001220703125,
+					31.20001220703125
+				]
+			],
+			"pressures": [
+				0.28594970703125,
+				0.5374755859375,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-1.20001220703125,
+				31.20001220703125
+			]
+		},
+		{
+			"id": "tV06SlG5VSpWiJdVR6KpK",
+			"type": "freedraw",
+			"x": -156.5355431664159,
+			"y": 1950.5700464713664,
+			"width": 4.800048828125,
+			"height": 4.79998779296875,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 784732155,
+			"version": 16,
+			"versionNonce": 1354698453,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.20001220703125
+				],
+				[
+					1.20001220703125,
+					-1.20001220703125
+				],
+				[
+					1.20001220703125,
+					1.20001220703125
+				],
+				[
+					0,
+					2.4000244140625
+				],
+				[
+					0,
+					0
+				],
+				[
+					2.4000244140625,
+					-2.39996337890625
+				],
+				[
+					2.4000244140625,
+					1.20001220703125
+				],
+				[
+					1.20001220703125,
+					2.4000244140625
+				],
+				[
+					-1.20001220703125,
+					2.4000244140625
+				],
+				[
+					-2.4000244140625,
+					2.4000244140625
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.1150054931640625,
+				0.5860748291015625,
+				0.5941314697265625,
+				0.5650787353515625,
+				0.5396728515625,
+				0.5426025390625,
+				0.5450439453125,
+				0.5455322265625,
+				0.5474853515625,
+				0.145294189453125,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-2.4000244140625,
+				2.4000244140625
+			]
+		},
+		{
+			"id": "y4l3mb5bV-lfuu-og9xFR",
+			"type": "freedraw",
+			"x": 39.06449345467786,
+			"y": 1939.7700586783976,
+			"width": 28.7999267578125,
+			"height": 27.5999755859375,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1506580667,
+			"version": 10,
+			"versionNonce": 275917237,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1668678045725,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-13.2000732421875,
+					-8.4000244140625
+				],
+				[
+					-21.5999755859375,
+					7.20001220703125
+				],
+				[
+					-14.4000244140625,
+					15.5999755859375
+				],
+				[
+					2.4000244140625,
+					8.4000244140625
+				],
+				[
+					7.199951171875,
+					-6
+				],
+				[
+					2.4000244140625,
+					-12
+				],
+				[
+					2.4000244140625,
+					-12
+				]
+			],
+			"pressures": [
+				0.3252716064453125,
+				0.7218475341796875,
+				0.7267303466796875,
+				0.79632568359375,
+				0.878631591796875,
+				0.80340576171875,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				2.4000244140625,
+				-12
+			]
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#a61e4d",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
