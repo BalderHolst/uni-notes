@@ -50,10 +50,17 @@ $d$ :
 
 ### Impedans
 $$z_{c}=\frac{1}{j \omega C}$$
+Imdansen er $\infty$ i ved DC
 
->[!note]- Imdansen er $\infty$ i ved DC
->$$$$
+### Opladning
+$$V_{c}(t) = V_{full} \cdot e^{\frac{-\tau}{t}}$$
 
+Kondensatoren er fuldt opladt efter $5\tau$.
+
+$\tau$ kan findes således
+$$\tau = R_{T} \cdot C$$
+$R_{T}$ : [[Thevenin Ækvivalens|Theveninmodstanden]]
+$C$ : Kapacitansen
 
 ---
 #elektronik #komponent
