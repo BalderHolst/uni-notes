@@ -15,13 +15,17 @@ $I_{B}$ : Base strømmen
 $I_{C}$ : Collector strømmen
 
 ### Arbejdsområder
-#### Active
+#### Aktiv
 $$I_{C} = \beta \cdot I_{B}$$
+Det hvor transistoren fungerer som en [[Dioder|diode]].
 
-#### Saturation 
+Her **afsættes effekt**.
+
+#### Mætning
+$$R=0 \s V=0$$
 
 #### Cutoff
-
+Stor spænding; Ingen strøm.
 
 ---
 #komponent 
