@@ -28,4 +28,4 @@ $$R=0 \s V=0$$
 Stor spænding; Ingen strøm.
 
 ---
-#komponent 
+#elektronik #komponent
