@@ -7,35 +7,62 @@ $$\det(A_{}- \lambda I) = 0$$
 $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
 For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
-### Eks
-$$(A-I \lambda)\vec{x} = \vec{0}$$
 
-$$A-I \lambda = 
-\left(
-\begin{array}{cc}
- -5 & 2 \\
- 2 & -2 \\
-\end{array}
-\right)
--
-\left(
-\begin{array}{cc}
- \lambda  & 0 \\
- 0 & \lambda  \\
-\end{array}
-\right)
-$$
+>[!example]- Eksempel
+>
+>$$
+>A=
+>\left(
+>\begin{array}{cc}
+ >-5 & 2 \\
+ >2 & -2 \\
+>\end{array}
+>\right)
+>$$
+>
+>Finder $\lambda$.
+>
+>$$\det(A-\lambda I) = 0 \arrow
+>\lambda =
+>\begin{cases}
+>-1 \\
+>-6
+>\end{cases}
+>$$
+>
+>
+>For hver $\lambda$-værdi gør man dette
+>
+>$$(A-I \lambda)\vec{x} = \vec{0}$$
+>$$A-I \lambda = 
+>\left(
+>\begin{array}{cc}
+ >-5 & 2 \\
+ >2 & -2 \\
+>\end{array}
+>\right)
+>-
+>\left(
+>\begin{array}{cc}
+ >\lambda  & 0 \\
+ >0 & \lambda  \\
+>\end{array}
+>\right)
+>$$
+>
+>Ganger $\vec{x}$ ind.
+>$$\left(
+>\begin{array}{cc|c}
+ >0 & 0 & 0 \\
+ >2 & -1 & 0 \\
+>\end{array}
+>\right) 
+>\arrow
+>\begin{cases}
+>x_{1}=1 \\
+>x_{2}=2
+>\end{cases}
+>$$
 
-Ganger $\vec{x}$ ind.
-$$\left(
-\begin{array}{cc|c}
- 0 & 0 & 0 \\
- 2 & -1 & 0 \\
-\end{array}
-\right) 
-\arrow
-\begin{cases}
-x=1 \\
-x=2
-\end{cases}
-$$
+---
+#matematik #matricer 
