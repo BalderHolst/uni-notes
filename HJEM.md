@@ -3,7 +3,7 @@
 ```dataview 
 table
 file.mtime as "Redigeret"
-from "notes"
+from "/"
 sort file.mtime desc
 limit 5
 ```
