@@ -1,14 +1,17 @@
 # Den Inverse af en Matrix
+
 $$A^{-1} \cdot A = I$$
 $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
->[!note]- Udledning
->Udgangspunkt: [[Linære Ligninssystemer|ligningssystem]]
->$$A\vec{x} = \vec{b}$$
->"Dividerer med $A$" ($A^{-1}$ eksisterer kun hviss $\det(A) \neq 0$)
->$$A^{-1} \cdot A\vec{x} = A^{-1} \cdot  \vec{b}$$
->$$I\vec{x} = A^{-1} \cdot \vec{b} \arrow \vec{x} = A^{-1}\cdot \vec{b}$$
+---
 
+### Løs ligningssystem med den Inverse Matrix
+
+Udgangspunkt: [[Linære Ligninssystemer|ligningssystem]]
+$$A\vec{x} = \vec{b}$$
+"Dividerer med $A$" ($A^{-1}$ eksisterer kun hviss $\det(A) \neq 0$)
+$$A^{-1} \cdot A\vec{x} = A^{-1} \cdot  \vec{b}$$
+$$I\vec{x} = A^{-1} \cdot \vec{b} \arrow \vec{x} = A^{-1}\cdot \vec{b}$$
 ---
 
 ### At finde den Inverse
@@ -31,7 +34,7 @@ $$
  a_{31} & a_{32} & a_{33} & a_{34} & 0 & 0 & 1 & 0 \\
  a_{41} & a_{42} & a_{43} & a_{44} & 0 & 0 & 0 & 1 \\
 \end{array}
-\right) \s = \s
+\right) \s \sim \s
 \left(
 \begin{array}{cccc|cccc}
  1 & 0 & 0 & 0 & b_{11} & b_{12} & b_{13} & b_{14} \\

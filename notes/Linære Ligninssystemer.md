@@ -2,6 +2,8 @@
 > *"Vi vil gerne have noget der er linært, for så er det nemt at regne på"*
 > \- Preben
 
+Kan løses enten med [[#Den udvidede Matrix|den udvidede matrix]] eller [[Den Inverse af en Matrix#Løs ligningssystem med den Inverse Matrix|den inverse matrix]].
+
 $m$ ligninger med $n$ ubekendte.
 
 $a_{ij}$ : koefficienter
