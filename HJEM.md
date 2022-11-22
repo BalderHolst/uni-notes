@@ -1,11 +1,11 @@
 ## Seneste
-```dataview 
-table
-file.mtime as "Redigeret"
-from "notes"
-sort file.mtime desc
-limit 5
-```
+>[!box] ```dataview 
+>table
+>file.mtime as "Redigeret"
+>from "notes"
+>sort file.mtime desc
+>limit 5
+>```
 
 ---
 
