@@ -1,6 +1,6 @@
 # Rotationsmatricer
 
-$$R_{\theta}= \left( {\begin{array}{cccc} \cos{\theta} & -\sin{\theta} \\ \sin\theta & \cos{\theta} \\ \end{array} } \right)$$
+$$R_{\theta}= \left( {\begin{array}{cc} \cos{\theta} & -\sin{\theta} \\ \sin\theta & \cos{\theta} \\ \end{array} } \right)$$
 ### Rotation af Punkt
 $$p_{roteret} = R_{\theta} \bullet p \s \text{hvor} \s p = \v{x}{y}$$
 
