@@ -1,11 +1,12 @@
 ## Seneste
->[!box] ```dataview 
->table
->file.mtime as "Redigeret"
->from "notes"
->sort file.mtime desc
->limit 5
->```
+
+```dataview 
+table
+file.mtime as "Redigeret"
+from "notes"
+sort file.mtime desc
+limit 5
+```
 
 ---
 
