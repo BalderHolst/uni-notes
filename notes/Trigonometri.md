@@ -13,7 +13,7 @@ $$\cos(\theta) = \cos(-\theta)$$
 $$\sin(-\theta) = -\sin(\theta)$$
 
 ### Den med Tangens
-$$\tan^{-1}(x)= \int\frac{1}{1+y^2}dy$$
+$$\tan^{-1}(x)= \int\frac{1}{1+x^2}dx$$
 
 
 ### Additionsformler
