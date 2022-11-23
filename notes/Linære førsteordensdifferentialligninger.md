@@ -21,7 +21,7 @@ $q(x)$: en anden funktion af $x$
 Hvis $q(x) = 0$: *homogen*.
 Hvis $q(x) \ne 0$: *inhomogen*.
 
-#### Løsning
+#### Løsning (panserformlen)
 $$f(x) = e^{-P(x)} \cdot \int e^{P(x)} \cdot q(x)dx$$
 ***Husk integrationskonstanten når du integrere***
 
