@@ -6,7 +6,7 @@ $\vec{r}$ : Radius-vektor
 $\vec{v}$ : Hastighedsvektoren
 $m$ : Massen af partiklen
 
-Bevægelsesmængdemoment er ***konstant** i et isoleret system.
+Bevægelsesmængdemoment er *konstant i et isoleret system.*
 
 
 ---
