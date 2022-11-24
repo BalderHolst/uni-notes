@@ -7,7 +7,7 @@ Newtons 1. lov siger, at påvirkes et legeme ikke af en resulterende kraft, vil 
 
 ### Newtons 2. lov: Kraftloven
 
-$$F_{res} = m \cdot a$$
+$$F_{net} = m \cdot a$$
 $F_{res}$ : Den resulterende kraft.
 $m$ : Massen af objektet.
 $a$ : Accelerationen af objektet.
