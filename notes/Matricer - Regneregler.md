@@ -5,7 +5,7 @@
 ---
 $A_{n\times n}$ og $B_{n\times n}$ har benne en [[Den Inverse af en Matrix|invers]].
 
-$$(AB)^{-1} = B^{-1} \bullet A^{-1}$$
+$$(AB)^{-1} = B^{-1} \bullet A^{-1} \s \text{INVERS RÆKKEFØLGE!}$$
 
 $$\left(A^{-1}\right)^{-1} = A$$
 
