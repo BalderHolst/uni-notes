@@ -2,7 +2,7 @@
 Egenværdi $\lambda$, og ezzgenvektor $\vec{x}$.
 $$A\vec{x} = \lambda\vec{x}, \s \vec{x} \neq \vec{0}$$
 
-Opstil karakteristisk ligning
+Opstil *den karakteristiske* ligning
 $$\det(A_{}- \lambda I) = 0$$
 $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
