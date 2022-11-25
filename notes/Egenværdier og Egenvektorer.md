@@ -1,5 +1,5 @@
 # Egenværdier og Egenvektorer
-Egenværdi $\lambda$, og ezzgenvektor $\vec{x}$.
+Egenværdi $\lambda$, og egenvektor $\vec{x}$.
 $$A\vec{x} = \lambda\vec{x}, \s \vec{x} \neq \vec{0}$$
 
 Opstil *den karakteristiske* ligning
