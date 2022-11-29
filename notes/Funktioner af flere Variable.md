@@ -63,7 +63,22 @@ $$
 - [[Niveaukurver]]
 - [[Snitkurver]]
 
+### Grænseværdier
+Når $f(x)$ nærmer sig $L$ for $(x,y) \to (a,b)$ , så
+$$\lim_{(x,y)\to(a,b)}f(x) = L$$
+Hvis "omegnen" af $(a,b)$ tilhører def-mængden $Dm(f)$.
 
+a) Hver omegn af ($a$, $b$) indeholder åunkter i def-mængden $Dm(f)$.
+b) For ethvert positivt tal $\epsilon$, eksisterer der et positivt tal $\delta = \delta(\epsilon)$, således at 
+$$|f(x,y) - L| < \epsilon$$
+er sandt når ($x$, $y$) er i def-mængden for $f$ og opfylder
+$$0< \sqrt{(x-a)^{2}+(y-b)^{2}}$$
+
+#### Fremgangsmåde til Opgaveløsning
+- Kan vi komme til punktet $(a,b)$ fra forskellige sider, så skal det give det samme. 
+
+##### Eksempel
+$$\lim_{x}$$
 
 ---
 #matematik #funktioner 
