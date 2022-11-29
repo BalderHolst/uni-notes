@@ -1,4 +1,4 @@
-### [[Differentialregning|Differentiation]] af [[Funktioner af to Variable]]
+### [[Differentialregning|Differentiation]] af [[Funktioner af flere Variable]]
 ![[Differentieret funktion af to variable - plot.png|440]]
 
 **Partiels afledt:** en funktion der er differentieret *enten* med hensyn til $x$ eller $y$.

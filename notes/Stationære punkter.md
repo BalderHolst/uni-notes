@@ -1,5 +1,5 @@
 # Stationære punkter
-Et punkt på en [[Funktioner af to Variable|flade]], hvor [[Gradient|gradienten]] er lig $0$.
+Et punkt på en [[Funktioner af flere Variable|flade]], hvor [[Gradient|gradienten]] er lig $0$.
 
 dvs.
 $$\nabla f(x_0,y_0)=\v{0}{0}$$

@@ -1,5 +1,5 @@
 # Tangentplan
-I en [[Funktioner af to Variable|funktion med to variable]] kan vi ikke tegne en [[Tangent]]- linje, men i stedet et *tangentplan*. Dette tangentplan viser alle de mulige tangenter i et givent punkt.
+I en [[Funktioner af flere Variable|funktion med to variable]] kan vi ikke tegne en [[Tangent]]- linje, men i stedet et *tangentplan*. Dette tangentplan viser alle de mulige tangenter i et givent punkt.
 
 ### Formel for tangentplan
 $$z = p \cdot (x-x_0)+q \cdot (y-y_0) + z_0$$
