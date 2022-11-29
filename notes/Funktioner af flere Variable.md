@@ -33,15 +33,31 @@ Funktionsværdien ($f(x,y)$) hedder som udgangspunkt $z$.
 >
 
 ### Definitionsmængde
-Eksempel funktion
-$$f(x,y)=x \cdot y$$
-Definitionsmængden
-$$Dm(f) = \R \times \R$$
-Eksempel 2:
-$$g(x,y)=\sqrt{x} \cdot y$$
-$$dm(d)=[0;\infty[ \:\times\: \R$$
+
+$$Dm(f(x_{1}, x_{2}, \dots, x_{n})) = \R^{n}\rightarrow \R$$
+
+
+>[!example]- Eksempel med funktion
+>$$f(x,y)=x \cdot y$$
+>Definitionsmængden
+>$$Dm(f) = \R \times \R$$
+>Eksempel 2:
+>$$g(x,y)=\sqrt{x} \cdot y$$
+>$$dm(d)=[0;\infty[ \:\times\: \R$$
+
 ### Plot 
 Funktioner af to variable skal tegnes i **3 dimensioner**
+
+>[!Example]- Eksempel med Tabel
+>$$
+>\begin{array}{c|cccccc}
+ x & 0 & 0 & 0 & 3 & \sqrt{3} & \sqrt{3} \\
+ \hline
+ y & 0 & -3 & 3 & 0 & -\sqrt{3} & \sqrt{3} \\
+ \hline
+ z & 3 & 0 & 0 & 0 & \sqrt{3} & \sqrt{3} \\
+\end{array}
+$$
 
 ### Skæringer med fladen
 - [[Niveaukurver]]

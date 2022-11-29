@@ -13,7 +13,9 @@ eller
 $$Ax + By + Cz + D = 0  \s \text{hvor } D = Ax_0 + By_0 + Cz_0$$
 
 ### Omskrivning til [[Funktioner af flere Variable|funktion at to variable]]
-$$Ax + By + Cz + D = 0 \arrow z = - \frac{A}{C}$$
+$$Ax + By + Cz + D = 0 \arrow z = - \frac{A}{C} x - \frac{B}{C} y - \frac{D}{C}$$
+Dette må betyde at funktionen skal være på formen
+$$z=\alpha x + \beta y + \gamma $$
 
 ---
 #matematik 
