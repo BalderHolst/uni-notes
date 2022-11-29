@@ -73,11 +73,13 @@ b) For ethvert positivt tal $\epsilon$, eksisterer der et positivt tal $\delta =
 $$|f(x,y) - L| < \epsilon$$
 
 er sandt når ($x$, $y$) er i def-mængden for $f$ og opfylder
-$$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$$
+$$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
 
 
 #### Fremgangsmåde til Opgaveløsning
-- Kan vi komme til punktet $(a,b)$ fra forskellige sider, så skal det give det samme. 
+
+##### Vis at Grænseværdien IKKE eksisterer
+Kan vi komme til punktet $(a,b)$ fra forskellige sider, så skal det give det samme. Ellers eksisterer grænseværdien ikke.
 
 >[!Example]- Eksempel
 >$$\lim_{(x,y)\to(0,0)} = \frac{2xy}{x^2+y^2}$$
@@ -89,6 +91,12 @@ $$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$$
 >$$f(x,x^{2}) = \frac{2xx^{2}}{x^{2}+x^{2^{2}}} = \frac{2x}{1+x^{2}}= \frac{2}{\frac{1}{x} + x} = 0$$
 >
 >Da disse svar ikke er det samme, har punktet $(0,0)$ ikke defineret.
+
+##### Vis at Grænseværdien EKSISTERER
+Relater $\epsilon$ og $\delta$ med formlerne
+$$|f(x,y) - L| < \epsilon$$
+og
+$$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
 
 ---
 #matematik #funktioner 

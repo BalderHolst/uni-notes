@@ -52,7 +52,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >\right)
 >$$
 >
->Ganger $\vec{x}$ ind.
+>Ganger $\vec{x}$ ind og bruger den første egenværdi ($\lambda_{1}$).
 >$$\left(
 >\begin{array}{cc|c}
  >0 & 0 & 0 \\
@@ -65,6 +65,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >x_{2}=2
 >\end{cases}
 >$$
+>Det samme gøres med den anden egenværdi.
 
 ---
 #matematik #matricer 
