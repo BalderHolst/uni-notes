@@ -1,6 +1,8 @@
 # Transistorer
 >En lille strøm styrer en meget større strøm
 
+Kan forstærke *strømme* hvor [[Operationsforstærker|operationsforstærkere]] forstærker spænding.
+
 ### Karakteristikker
 - Ideel
 - Praktisk
@@ -16,7 +18,9 @@ $I_{C}$ : Collector strømmen
 
 ### Arbejdsområder
 #### Aktiv
-$$I_{C} = \beta \cdot I_{B}$$
+$$\beta = \frac{I_{C}}{I_{B}} \arrows I_{C} = \beta \cdot I_{B}$$
+$\beta$ : Forstærkningen (af strømmen)
+
 Det hvor transistoren fungerer som en [[Dioder|diode]].
 
 Her **afsættes effekt**.
