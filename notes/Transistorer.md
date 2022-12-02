@@ -1,6 +1,8 @@
 # Transistorer
 >En lille strøm styrer en meget større strøm
 
+![|500](http://hades.mech.northwestern.edu/images/a/ad/Npn_transistor_diagram.gif)
+
 Kan forstærke *strømme* hvor [[Operationsforstærker|operationsforstærkere]] forstærker spænding.
 
 ### Karakteristikker
