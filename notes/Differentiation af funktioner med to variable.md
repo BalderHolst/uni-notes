@@ -56,5 +56,37 @@ $$f_{xy}'(x,y)$$
 >
 >
 
+
 ---
-#matematik #differentialer #funktionerafflerevariable
+
+#### Kædereglen
+
+$$\frac{d}{dt}  f(u(t),v(t)) = \frac{\partial d}{\partial u} \frac{du}{dt} + \frac{\partial f}{\partial v} \frac{dv}{dt}$$
+MEN nu er det $u(s,t)$ og $v(s,t)$
+$$
+\begin{align}
+\frac{\partial f}{\partial s} &= \frac{\partial f}{\partial u} \frac{\partial u}{\partial s} + \frac{\partial f}{\partial v} \frac{\partial v}{\partial s} 
+\\ \\
+\frac{\partial f}{\partial t} &= \frac{\partial f}{\partial u} \frac{\partial u}{\partial t} + \frac{\partial f}{\partial v} \frac{\partial v}{\partial t} 
+\end{align}
+$$
+
+Kan også skrives på matriceform:
+$$
+\left(
+\begin{array}{cc}
+ \frac{\partial f}{\partial s} & \frac{\partial f}{\partial t} \\
+\end{array}
+\right) 
+=
+\left(
+\begin{array}{cc}
+ \frac{\partial f}{\partial u} & \frac{\partial f}{\partial v} \\
+\end{array}
+\right)
+
+$$
+
+
+---
+#matematik #differentialer #multivariabelmatematik

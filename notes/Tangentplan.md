@@ -24,4 +24,4 @@ $f_x'(x,y)$: funktionen [[Differentiation af funktioner med to variable|differen
 $f_y'(x,y)$: funktionen [[Differentiation af funktioner med to variable|differentieret]] med hensyn til $y$
 
 ---
-#matematik #funktionerafflerevariable 
+#matematik #multivariabelmatematik 
