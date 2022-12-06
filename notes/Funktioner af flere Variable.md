@@ -75,6 +75,16 @@ $$|f(x,y) - L| < \epsilon$$
 er sandt når ($x$, $y$) er i def-mængden for $f$ og opfylder
 $$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
 
+En grænseværdi *eksisterer hvis den findes en relation* mellem $\delta$ og $\epsilon$.
+$$\delta = f(\epsilon)$$
+
+
+>[!tip]- God ide
+>$$y^{2} \leq x^{2} + y^{2}$$
+>Måske
+>$$\delta = \epsilon $$
+
+
 
 #### Fremgangsmåde til Opgaveløsning
 
