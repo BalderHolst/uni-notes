@@ -1,7 +1,19 @@
-# Tangentplan
+# Tangentplan og Normaler
 I en [[Funktioner af flere Variable|funktion med to variable]] kan vi ikke tegne en [[Tangent]]- linje, men i stedet et *tangentplan*. Dette tangentplan viser alle de mulige tangenter i et givent punkt.
 
-### Formel for tangentplan
+Dette er tangentplanet til punktet $(a,b,f(a,b))$.
+$$z = f(a,b) + f'_{a}(a,b)(x-a) + f'_{b}(a,b)(y-b)$$
+
+
+### Normalvektor til tangentplanet
+$$\vec{n} = \vt{f'_{x}(x,y)}{f'_{y}(x,y)}{-1}$$
+
+### Normallinjen
+$$\frac{x-a}{f'_{a}(a,b)} = \frac{y-b}{f'_{b}(a,b)} = \frac{z-f(a,b)}{-1}$$
+Begge ligheder *skal* være sande.
+
+
+### Funktion for tangentplan (fra Gym)
 $$z = p \cdot (x-x_0)+q \cdot (y-y_0) + z_0$$
 hvor...
 $$p=f_x'(x_0,y_0) \s\text{og}\s q=f_y'(x_0,y_0)$$
