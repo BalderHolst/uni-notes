@@ -1,19 +1,51 @@
-### [[Differentialregning|Differentiation]] af [[Funktioner af flere Variable]]
-![[Differentieret funktion af to variable - plot.png|440]]
+# [[Differentialregning|Differentiation]] af [[Funktioner af flere Variable]] / Partielle Afledte
+Lad $f(x,y)$ være en funktion, så er  førsteordens partielle afledte:
+$$
+\begin{align}
+\frac{\partial f}{\partial x} &= f_{1}(x,y) = \frac{f(x+h_{1} \cdot  y)-f(x,y)}{h}\\
+\frac{\partial f}{\partial x} &= f_{2}(x,y) = \frac{f(x+h_{2} \cdot  y)-f(x,y)}{h}
+\end{align}
+$$
+
+---
+
+
 
 **Partiels afledt:** en funktion der er differentieret *enten* med hensyn til $x$ eller $y$.
 
-##### Skrivemåde
-Differentieret med hensyn til $x$: $f_x'(x,y)$ (hældningen i $x$-retningen given $x$ og $y$)
-Differentieret med hensyn til $y$: $f_y'(x,y)$ (hældningen i $y$-retningen given $x$ og $y$)
+### Praksis
+$$
+\begin{align}
 
-**Dobbeltafledt**:
+\frac{\partial f}{\partial x} &\s \to \s
+\begin{cases}
+\text{Opfat $x$ som \emph{variabel}} \\
+\text{Opfat $y$ som \textbf{konstant}}
+\end{cases} \s \to \s \text{Differentier i forhold til $x$}
+\\ \\
+\frac{\partial f}{\partial y} &\s \to \s
+\begin{cases}
+\text{Opfat $x$ som \textbf{konstant}} \\
+\text{Opfat $y$ som   \emph{variabel}}
+\end{cases} \s \to \s \text{Differentier i forhold til $y$}
+
+\end{align}
+$$
+![[Differentieret funktion af to variable - plot.png|center|400]]
+
+---
+
+### Skrivemåde
+Differentieret med hensyn til $x$: $f_x'(x,y)$ (hældningen i $x$-retningen given $x$ og $y$)
+
+
+#### Dobbeltafledt
 $$f_{xy}'(x,y)$$
 *Rækkefølgen er ligegyldig*
 
 
 
->[!Note]- Eksempel
+>[!Example]- Eksempel
 >
 >Bestem $f_x'(x,y)$ og $f_y'(x,y)$, når $f(x,y)=x^2+x \cdot y+\frac{y}{3}-8$ 
 >
@@ -25,4 +57,4 @@ $$f_{xy}'(x,y)$$
 >
 
 ---
-#matematik
+#matematik #differentialer #funktionerafflerevariable
