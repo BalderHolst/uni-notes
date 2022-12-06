@@ -32,6 +32,18 @@ Funktionsværdien ($f(x,y)$) hedder som udgangspunkt $z$.
 >![[Differentiation af funktioner med to variable]]
 >
 
+---
+
+## Noter
+```dataview 
+list
+from #funktionafflerevariable  
+sort file.name
+```
+
+---
+
+
 ### Definitionsmængde
 
 $$Dm(f(x_{1}, x_{2}, \dots, x_{n})) = \R^{n}\rightarrow \R$$
@@ -58,10 +70,6 @@ Funktioner af to variable skal tegnes i **3 dimensioner**
  z & 3 & 0 & 0 & 0 & \sqrt{3} & \sqrt{3} \\
 \end{array}
 >$$
-
-### Skæringer med fladen
-- [[Niveaukurver]]
-- [[Snitkurver]]
 
 ### Grænseværdier
 Når $f(x)$ nærmer sig $L$ for $(x,y) \to (a,b)$ , så
@@ -109,4 +117,4 @@ og
 $$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
 
 ---
-#matematik #funktioner 
+#matematik #funktioner #emne 

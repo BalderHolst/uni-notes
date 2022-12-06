@@ -13,4 +13,4 @@ $$z=3y+1$$
 Denne funktion viser relationen mellem $y$ og $z$, hvis $x$ er konstant.
 
 ---
-#matematik 
+#matematik #funktionafflerevariable 

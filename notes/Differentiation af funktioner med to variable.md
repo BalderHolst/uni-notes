@@ -71,7 +71,7 @@ $$
 \end{align}
 $$
 
-Kan også skrives på matriceform:
+Kan også skrives på [[Matricer|matriceform]]:
 $$
 \left(
 \begin{array}{cc}
@@ -85,8 +85,14 @@ $$
 \end{array}
 \right)
 
+\left(
+\begin{array}{cc}
+ \frac{\partial u}{\partial s} & \frac{\partial u}{\partial t} \\
+ \frac{\partial v}{\partial s} & \frac{\partial v}{\partial t} \\
+\end{array}
+\right)
 $$
 
 
 ---
-#matematik #differentialer #multivariabelmatematik
+#matematik #differentialer #funktionafflerevariable

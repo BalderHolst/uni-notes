@@ -5,4 +5,4 @@
  $$\nabla f(x_0,y_0)=\v{f_x'(x_0,y_0)}{f_y'(x_0,y_0)}$$
 
 ---
-#matematik
+#matematik #funktionafflerevariable 

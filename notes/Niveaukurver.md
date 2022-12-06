@@ -14,4 +14,4 @@ Skæringen mellem disse flader, er *niveaukurven*
 
 
 ---
-#matematik 
+#matematik #funktionafflerevariable 
