@@ -15,6 +15,8 @@ Vi bruger denne tangent i stedet for den komplicerede funktion, til at estimere 
 >
 >$$L(26)=5+\frac{1}{10} (26-25)=5+ \frac{1}{10}=5.1 \arrow \sqrt{26} \approx 5.1$$
 
+---
+
 ## Fejlvurdering
 
 $$
@@ -26,9 +28,13 @@ $$
 
 Vi kan ikke vinde denne sandeværdi ($f(x)$).
 
-#### Sætning
+##### Sætning
 Hvis $f''(x)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, så eksisterer der et punkt $s$ mellem $a$ og $x$, således at
 $$E(x)= \frac{f''(s)}{2}(a-x)^{2}$$
 
+Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimerer altså $|f''(s)|$.
+
+Hvis $|f''(s) \leq k|$ for alle $s \in \, ]a,x[$, så er $|E(x)| \leq \frac{k}{2}(x-a)^{2}$.
+
 ---
-#matematik 
+#matematik #differentialer 
