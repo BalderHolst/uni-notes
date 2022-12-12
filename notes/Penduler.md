@@ -1,7 +1,7 @@
 # Penduler
 
 >[!warning] Fejl i penduler
->De fleste pendul-modeller er [[Linarisering|linariserede]]. Der er derfor en større og større fejl som $\theta$ øges. Fejlen kan aflæses på [[Lektion 10-FYS1_2022.pdf#page=18|dette]] slide. 
+>De fleste pendul-modeller er [[notes/Linarisering|linariserede]]. Der er derfor en større og større fejl som $\theta$ øges. Fejlen kan aflæses på [[Lektion 10-FYS1_2022.pdf#page=18|dette]] slide. 
 
 >[!note]- Matematisk vs. Fysisk pendul
 >[[Lektion 10-FYS1_2022.pdf#page=14]]
@@ -30,7 +30,7 @@ $\theta$ : Vinkel fra lodret
 
 
 
-Dette er [[Linarisering|linariseret]]. Det virker derfor bedst for små $\theta$.
+Dette er [[notes/Linarisering|linariseret]]. Det virker derfor bedst for små $\theta$.
 $$\alpha = \frac{r \cdot M \cdot g}{I} \cdot \theta $$
 
 ##### Perioden
