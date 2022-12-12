@@ -34,7 +34,7 @@ $$E(x)= \frac{f''(s)}{2}(a-x)^{2}$$
 
 Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimerer altså $|f''(s)|$.
 
-Hvis $|f''(s) \leq k|$ for alle $s \in \, ]a,x[$, så er $|E(x)| \leq \frac{k}{2}(x-a)^{2}$.
+Hvis $|f''(s) \leq k|$ for alle $s \in \, ]a;x[$, så er $|E(x)| \leq \frac{k}{2}(x-a)^{2}$.
 
 ---
 #matematik #differentialer 
