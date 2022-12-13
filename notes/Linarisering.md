@@ -62,7 +62,7 @@ Vi kan ikke vinde denne sandeværdi ($f(x)$).
 
 ##### Sætning
 Hvis $f''(x)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, så eksisterer der et punkt $s$ mellem $a$ og $x$, således at
-$$E(x)= \frac{f''(s)}{2}(a-x)^{2} \s s\in \, ]a,x[$$
+$$E(x)= \frac{f''(s)}{2}(x-a)^{2} \s s\in \, ]a,x[$$
 
 Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimerer altså $|f''(s)|$.
 
