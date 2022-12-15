@@ -121,7 +121,8 @@ z^n = r^n \cdot (\cos(\theta) + i \cdot \sin(\theta))^n &\arrow \text{Flere løs
 z^n = r^n \cdot (\cos(n\theta) + i \cdot \sin(n\theta)) &\arrow \text{Én løsning}
 \end{align}
 $$
-$\theta$ : Argumentet
+$r$ : Modulus for løsningerne
+$\theta$ : Argumentet for løsningerne
 
 ##### Løs en ligningen
 1. Omskriv til [[#Polær Form]] (den med $\cos$ og $\sin$) - Husk at lægge en $+ 2\pi p$ på inputne til $\cos$ og $\sin$. ($p \in \Z$)
