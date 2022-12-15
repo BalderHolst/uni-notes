@@ -121,7 +121,10 @@ z^n = r^n \cdot (\cos(\theta) + i \cdot \sin(\theta))^n &\arrow \text{Flere løs
 z^n = r^n \cdot (\cos(n\theta) + i \cdot \sin(n\theta)) &\arrow \text{Én løsning}
 \end{align}
 $$
-$r$  : længden til løsningen fra orego i det komplekse plan
+$\theta$ : Argumentet
+
+##### Løs en ligningen
+
 
 
 >[!Example]- Opgaver med de Moivre's Formel
