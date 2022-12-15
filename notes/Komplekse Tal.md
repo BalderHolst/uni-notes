@@ -124,7 +124,9 @@ $$
 $\theta$ : Argumentet
 
 ##### Løs en ligningen
-
+1. Omskriv til [[#Polær Form]] (den med $\cos$ og $\sin$) - Husk at lægge en $+ 2\pi p$ på inputne til $\cos$ og $\sin$. ($p \in \Z$)
+2. find $r$ og find relation mellem inputene til $\sin$ og $\cos$ i de to ligninger.
+3. Sæt værdier ind for $p$ og find de fire løsning.
 
 
 >[!Example]- Opgaver med de Moivre's Formel
