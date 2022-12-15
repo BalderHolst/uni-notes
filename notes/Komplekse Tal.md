@@ -52,7 +52,7 @@ $$ = ac + i^2bd + i(ac+bc)$$
 Vi indfører $i^2 \rightarrow -1$
 
 Dette er altså udtrykket
-$$z_1 \cdot z_2 = ac - bd + i(ac+bc)$$
+$$z_1 \cdot z_2 = ac - bd + i(ad+bc)$$
 
 ##### Multiplikation med [[#den kompleks konjugerede]]
 $$z_1 \cdot  \bar{z_1} = (a+ib)(a-ib) = a^2 - i^2b^2 - \c{aib} + \c{aib} = a^2 + b^2$$
