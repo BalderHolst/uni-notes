@@ -5,6 +5,8 @@ $a$: $x$-værdien i punktet .
 
 Vi bruger denne tangent i stedet for den komplicerede funktion, til at estimere funktionen (bedst omkring punktet).
 
+Dette er et førstegrads [[Taylorpolynomium]]
+
 >[!example]- Eksempel
 >Bestem en approksimativ værdi at $\sqrt{26}$ vha. linarisering af $f(x) = \sqrt{x}$ omkring $x=25$.
 >$$f'(x) = \frac{1}{2\sqrt{x}}$$
@@ -60,13 +62,22 @@ $$
 
 Vi kan ikke vinde denne sandeværdi ($f(x)$).
 
+Derfor bruger vi disse formler til at finde den maksimale fejl i intervallet
+$$
+\begin{align}
+|f''(s)| &\leq k \s s \in \, ]a;x[ \\ \\
+|E(x)| &\leq \frac{k}{2}(x-a)^{2}
+\end{align}
+$$
+
 ##### Sætning
 Hvis $f''(x)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, så eksisterer der et punkt $s$ mellem $a$ og $x$, således at
 $$E(x)= \frac{f''(s)}{2}(x-a)^{2} \s s\in \, ]a,x[$$
 
+Dette er en **lorteformel** og den kan ikke anvendes.
+
 Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimerer altså $|f''(s)|$.
 
-Hvis $|f''(s)| \leq k$ for alle $s \in \, ]a;x[$, så er $|E(x)| \leq \frac{k}{2}(x-a)^{2}$.
 
 ---
 #matematik #differentialer 
