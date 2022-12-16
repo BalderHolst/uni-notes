@@ -12,16 +12,5 @@ $$\vec{n} = \vt{f'_{x}(x,y)}{f'_{y}(x,y)}{-1}$$
 $$\frac{x-a}{f'_{a}(a,b)} = \frac{y-b}{f'_{b}(a,b)} = \frac{z-f(a,b)}{-1}$$
 Begge ligheder *skal* være sande.
 
-
-### Funktion for tangentplan (fra Gym)
-$$z = p \cdot (x-x_0)+q \cdot (y-y_0) + z_0$$
-hvor...
-$$p=f_x'(x_0,y_0) \s\text{og}\s q=f_y'(x_0,y_0)$$
-$x_0$: punktets $x$-koordinat
-$y_0$: punktets $y$-koordinat
-$z_0$: punktets $z$-koordinat
-$f_x'(x,y)$: funktionen [[Differentiation af funktioner med to variable|differentieret]] med hensyn til $x$
-$f_y'(x,y)$: funktionen [[Differentiation af funktioner med to variable|differentieret]] med hensyn til $y$
-
 ---
 #matematik #funktionafflerevariable 
