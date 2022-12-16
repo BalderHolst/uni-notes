@@ -40,4 +40,4 @@ $$E_{n}(x) = \frac{|f^{(n+1)}(s)|}{(n+1)!}(x-a)^{n+1} \s s \in \,]a,x[$$
 >Fejlen er positiv
 
 ---
-#matematik 
+#matematik #approximation

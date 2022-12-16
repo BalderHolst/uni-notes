@@ -89,4 +89,4 @@ Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimer
 
 
 ---
-#matematik #differentialer 
+#matematik #differentialer #approximation
