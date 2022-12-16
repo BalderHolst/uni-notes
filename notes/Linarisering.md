@@ -64,10 +64,10 @@ Vi kan ikke vinde denne sandeværdi ($f(x)$).
 
 Derfor bruger vi disse formler til at finde den maksimale fejl i intervallet
 $$
-\begin{align}
+\begin{cases}
 |f''(s)| &\leq k \s s \in \, ]a;x[ \\ \\
 |E(x)| &\leq \frac{k}{2}(x-a)^{2}
-\end{align}
+\end{cases} \arrow |E(x)| 
 $$
 
 ##### Sætning
