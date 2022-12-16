@@ -65,8 +65,8 @@ $$|\vec{a}| = \sqrt{\sum _{i=1}^n a_i^2}$$
 
 ##### Scalar Projektion
 ![|center|400](http://lh4.ggpht.com/-rRaMje7-pyw/TiaX5_6ae2I/AAAAAAAAAqQ/mSoHIfkFeyA/image_thumb19.png?imgmax=800)
-Projection af $\vec{u}$ på $\vec{v}$.
-$$s = \vec{u} \cdot \frac{\vec{v}}{|\vec{v}|} = |\vec{u} | \cdot \cos \theta $$
+Projection af $\vec{u}$ på $\vec{v}$. Dvs. $\vec{u}$ i $\vec{v}$'s retning. 
+$$s = \vec{u} \bullet \frac{\vec{v}}{|\vec{v}|} = |\vec{u} | \cdot \cos \theta $$
 $\theta$: angle between $b$ and $a$
 
 ##### Vektor projektion
