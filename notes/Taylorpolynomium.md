@@ -7,6 +7,13 @@ $$P_{n}(x) = f(a) + \frac{f'(a)}{1!}(x-a)^{1}+ \frac{f''(a)}{2!}(x-a)^{2}+ \dots
 Hvis man tager nok led med kan man i ***nogle*** tilfælde finde et præcist udtryk for funktionen.
 
 ## Fejlvurdering (Taylors Sætning)
+
+##### Maksimal fejl
+$$|E(x)| \leq \frac{|f^{(n+1)}(s_{maks})|}{(n+1)!}(x-a)^{n+1}$$
+##### Fortegn for fejl
+Check fortegnet på $|f^{(n+1)}(s)| \cdot (x-a)^{n+1}$. 
+
+##### Generel formel
 Hvis $f^{(n+1)}(t)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, og hvis $P_{n}$ er et $n$'te grad polynomium $P_{n}(x)$ for $f(x)$ omkring $x=a$, så er
 $$E_{n}(x) = \frac{|f^{(n+1)}(s)|}{(n+1)!}(x-a)^{n+1} \s s \in \,]a,x[$$
 #### Metode
