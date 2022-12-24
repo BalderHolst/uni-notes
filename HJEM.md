@@ -1,4 +1,4 @@
-G## Seneste
+## Seneste
 
 ```dataview 
 table
