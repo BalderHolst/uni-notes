@@ -20,7 +20,7 @@ $$\theta(t) = \theta_{0} + \omega_{0} \cdot t$$
 
 ### Vinkelacceleration
 Igen kan vinkelhastigheden differentieres for at få vinkelaccelerationen.
-$$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\alpha} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat{\alpha}$$
+$$\vec{\alpha} = \frac{d \omega(t)}{dt} \cdot \hat{\omega} = \frac{d^{2} \theta}{dt^{2}} \cdot \hat{\omega}$$
 
 [[De kinematiske ligninger]] kan også anvendes til rotation. ([[Lektion 09-FYS__RT_E22.pdf#page=3|slide]]) 
 $$
@@ -62,6 +62,7 @@ Et objekts [[Kinetisk Energi|kinetiske energi]] i cirkelbevægelse.
 
 $$K= \frac{1}{2} \cdot I \cdot \omega^2$$
 $I$ : [[Inertimoment]]
+
 
 ##### Rotations[[arbejde]] ([[Lektion 09-FYS__RT_E22.pdf#page=19|slide]])
 $$\Delta K = K_{f}- K_{i}$$

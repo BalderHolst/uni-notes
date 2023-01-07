@@ -10,6 +10,7 @@
 
 ### Matematisk pendul
 Objektet er en punktmasse.
+$$\theta = \theta_{0} \cdot \sin(\omega t + \delta)$$
 
 $$\omega = \sqrt{\frac{g}{l}}$$
 $g$ : [[Tyngdeaccelerationen]]
@@ -33,10 +34,21 @@ $\theta$ : Vinkel fra lodret
 Dette er [[notes/Linarisering|linariseret]]. Det virker derfor bedst for små $\theta$.
 $$\alpha = \frac{r \cdot M \cdot g}{I} \cdot \theta $$
 
-##### Perioden
+#### Perioden
 $$T_{fys}= 2\pi\sqrt{\frac{I}{Mgr}} = 2\pi\sqrt{\frac{l_{RP}}{g}} \s \text{hvor } l_{RP}= \frac{I}{Mr}$$
 $l_{RP}$ : Reduceret pendullængde
 $I$ : [[Inertimoment]]
+$r$ : Distance fra aksen til pendulets [[Massemidtpunkt|massemidtpunkt]]
+
+#### Energi
+
+##### Kinetisk energi
+$$K(\theta) = \frac{1}{2}mv^2 = \frac{1}{2}m\left( r \cdot \frac{d \theta (t)}{dt} \right)^2 $$
+##### Potentiel Energi
+$$U(\theta) = mgh = mgl \cdot(1-\cos(\theta))$$
+Bruger en første ordens [[taylorpolynomium|taylorrække]] for at estimere $\cos(\theta)$.
+$$\cos(\theta) \approxeq 1 - \frac{\theta^{2}}{2} \arrow U(\theta) = mgl\cdot\left(1-1+\frac{\theta^{2}}{2}\right)$$
+$$\Rightarrow \hspace{5mm} U(\theta) = \frac{1}{2}mgl\theta^2$$
 
 ---
 #fysik 

@@ -70,6 +70,10 @@ $$
 |E(x)| &\leq \frac{k}{2}(x-a)^{2}
 \end{cases} \arrow |E(x)| \leq \frac{|f''(s_{maks})|}{2}(x-a)^2
 $$
+$|E(x)|$ : Størrelsen på fejlen
+$s_{maks}$ : Den $s$-værdi, der resulterer i den største $|f''(s)|$, hvor $s$ ligger i intervallet $[x,a]$ eller $[a,x]$.
+$a$ : $x$-værdien som $f(x)$ er linariseret omkring.
+
 
 #### Fortegn
 $$
