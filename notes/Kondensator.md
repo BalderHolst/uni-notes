@@ -27,12 +27,12 @@ $R_T$ : [[Thevenin Ækvivalens|Thevenin Modstanden]]
 $C$ : Kapacitansen 
 
 ##### Opladning
-$$V(t)=V_{maks} \cdot (1-e^{\frac{-t}{\tau}})$$
-$A$ : Spændingen ved fuld opladning.
+$$V(t)=V_{maks} \cdot e^{\frac{-t}{\tau}}$$
+$V_{maks}$ : Spændingen ved fuld opladning.
 
 ##### Afladning 
-$$V(t) = V_{start} \cdot e^{\frac{-t}{\tau}}$$
-$B$ : Startspændingen.
+$$V(t) = V_{start} \cdot (1 - e^{\frac{-t}{\tau}})$$
+$V_{start}$ : Startspændingen.
 
 ### Arbejdet
 $$W_C= \frac{1}{2} \cdot C \cdot V_C^2$$
