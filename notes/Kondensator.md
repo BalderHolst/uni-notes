@@ -13,7 +13,7 @@ $C$ : Kapacitansen $\frac{\text{C}}{\text{v}}$.
 $Q$ : [[Ladning]] i kondensatoren.
 $V_c$ : Spænding over kondensatoren. 
 
-Hvis man [[Integraler|integrerer]] kan man finde strømmen.
+Hvis man [[Differentialregning|differentierer]] kan man finde strømmen.
 $$I_c = C \cdot \frac{dV_c}{dt}$$
 $I_c$ : Strømmen gennem kondensatoren.
 
@@ -27,11 +27,11 @@ $R_T$ : [[Thevenin Ækvivalens|Thevenin Modstanden]]
 $C$ : Kapacitansen 
 
 ##### Opladning
-$$f(t)=A \cdot (1-e^{\frac{-t}{\tau}})$$
+$$V(t)=V_{maks} \cdot (1-e^{\frac{-t}{\tau}})$$
 $A$ : Spændingen ved fuld opladning.
 
 ##### Afladning 
-$$g(t) = B \cdot e^{\frac{-t}{\tau}}$$
+$$V(t) = V_{start} \cdot e^{\frac{-t}{\tau}}$$
 $B$ : Startspændingen.
 
 ### Arbejdet
