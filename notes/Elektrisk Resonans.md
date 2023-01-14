@@ -1,7 +1,6 @@
 # Elektrisk Resonans
 Når den imaginære del af [[Impedans|impedansen]] er $0$.
 
-
 ## Serieresonans
 $$Z_{s}=R+j \left(\omega L - \frac{1}{\omega C}\right) \s \text{hvor} \s \omega L - \frac{1}{\omega C} = 0 \arrow Z_{s} = R$$
 ![|center|300](https://web.njit.edu/~gilhc/ECE291/images/291-8-2.gif)
