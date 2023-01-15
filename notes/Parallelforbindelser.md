@@ -12,6 +12,9 @@ $${R_{eq}} = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} \dots \frac{
 $R_{eq}$ : Den ækvivalente modstand
 $R_n$ : Hver parallel modstand
 
+For to modstande
+$$R_{eq}=\frac{R_{1}\cdot R_2}{R_{1}+ R_2}$$
+
 ### [[Kondensator]]
 $$C_{eq} = C_1 + C_2+\dots+C_n$$
 $C_{eq}$ : Den ækvivalente kondensator-kapacitet.
