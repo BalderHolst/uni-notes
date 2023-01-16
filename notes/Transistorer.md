@@ -31,7 +31,7 @@ Her **afsættes effekt**.
 $$R=0 \s V=0$$
 
 #### Cutoff
-Stor spænding; Ingen strøm.
+jq
 
 ---
 #elektronik #komponent
