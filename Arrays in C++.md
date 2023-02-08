@@ -7,6 +7,8 @@ This is the c++ way of doing arrays. It is a lightweight wrapper for c-style arr
 std::array<type, size>
 ```
 
+Example:
+
 ```cpp
 #include <iostream>
 #include <array>
@@ -14,7 +16,7 @@ std::array<type, size>
 int main() {
   std::array<std::string, 3> myArray = {"en", "to", "tre"};
 
-  
+  std::cout << "Length of array: " << myArray.size() << std::endl;
 
   for (std::string e : myArray) {
     std::cout << e << std::endl;
