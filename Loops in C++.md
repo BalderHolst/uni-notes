@@ -7,6 +7,12 @@ for(int i=0; i<10; i++){
 }
 ```
 
+```cpp
+for (int i: {1, 2, 3}){
+	// Run assigning i to each value in the list, one by one
+}
+```
+
 
 ### While Loops
 
