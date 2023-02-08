@@ -13,3 +13,6 @@ soup = BeautifulSoup(response.content, "html.parser")
 page_numbers_text = soup.find(class_ = "css-class").text
 
 ```
+
+---
+#python
