@@ -64,7 +64,7 @@ $$K= \frac{1}{2} \cdot I \cdot \omega^2$$
 $I$ : [[Inertimoment]]
 
 
-##### Rotations[[arbejde]] ([[Lektion 09-FYS__RT_E22.pdf#page=19|slide]])
+##### Rotations[[Arbejde]] ([[Lektion 09-FYS__RT_E22.pdf#page=19|slide]])
 $$\Delta K = K_{f}- K_{i}$$
 
 $$W = \int_{\theta_{i}}^{\theta_{f}} \vec{\tau} \cdot d\vec{\theta}$$
