@@ -1,6 +1,6 @@
 # Types of Microcontrolers
 
-![[Pasted image 20230209134208.png|center]]
+![[kinds of microcontrolers.png|center]]
 
 ### General Purpose Microprocessors
 Standard choice for prototyping.

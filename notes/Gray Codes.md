@@ -4,4 +4,4 @@ When a digital system switches its binary output, the bit updates may not happen
 Here *only **one** bit changes at a time*
 
 
-![[Pasted image 20230209130017.png|300]]
+![[Gray System.png|300]]

@@ -1,6 +1,6 @@
 # Numbering Systems
 
-![[Pasted image 20230209125738.png|200]]
+![[Octal and Hexadecimal Systems.png|200]]
 
 ### Binary
 
@@ -28,11 +28,11 @@ $$(3.2)_{10} \rightarrow (0011.0010)_{BCD}$$
 
 Used to easily subtract binary numbers.
 
-![[Pasted image 20230209132734.png]]
+![[Complementary Arithmatic.png]]
 
 The 2's complementary can be found by *negating* the 1's complementary.
 
-![[Pasted image 20230209133430.png|center|270]]
+![[twos compliment.png|center|270]]
 
 ---
 #microcontrolers 
