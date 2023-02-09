@@ -1,4 +1,4 @@
-# Numbers
+# Numbering Systems
 
 ![[Pasted image 20230209125738.png|200]]
 
@@ -21,6 +21,18 @@ $$(101011010.01)_{2} \rightarrow (1\,\,0101\,\,1010. \,\,0100)_{2} \rightarrow (
 Every decimal number is represented as four bits.
 
 $$(3.2)_{10} \rightarrow (0011.0010)_{BCD}$$
+
+---
+
+## Complementary Arithmetic
+
+Used to easily subtract binary numbers.
+
+![[Pasted image 20230209132734.png]]
+
+The 2's complementary can be found by *negating* the 1's complementary.
+
+![[Pasted image 20230209133430.png|center|270]]
 
 ---
 #microcontrolers 
