@@ -1,5 +1,7 @@
 # Numbers
 
+![[Pasted image 20230209125738.png|200]]
+
 ### Binary
 
 $$
