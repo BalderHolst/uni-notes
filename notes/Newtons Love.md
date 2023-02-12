@@ -1,3 +1,10 @@
+---
+id: "Newtons Love"
+aliases:
+  - "Newtons Love"
+tags: []
+---
+
 # Newtons Love
 
 ### Newtons 1. lov: Inertiens Lov
