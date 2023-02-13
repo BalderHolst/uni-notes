@@ -1,6 +1,7 @@
 # Software Development
 > *"Change or die!"*
 > *"Demo or die!*
+> *"Die!"*
 
 ---
 

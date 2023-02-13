@@ -1,3 +1,10 @@
+---
+id: "Scrum"
+aliases:
+  - "Scrum"
+tags: []
+---
+
 # Scrum
 > *Scrum is an experimental approach to software development.*
 
@@ -33,11 +40,4 @@ A backlog defining the work that is left to be done.
 
 ---
 
-## Steps
-1. Inception - find requirements, state business case
-2. Elaboration - define system architecture
-3. Construction - Construct the system
-4. Transition - Deploy the system into the real world
-
----
 #softwaredevelopment
