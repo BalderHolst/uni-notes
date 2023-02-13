@@ -1,6 +1,15 @@
+---
+id: "Differentialregning Regneregler"
+aliases:
+  - "Differntialregning Regneregler"
+tags: []
+---
+
 # Differntialregning Regneregler
 
 ![[Formelsamling.pdf#page=25]]
+
+
 
 ---
 
