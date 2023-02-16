@@ -1,10 +1,3 @@
----
-id: "HJEM"
-aliases:
-  - "Seneste"
-tags: []
----
-
 ## Seneste
 
 ```dataview 
