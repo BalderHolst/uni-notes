@@ -1,6 +1,8 @@
 # Sum of Products (SOP)
 Create circuit from truth table
 
+For large tables use [[Karnaugh Map]].
+
 ![[Pasted image 20230209150608.png]]
 
 Select all rows with outputs that are supposed to be one (red).
