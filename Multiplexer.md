@@ -10,8 +10,12 @@ Can be used to simplify large truthtables.
 >![[Truth-table to MUX]]
 
 ### Digital Multiplexer
-The input is never directly connected to the output, but is derived from the input.
+The input is **never directly connected to the output**, but is derived from the input.
 
+### Analog Multiplexer
+The input is connected **directly connected** to the output is enabled.
+
+This can be implemented with [[Tri-State Buffer|tri-state buffers]] like on [[Lesson 3.pdf#page=29|this]] slide. 
 
 ---
 #microcontrolers 
