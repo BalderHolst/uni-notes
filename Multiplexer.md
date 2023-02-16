@@ -6,7 +6,7 @@ A selection line, selects which of the inputs are output.
 
 
 ### Digital Multiplexer
-The input is never directly connected to the output, but is derived from the input.JJ
+The input is never directly connected to the output, but is derived from the input.
 
 
 ---
