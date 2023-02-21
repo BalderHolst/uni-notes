@@ -1,4 +1,5 @@
 # Andengradspolynomier
+
 ### Forskrift
 $$f(x) = ax^2 + bx + c$$
 
