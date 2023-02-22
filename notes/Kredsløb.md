@@ -15,7 +15,7 @@
 
 ### Forbindelser
 - [[Parallelforbindelser]]
-- [[Serieforbindeler]]
+- [[Serieforbindelser]]
 
 ---
 

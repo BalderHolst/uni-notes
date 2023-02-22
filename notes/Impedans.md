@@ -21,7 +21,7 @@ $$Z=R+jX = |Z|\angle \phi$$
 
 
 ### Serie og parrallelimpedans
-Ligesom modstand i [[Serieforbindeler#Resistance ($R$)|serie]]- og [[parallelforbindelser]].
+Ligesom modstand i [[Serieforbindelser#Resistance ($R$)|serie]]- og [[parallelforbindelser]].
 
 
 ---

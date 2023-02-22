@@ -4,7 +4,7 @@
 $$V_n = \frac{R_n}{R_1 + R_2 + R_3+\dots} \cdot V_{total}$$
 $V_n$ : Spændinden over den $n$'te modstand.
 $R_n$ : Modstanden af den $n$'te modstand.
-$R_{1\dots}$ : De andre [[Serieforbindeler|serieforbundene]] modstande.
+$R_{1\dots}$ : De andre [[Serieforbindelser|serieforbundene]] modstande.
 
 
 >[!Note]- Udledning
