@@ -2,7 +2,10 @@
 
 The first part of a c++-file. All commands that interact with the processor are preceded by a '#'.
 
+
 ### Directives
+
+#### Guards
 
 Control flow in the preprocessor.
 
