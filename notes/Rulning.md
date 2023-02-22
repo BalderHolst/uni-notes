@@ -1,5 +1,5 @@
 # Rulning
-> *"Rulning er en **kombination** af [[rotation]] og translation"*
+> *"Rulning er en **kombination** af [[Rotation]] og translation"*
 > \- Rene ([[Lektion 10-FYS1_2022.pdf#page=19|slide]])
 
 $$\omega = \frac{v}{R}$$
