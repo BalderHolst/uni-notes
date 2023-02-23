@@ -14,6 +14,5 @@ When the *clock* is pulsed, the D-input is stored and output.
 #### States for the Gated D-Latch
 ![[gated-d-latch-io.png|300]]
 
-
 ---
 #microcontrolers 
