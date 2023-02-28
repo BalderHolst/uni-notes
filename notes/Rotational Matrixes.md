@@ -1,8 +1,8 @@
-# Rotational Matrixes
+# Rotational Matrices
 
-A way to translate between [[Frames|frames]].
+A way to translate rotation between [[Frames|frames]].
 
-Assuming that we are working in three dimmensions, the rotational matrix will always be in $\R^{3 \times 3}$ space.
+Assuming that we are working in three dimensions, the rotational matrix will always be in $\R^{3 \times 3}$ space.
 
 $$^A_BR = \left(
 \begin{array}{ccc}
