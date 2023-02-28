@@ -1,5 +1,33 @@
 # Rotational Matrixes
 
+A way to translate between [[Frames|frames]].
+
+Assuming that we are working in three dimmensions, the rotational matrix will always be in $\R^{3 \times 3}$ space.
+
+$$^A_BR = \left(
+\begin{array}{ccc}
+ r_{11} & r_{12} & r_{13} \\
+ r_{21} & r_{22} & r_{23} \\
+ r_{31} & r_{32} & r_{33} \\
+\end{array}
+\right)$$
+
+The *columns* describe the axes of $\{B\}$ in reference frame $\{A\}$.
+The *rows* describe the axes of $\{A\}$ in rotated frame $\{B\}$.
+
+### Properties
+[[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference.
+$$^A_BR^{-1} = ^A_BR^{T} = \,^B_AR$$
+
+
+### Rotating Points
+
+
+$$^AP = \, ^A_BR \cdot \,^BP$$
+
+
+This opertation is **NOT PERMITTED**.
+$$\bcancel{\cancel{^AP = \, ^B_AR \cdot \,^BP}}$$
 
 ## Using Angles
 
