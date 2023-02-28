@@ -2,6 +2,9 @@ bøger/*
 README.md
 LICENSE
 Templates/
+Excalidraw/
+.*
+.*/
 
 *.sh
 *.sty
