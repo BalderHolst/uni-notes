@@ -31,13 +31,18 @@ $$\bcancel{\cancel{^AP = \, ^B_AR \cdot \,^BP}}$$
 
 ## Using Angles
 
-$$R_{\theta}= \left( {\begin{array}{cc} \cos{\theta} & -\sin{\theta} \\ \sin\theta & \cos{\theta} \\ \end{array} } \right)$$
-### Rotation around Point
-$$p_{roteret} = R_{\theta} \bullet p \s \text{hvor} \s p = \v{x}{y}$$
+>[!video]- Derivation
+><iframe width="560" height="315" src="https://www.youtube.com/embed/gkyuLPzfDV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!Example]-  Example
->$$\theta = \frac{\pi}{2}, \s p = \v{1}{0}$$
->$$R_{\frac{\pi}{2}} \bullet p = \left( {\begin{array}{cccc} \cos{\frac{\pi}{2}} & -\sin{\frac{\pi}{2}} \\ \sin\frac{\pi}{2} & \cos{\frac{\pi}{2}} \\ \end{array} } \right) = \left( {\begin{array}{cccc} 0 & -1 \\ 1 & 0 \\ \end{array} } \right) \bullet \v{1}{0} = \v{0}{1}$$
+>[!tip]- Rotation around the $x$-axis
+>$$R = \left(
+>\begin{array}{ccc}
+>   1 & 0 & 0 \\
+>   0 & \cos\theta & -\sin\theta \\
+>   0 & \sin\theta & \cos\theta \\
+>\end{array}
+>\right)$$
+
 
 ---
 #matematik #matricer #kinematik
