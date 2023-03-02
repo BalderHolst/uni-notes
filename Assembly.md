@@ -7,14 +7,22 @@ Load a hardcoded value to a register.
 
 Opcode: $1110\,\text{kkkk}\,\text{dddd}\,\text{kkkk}$
 
+```asm
+LDI reg value
+```
+
 ##### LDS - Load from Data Space
 Loads an 8-bit number into a register.
+
 
 Opcode: $1001\,000\text{d}\,\text{dddd}\,0000\,\text{kkkk}\,\text{kkkk}\,\text{kkkk}\,\text{kkkk}$
 
 ##### MOV
 Copy the content of a register to another.
 
+```asm
+MOV addr reg
+```
 Opcode: $0010\,11\text{rd}\,\text{dddd}\,\text{rrrr}$
 
 ##### INC - Increment

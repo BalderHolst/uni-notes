@@ -4,6 +4,7 @@ LICENSE
 Templates/
 Excalidraw/
 .obsidian/*
+.git/*
 .*
 .*/
 
