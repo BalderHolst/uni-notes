@@ -16,7 +16,7 @@ The *columns* describe the axes of $\{B\}$ in reference frame $\{A\}$.
 The *rows* describe the axes of $\{A\}$ in rotated frame $\{B\}$.
 
 ### Properties
-[[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference.
+[[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
 $$^A_BR^{-1} = ^A_BR^{T} = \,^B_AR$$
 
 
