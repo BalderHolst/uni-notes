@@ -1,5 +1,20 @@
 # Angle-Set Conventions
 
+---
+
+### Summary
+[[#Fixed Angles]]
+$$
+R_Z(45\deg) \cdot \, ^\text{Base}_\text{TCP}R \Rightarrow \text{Rotate toolhead } 45 \deg \text{round the \textit{base} z-axis}
+$$
+
+[[#Euler Angles]]
+$$
+^\text{Base}_\text{TCP}R \cdot R_Z(45\deg)  \Rightarrow \text{Rotate  toolhead } 45 \deg \text{round the \textit{toolhead} z-axis}
+$$
+
+---
+
 
 ## Fixed Angles
 The coordinate system stays fixed.
