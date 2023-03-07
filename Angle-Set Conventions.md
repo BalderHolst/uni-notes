@@ -1,4 +1,5 @@
 # Angle-Set Conventions
+Ways to rotate around an axis with [[Rotational Matrices|rotational matrices]].
 
 ---
 
@@ -24,6 +25,8 @@ The coordinate system stays fixed.
 #### [[Rotational Matrices]]
 Here we **left-multiply** (from right to left) the rotational matrices.
 
+
+---
 
 ## Euler Angles
 > *"Each rotation is performed about an axis of the coordinate system from the last step"*
