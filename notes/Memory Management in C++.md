@@ -22,8 +22,8 @@ delete a;
 ```
 
 ```cpp
-int *a new int[5000] // Allocate space for 5000 integers
-delete a[];
+int *a = new int[5000]; // Allocate space for 5000 integers
+delete [] a;
 ```
 
 Sizes of objects on the heap can be dynamically be allocated on the heap.
