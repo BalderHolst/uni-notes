@@ -14,6 +14,9 @@ Example:
 int * p = &var;
 ```
 
+>[!warning] 
+>Pointers **should always point to something**.
+
 ## Dereference Operator
 > *"What is the pointer pointing at?"*
 
