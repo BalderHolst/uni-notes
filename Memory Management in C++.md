@@ -22,7 +22,7 @@ delete a;
 ```
 
 ```cpp
-int *a new int[5000]
+int *a new int[5000] // Allocate space for 5000 integers
 delete a[];
 ```
 
