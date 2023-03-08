@@ -4,7 +4,7 @@
 
 *Subjective chart by Iñigo Iturrate*
 
-![[Pasted image 20230307084708.png]]
+![[Overview-of-Orientation-Representations.png]]
 
 
 
