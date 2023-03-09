@@ -1,8 +1,42 @@
 # Assembly
 
+### The Stack
+
+##### PUSH
+*Push* data to the stack and *decrease* the stack pointer by one.
+
+```asm
+PUSH register
+```
+
+##### POP
+*Load* data from the stack and *increase* the stack pointer by one.
+
+```asm
+POP register
+```
+
+---
+
+### Subrutines
+
+##### CALL
+Call a subrutine. The stack pointer is reduced by two.
+
+```asm
+CALL subrutine
+```
+
+##### RCALL
+
+
+##### RET
+Return from the subrutine
+
+---
+
 ### Directives
 Directives are resolved by the assembler, and therefore *take zero clock cycles to resolve* in the processor.
-
 
 ##### .EQU
 A name will be substituted with a number by the assembler.
@@ -38,6 +72,8 @@ Include other files. Mostly used to define values with [[#.EQU]].
 ```asm
 .INCLUDE file
 ```
+
+---
 
 ### Instructions
 
