@@ -11,12 +11,14 @@ Control flow in the preprocessor.
 
 ```c++
 #ifndef MY_VARIABLE
-#define
+#define MY_VARIABLE
 
 #include <import-one>
 #include <import-two>
 #include <import-three>
 #include <import-four>
+
+code...
 
 #endif
 ```
