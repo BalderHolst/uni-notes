@@ -32,6 +32,13 @@ Sets the code address. The program will now execute from here.
 .ORG address
 ```
 
+##### .INCLUDE
+Include other files. Mostly used to define values with [[#.EQU]].
+
+```asm
+.INCLUDE file
+```
+
 ### Instructions
 
 ##### LDI - Load Immediate
