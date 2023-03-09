@@ -7,7 +7,10 @@ The first part of a c++-file. All commands that interact with the processor are 
 
 #### Guards
 
-Control flow in the preprocessor.
+Control flow in the preprocessor. 
+
+>[!tip]
+>If you run into errors like: "you have declared this twice", you probably need to guard its declaration.
 
 ```c++
 #ifndef MY_VARIABLE
@@ -18,7 +21,7 @@ Control flow in the preprocessor.
 #include <import-three>
 #include <import-four>
 
-code...
+decrarations...
 
 #endif
 ```
