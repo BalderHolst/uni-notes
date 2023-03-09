@@ -2,7 +2,7 @@
 
 dir=$(dirname $0)
 
-dir_name="noter"
+dir_name="notes"
 
 
 # if the repo exist

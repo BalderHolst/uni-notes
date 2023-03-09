@@ -1,5 +1,37 @@
 # Assembly
 
+### Directives
+Directives are resolved by the assembler, and therefore *take zero clock cycles to resolve* in the processor.
+
+
+##### .EQU
+A name will be substituted with a number by the assembler.
+
+```asm
+.EQU name=address
+```
+
+##### .SET
+Same as [[#.EQU]] but can be reassigned.
+
+```asm
+.SET name=address
+```
+
+##### .DEF
+Alias for a register.
+
+```asm
+.DEF name=register
+```
+
+##### .ORG
+Sets the code address. The program will now execute from here.
+
+```asm
+.ORG address
+```
+
 ### Instructions
 
 ##### LDI - Load Immediate
