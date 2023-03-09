@@ -19,6 +19,7 @@ POP register
 ---
 
 ### Subrutines
+"Functions" in assembly.
 
 ##### CALL
 Call a subrutine. The stack pointer is reduced by two.
@@ -28,10 +29,19 @@ CALL subrutine
 ```
 
 ##### RCALL
+Like [[#CALL]] by with relative a jump instead of absolute.
+
+```asm
+RCALL subrutine
+```
 
 
 ##### RET
-Return from the subrutine
+Return from the subrutine. This uses the stack to know where it came from.
+
+```asm
+RET
+```
 
 ---
 
