@@ -7,7 +7,7 @@ The first part of a c++-file. All commands that interact with the processor are 
 
 #### Guards
 
-Control flow in the preprocessor. 
+Control flow in the preprocessor. These are mostly used in [[header files]].
 
 >[!tip]
 >If you run into errors like: "you have declared this twice", you probably need to guard its declaration.
