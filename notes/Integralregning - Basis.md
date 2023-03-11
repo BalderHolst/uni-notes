@@ -1,6 +1,6 @@
 I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
-$$\int f(x) \,dx = F(x) + k$$
+$$\int f(x) \ dx = F(x) + k$$
 
 Det er *vigtigt* at huske $dx$ i integralet. Det er bare en skrivemåde, men det er forkert ikke at skrive det.
 
@@ -27,13 +27,13 @@ $$F(x)=\frac{x^3}{3}+2$$
 ##### Integration i Hånden
 Mange simple funktioner kan integreres i hånden ved hjælp af et par [[Integraler Regneregler|regneregler]]. For eksempel kan $2x$ integreres således.
 
-$$\int 2x \, dx= 2 \cdot \frac{x^2}{2} = x^2 + k$$
+$$\int 2x \  dx= 2 \cdot \frac{x^2}{2} = x^2 + k$$
 
 ---
 
 ## Bestemt Integrale
 Et bestemt integrale kan udregne hvor meget $f(x)$ er vokset med i intervallet $a$ til $b$. Bestemte integraler kan skrives op sådan:
-$$\int_{a}^{b} f(x) \,dx = F(b) - F(a)$$
+$$\int_{a}^{b} f(x) \ dx = F(b) - F(a)$$
 
 
 ##### Arealet Under en Kurve
@@ -50,11 +50,11 @@ $$a(t)$$
 
 Vi kan nu finde $v(t)$ ved at integrere $a(t)$
 
-$$\int a(t)\, dt = v(t) + k$$
+$$\int a(t)\  dt = v(t) + k$$
 
 For at finde funktionen for position ($s(t)$) kan vi igen integrere $v(t)$
 
-$$\iint a(t)\,dt = \int v(t) + k\,dt = s(t) + kx + c$$
+$$\iint a(t)\ dt = \int v(t) + k\ dt = s(t) + kx + c$$
 
 
 

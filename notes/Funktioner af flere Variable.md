@@ -55,7 +55,7 @@ $$Dm(f(x_{1}, x_{2}, \dots, x_{n})) = \R^{n}\rightarrow \R$$
 >$$Dm(f) = \R \times \R$$
 >Eksempel 2:
 >$$g(x,y)=\sqrt{x} \cdot y$$
->$$dm(d)=[0;\infty[ \:\times\: \R$$
+>$$dm(d)=[0;\infty[ \ \times\  \R$$
 
 ### Plot 
 Funktioner af to variable skal tegnes i **3 dimensioner**

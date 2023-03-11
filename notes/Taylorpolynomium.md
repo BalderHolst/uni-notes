@@ -17,7 +17,7 @@ Check fortegnet på $|f^{(n+1)}(s)| \cdot (x-a)^{n+1}$. Dette er fortegnet på f
 
 ##### Generel formel
 Hvis $f^{(n+1)}(t)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, og hvis $P_{n}$ er et $n$'te grad polynomium $P_{n}(x)$ for $f(x)$ omkring $x=a$, så er
-$$E_{n}(x) = \frac{|f^{(n+1)}(s)|}{(n+1)!}(x-a)^{n+1} \s s \in \,]a,x[$$
+$$E_{n}(x) = \frac{|f^{(n+1)}(s)|}{(n+1)!}(x-a)^{n+1} \s s \in \ ]a,x[$$
 ***$s$ kan og skal ikke findes***
 
 #### Metode

@@ -21,7 +21,7 @@ Dette må være sandt:
 $$|\vec{F_1 T}| = |\vec{F_2 T}| = \frac{k}{2}$$
 ## Ellipser som [[Vektorfunktioner]]
 [[Keglesnit - 2022.pdf#page=12]]
-$$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \s \Rightarrow \s \v{x}{y}=\v{a \cdot cos(t)}{b \cdot sin(t)}, \:\:\text{hvor}\: 0 \leq t \leq 2\pi$$
+$$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \s \Rightarrow \s \v{x}{y}=\v{a \cdot cos(t)}{b \cdot sin(t)}, \ \ \text{hvor}\  0 \leq t \leq 2\pi$$
 Vi kan således omskrive en ellipse fra [[#normalform]] til en vektorfunktion. 
 
 ## [[Tangent]]

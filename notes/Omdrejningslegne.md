@@ -1,7 +1,7 @@
 # Omdrejninslegme
 ---
 ## Formel
-$$V=\pi \cdot \int_{a}^{b} (f(x))^2 \,dx$$
+$$V=\pi \cdot \int_{a}^{b} (f(x))^2 \ dx$$
 
 
 ---

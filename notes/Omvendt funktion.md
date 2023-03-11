@@ -11,8 +11,8 @@ Den inverse funktion kan også findes ved at spejle grafen i $y=x$.
 
 >[!Note]- Eksempler
 >
->$$f(x) = e^x \: \Rightarrow \: f^{-1}(x) = ln(x)$$
->$$f(x)=\sqrt{x} \:\Rightarrow\: f^{-1}(x)=x^2$$
+>$$f(x) = e^x \  \Rightarrow \  f^{-1}(x) = ln(x)$$
+>$$f(x)=\sqrt{x} \ \Rightarrow\  f^{-1}(x)=x^2$$
 >
 
 ### Hvornår *har* en funktion en omvendt funktion?

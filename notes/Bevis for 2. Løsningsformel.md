@@ -52,11 +52,11 @@ $$|y| = e^{kx} \cdot e^c ,\s y \ne 0$$
 Det nye led ($e^c$) er en konstant, da både $e$ og $c$ er konstanter. Vi ved dog at $e$ er positiv, og derfor også at ledet som helhed er positivt. Dette led kalder vi $K$.
 
 $$K = e^c$$
-$$|y|=K \cdot e^{kx},\s y \ne 0 \:\: \cup \:\: K > 0$$
+$$|y|=K \cdot e^{kx},\s y \ne 0 \ \  \cup \ \  K > 0$$
 
 For at isolere $y$ helt, bliver vi nødt til at ophæve den absolutte værdi. Det gør vi ved at sætte $\pm$ foran på begge sider.
 
-$$y= \pm K \cdot e^{kx},\s y \ne 0 \:\: \cup \:\: K > 0$$
+$$y= \pm K \cdot e^{kx},\s y \ne 0 \ \  \cup \ \  K > 0$$
 
 Vi kan nu lave en ny konstant, der består af $\pm K$. Dette kan vi fordi, vi ved at $K$, kun kan være positiv. Denne konstant kalder vi $C$. $C$ kan være både positiv og negativ.
 

@@ -2,7 +2,7 @@
 
 ## Konnektiver
 $$p \land q, \s \text{"og/konjunktion"}$$
-$$p \:\lor\: q, \s \text{"eller/disjunktion"}$$
+$$p \ \lor\  q, \s \text{"eller/disjunktion"}$$
 $$p\Rightarrow q,\s \text{"medfører/implikation"}$$
 $$p \arrows q, \s\text{"biimplikation"}$$
 $$\lnot p, \s\text{"ikke/negation"}$$

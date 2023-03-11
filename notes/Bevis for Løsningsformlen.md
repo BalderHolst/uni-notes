@@ -19,7 +19,7 @@ Først omskriver vi *venstre* side af udtrykket så det passer på højre side a
 $$\text{venstre:}\s 4a^2x^2 + b^2 + 4abx$$
 Her er $a$ og $b$
 
-$$a=2ax,\, b=b$$
+$$a=2ax,\  b=b$$
 Vi kan med regnereglen omskrive udtrukket således
 $$\text{venstre: } \s (2ax+b)^2$$
 

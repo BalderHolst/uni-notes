@@ -31,7 +31,7 @@ $$x = \frac{-b \pm i \sqrt{-d}}{2a}$$
 ### Den kompleks konjugerede
 Hvis $z$ er et komplekst tal af form $z = a +ib$, så er den kompleks konjugerede $\bar{z} = a-ib$
 
-Hvis et polynomium med reelle koeficienter, dvs $x^n + bx^{n-1} + \dots$ så $\{a,b, \dots\}$ alle er en del af $\R$. Har komplekse rødder, så forekommer disse altid som kompleks konjugerede par. (F.eks. i imaginære løsninger på andengradspolynomier).
+Hvis et polynomium med reelle koeficienter, dvs $x^n + bx^{n-1} + \dots$ så $\set{a,b, \dots}$ alle er en del af $\R$. Har komplekse rødder, så forekommer disse altid som kompleks konjugerede par. (F.eks. i imaginære løsninger på andengradspolynomier).
 
 ### Mængden
 Mængden af komplekse tal har symbolet $\C$.
@@ -87,7 +87,7 @@ $$arg(z) = \theta$$
 ($\theta$ skal være i intervallet $[-\pi,\pi]$) 
 
 Bestemmes således
-$$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \{-1,0,1\}$$
+$$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \set{-1,0,1}$$
 
 
 

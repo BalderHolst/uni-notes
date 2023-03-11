@@ -46,7 +46,7 @@ Dette er et førstegrads [[Taylorpolynomium]]
 >
 >$$E(x) = f(x) - L(x) < 0 \arrows f(x) < L(x)$$
 >Den sande værdi findes altså inden for dette interval:
->$$]L(26) - E(26),\, L(26)[ \s = \s ]5.09902, \, 5.1[$$
+>$$]L(26) - E(26),\  L(26)[ \s = \s ]5.09902, \  5.1[$$
 >
 
 ---
@@ -66,7 +66,7 @@ Derfor bruger vi disse formler til at finde den maksimale fejl i intervallet
 
 $$
 \begin{cases}
-|f''(s)| &\leq k \s s \in \, ]a;x[ \\ \\
+|f''(s)| &\leq k \s s \in \  ]a;x[ \\ \\
 |E(x)| &\leq \frac{k}{2}(x-a)^{2}
 \end{cases} \arrow |E(x)| \leq \frac{|f''(s_{maks})|}{2}(x-a)^2
 $$
@@ -85,7 +85,7 @@ $$
 
 ##### Sætning
 Hvis $f''(x)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, så eksisterer der et punkt $s$ mellem $a$ og $x$, således at
-$$E(x)= \frac{f''(s)}{2}(x-a)^{2} \s s\in \, [a,x]$$
+$$E(x)= \frac{f''(s)}{2}(x-a)^{2} \s s\in \  [a,x]$$
 
 Dette er en **lorteformel** og den kan ikke anvendes.
 

@@ -12,22 +12,22 @@ $$^A_BR = \left(
 \end{array}
 \right)$$
 
-The *columns* describe the axes of $\{B\}$ in reference frame $\{A\}$.
-The *rows* describe the axes of $\{A\}$ in rotated frame $\{B\}$.
+The *columns* describe the axes of $\set{B}$ in reference frame $\set{A}$.
+The *rows* describe the axes of $\set{A}$ in rotated frame $\set{B}$.
 
 ### Properties
 [[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
-$$^A_BR^{-1} = ^A_BR^{T} = \,^B_AR$$
+$$^A_BR^{-1} = ^A_BR^{T} = \ ^B_AR$$
 
 
 ### Rotating Points
 
 
-$$^AP = \, ^A_BR \cdot \,^BP$$
+$$^AP = \  ^A_BR \cdot \ ^BP$$
 
 
 This opertation is **NOT PERMITTED**.
-$$\bcancel{\cancel{^AP = \, ^B_AR \cdot \,^BP}}$$
+$$\bcancel{\cancel{^AP = \  ^B_AR \cdot \ ^BP}}$$
 
 ## Using Angles
 

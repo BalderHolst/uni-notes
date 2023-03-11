@@ -14,7 +14,7 @@ $M$ : Den totale masse.
 
 ### Kontinuert Legme
 Udregning af massemidtpunkt i en stang.
-$$x_{cm}= \frac{1}{M} \int_a^b \lambda(x) \cdot x \cdot dx, \s \lambda= \frac{\text{masse}}{\text{længde}} \:\: \left[ \frac{\text{kg}}{\text{m}} \right]$$
+$$x_{cm}= \frac{1}{M} \int_a^b \lambda(x) \cdot x \cdot dx, \s \lambda= \frac{\text{masse}}{\text{længde}} \ \  \left[ \frac{\text{kg}}{\text{m}} \right]$$
 $\lambda(x)$ : Stangens masse som funktion af længde/position.
 
 $$M =  \int_a^b\lambda(x) \cdot dx$$
