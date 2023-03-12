@@ -78,7 +78,7 @@ $$f(x) = e^{-P(x)}$$
 >$$\frac{dy}{dx} - \frac{2}{x} \cdot y = e^x$$
 >
 >##### Eksempel 3
->$$y' = sin(x) - 5y$$
+>$$y' = \sin(x) - 5y$$
 >
 >
 
@@ -235,7 +235,7 @@ Kan bruges når en differentialligning har formen $\frac{dy}{dx} = g(x) \cdot h(
 >[!Note]- Eksempler
 >
 >##### Eksemper på egnede differentialligninger
->$y'=3 \cdot y \cdot sin(x)$
+>$y'=3 \cdot y \cdot \sin(x)$
 >$y'=x \cdot y-\sqrt{x} \cdot y = y  \cdot (\cdot x-\sqrt{x})$
 >
 >**ikke-eksempler**

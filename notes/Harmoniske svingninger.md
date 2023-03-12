@@ -25,7 +25,7 @@ $$\frac{-\phi}{\omega}$$
 
 Dette er også sandt (radianer)
 
-$$sin(x) = cos(x-\frac{\pi}{2})$$
+$$\sin(x) = \cos(x-\frac{\pi}{2})$$
 
 
 ---
