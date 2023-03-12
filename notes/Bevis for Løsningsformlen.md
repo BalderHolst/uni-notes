@@ -46,5 +46,4 @@ Derudover kan vi rykke $-b$ ud foran kvadratroden for at få udtrykket til at li
 $$x = \frac{-b \pm \sqrt{d}}{2a}$$
 
 ---
-##### Tags
 #matematik 
