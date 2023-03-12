@@ -71,5 +71,4 @@ Det betyder at vi kan opskrive ligningen uden nogle betingelser.
 $$y= C \cdot e^{kx}$$
 
 ---
-
-#matematik 
+#matematik
