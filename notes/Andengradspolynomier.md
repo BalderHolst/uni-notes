@@ -56,6 +56,7 @@ Diskriminantens størrelse bestemmer antallet af nulpunkter/rødder
 | $d = 0$ | $1$    |
 | $d > 0$ | $2$    |
 
+
 [[#Løsningsformlen]] kan brudes til at bestemme rødderme.
 
 

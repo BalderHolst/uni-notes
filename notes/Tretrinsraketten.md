@@ -36,5 +36,4 @@ Dette er en ret besværlig måde at regne differentialer ud i hånden, man kan m
 
 
 ---
-##### Tags
 #matematik
