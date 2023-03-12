@@ -33,7 +33,5 @@ $$f'(x) = 6x$$
 Dette er en ret besværlig måde at regne differentialer ud i hånden, man kan med fordel bruge [[Differentialregning Regneregler|regneregler]] i stedet.
 
 
-
-
 ---
 #matematik
