@@ -30,6 +30,7 @@ $$
 \omega^{2} &= \omega_{0}^{2}+ 2 \alpha(\theta-\theta_{0})
 \end{align}
 $$
+
 ---
 
 ## Position, Hastighed og Acceleration
