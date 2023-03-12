@@ -25,4 +25,4 @@ Ligesom modstand i [[Serieforbindelser#Resistance ($R$)|serie]]- og [[parallelfo
 
 
 ---
-#elektronik 
+#elektronik
