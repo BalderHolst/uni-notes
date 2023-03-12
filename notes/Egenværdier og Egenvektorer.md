@@ -42,8 +42,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
  >-5 & 2 \\
  >2 & -2 \\
 >\end{array}
->\right)
->-
+>\right)-
 >\left(
 >\begin{array}{cc}
  >\lambda  & 0 \\

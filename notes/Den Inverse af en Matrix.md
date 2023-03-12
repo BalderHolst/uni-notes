@@ -12,6 +12,7 @@ $$A\vec{x} = \vec{b}$$
 "Dividerer med $A$" ($A^{-1}$ eksisterer kun hviss $\det(A) \neq 0$)
 $$A^{-1} \cdot A\vec{x} = A^{-1} \cdot  \vec{b}$$
 $$I\vec{x} = A^{-1} \cdot \vec{b} \arrow \vec{x} = A^{-1}\cdot \vec{b}$$
+
 ---
 
 ### At finde den Inverse
