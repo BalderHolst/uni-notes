@@ -1,6 +1,8 @@
 # Transformation Matrices
 
-$$
+Transformation from $\set{A}$ to ${\set B}$.
+
+$$^A_BT =
 \left(
 \begin{array}{cccc}
  r_{11} & r_{12} & r_{13} & p_x \\
@@ -21,9 +23,7 @@ $$
  r_{31} & r_{32} & r_{33} & p_z \\
  0 & 0 & 0 & s \\
 \end{array}
-\right) 
-=
-\left(
+\right) = \left(
 \begin{array}{cc}
  ^A_BR & ^Ap_{org} \\
  0^{3 \times 1} & 1 \\
