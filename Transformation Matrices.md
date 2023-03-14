@@ -57,6 +57,17 @@ $$
 \right) 
 $$
 
+### The Inverse Transformation Matrix
+
+$$
+\left(
+\begin{array}{cc}
+ \left(^A_BR^T\right) & -\left(^A_BR^T\right)^Ap_{Borg} \\
+ 0^{3 \times 1} & 1 \\
+\end{array}
+\right)
+$$
+
 
 ## Combining Rotation and Translation
 
