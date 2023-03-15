@@ -3,6 +3,8 @@ Holds an address of a variable.
 
 The *reference operator* (`&`) is used to get a variable's address in memory.
 
+See also [[Smart Pointers in C++|smart pointers]].
+
 ##### Declaration
 ```cpp
 type * name;
