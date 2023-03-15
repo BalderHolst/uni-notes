@@ -34,5 +34,7 @@ References are nice as an alternative to classic getters, as they can provide di
 - There is no null-reference.
 - References need to be initialized.
 
+References may be implemented with pointers by the compiler.
+
 ---
 #cpp
