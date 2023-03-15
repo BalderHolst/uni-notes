@@ -29,6 +29,10 @@ References are nice as an alternative to classic getters, as they can provide di
 ---
 
 ## Differences with Pointers
+- We cannot refer to the “reference object”.
+- We cannot re-seat a reference.
+- There is no null-reference.
+- References need to be initialized.
 
 ---
 #cpp
