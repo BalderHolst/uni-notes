@@ -19,13 +19,13 @@ AVR ports are implemented with [[Tri-State Buffer|tri state buffers]].
 >OUT DDRC,R16		;Setup A as input
 >LDI R16, 0xff		;Loads R16 by 0b11111111
 >OUT PORTC,R16		;Enable Pull-up resistors
->LDI R16, 0xff
->OUT DDRB,R16		;Loads R16 by 0b11111111
 >
 >;Setup A as output
 >LDI R16, 0x15		;Loads R16 by 0b11111111
 >OUT DDRB,R16		;Set output to 0b00010101
-```
+>LDI R16, 0xff
+>OUT DDRB,R16		;Loads R16 by 0b11111111
+>```
 
 ---
 #microcontrolers 
