@@ -80,7 +80,7 @@ $$
 \end{align}
 $$
 
-![[Pasted image 20230314084221.png|center|400]]
+![[frame-transformation.png|center|400]]
 
 This is easy enough if we only have two or three frames, but becomes quite complicated if we have more frames.
 
