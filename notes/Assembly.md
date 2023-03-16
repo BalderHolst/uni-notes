@@ -2,6 +2,14 @@
 
 ### The Stack
 
+If you are using the stack, the stackpointer should be initialized like this:
+```asm
+LDI R16, HIGH(RAMEND)
+OUT SPH, R16
+LDI R16, LOW(RAMEND)
+OUT SPL, R16
+```
+
 ##### PUSH
 *Push* data to the stack and *decrease* the stack pointer by one.
 
@@ -52,7 +60,7 @@ Directives are resolved by the assembler, and therefore *take zero clock cycles 
 A name will be substituted with a number by the assembler.
 
 ```asm
-.EQU name=address
+.EQU name=nr
 ```
 
 ##### .SET
