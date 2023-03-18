@@ -1,10 +1,3 @@
----
-id: "Scrum"
-aliases:
-  - "Scrum"
-tags: []
----
-
 # Scrum
 > *Scrum is an experimental approach to software development.*
 

@@ -1,10 +1,3 @@
----
-id: "Unified Process"
-aliases:
-  - "Unified Process"
-tags: []
----
-
 # Unified Process
 
 ---
