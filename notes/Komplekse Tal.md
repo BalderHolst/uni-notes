@@ -28,6 +28,7 @@ $$x = \frac{-b \pm i \sqrt{-d}}{2a}$$
 >
 >Altså er dette løsningen
 >$$x = \frac{-b \pm i \sqrt{-(d)}}{2a} = -1 \pm 2i$$
+
 ### Den kompleks konjugerede
 Hvis $z$ er et komplekst tal af form $z = a +ib$, så er den kompleks konjugerede $\bar{z} = a-ib$
 
@@ -98,20 +99,18 @@ $$arg(z)= \theta =\tan^{-1}\left(\frac{Im(z)}{Re(z)}\right) + p\pi, \s p \in \se
 
 >[!note]- Operationer i Polær form
 >### Multiplikation
-$$z_1 \cdot z_2 = M_1 \cdot  e^{i\theta_1} \cdot  M_2 \cdot  e^{i\theta_2} = M_1 \cdot  M_2 \cdot  e^{i(\theta_1 + \theta_2)}$$
-På den anden form:
-$$M_1(\cos\theta_1 + i\sin\theta_1) \cdot M_2(\cos\theta_2 + i \sin\theta_2)$$
-$$\Updownarrow$$
-$$M_1M_2(\cos\theta_1 \cos\theta_2 - \sin \theta_1 \sin\theta_2 + i(\sin\theta_1\cos\theta_2 + \cos\theta_1\sin\theta_2))$$
-$$\Updownarrow$$
-$$M_1M_2(\cos(\theta_1 + \theta_2)+i \sin(\theta_1 + \theta_2))$$
+>$$z_1 \cdot z_2 = M_1 \cdot  e^{i\theta_1} \cdot  M_2 \cdot  e^{i\theta_2} = M_1 \cdot  M_2 \cdot  e^{i(\theta_1 + \theta_2)}$$
+>På den anden form:
+>$$M_1(\cos\theta_1 + i\sin\theta_1) \cdot M_2(\cos\theta_2 + i \sin\theta_2)$$
+>$$\Updownarrow$$
+>$$M_1M_2(\cos\theta_1 \cos\theta_2 - \sin \theta_1 \sin\theta_2 + i(\sin\theta_1\cos\theta_2 + \cos\theta_1\sin\theta_2))$$
+>$$\Updownarrow$$
+>$$M_1M_2(\cos(\theta_1 + \theta_2)+i \sin(\theta_1 + \theta_2))$$
 >### Division
-$$\frac{z_1}{z_2} = \frac{M_1 \cdot e^{i\theta_1}}{M_2 \cdot e^{i\theta_2}} = \frac{M_1}{M_2} \cdot e^{i(\theta_1-\theta_2)}$$
+>$$\frac{z_1}{z_2} = \frac{M_1 \cdot e^{i\theta_1}}{M_2 \cdot e^{i\theta_2}} = \frac{M_1}{M_2} \cdot e^{i(\theta_1-\theta_2)}$$
 >### Eksponentiering
 >$$z=M \cdot e^{i\theta}$$
 >$$z^n = (M \cdot e^\theta)^n = M^n \cdot e^{i\theta \cdot n} = M^n (\cos(\theta n) + i\sin(\theta n))$$
-
-
 
 
 ### de Moivre's Formel
@@ -136,7 +135,7 @@ $\theta$ : Argumentet for løsningerne
 
 >[!Note]- Bevis
 >
->#### Bevis (induktion)
+>### Bevis (induktion)
 >
 >##### Initialisering 
 >$$n = 1,\s z = \cos(\theta) + i \sin(\theta)$$
