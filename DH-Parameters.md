@@ -2,6 +2,7 @@
 See the [[Lecture 7 - DH Parameters and Forward Kinematics.pdf|slides]].
 
 A standard for placing frames on a robot.
+![[Pasted image 20230321101131.png|center|250]]
 
 Every joint can be describes as a combination of prismatic and evolute joints.
 
@@ -18,7 +19,10 @@ See [[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=29|slide]]:
 5. Assign frame $\set 0$ and frame $\set N$ according to convention.
 6. For each pair of frames $\set i$ and $\set{i+1}$, identify the four DH parameters:
 
-$\alpha_i$ - THe angle from $\hat{Z}_i$ to $\hat{Z}_i + i$ measured about $\hat{X}_i$
+$\alpha_i$ - The angle from $\hat{Z}_i$ to $\hat{Z}_{i+1}$ measured about $\hat{X}_i$
+$a_i$ - The distance from $\hat{Z}_i$ to $\hat{Z}_{i+1}$ measured along $\hat{X}_i$
+$d_i$ - The distance from $\hat{X}_i$ measured along $\hat{Z}_i$
+$\theta_i$ - The angle from $\hat{X}_i$ measured along $\hat{Z}_i$
 
 >[!example]- Assigning DH Parameters
 >![[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=33]]
