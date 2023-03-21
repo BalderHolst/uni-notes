@@ -9,6 +9,8 @@ Prismatic joint: Pure translation in one axis
 Revolure joint: Pure rotation in one axis
 
 ## Procedure
+See [[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=29|slide]]:
+
 1. Identify the joint axes and consider them as infinite lines
 2. Identify the common perpendicular between them or the point of intersection
 3. Assign the origins, Z-axes and X-axes of frames $\set i$ according to frame convention.
@@ -17,6 +19,9 @@ Revolure joint: Pure rotation in one axis
 6. For each pair of frames $\set i$ and $\set{i+1}$, identify the four DH parameters:
 
 $\alpha_i$ - THe angle from $\hat{Z}_i$ to $\hat{Z}_i + i$ measured about $\hat{X}_i$
+
+>[!example]- Assigning DH Parameters
+>![[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=33]]
 
 
 ### Placing Frames
