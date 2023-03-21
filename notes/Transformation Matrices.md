@@ -31,7 +31,21 @@ $$
 \right)
 $$
 
-### Pure Rotation
+To use this like a [[Rotation Matrices|rotation matrix]] points are written like this:
+
+$$
+p = \left(
+\begin{array}{cccc}
+ p_{x} \\
+ p_{y} \\
+ p_{z} \\
+ 0 
+\end{array}
+\right)
+$$
+
+
+### Pure Translation
 
 $$
 \left(
@@ -44,7 +58,7 @@ $$
 \right) 
 $$
 
-### Pure Translation
+### Pure Rotation
 
 $$
 \left(
