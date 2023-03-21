@@ -1,6 +1,6 @@
 # Funktioner af flere Variable
 
->[!definition] 
+>[!note] Definition
 >En funktion $f$ af $n$ reelle variable er en regel som tildeler ét unikt tal $f(x_{1}, x_{2}, \dots, x_{n})$ til hvert punkt $(x_{1}, x_{2}, \dots, x_{n})$ for en mængde $Dm(f)$.
 
 I stedet for at en funktion afhænger af *en* variabel som $f(x)$, så afhænger disse funktioner af *flere* **uafhængige** variable.
