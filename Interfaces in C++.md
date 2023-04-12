@@ -1,8 +1,11 @@
 # Interfaces in C++
 
-A *purely virtual class* without variables.
+A *purely virtual class* without variables. An Interface is an [[Abstract Classes in C++|abstract class]].
+
+---
 
 ### Example
+
 ```cpp
 class Creature {
     virtual get_info() =0; // Pure virtual
