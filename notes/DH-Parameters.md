@@ -2,7 +2,7 @@
 See the [[Lecture 7 - DH Parameters and Forward Kinematics.pdf|slides]].
 
 A standard for placing frames on a robot.
-![[Pasted image 20230321101131.png|center|250]]
+![[dh-parameter-table.png|center|250]]
 
 Every joint can be describes as a combination of prismatic and evolute joints.
 

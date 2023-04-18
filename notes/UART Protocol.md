@@ -1,7 +1,7 @@
 # UART Protocol
 See [[Lesson 9.pdf#page=23]]
 
-![[Pasted image 20230330134120.png]]
+![[uart.png]]
 
 Data is sent with the [[LSB]] first.
 
