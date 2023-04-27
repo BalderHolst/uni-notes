@@ -9,6 +9,8 @@ All interrupts can be enabled/disabled by the *global interrupt* ([[atmel-0856-a
 
 >[!example]- AtMega32A Interrupts
 >![[ATMEGA32A-interrupts.png]]
+>#### Interrupt Priority
+>The lower the vector number, the higher the interrupt priority. If interrupts are triggerend at the same time, higher priority interrupts are handled first.
 
 
 
