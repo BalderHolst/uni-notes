@@ -23,3 +23,4 @@ At a singularity, the determinant of the jacobian will be zero.aa Therefore, the
 
 ---
 #kinematik 
+#matricer 
