@@ -9,7 +9,7 @@ Each column tells how each joint contributes to the end-affector in cartesian co
 
 You can also find the joint velocities from the end-affector velocity like this:
 $$\dot{q} = J^{-1}(q) \cdot v$$
-Note that *THE INVERSE JACOBIN MAY NOT EXIST*.
+Note that *THE INVERSE JACOBIN MAY NOT EXIST*. This can be because the columns are linearly dependent (not [[Rang af Matrix#Full Rank|full rank]]), or that the jacobian is not square.
 
 ### If the Jacobian is not square
 $$\dot{q} = \alpha J^{T}\dot{x}, \s \alpha>0$$
