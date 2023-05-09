@@ -35,6 +35,27 @@ $$\mu = \sqrt{\det(JJ^{T)}}, \s
 \mu > 0 \Rightarrow \text{not close}\\
 \end{cases}$$
 
+#### Manipulability Ellipsoid
+Shows how the end-affector can move.
+$$\dot{x}A^{-1}\dot{x} = 1, \s A = JJ$$
+
+The axes $a$, $b$, and $c$ of the ellipsoid can be related to the eigen-values and eigen-vectors of $A$.
+![[Pasted image 20230509092020.png]]
+
+>[!example]- 2D Example
+>![[Pasted image 20230509092110.png]]
+
+##### Measure #1
+$$\mu = \sqrt{\det(JJ^{T)}} = \det(A), \s 
+\begin{cases} 
+\mu \approx 0 \Rightarrow \text{close}\\
+\mu > 0 \Rightarrow \text{not close}\\
+\end{cases}$$
+
+##### Measure #2
+
+
+##### Measure #3
 
 ---
 #kinematics 
