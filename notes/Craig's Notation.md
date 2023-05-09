@@ -14,4 +14,4 @@ $$^AP_2 =\ ^AP_1 +\ ^AQ$$
 Here $^AQ$ is the translation.
 
 ---
-#kinematik 
+#kinematics 

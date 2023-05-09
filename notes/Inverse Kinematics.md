@@ -19,4 +19,4 @@ Inexact solutions found by algorithms.
 
 
 ---
-#kinematik
+#kinematics

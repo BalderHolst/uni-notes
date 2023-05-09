@@ -12,4 +12,4 @@ sort file.name
 
 
 --- 
-#matematik #emne
+#matematik #subject

@@ -95,4 +95,4 @@ De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrix
 - Gange en række med en konstant (hvis $k\neq 0$)
 
 ---
-#matematik #emne
+#matematik #subject

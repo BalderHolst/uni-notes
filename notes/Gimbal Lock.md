@@ -4,4 +4,4 @@ When two [[joints]] are aligned, resulting in a lost [[Degrees of Freedom|degree
 
 
 ---
-#kinematik 
+#kinematics 

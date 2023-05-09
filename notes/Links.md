@@ -6,4 +6,4 @@ A links is a rigid body connecting [[joints]].
 
 
 ---
-#kinematik 
+#kinematics 

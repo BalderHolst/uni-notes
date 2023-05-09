@@ -117,4 +117,4 @@ og
 $$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
 
 ---
-#matematik #funktioner #emne 
+#matematik #funktioner #subject 

@@ -5,4 +5,4 @@ How many directions/angles a joint can move in. To move to any point in space at
 
 
 ---
-#kinematik 
+#kinematics 

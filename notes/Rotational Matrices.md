@@ -45,4 +45,4 @@ $$\bcancel{\cancel{^AP = \  ^B_AR \cdot \ ^BP}}$$
 
 
 ---
-#matematik #matricer #kinematik
+#matematik #matricer #kinematics

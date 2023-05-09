@@ -42,4 +42,4 @@ The coordinate system changes whenever you do a rotation.
 
 
 ---
-#kinematik 
+#kinematics 

@@ -37,5 +37,5 @@ $$\mu = \sqrt{\det(JJ^{T)}}, \s
 
 
 ---
-#kinematik 
+#kinematics 
 #matricer 

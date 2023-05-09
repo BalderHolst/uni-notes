@@ -6,4 +6,4 @@ A map is a way to translate between values in different [[spaces]].
 
 
 ---
-#kinematik 
+#kinematics 

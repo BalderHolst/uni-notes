@@ -99,5 +99,5 @@ $$
 This is easy enough if we only have two or three frames, but becomes quite complicated if we have more frames.
 
 ---
-#kinematik 
+#kinematics 
 #matricer 

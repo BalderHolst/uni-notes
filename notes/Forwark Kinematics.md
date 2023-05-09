@@ -13,4 +13,4 @@ There is no standard way to place frames.
 >$$
 
 ---
-#kinematik 
+#kinematics 

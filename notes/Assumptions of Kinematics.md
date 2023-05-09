@@ -6,4 +6,4 @@
 
 
 ---
-#kinematik
+#kinematics

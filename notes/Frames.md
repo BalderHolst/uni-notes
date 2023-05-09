@@ -5,4 +5,4 @@ Frames can be positions relative to each other. Kinematics is basically about de
 
 
 ---
-#kinematik
+#kinematics

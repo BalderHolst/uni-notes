@@ -28,4 +28,4 @@ $d_i$ - The **angle** from $\hat{X}_{i-1}$ to $\hat{X}_i$ measured about $\hat{Z
 >![[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=33]]
 
 ---
-#kinematik 
+#kinematics 

@@ -81,4 +81,4 @@ Matrix a er symmetrisk hvis $A^T = A$.
 
 
 ---
-#matematik #emne 
+#matematik #subject 
