@@ -15,10 +15,25 @@ Note that *THE INVERSE JACOBIN MAY NOT EXIST*.
 $$\dot{q} = \alpha J^{T}\dot{x}, \s \alpha>0$$
 True for **very** small steps.
 
-### Rank and Determinant
+## Rank and Determinant
 If the [[Rang af Matrix|rank]] of the jacobian is not full, the robot can not move in one or more directions.
 
-At a singularity, the determinant of the jacobian will be zero.aa Therefore, the inverse jacobian will not exist.
+### Singularities
+
+##### For SQUARE Jacobians (non-redundant)
+At a [[Singularities|singularity]], the **[[Determinanen for Matricer|determinant]] of the jacobian will be *zero***. Therefore, the inverse jacobian will not exist.
+$$\mu = \det(J), \s 
+\begin{cases} 
+\mu \approx 0 \Rightarrow \text{close}\\
+\mu > 0 \Rightarrow \text{not close}\\
+\end{cases}$$
+
+##### For NON-SQUARE Jacobinas
+$$\mu = \sqrt{\det(JJ^{T)}}, \s 
+\begin{cases} 
+\mu \approx 0 \Rightarrow \text{close}\\
+\mu > 0 \Rightarrow \text{not close}\\
+\end{cases}$$
 
 
 ---
