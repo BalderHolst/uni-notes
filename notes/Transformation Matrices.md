@@ -13,7 +13,7 @@ $$^A_BT =
 \right)
 $$
 
-In kinematics we only interested in rotation and translation. Shering is therefore disabled.
+In kinematics we only interested in rotation and translation. Shering and scaling is therefore disabled.
 
 $$
 \left(
@@ -21,7 +21,7 @@ $$
  r_{11} & r_{12} & r_{13} & p_x \\
  r_{21} & r_{22} & r_{23} & p_y \\
  r_{31} & r_{32} & r_{33} & p_z \\
- 0 & 0 & 0 & s \\
+ 0 & 0 & 0 & 1 \\
 \end{array}
 \right) = \left(
 \begin{array}{cc}

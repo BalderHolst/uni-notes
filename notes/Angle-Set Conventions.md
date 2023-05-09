@@ -4,6 +4,8 @@ Ways to rotate around an axis with [[Rotational Matrices|rotational matrices]].
 ---
 
 ### Summary
+$$R_{\text{euler}}(x', y', z') = R_{\text{fixed}}(z, y, x) \Rightarrow R_{x'} \cdot R_{y'} \cdot R_{z'} = R_{x} \cdot R_{y} \cdot R_{z}$$
+
 [[#Fixed Angles]]
 $$
 R_Z(45\deg) \cdot \  ^\text{Base}_\text{TCP}R \Rightarrow \text{Rotate toolhead } 45 \deg \text{round the \textit{base} z-axis}
