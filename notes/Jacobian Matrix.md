@@ -40,10 +40,10 @@ Shows how the end-affector can move.
 $$\dot{x}A^{-1}\dot{x} = 1, \s A = JJ$$
 
 The axes $a$, $b$, and $c$ of the ellipsoid can be related to the eigen-values and eigen-vectors of $A$.
-![[Pasted image 20230509092020.png]]
+![[manipulability-ellipsoid.png]]
 
 >[!example]- 2D Example
->![[Pasted image 20230509092110.png]]
+>![[2D-manipulibility-example.png]]
 
 ##### Measure #1
 $$\mu = \sqrt{\det(JJ^{T)}} = \det(A), \s 
@@ -53,10 +53,18 @@ $$\mu = \sqrt{\det(JJ^{T)}} = \det(A), \s
 \end{cases}$$
 
 ##### Measure #2
-
+$$\mu = {\sqrt{\lambda_{\text{max}}(A)} \over \sqrt{\lambda_{\text{min}}(A)}} \geq 1, \s 
+\begin{cases} 
+\mu \text{ is large} \Rightarrow \text{close to singularity}\\
+\mu \text{ is small} \Rightarrow \text{far from singularity}\\
+\end{cases}$$
 
 ##### Measure #3
+$$\mu = {\lambda_{\text{max}(A)} \over \lambda_{\text{min}(A)}} \geq 1, \s 
+\begin{cases} 
+\mu \text{ is large} \Rightarrow \text{close to singularity}\\
+\mu \text{ is small} \Rightarrow \text{far from singularity}\\
+\end{cases}$$
 
 ---
-#kinematics 
-#matricer 
+#kinematics #matricer

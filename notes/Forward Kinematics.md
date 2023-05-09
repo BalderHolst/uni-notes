@@ -1,4 +1,4 @@
-# Forwark Kinematics
+# Forward Kinematics
 > Forward kinematics describes how *motion of the joints* affects motion of the robot *end-effector*.
 
 There is no standard way to place frames.
