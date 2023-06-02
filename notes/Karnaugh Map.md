@@ -13,7 +13,9 @@ The sides of a Karnaugh map "warp" around.
 1. Draw the ***biggest* rectangles** you can around the $1$'s. The amount of cells in each rectangle should be described by $2^k$. (remember that the table "wraps")
 2. For each rectangle write an equivalent equations that would create each rectangle and `OR` them together. (example [[Lesson 3.pdf#page=34|here]])
 
-![[Pasted image 20230602151349.png]]
+> [!example]- Example of Karnaugh to gates
+> ![[Pasted image 20230602151349.png]]
+> ![[Pasted image 20230602151402.png]]
 
 ---
 #microcontrolers 
