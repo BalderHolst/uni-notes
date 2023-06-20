@@ -4,7 +4,7 @@ A way to translate rotation between [[Frames|frames]].
 
 Assuming that we are working in three dimensions, the rotational matrix will always be in $\R^{3 \times 3}$ space.
 
-$$^A_BR = \left(
+$$^{A}_{B} R = \left[^{A}\hat{X}_{B} \,\,^{A}\hat{Y}_{B}  \,\, ^{A}\hat{Z}_{B} \right] = \left(
 \begin{array}{ccc}
  r_{11} & r_{12} & r_{13} \\
  r_{21} & r_{22} & r_{23} \\
@@ -12,8 +12,7 @@ $$^A_BR = \left(
 \end{array}
 \right)$$
 
-The *columns* describe the axes of $\set{B}$ in reference frame $\set{A}$.
-The *rows* describe the axes of $\set{A}$ in rotated frame $\set{B}$.
+The *columns* are the unit vectors of $\set{B}$ seen from $\set{A}$.
 
 ### Properties
 [[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
