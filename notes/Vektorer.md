@@ -40,6 +40,7 @@ Hvis to vektorer er *paralelle* ($\vec{a} || \vec{b}$):   $\vec{a} \bullet \vec{
 
 ### Krydsprodukt
 **Kun for 3D vektorer**
+$$v \times w = \det(\left[v \, w\right])$$
 
 $$\vt{a_1}{a_2}{a_3} \times \vt{b_1}{b_2}{b_3} = \vt{a_2b_3-a_3b_2}{-(a_1b_3 - a_3b_1)}{a_1b_2-a_2b_1}$$
 
