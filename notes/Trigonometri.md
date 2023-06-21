@@ -1,4 +1,5 @@
 # Trigonometri
+[[Law of Cosines]]
 
 ### Cosinus og Sinus
 
