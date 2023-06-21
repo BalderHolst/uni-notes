@@ -14,10 +14,22 @@ These values are derived for every link. $i$ denotes the link index.
 
 $a_{i-1}$: Link length, shortest distance between two joint axis.
 $\alpha_{i-1}$: Link twist, the angle between the axis around $a_{i-1}$.
-$d_{i}$: Link offset, 
+$d_{i}$: Link offset
+$\theta_{i}$: Joint angle, angle of connection to the next joint, around the joint axis.
 
 >[!example]- Images
-![[Pasted image 20230621105223.png]]
+>![[Pasted image 20230621105223.png]]
+>![[Pasted image 20230621105657.png]]
+
+#### Placing Frames (Modified Craig)
+- The **origin** of frame $\set{i}$ is located where $a_{i}$ intersects joint axis $i$.
+- The **Z-axis** of frame $\set{i}$ is coincident with joint axis $i$.
+- The **X-axis** of frame $\set{i}$ points along $a_{i}$ in the direction from joint $i$ to joint $i + 1$.
+- The **Y-axis** of frame $\set{i}$ follows in order to form a right-handed coordinate system.
+
+>[!example]- Image
+>![[Pasted image 20230621110417.png]]
+
 ## Procedure
 See [[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=29|slide]]:
 
