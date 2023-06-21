@@ -4,11 +4,20 @@ See the [[Lecture 7 - DH Parameters and Forward Kinematics.pdf|slides]].
 A standard for placing frames on a robot.
 ![[dh-parameter-table.png|center|250]]
 
-Every joint can be describes as a combination of prismatic and evolute joints.
+Every joint can be describes as a combination of prismatic and revolute joints.
 
-Prismatic joint: Pure translation in one axis
-Revolure joint: Pure rotation in one axis
+*Prismatic joint*: Pure translation in one axis
+*Revolute joint*: Pure rotation in one axis
 
+#### Variables
+These values are derived for every link. $i$ denotes the link index.
+
+$a_{i-1}$: Link length, shortest distance between two joint axis.
+$\alpha_{i-1}$: Link twist, the angle between the axis around $a_{i-1}$.
+$d_{i}$: Link offset, 
+
+>[!example]- Images
+![[Pasted image 20230621105223.png]]
 ## Procedure
 See [[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=29|slide]]:
 
