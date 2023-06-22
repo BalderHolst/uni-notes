@@ -3,15 +3,23 @@ A way of defining a rotation with an axis and an angle. See [[Lecture 5 - Other 
 
 ![[Pasted image 20230622155121.png|300]]
 
-### Rodrigues' formula
-Calculate the equivalent rotation matrix.
-
+Can be given seperately or combined:
 $$
-^A_BR(\ ^A\hat{K}, \theta\ ) = I \cos(\theta) + KK^{-1} (1 - \cos(\theta)) + \hat{K} \sin(\theta)
+\theta, \, \hat{K} = \begin{bmatrix} k_x \\ k_y \\ k_z \end{bmatrix} 
+\s \text{or} \s
+K = \theta \hat{K} = \begin{bmatrix} \theta k_x \\ \theta k_y \\ \theta k_z \end{bmatrix} 
 $$
 
 >[!video]- Video
 >![](https://www.youtube.com/watch?v=zrDCI89bSp4)
+
+### Rodrigues' formula
+Calculate the equivalent rotation matrix.
+
+$$
+^A_BR(\ ^AK, \theta\ ) = I \cos(\theta) + KK^{-1} (1 - \cos(\theta)) + \hat{K} \sin(\theta)
+$$
+
 
 
 
