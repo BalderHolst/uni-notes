@@ -1,11 +1,17 @@
 # Trigonometri
-[[Law of Cosines]]
+see also: [[Law of Cosines]].
 
 ### Cosinus og Sinus
 
 $$\sin(\theta) = \frac{\text{Modstående}}{\text{Hypotenusen}}$$
 $$\cos(\theta) = \frac{\text{Hoslæggende}}{\text{Hypotenusen}}$$
 $$\tan(\theta)= \frac{\text{Modstående}}{\text{Hoslæggende}} = \frac{\sin(\theta)}{\cos{(\theta)}}$$
+
+### And arctan
+$$a = \arctan\left(\frac{\sin(a)}{\cos(a)}\right) \pm n\pi, \s n \in \Z$$
+
+Or use `atan2` for full $360\degree$ resolution!
+$$a = \text{arctan2}\left(\frac{\sin(a)}{\cos(a)}\right) \pm n \cdot 2\pi, \s n \in \Z$$
 
 #### Flere Relationer 
 $$\sin(\theta) = \sin(\pi - \theta)$$
