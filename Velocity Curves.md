@@ -1,9 +1,9 @@
 # Velocity Curves
 Ways of getting from one point to another in a smooth and stylish fashion!
 
-## Trapezoidal Velocity Profiles
-A simple velocity profile. It does however result in high [[jerk]] which can result in wear on the motors. Therefore, [[#Cubic Polynomial Profiles]] are usually used instead.
-![[Pasted image 20230622100202.png|300]]
+>[!example]- Trapezoidal Velocity Profiles
+>A simple velocity profile. It does however result in high [[jerk]] which can result in wear on the motors. Therefore, [[#Cubic Polynomial Profiles]] are usually used instead.
+>![[Pasted image 20230622100202.png]]
 
 ## Cubic Polynomial Profiles
 $$
@@ -23,10 +23,21 @@ $$
 \begin{cases}
 q(0) &= q_{start} = d\\
 \dot{q}(0) &= \dot{q}_{start} = c \\
-q(T) &= q_{end} = aT^{3} + bT^{2} 0 
+q(T) &= q_{end} = aT^{3} + bT^{2} + cT + d \\
+\dot{q}(T) &= \dot{q}_{end} = 3aT^{3} + 2bT + c
 \end{cases}
 $$
+$T$: The time when the second point is reached.
 
+##### For all the robot joints
+Simply convert all parameters to vectors
+
+$$
+\newcommand{\vv}[1]{
+\begin{bmatrix} #1_{1}(t) \\ \vdots \\ #1_{n}(t) \end{bmatrix}
+}
+\vv{q} 
+$$
 
 ---
 #kinematics 
