@@ -1,6 +1,8 @@
 # Velocity Curves
 Ways of getting from one point to another in a smooth and stylish fashion!
 
+[[Lecture 11 - Jacobian Singularities Numerical IK and Trajectory Generation.pdf#page=18|slides]]
+
 >[!example]- Trapezoidal Velocity Profiles
 >A simple velocity profile. It does however result in high [[jerk]] which can result in wear on the motors. Therefore, [[#Cubic Polynomial Profiles]] are usually used instead.
 >![[Pasted image 20230622100202.png]]
@@ -24,7 +26,7 @@ $$
 q(0) &= q_{start} = d\\
 \dot{q}(0) &= \dot{q}_{start} = c \\
 q(T) &= q_{end} = aT^{3} + bT^{2} + cT + d \\
-\dot{q}(T) &= \dot{q}_{end} = 3aT^{3} + 2bT + c
+\dot{q}(T) &= \dot{q}_{end} = 3aT^{2} + 2bT + c
 \end{cases}
 $$
 $T$: The time when the second point is reached.
@@ -36,7 +38,7 @@ $$
 \newcommand{\vv}[1]{
 \begin{bmatrix} #1_{1}(t) \\ \vdots \\ #1_{n}(t) \end{bmatrix}
 }
-\vv{q} 
+\vv{q} = \vv{a} \cdot t^{3} + \vv{b} \cdot t^{2} + \vv{c} \cdot t + \vv{d}
 $$
 
 ---
