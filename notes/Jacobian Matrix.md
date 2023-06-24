@@ -39,7 +39,7 @@ $$\mu = \sqrt{\det(JJ^{T)}}, \s
 Shows how the end-affector can move.
 $$\dot{x}A^{-1}\dot{x} = 1, \s A = JJ$$
 
-The axes $a$, $b$, and $c$ of the ellipsoid can be related to the eigen-values and eigen-vectors of $A$.
+The axes $a$, $b$, and $c$ of the ellipsoid can be related to the [[Egenværdier og Egenvektorer|eigen-values]] and eigen-vectors of $A$.
 ![[manipulability-ellipsoid.png]]
 
 >[!example]- 2D Example
