@@ -16,7 +16,7 @@ The *columns* are the unit vectors of $\set{B}$ seen from $\set{A}$.
 
 ### Properties
 [[Den Inverse af en Matrix|The inverse]] and the [[Matricer#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
-$$^A_BR^{-1} = ^A_BR^{T} = \ ^B_AR$$
+$$^A_BR^{-1} =\ ^A_BR^{T} = \ ^B_AR$$
 
 
 ### Rotating Points
