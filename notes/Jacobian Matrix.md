@@ -46,20 +46,27 @@ The axes $a$, $b$, and $c$ of the ellipsoid can be related to the [[Egenværdier
 >![[2D-manipulibility-example.png]]
 
 ##### Measure #1
-$$\mu = \sqrt{\det(JJ^{T)}} = \det(A), \s 
+$$\mu = \sqrt{\det(JJ^{T)}} = \sqrt{\det(A)}, \s 
 \begin{cases} 
 \mu \approx 0 \Rightarrow \text{close}\\
 \mu > 0 \Rightarrow \text{not close}\\
 \end{cases}$$
 
 ##### Measure #2
-$$\mu = {\sqrt{\lambda_{\text{max}}(A)} \over \sqrt{\lambda_{\text{min}}(A)}} \geq 1, \s 
+$$
+\mu = {\sqrt{\lambda_{\text{max}}(A)} \over \sqrt{\lambda_{\text{min}}(A)}} \geq 1, \s \mu >= 1, \s
+$$
+$\lambda_{max}$: The largest eigen value
+$\lambda_{min}$: The smalest eigen value
+$$
 \begin{cases} 
-\mu \text{ is large} \Rightarrow \text{close to singularity}\\
-\mu \text{ is small} \Rightarrow \text{far from singularity}\\
-\end{cases}$$
+\mu \text{ is large} &\Rightarrow \text{close to singularity}\\
+\mu \text{ is small} &\Rightarrow \text{far from singularity}\\
+\mu = 1 &\Rightarrow \text{Isotropic}\\
+\end{cases}
+$$
 
-##### Measure #3
+##### Measure #3 (Condition number)
 $$\mu = {\lambda_{\text{max}}(A) \over \lambda_{\text{min}}(A)} \geq 1, \s 
 \begin{cases} 
 \mu \text{ is large} \Rightarrow \text{close to singularity}\\

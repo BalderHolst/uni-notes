@@ -66,5 +66,8 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >$$
 >Det samme gøres med den anden egenværdi.
 
+>[!video]- Video
+>![](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
 ---
 #matematik #matricer 
