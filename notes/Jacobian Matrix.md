@@ -60,7 +60,7 @@ $$\mu = {\sqrt{\lambda_{\text{max}}(A)} \over \sqrt{\lambda_{\text{min}}(A)}} \g
 \end{cases}$$
 
 ##### Measure #3
-$$\mu = {\lambda_{\text{max}(A)} \over \lambda_{\text{min}(A)}} \geq 1, \s 
+$$\mu = {\lambda_{\text{max}}(A) \over \lambda_{\text{min}}(A)} \geq 1, \s 
 \begin{cases} 
 \mu \text{ is large} \Rightarrow \text{close to singularity}\\
 \mu \text{ is small} \Rightarrow \text{far from singularity}\\
