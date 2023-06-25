@@ -36,9 +36,12 @@ Simply convert all parameters to vectors
 
 $$
 \newcommand{\vv}[1]{
+\begin{bmatrix} #1_{1} \\ \vdots \\ #1_{n} \end{bmatrix}
+}
+\newcommand{\vf}[1]{
 \begin{bmatrix} #1_{1}(t) \\ \vdots \\ #1_{n}(t) \end{bmatrix}
 }
-\vv{q} = \vv{a} \cdot t^{3} + \vv{b} \cdot t^{2} + \vv{c} \cdot t + \vv{d}
+\vf{q} = \vv{a} \cdot t^{3} + \vv{b} \cdot t^{2} + \vv{c} \cdot t + \vv{d}
 $$
 
 ---
