@@ -39,7 +39,7 @@ p = \left(
  p_{x} \\
  p_{y} \\
  p_{z} \\
- 0 
+ 1 
 \end{array}
 \right)
 $$
