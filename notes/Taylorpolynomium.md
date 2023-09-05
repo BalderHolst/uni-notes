@@ -2,7 +2,7 @@
 $n$'te grads taylorpolynomium udvikles om $x = a$.
 $$P_{n}(x) = f(a) + \frac{f'(a)}{1!}(x-a)^{1}+ \frac{f''(a)}{2!}(x-a)^{2}+ \dots + \frac{f^{(n)}(a)}{n!}(x-a)^n$$
 
-[[Linarisering]] benytter et førstegrads taylorpolynomium
+[[Linarisering]] benytter et førstegrads taylorpolynomium.
 
 Hvis man tager nok led med kan man i ***nogle*** tilfælde finde et præcist udtryk for funktionen.
 
