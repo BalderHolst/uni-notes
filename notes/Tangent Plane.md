@@ -1,5 +1,5 @@
 # Tangent Plane
-![[Pasted image 20230911130655.png|300]]
+![[tangent plane.png|300]]
 
 $$\vec n = \vec T_{1} \cdot \vec T_{2} = 
 \left(
