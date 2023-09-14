@@ -1,13 +1,28 @@
 # Laplace Transformation
-$$\text{impuls} \rightarrow \text{respons}$$
-
-
-$$
-H(s) = \int_{-\infty}^{\infty} h(\tau) e^{-s\tau} \, d\tau, \s s \in \C
-$$
 
 ### Overføringsfunktion
+$$\text{impuls} \rightarrow \text{respons}$$
+
+$$
+H(s) = \mathcal{L}\{h(t)\} = \int_{-\infty}^{\infty} h(t) e^{-st} \, dt, \s s  = \sigma + j\omega$$
+
+$h(t)$: Impulse response in the *time* domain.
+$s$: Input signal 
+
 $$H(s) = \frac{\text{output}(s)}{\text{input}(s)}$$
+
+#### Poles
+$$H(s) = \frac{\beta}{\alpha} \Rightarrow 
+\begin{cases}
+\beta = 0 &\Rightarrow \text{nulpunkter} \\
+\alpha = 0 &\Rightarrow \text{poles}
+\end{cases}
+$$
+$\alpha$: den karakteristikle ligning
+
+Pol = Singularitet i frekvensdomæne
+
+![[Pasted image 20230913215819.png]]
 
 ---
 ## Inverse Laplace Transformation
