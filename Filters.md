@@ -55,5 +55,7 @@ If not, the [[step response]] will ocilate:
 ![[Pasted image 20230914085447.png|350]]
 ![[Pasted image 20230914085503.png|350]]
 
+[test](https://google.com)
+
 ---
 #signals #signalprocessing
