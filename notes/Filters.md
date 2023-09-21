@@ -12,8 +12,8 @@ We want three things from a filter:
 3. **Linear phase*** (see [[#Delay through filter (gruppeløstid)]])
 
 ##### Actual filter types
-- [[Butterworth]]
-- [[Chebyshev]]
+- [[Butterworth Filter]]
+- [[Chebyshev Filter]]
 - [[Bessel]]
 
 Plots of the three filters
