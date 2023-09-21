@@ -1,9 +1,17 @@
 # TCP/IP
+
+##### Example of the logic inside a single router
 ![[Pasted image 20230919124703.png|450]]
 
-$L$: Data Link Address
+$L$: Data Link Address (mac addresses), each router has a local and a public address.
+$N$: IP of the sender and final receiver of a packet.
 ## Data Link Layer
 See [[KOM - Lecture 3_a - Itslearning.pdf#page=3|slides]].
+
+#### Sublayers
+- Data Link Control (DLC) : this layer takes care of all the issues common to both point-to-point and broadcast links. 
+- Media Access Control (MAC) : Only deals with the issues specific to broadcast links.
+
 ![[Pasted image 20230919122516.png]]
 
 #### Addressing
