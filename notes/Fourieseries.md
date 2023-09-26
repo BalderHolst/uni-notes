@@ -1,4 +1,5 @@
 # Fourieseries
+
 [[Trigonometri|Trigonometric]] approximations for **periodic signals**. (As opposed to [[Fourie-transformation]])
 
 $$
