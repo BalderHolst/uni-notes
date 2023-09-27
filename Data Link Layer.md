@@ -1,3 +1,7 @@
+---
+test: ["one", "two"]
+---
+
 
 ## Framing
 See slides [[KOM - lecture 4a - Itslearning.pdf#page=6|here]] and more [[KOM - lecture 4b - Itslearning.pdf#page=3|here]].
