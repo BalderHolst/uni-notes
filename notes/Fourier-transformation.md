@@ -1,4 +1,4 @@
-# Fourie-transformation
+# Fourier-transformation
 [[Trigonometri|Trigonosetric]] approximations for *aperiodic signals*.
 
 Make the period of the signal, as large as the signal duration and use [[Fourieseries]].

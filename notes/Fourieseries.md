@@ -1,6 +1,6 @@
 # Fourieseries
 
-[[Trigonometri|Trigonometric]] approximations for **periodic signals**. (As opposed to [[Fourie-transformation]])
+[[Trigonometri|Trigonometric]] approximations for **periodic signals**. (As opposed to [[Fourier-transformation]])
 
 $$
 f(x) = \frac{a_0}{2} + \sum^\infty_{n=1} \left( a_n \cos \left( \frac{n\pi x}{L} \right) + b_n \sin \left( \frac{n\pi x}{L} \right) \right) 
