@@ -1,5 +1,5 @@
 # Strøm
-En strøm af [[ladning]].
+En strøm af ladning.
 
 > "The current entering a node must equal the current exiting a node"
 
