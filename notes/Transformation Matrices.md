@@ -31,7 +31,7 @@ $$
 \right)
 $$
 
-To use this like a [[Rotation Matrices|rotation matrix]] points are written like this:
+To use this like a [[Rotational Matrices|rotation matrix]] points are written like this:
 
 $$
 p = \left(
