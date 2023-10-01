@@ -1,6 +1,6 @@
 # Partiel Integration
 
-$$\int u(x) \cdot v'(x) \dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) \dx$$
+$$\int u(x) \cdot v'(x) dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) dx$$
 
 >[!note]- Udledning
 >- [Udledning med Henrik](https://youtu.be/sGlXgFbmvws)
