@@ -55,7 +55,23 @@ Circulate a "token". The device with the token has permission to send. After the
 ### Logical Ring
 ...
 
-### Channelization
+---
+## Channelization
+### Frequency-Division Multiple Access (FDMA)
+Divide the the bandwidth into frequency band for parallel communication.
+
+### Time-Division Multiple Access (TDMA)
+Each station gets its own time slot to send data. *Syncronication between stations is hard* because of propagation delay.
+
+### Code-Division Multiple Access (CDMA)
+We send codes (cheap sequences) with the following properties:
+- If we multiply a code with another the result is $0$
+- If we multiply a code with itself we get the sender id
+
+#### Data Representation
+- A bit that is $0$ is represented as $-1$
+- A bit that is $1$ is represented as $1$
+- If nothing is sent it is represented as $0$
 
 ---
 #datacommunication
