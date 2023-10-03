@@ -32,5 +32,19 @@ Twisted pair cable
 ##### 10Base-F
 Fiber-optic cables
 
+### Fast Ethernet
+New, better, stronger, fancier ethernet with 10x speeds!
+
+Backwards compatible with [[#standard ethernet]].
+
+##### Autonegotiaion
+Handles communication between networks of different types (for backwards compatibility).
+
+##### Physical Layer
+Uses different [[Line Coding|line coding schemes]] for different cables.
+
+### Gigabit Ethernet
+The length of the cable is reduced by a lot, but data can be sent a lot faster.
+
 ---
 #datacommunication
