@@ -38,8 +38,8 @@ $$
 >\end{align}
 >$$
 >Sætter $x=-3$ og $x=-2$ ind
->$$x=-3 \arrow 3(-3) + 7=B(-3 + 2) \arrow B = 2$$
->$$x=-2 \arrow 3(-2) +7 =A(-2 + 3) \arrow A = 1$$
+>$$x=-3 \Rightarrow 3(-3) + 7=B(-3 + 2) \Rightarrow B = 2$$
+>$$x=-2 \Rightarrow 3(-2) +7 =A(-2 + 3) \Rightarrow A = 1$$
 >##### Samle Koefficienter
 >$$
 >\begin{align}
@@ -56,9 +56,9 @@ $$
 >Sætter interessante værdier ind for $x$
 >$$
 >\begin{align}
->x = -1 &\arrow C=7 \\
->x = -2 &\arrow B=13 \\
->x = 0 &\arrow 3 = 2A + B + 2C \arrow A = -12
+>x = -1 &\Rightarrow C=7 \\
+>x = -2 &\Rightarrow B=13 \\
+>x = 0 &\Rightarrow 3 = 2A + B + 2C \Rightarrow A = -12
 >\end{align}
 >$$
 >Altså kan vi omskrive udtrykket således
