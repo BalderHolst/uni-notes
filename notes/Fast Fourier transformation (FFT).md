@@ -13,10 +13,10 @@ $$W_{N}^{N} = W_{N}^{1},\,\, W_{N}^{N+2} = W_{N}^{3}$$
 
 ### Window
 
+$$h(n) = h_{\infty}(n)w(n)$$
 A good window will be as **narrow as possible** in the frequency domain.
 #### Rectangular
 
-$$h(n) = h_{\infty}(n)w(n)$$
 $$
 w(n) = \begin{cases}
 1, \,\, -M \leq n \leq M \\ \\
@@ -29,10 +29,40 @@ A rectangular window results in the frequency domain getting multiplied by a $\t
 
 The $\text{sinc}$ function creates oscillations called Gipps oscillations.
 
-#### Matlab
+#### Barlett
+Main lobe is wider and in rectangular window, meaning a worse window. It does however reduce Gipps oscillations.
+$$
+w(n) =
+\begin{cases}
+1- \frac{|n|}{M}, &\text{if} -M \leq n \leq M \\
+0, &\text{else}
+\end{cases}
+$$
+
+$n$: sample number
+
+#### Hamming and Hanning
+Still a *wider main lobe* than the rectangular window, but **much lower oscillations**.
+
+Hanning: $\alpha = 0.5$
+Hamming: $\alpha = 0.54$
+
+$$
+w(n) =
+\begin{cases}
+\alpha + (1- \alpha) \cos\left(\frac{n\pi}{M}\right), &\text{if} -M \leq n \leq M \\
+0, &\text{else}
+\end{cases}
+$$
+
+### Errors in FFT
+
+
+## Matlab
 ```matlab
 fft()
 ```
+
 
 
 ---
