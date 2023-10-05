@@ -56,7 +56,7 @@ w(n) =
 $$
 
 ### Errors in FFT
-
+- We may not be able to see the frequency we are interested in if it exists between the FFT "bars".
 
 ## Matlab
 ```matlab
