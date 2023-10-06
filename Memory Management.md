@@ -66,7 +66,9 @@ The hash table is indexed by a hash of the logical pointer. Because more than on
 #### Inverted Page Table
 Only **one page table in the system**.
 
-Each entry contains the process id (pid) and the page held by the process (p). 
+Each entry contains the process id (pid) and the page held by the process (p).
+
+Each time you want to find a frame you iterate over the page table and find $p$. The frame number is the index into of the entry containing $p$.
 
 ## Segmentation
 
@@ -75,6 +77,8 @@ A program consists of several pieces of memory
 - Main Program
 - ...
 
+## Swap
+A loaded program can be "swapped" to memory to save space.
 
 
 ---
