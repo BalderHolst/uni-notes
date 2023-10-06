@@ -1,0 +1,44 @@
+\usepackage{cancel}
+\usepackage{amsfonts}
+\usepackage[danish]{babel}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\dx}{\text{ dx}}
+\newcommand{\rang}{\text{rang}}
+\newcommand{\s}{\ \ \ \ \ \ }
+\newcommand{\arrows}{\s \Leftrightarrow \s}
+\newcommand{\Arrows}{\s \Longleftrightarrow \s}
+\newcommand{\arrow}{\s \Rightarrow \s}
+\newcommand{\c}{\bcancel}
+
+\newcommand{\v}[2]{
+    \begin{pmatrix}
+    #1 \\
+    #2 \\
+    \end{pmatrix}
+}
+
+\newcommand{\vt}[3]{
+    \begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    \end{pmatrix}
+}
+
+\newcommand{\stack}[2]{
+	\substack{
+	#1 \\
+	#2
+	}
+}
+
+\newcommand{\atom}[3]{
+	\substack{
+	#1 \\
+	#2
+	}
+	\ce{#3}
+}

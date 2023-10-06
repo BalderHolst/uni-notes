@@ -1,0 +1,13 @@
+bøger/
+README.md
+LICENSE
+Templates/
+Excalidraw/
+.obsidian/*
+.git/*
+.*
+.*/
+*.sh
+*.sty
+HJEM.md
+README.md
