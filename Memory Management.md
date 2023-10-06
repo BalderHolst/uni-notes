@@ -34,6 +34,22 @@ Logical memory is divided into "pages". Each address contains two numbers: *page
 The page table is *process specific* and managed by the OS.
 
 This only create internal fragmentation.
+
+##### Translation Look-aside buffer (TLB)
+A small page table held by the CPU (or very close to it), allowing to faster lookup of frequently used pages. The CPU will always look for a page here before the in-memory page table. It the page is found in the TLB, it is called a *TLB-hit*.
+
+Page table is also stored in memory. This means that each time we want to access memory, we actual do it twice: Once for accessing the page table, and once to accessing the data.
+
+Effective access time:
+$$EAT = (t_{TLB} + t_{mem}) \alpha + (t_{TLB} + t_{mem} + t_{mem})(1- \alpha )$$
+$\alpha$: The percentage of pages stored by CPU.
+$t_{TLB}$: Time to lookup in the TLB.
+$t_{mem}$: Time to access memory.
+
+##### Protection
+The page table can also contain the permissions for the frames.
+
+
 ## Segmentation
 
 A program consists of several pieces of memory
