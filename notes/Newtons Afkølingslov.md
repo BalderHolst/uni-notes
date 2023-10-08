@@ -26,7 +26,7 @@ $a$ : en konstant, der er lig $k$.
 $b$ : en anden konstant der er lig $k \cdot T_{omg}$-
 
 
->[!Note]- Udledning af løsning med $a$ og $b$
+>[!Note]- Udledning af løsning med a og b
 >
 >$$a = k, \s\s b = k \cdot T_{omg}$$
 >$$T = \frac{b}{a} + C  \cdot e^{-at} = \frac{\cancel{k} \cdot T_{omg}}{\cancel{k}}+C \cdot e^{-kt} = T_{omg} + C \cdot e^{-kt}$$
