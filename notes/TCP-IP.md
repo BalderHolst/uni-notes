@@ -50,6 +50,9 @@ You can $\text{XOR}$ two valid codewords to get another valid codeword.
 $$A \,\, \text{XOR} \,\, B= C $$
 Where $A$, $B$ and $C$ are all valid.
 
+##### Hamming Codes
+
+
 ##### Cyclic Coding
 Se [[KOM - Lecture 3_b - Itslearning.pdf#page=15|slides]].
 
