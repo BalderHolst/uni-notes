@@ -1,7 +1,7 @@
 # Network Layer
 See [[KOM - lecture 6 - Itslearning.pdf#page=3|slides]].
 
-Responsible for host-to-host delivery of datagrams. Is can control communication across *multipule networks*.
+Responsible for host-to-host delivery of datagrams. Is can control communication across *multiple networks*.
 
 Responsible for *routing* (find the fastest route).
 
@@ -10,7 +10,11 @@ See [[KOM - lecture 6 - Itslearning.pdf#page=35|slides]].
 
 #### IPv4
 A 32-bit address.
+$$a.b.c.d/n$$
+$n$: Number of bits in the prefix
 
+##### Network Address (First address of block)
+Contains the destination network.
 
 ---
 
