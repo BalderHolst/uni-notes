@@ -5,6 +5,15 @@ Responsible for host-to-host delivery of datagrams. Is can control communication
 
 Responsible for *routing* (find the fastest route).
 
+### Ip-Address
+See [[KOM - lecture 6 - Itslearning.pdf#page=35|slides]].
+
+#### IPv4
+A 32-bit address.
+
+
+---
+
 #### Fragmentation
 Do route packets, sometimes the packets have to be repackaged to be sent over a different network. This process is called fragmentation.
 
@@ -74,6 +83,14 @@ When a packet is lost, it will cause the sender to resend the packet, which wors
 - *Acknowledgement Policy*: The receiver only sends ONE ACK-packet per $N$ received packets.
 - *Discarding Policy*: The router discards less sensitive packets.
 - *Admission Policy*: Create a special channel for important packets.
+
+#### Closed Look Congestion Control
+See [[KOM - lecture 6 - Itslearning.pdf#page=32|slides]].
+
+*back-pressure*: propagate *back-pressure* to stop the incoming flow of packets.
+*choke-packer*: send choke packet to the source to stop it sending packets.
+*Implicit Signalling*: The sender notices a choke by itself and slows down packet transmission.
+*Explicit Signalling*: Include a choke-packet in another packet, to notify the sender of the congestion
 
 
 
