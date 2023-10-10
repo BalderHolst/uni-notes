@@ -1,5 +1,5 @@
 # Line Coding Schemes
-Ways to **convert digital data to an analog signal** in a "good way", making it easy for the receiver to parse the signal.
+Ways to **convert digital data to an analog signal** in a "good way", making it easy for the receiver to interpret the signal.
 
 The receiver must be able to convert the received signal in a *relative way*, as absolute voltages may not be preserved.
 
