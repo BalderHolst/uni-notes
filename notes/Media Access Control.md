@@ -21,16 +21,21 @@ See [[KOM - lecture 5a - Itslearning.pdf#page=13|slides]].
 Frames must be sent within time slots, doubling throughput.
 
 ### Carrier Sense Multiple Access (CSMA)
+See [[KOM - lecture 5a - Itslearning.pdf#page=15|slides]].
 Sense whether the transmission medium is free. Only send if it is.
 
 **Collisions can still occur** because of delay.
 
 ### CSMA/CD
+See [[KOM - lecture 5a - Itslearning.pdf#page=21|slides]].
+
 Same as CSMA but with a description of how to handle collisions.
 
 To be able to detect collisions and abort sending a frame, while still sending it. The frame time ($T_{fr}$) must be at least double the propagation time ($T_{p}$).
 $$T_{fr} \geq 2 \cdot T_{p}$$
 ### CSMA/CA
+See [[KOM - lecture 5a - Itslearning.pdf#page=28|slides]].
+
 The sender "asks" is the receiver (RTS-frame) is ready to receive data. The receiver replies with a CTS (clear-to-send), is also sends it to the other devices in the network. They are not allowed to send anything until the receiver notifies the other devices that the transmission has ended.
 
 Can prioritize frames by changing IFS-value.
