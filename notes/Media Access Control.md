@@ -45,15 +45,15 @@ This also uses a timer + ACK frames.
 ---
 
 ## Controlled Access
+See [[KOM - lecture 5a - Itslearning.pdf#page=37|slides]].
 
 ### Reservation
-Send a frame that describes the destination on the next $n$ frames.
+Send a frame that describes the destination of the next $n$ frames.
 
-### Poll
-##### Select
+### Select
 First send a SEL (select) frame, which determines the destination of the following data frame.
 
-##### Poll
+### Poll
 Send Poll frame to other devices to find out if they are ready to send to primary device.
 
 ### Token Passing
@@ -78,6 +78,8 @@ Divide the bandwidth into frequency band for parallel communication.
 Each station gets its own time slot to send data. *Syncronication between stations is hard* because of propagation delay.
 
 ### Code-Division Multiple Access (CDMA)
+See [[KOM - lecture 5a - Itslearning.pdf#page=48|slides]].
+
 We send codes (cheap sequences) with the following properties:
 - If we multiply a code with another the result is $0$
 - If we multiply a code with itself we get the sender id
