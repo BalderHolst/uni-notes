@@ -22,7 +22,7 @@ See [[KOM - Lecture 3_a - Itslearning.pdf#page=8|slides]].
 Each router uses a [[Forwarding Table]] to determine where to relay the packet.
 
 ##### Types of addressing
-- Unicast Addressing: Sener and reciever are known
+- Unicast Addressing: Sender and receiver are known
 - Multicast Addressing: One to many communication *within local network*
 - Broadcast Addressing: One to all
 
