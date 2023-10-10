@@ -69,8 +69,10 @@ Circulate a "token". The device with the token has permission to send. After the
 
 ---
 ## Channelization
+See [[KOM - lecture 5a - Itslearning.pdf#page=43|slides]].
+
 ### Frequency-Division Multiple Access (FDMA)
-Divide the the bandwidth into frequency band for parallel communication.
+Divide the bandwidth into frequency band for parallel communication.
 
 ### Time-Division Multiple Access (TDMA)
 Each station gets its own time slot to send data. *Syncronication between stations is hard* because of propagation delay.
