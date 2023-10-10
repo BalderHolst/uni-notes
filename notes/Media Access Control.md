@@ -6,14 +6,21 @@ See [[KOM - lecture 5a - Itslearning.pdf|slides]].
 
 ---
 ### Random Access
+See [[KOM - lecture 5a - Itslearning.pdf#page=7|slides]].
+
 All nodes can send whenever they want, therefore conflicts can occur.
 
 ### Pure ALOHA
+See [[KOM - lecture 5a - Itslearning.pdf#page=8|slides]].
+
+Time is divided into time slots, but the time slots are not synchronised between nodes. Each node sends all its data within a random time slot. This leads to collisions.between nodes. Each node wait for the transmission medium to be free and sends all its data within the time slot. This leads to collisions.
 
 ### Slotted ALOHA
+See [[KOM - lecture 5a - Itslearning.pdf#page=13|slides]].
+
 Frames must be sent within time slots, doubling throughput.
 
-### Carrier Sense Multipule Access (CSMA)
+### Carrier Sense Multiple Access (CSMA)
 Sense whether the transmission medium is free. Only send if it is.
 
 **Collisions can still occur** because of delay.
