@@ -8,6 +8,10 @@ $$ \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
 
 ![[Pasted image 20231012084315.png|400]]
 
+>[!tip]- Nice Rules
+>![[Pasted image 20231012085739.png]]
+>![[Pasted image 20231012092152.png]]
+
 ### Poles
 Poles **within** the unit circle -> **stable system**
 Poles **outside** the unit circle -> **unstable system**
@@ -24,10 +28,7 @@ s = e^{sT} = e^{\frac{\sigma}{f_{s}}} \cdot e^{2\pi}
 $$
 
 ### The Real Axis
-The real axis is mapped to the z-plane's real axis from $0$ to $\infty$. The negative part is mapped to the range $[0, 1]$.
-
-### Nice Rules
-![[Pasted image 20231012085739.png|400]]
+The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to $\infty$. The negative part is mapped to the range $[0, 1]$.
 
 ---
 #signalprocessing
