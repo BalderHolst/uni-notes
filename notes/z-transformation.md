@@ -33,7 +33,26 @@ The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to
 ### Inverse z-transform
 See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 
-##### 
+**Make sure that the system is stable before converting back**
+
+>[!example]-
+>$$
+>Y(z) = \frac{z}{(z-0.5)(z-0.25)}
+>$$
+>
+>$$
+>\frac{Y(z)}{z} = \frac{k_{1}}{z-0.5} + \frac{k_{2}}{z-0.25}
+>$$
+>Now we find $k_{1}$: let $z=p_{1} = 0.5$ (pole one).
+>$$\frac{Y(z)}{z} \cdot (z-0.5) = k_{1} + k_{2}\frac{z-0.5}{z-0.25}$$
+>
+>$$
+>\frac{\frac{z}{\cancel{(z-0.5)}(z-0.25)} \cdot \cancel{(z-0.5)}}{z} = \frac{\frac{z}{z-0.25}}{z} = k_{1}
+>$$
+>Substitute $z = 0.5$
+>$$
+>k_{1} = \frac{\frac{0.5}{0.5-0.25}}{0.5} = 4
+>$$
 
 [[Partialbrøker]]
 
