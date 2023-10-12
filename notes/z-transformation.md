@@ -30,5 +30,12 @@ $$
 ### The Real Axis
 The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to $\infty$. The negative part is mapped to the range $[0, 1]$.
 
+### Inverse z-transform
+See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
+
+##### 
+
+[[Partialbrøker]]
+
 ---
 #signalprocessing
