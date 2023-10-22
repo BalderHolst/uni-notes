@@ -1,4 +1,5 @@
 # Laplace Transformation
+Se [regneregler](https://tutorial.math.lamar.edu/classes/de/Laplace_Table.aspx).
 
 ### Overføringsfunktion
 $$\text{impuls} \rightarrow \text{respons}$$
