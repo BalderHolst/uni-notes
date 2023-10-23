@@ -16,7 +16,7 @@ $\theta$ : Vinklen fra $x$ aksen i $xy$ planen.
 $z$ : Højden
 
 ### Oversæt til Cartesiske koordinater
-$$x= \cos \theta \s y = r \sin \theta \s z = z$$
+$$x=r \cdot \cos \theta \s y = r \sin \theta \s z = z$$
 
 ---
 #matematik 
