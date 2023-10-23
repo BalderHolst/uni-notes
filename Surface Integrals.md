@@ -13,7 +13,7 @@ $$
 \end{cases}
 $$
 $$
-\Rightarrow \int\int_{S} f(r) \bullet |\vec{r_{u}} \times \vec{r_{v}}|\ \text{du}\ \text{dv}
+\Rightarrow \int\int_{S} f(r) \cdot |\vec{r_{u}} \times \vec{r_{v}}|\ \text{du}\ \text{dv}
 $$
 ### With dependent z
 For cases where
