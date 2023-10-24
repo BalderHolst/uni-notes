@@ -5,6 +5,8 @@ See [[KOM - lecture 7 - Itslearning.pdf#page=31|slides]].
 
 ![[Pasted image 20231024130645.png|600]]
 
+### Error Reporting (ICMPv4)
+See [[KOM - lecture 7 - Itslearning.pdf#page=64|slides]].
 
 
 ---
