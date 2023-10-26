@@ -4,6 +4,9 @@ When we sample a signal, be may get poles repeated up and down the imaginary axi
 
 $$ \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
 
+### Transfer Function
+$$H(z) = \frac{Y(z)}{X(z)}$$
+
 **We cannot create a z-plane without a sample rate**.
 
 ![[Pasted image 20231012084315.png|400]]
@@ -12,7 +15,7 @@ $$ \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
 >![[Pasted image 20231012085739.png]]
 >![[Pasted image 20231012092152.png]]
 
-### Poles
+### Poles and Stability
 Poles **within** the unit circle -> **stable system**
 Poles **outside** the unit circle -> **unstable system**
 
@@ -55,6 +58,10 @@ See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 >$$
 
 [[Partialbrøker]]
+
+### Foldningssum
+$h$-funktionen "spejles" med akse i $n$ ganges med $x$-funktionen.
+$$x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
 
 ---
 #signalprocessing
