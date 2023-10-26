@@ -15,6 +15,9 @@ $$H(z) = \frac{Y(z)}{X(z)}$$
 >![[Pasted image 20231012085739.png]]
 >![[Pasted image 20231012092152.png]]
 
+>[!example]- Relation to [[Laplace Transformation]]
+>![[lektion 7 - Digitale realisationsstrukturer.pdf#page=24]]
+
 ### Poles and Stability
 Poles **within** the unit circle -> **stable system**
 Poles **outside** the unit circle -> **unstable system**
@@ -60,8 +63,10 @@ See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 [[Partialbrøker]]
 
 ### Foldningssum
+See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=10|slides]].
+
 $h$-funktionen "spejles" med akse i $n$ ganges med $x$-funktionen.
-$$x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
+$$y(n) = x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
 
 ---
 #signalprocessing
