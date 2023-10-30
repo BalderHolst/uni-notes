@@ -18,7 +18,39 @@ $$
 >[!video]- 2D-curl
 >![](https://www.youtube.com/watch?v=qF9Kz37Ksq0&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=56)
 
+### 3-Dimensions
 
+$$
+\vec{v}(x,y,z) =
+\begin{bmatrix}
+P(x,y,z) \\
+Q(x,y,z) \\
+R(x,y,z)
+\end{bmatrix}
+$$
+$$\mathbf{curl}\ \vec{v}(x,y,z) = \nabla \times \vec{v}(x,y,z) = 
+\begin{bmatrix}
+\frac{\partial}{\partial x} \\
+\frac{\partial}{\partial y} \\
+\frac{\partial}{\partial z}
+\end{bmatrix}
+\times
+\begin{bmatrix}
+P(x,y,z) \\
+Q(x,y,z) \\
+R(x,y,z)
+\end{bmatrix}
+=
+\det
+\begin{bmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
+P & Q & R
+\end{bmatrix}
+$$
+
+>[!video]- 3D-curl
+>![](https://www.youtube.com/watch?v=a_49iMi10kg&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=62)
 
 ---
 #multivariablemath #vectorfields
