@@ -1,0 +1,8 @@
+# Curl
+
+
+
+
+
+---
+#multivariablemath #vectorfields
