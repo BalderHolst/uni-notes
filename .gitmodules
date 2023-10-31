@@ -1,0 +1,3 @@
+[submodule "external/Formelsamling"]
+	path = external/Formelsamling
+	url = git@github.com:TheJoboReal/Formelsamling

@@ -29,6 +29,7 @@ Addresses can be either
 **Compatible**: Used when IPv4 devices want to communicate with each other
 **Mapped**: Used when IPv6 devices want to communicate IPv4 devices
 
+---
 ## Network Layer
 ![[Pasted image 20231031124237.png]]
 
@@ -62,6 +63,21 @@ Instead we find the bottleneck and use the minimum MTU.
 
 ### ICMPv6
 See [[KOM - lecture 8a - Itslearning.pdf#page=40|slides]].
+
+---
+
+## Transport Layer
+See [[KOM - lecture 8b - Itslearning.pdf#page=4|slides]].
+
+Process to Process communication.
+
+**Port numbers** designate the destination process.
+
+Port numbers for server processes must be know. Otherwise the client does not know where to connect.
+
+##### Socket Address
+Ip address + port number = Socket address
+Ex: 200.23.56.8:69
 
 ---
 #datacommunication
