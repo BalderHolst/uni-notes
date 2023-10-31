@@ -16,6 +16,7 @@ Addresses can be either
 - Possibility of extension
 - Resource allocation support
 
+![[Pasted image 20231031131449.png|600]]
 
 ### Global Unicast Addressing
 ![[Pasted image 20231031123135.png|600]]
@@ -54,7 +55,13 @@ See [[KOM - lecture 8a - Itslearning.pdf#page=32|slides]].
 For setting options in all routers that the packet traverses
 ![[Pasted image 20231031130021.png]]
 
+##### Fragmentation
 **ONLY THE SENDER CAN PERFORM FRAGMENTATION**.
+
+Instead we find the bottleneck and use the minimum MTU.
+
+### ICMPv6
+See [[KOM - lecture 8a - Itslearning.pdf#page=40|slides]].
 
 ---
 #datacommunication
