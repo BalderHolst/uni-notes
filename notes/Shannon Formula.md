@@ -7,3 +7,6 @@ $B$: Bandwidth $[\text{Hz}]$
 $SNR$: Signal-to-noise ratio
 
 **Note:** this does not take [[Signal element|signal levels]] into a count.
+
+---
+#datacommunication
