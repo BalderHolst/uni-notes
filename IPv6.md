@@ -1,7 +1,7 @@
 # IPv6
 Successor to [[IPv4]]. See [[KOM - lecture 8a - Itslearning.pdf#page=3|slides]].
 
-Addresses are 128bit.
+Addresses are 128 bit.
 
 Addresses can be either
 - Unicast: Address of one specific computer
@@ -9,6 +9,13 @@ Addresses can be either
 - Multicast: Address of a group of computers, **all** will receive the packet.
 
 ![[Pasted image 20231031123001.png|600]]
+
+## Benefits
+- Better header format
+- New options for additional functionality
+- Possibility of extension
+- Resource allocation support
+
 
 ### Global Unicast Addressing
 ![[Pasted image 20231031123135.png|600]]
@@ -24,9 +31,30 @@ Addresses can be either
 ## Network Layer
 ![[Pasted image 20231031124237.png]]
 
-### Unique Local Unicast
-For packets that do not 
+#### Unique Local Unicast
+For packets that do not leave the organisation. Randomness used to minimise the likelihood of identical addresses.
 
+#### Link Local
+Private organisation addresses
+
+#### Multicast
+Access multiple machines
+
+### Auto-configuration
+See [[KOM - lecture 8a - Itslearning.pdf#page=19|slides]]. Automatically generated addresses.
+
+### Flow Packets
+See [[KOM - lecture 8a - Itslearning.pdf#page=29|slides]].
+
+Flow packets allow for data streaming. Handles by the *flow label table*. It works by allocating resources for a stream in advance.
+
+### Extension Headers
+See [[KOM - lecture 8a - Itslearning.pdf#page=32|slides]].
+
+For setting options in all routers that the packet traverses
+![[Pasted image 20231031130021.png]]
+
+**ONLY THE SENDER CAN PERFORM FRAGMENTATION**.
 
 ---
 #datacommunication
