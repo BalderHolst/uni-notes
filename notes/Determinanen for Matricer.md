@@ -18,7 +18,7 @@ d & e & f \\
 g & h & i
 \end{array} } \right)$$
 $$det(M) = |M| = a \cdot \left|\left( {\begin{array}{cccc} e & f \\ h & i \\ \end{array} } \right)\right| - b \cdot  \left|\left( {\begin{array}{cccc} d & f \\ g & i \\ \end{array} } \right)\right| + c \cdot \left|\left( {\begin{array}{cccc} d & e \\ g & h \\ \end{array} } \right)\right|$$
-
+$$= a \cdot e \cdot i + b \cdot f \cdot g + d \cdot h \cdot c - c \cdot e \cdot g - b \cdot d \cdot i - f \cdot h \cdot a$$
 #### For $n\times n$ matricer
 >[!tip] Nuller er nice!
 > Hvis en række eller søjle *kun* har nuller, **er determinanten nul**. Dette kan nogen gange opnås med at lægge rækker til/trække rækker fra hinanden! 
