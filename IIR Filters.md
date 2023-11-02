@@ -14,6 +14,8 @@ Har *altid poler*.
 
 ## Types of z-transformation
 To create an IIR filter, the transfer function must be mapped into the z-domain. There are multiple ways of doing this.
+
+Use *capital letters for coefficients in $s$-domain*.
 #### Matched z-transformation
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=11|slides]].
 

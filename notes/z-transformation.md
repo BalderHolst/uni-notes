@@ -4,6 +4,8 @@ When we sample a signal, be may get poles repeated up and down the imaginary axi
 
 $$ \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
 
+Zero points in the center only alter the phase, not the amplitude.
+
 ### Transfer Function
 $$H(z) = \frac{Y(z)}{X(z)}$$
 
