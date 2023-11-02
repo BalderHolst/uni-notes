@@ -24,6 +24,9 @@ Plots of the three filters
 **Note:** Butterworth lies on a circle around $(0, 0)$, with a radius of $j\omega_{a}$.
 
 ### Frekvensnormering
+Normering: $s \rightarrow s \cdot  \omega_{a}$.
+Denormering: $s \rightarrow \frac{s}{\omega_{a}}$.
+
 Used for determining the order of the filter needed.
 $$\frac{\omega_{s}}{\omega_{a}}$$
 The result it the $x$-axis on a plot like this:
