@@ -8,7 +8,7 @@ $P(x)$ : Et polymonium
 
 Calculating constants:
 $$Y(x) = \frac{T(x)}{N(x)} = \frac{T(x)}{(x-p_1)(x-p_{2})\cdots(x-p_{N})} = \frac{k_{1}}{x-p_{1}} + \frac{k_{2}}{x-p_{2}} + \cdots + \frac{k_{N}}{p_{N}}$$
-$$k_{i} = (z-p_{i})\ Y(x)\ |_{x=p_{i}}$$
+$$k_{i} = (x-p_{i})\ Y(x)\ |_{x=p_{i}}$$
 
 >[!video]- Opsplitning i partial brøker - Video
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/dDjz_PXA_6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
