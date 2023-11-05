@@ -13,9 +13,10 @@ $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 
 ### Oversæt til Cartesiske koordinater
 $$\begin{align}
-x &= R \cdot  \sin \phi \cdot \cos \theta\\
-y &= R \cdot  \sin \phi \cdot \sin \theta\\
-z &= R \cdot  \cos \phi
+x &= \rho \cdot  \sin \phi \cdot \cos \theta\\
+y &= \rho \cdot  \sin \phi \cdot \sin \theta\\
+z &= \rho \cdot  \cos \phi \\
+\mathrm{dV} &= \rho \cdot \sin{\phi}
 \end{align}$$
 
 $R$ kan også findes på denne måde
