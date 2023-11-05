@@ -16,7 +16,7 @@ $$\begin{align}
 x &= \rho \cdot  \sin \phi \cdot \cos \theta\\
 y &= \rho \cdot  \sin \phi \cdot \sin \theta\\
 z &= \rho \cdot  \cos \phi \\
-\mathrm{dV} &= \rho \cdot \sin{\phi}\ \mathrm{d\rho\ d\phi\ d\theta}
+\mathrm{dV} &= \rho^{2} \cdot \sin{\phi}\ \mathrm{d\rho\ d\phi\ d\theta}
 \end{align}$$
 
 $R$ kan også findes på denne måde
