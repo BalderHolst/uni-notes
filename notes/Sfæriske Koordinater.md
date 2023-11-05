@@ -6,7 +6,7 @@ $\phi$ : Vinkel opad
 $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 
 ---
-![Spherisk punkt|center|400](https://mse.redwoods.edu/darnold/math50c/mathjax/spherical/spherical3.png)
+![[Pasted image 20231105163245.png|center|300]]
 
 ---
 
@@ -16,7 +16,7 @@ $$\begin{align}
 x &= \rho \cdot  \sin \phi \cdot \cos \theta\\
 y &= \rho \cdot  \sin \phi \cdot \sin \theta\\
 z &= \rho \cdot  \cos \phi \\
-\mathrm{dV} &= \rho \cdot \sin{\phi}
+\mathrm{dV} &= \rho \cdot \sin{\phi}\ \mathrm{d\rho\ d\phi\ d\theta}
 \end{align}$$
 
 $R$ kan også findes på denne måde
