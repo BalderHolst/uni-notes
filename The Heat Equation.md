@@ -1,11 +1,11 @@
 # The Heat Equation
-How heat distributed in a rod changes over time. Each point tends towards the average of its neighbors.
+How heat distributed in a rod changes over time. Each point tends towards the average of its neighbours.
 
-This **also works for multipule dimentions**.
+This **also works for multiple dimensions**.
 
-$$\frac{\partial}{\partial t} = \alpha \cdot \nabla^{2} T$$
+$$\frac{\partial u}{\partial t} = \alpha \cdot \nabla^{2} u$$
 $t$: Time
-$T$: Temperature as a function og position and time.
+$u$: Temperature as a function of position and time.
 
 
 >[!video]-

@@ -8,11 +8,18 @@ $\mathbf{x}$: position in space (can be multi-dimensional)
 $t$: time
 ##### Subscripts
 Partial derivatives can be denoted with subscripts like this:
-$$u_{t} = \frac{\partial u}{\partial t}$$
-$$u_{t} = \frac{\partial u}{\partial t}$$
+$$
+\begin{align}
+u_{t} &= \frac{\partial u}{\partial t} \\
+u_{xx} &= \frac{\partial^{2} u}{\partial x^{2}}
+\end{align}
+$$
 
+### Common types of PDEs
+**Linear**: No products between $u$, $u_{x}$,$u_{xx}$...
+**2nd order**: No derivatives higher than 2nd order.
+**Homogeneous**: No time or space dependent forcing.
 
-### 
 
 
 >[!example]- Function moving in space over time
@@ -20,12 +27,13 @@ $$u_{t} = \frac{\partial u}{\partial t}$$
 
 >[!video]- Basic Explaination
 >![](https://www.youtube.com/watch?v=pvrIagjEk4c)
-## Note
-```dataview
-list
-from #partialdiffequations
-sort file.name
-```
+
+---
+
+## Common Equations
+- [[The Wave Equation]]
+- [[The Heat Equation]]
+- [[Laplace's Equation]]
 
 
 
