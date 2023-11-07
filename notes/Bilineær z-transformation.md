@@ -31,4 +31,15 @@ $$\Omega_{a} = C \tan\left(\frac{\omega_{a}T}{2}\right) \arrows C= \cot\left(\fr
 $T$: Periode ($1/f_s$)
 
 ---
+## Procedure
+1. Prewarping konstanten bestemmes som
+$$C= \cot\left(\frac{\omega T}{2}\right)$$
+hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
+2. Ordenstallet for filtret bestemmes på baggrund af den prewarpede
+stopbåndsfrekvens.
+3. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles.
+4. Den digitale overføringsfunktions koefficienter beregnes.
+5. Filtret implementeres som en kaskadekoblet realisationsstruktur.
+
+---
 #signalprocessing
