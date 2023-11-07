@@ -27,8 +27,11 @@ For at komme udenom warping warper vi først overføringsfunktionen i den mosatt
 
 *Stopbåndsfrekvensen er knap så vigtig* da warping blåt gør dæmpningen større.
 
+**DETTE NORMERER OGSÅ FREKVENSERNE**
+
 $$\Omega_{a} = C \tan\left(\frac{\omega_{a}T}{2}\right) \arrows C= \cot\left(\frac{\omega_{a}T}{2}\right)$$
 $T$: Periode ($1/f_s$)
+
 
 ---
 ## Procedure

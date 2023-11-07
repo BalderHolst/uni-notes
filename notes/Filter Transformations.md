@@ -26,10 +26,11 @@ $\omega_{s}$: Stop-band width
 $\omega$: Center-frequency: The middle of the stop-band-frequencies, on a *logarithmic scale*.
 $A_{s}$: The filter stop-dampening.
 
-![[Pasted image 20230914094350.png|350]]
+![[Pasted image 20230914094350.png|550]]
 
 **NOTE:** We use the *center-frequency* to nominate the filter.
 
+Formfaktor
 $$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s F = \frac{W_{s}}{W_{a}}$$
 
 The transformation back to band-pass:
