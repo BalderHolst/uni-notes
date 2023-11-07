@@ -10,9 +10,8 @@ $N$: IP of the sender and final receiver of a packet.
 See [[KOM - lecture 9b - Itslearning.pdf|slides]].
 
 Segment = Packet, in TCP
-- [[KOM - lecture 9b - Itslearning.pdf#page=16|segment format]]
-- [[KOM - lecture 9b - Itslearning.pdf#page=16|segment format]]
-
+- [[KOM - lecture 9b - Itslearning.pdf#page=16|segnemt format]]
+- [[KOM - lecture 9b - Itslearning.pdf#page=31|connection]]
 
 ## Data Link Layer
 See [[KOM - Lecture 3_a - Itslearning.pdf#page=3|slides]].
