@@ -36,7 +36,7 @@ $T$: Periode ($1/f_s$)
 $$C= \cot\left(\frac{\omega T}{2}\right)$$
 hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
 2. Ordenstallet for filtret bestemmes på baggrund af den prewarpede
-stopbåndsfrekvens.
+stopbåndsfrekvens (eller stopbåndsbredde?).
 3. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles.
 4. Den digitale overføringsfunktions koefficienter beregnes.
 5. Filtret implementeres som en kaskadekoblet realisationsstruktur.
