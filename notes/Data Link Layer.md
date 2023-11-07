@@ -26,7 +26,7 @@ This can be implements as two state machines:
 
 The **data-frames and ACK's are numbered** to ensure that the receiver does not send the data twice, if the ACK is lost/corrupted.
 
-It is sometimes quite wasteful to transmit ACK packets, as it results in double the messages. ***Piggybacking*** solves this by inserting ACK packets into the messages from the receiver to the sender.
+It is sometimes quite wasteful to transmit ACK packets, as it results in double the messages. [[Piggybacking]] solves this by inserting ACK packets into the messages from the receiver to the sender.
 ### High-Level Data Link Control (HDLC)
 *bit oriented.*
 
