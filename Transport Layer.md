@@ -12,13 +12,15 @@ See [[KOM - lecture 9a - Itslearning.pdf|slides]].
 - [[KOM - lecture 9a - Itslearning.pdf#page=28|selective-repeat]]
 	- Only resend corrupted packets
 	- Always same ACK as received number
- - [[TCP-IP]]
+ - [[TCP-IP#Transport Layer|TCP]]
 	 - Reliable
 	 - Connection Oriented
  - [[KOM - lecture 9a - Itslearning.pdf#page=43|UDP]]
 	 - Unreliable
 	 - Connectionless
 	 - Continuous data stream
+	 - No flow control
+	 - No error control
 
 We can use [[piggybacking]] in bidirectional communication.
 

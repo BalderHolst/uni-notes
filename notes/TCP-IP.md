@@ -5,6 +5,10 @@
 
 $L$: Data Link Address (mac addresses), each router has a local and a public address.
 $N$: IP of the sender and final receiver of a packet.
+
+## Transport Layer
+See [[KOM - lecture 9b - Itslearning.pdf|slides]].
+
 ## Data Link Layer
 See [[KOM - Lecture 3_a - Itslearning.pdf#page=3|slides]].
 
