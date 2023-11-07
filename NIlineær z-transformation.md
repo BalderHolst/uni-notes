@@ -1,7 +1,8 @@
-# BIlineær z-transformation
+# Bilineær z-transformation
 See [[lektion 9 - Design af IIR filtre.pdf|slides]].
-$$s= \frac{2}{T} \frac{z-1}{z+1}$$
+$$s = f(z) = C \frac{z-1}{z+1}$$
 $$H(z) = H(s)|_{s = f(z)}$$
+$C$: [[#Pre-Warping|Prewarping-konstanten]]
 
 >[!tip]- Hvorfor?
 >Oversættelsen til $z$-domæne er normalt $z = e^{sT}$. Dette betyder også:
@@ -25,6 +26,9 @@ $\omega$: Warpet frekvens
 For at komme udenom warping warper vi først overføringsfunktionen i den mosatte retning, sådan et den resulterende overføringsfunktion har $f_{a}$.
 
 *Stopbåndsfrekvensen er knap så vigtig* da warping blåt gør dæmpningen større.
+
+$$\Omega_{a} = C \tan\left(\frac{\omega_{a}T}{2}\right) \arrows C= \cot\left(\frac{\omega_{a}T}{2}\right)$$
+$T$: Periode ($1/f_s$)
 
 ---
 #signalprocessing
