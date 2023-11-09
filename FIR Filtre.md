@@ -21,7 +21,9 @@ Et FIR filter med lineær fase er altid spejlet over midterste sample:
 
 **Koefficienterne er symmetriske.**
 
-## Filtre
+## Filtre med Fouré Koefficienter
+See [[lektion 10 - Introduktion til FIR filtre.pdf#page=54|slide]].
+$$H(z) = \sum_{i=0}^{2M} a_{i} \cdot z^{-i}$$
 
 ![[Pasted image 20231109094441.png]]
 #### Slides
