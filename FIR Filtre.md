@@ -23,9 +23,12 @@ Et FIR filter med lineær fase er altid spejlet over midterste sample:
 
 ## Filtre
 
-### Lavpas
-
-
+![[Pasted image 20231109094441.png]]
+#### Slides
+- [[lektion 10 - Introduktion til FIR filtre.pdf#page=59|lavpas]]
+- [[lektion 10 - Introduktion til FIR filtre.pdf#page=66|højpas]].
+- [[lektion 10 - Introduktion til FIR filtre.pdf#page=70|båndpas]].
+- [[lektion 10 - Introduktion til FIR filtre.pdf#page=75|båndstop]].
 
 ---
 #signalprocessing
