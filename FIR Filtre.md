@@ -21,5 +21,11 @@ Et FIR filter med lineær fase er altid spejlet over midterste sample:
 
 **Koefficienterne er symmetriske.**
 
+## Filtre
+
+### Lavpas
+
+
+
 ---
 #signalprocessing
