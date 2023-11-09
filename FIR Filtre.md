@@ -5,6 +5,7 @@ Ingen tilbagekobling: Afhænder kun a det nuværende og tidligere input
 
 $M$: Orden
 
+![[Pasted image 20231109085155.png|300]]
 ## Lineær fase
 
 #### Nulpunkter
@@ -17,6 +18,8 @@ Dette resulterer i nulpunkter der kunne ligge således.
 #### Symetri
 Et FIR filter med lineær fase er altid spejlet over midterste sample:
 ![[Pasted image 20231109083656.png|center|400]]
+
+**Koefficienterne er symmetriske.**
 
 ---
 #signalprocessing
