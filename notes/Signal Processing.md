@@ -5,6 +5,7 @@
 ### Decibels
 $$A_{dB} = 20 \cdot \log_{10}(A_{\text{times}})$$
 
+
 ---
 
 ## Notes

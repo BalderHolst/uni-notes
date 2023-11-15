@@ -12,6 +12,8 @@ We want three things from a filter:
 3. **Linear phase*** (see [[#Delay through filter (gruppeløstid)]])
 
 ##### Actual filter types
+These all only have poles no zero points.
+
 - [[Butterworth Filter]]
 - [[Chebyshev Filter]]
 - [[Bessel]]
@@ -21,8 +23,7 @@ Plots of the three filters
 
 [[Laplace Transformation#Poles|Poles]] of the filters.
 ![[Pasted image 20230914091121.png|250]]
-**Note:** Butterworth lies on a circle around $(0, 0)$, with a radius of $j\omega_{a}$.
-
+**Note:** [[Butterworth Filter|Butterworth]] lies on a circle around $(0, 0)$, with a radius of $j\omega_{a}$.
 ### Frekvensnormering
 Normering: $s \rightarrow s \cdot  \omega_{a}$.
 Denormering: $s \rightarrow \frac{s}{\omega_{a}}$.
@@ -54,7 +55,7 @@ Because of this we want *linear phase*:
 ![[Pasted image 20230914085305.png|350]]
 ![[Pasted image 20230914085353.png|350]]
 
-If not, the [[step response]] will ocilate:
+If not, the [[Step Response]] will ocilate:
 ![[Pasted image 20230914085447.png|350]]
 ![[Pasted image 20230914085503.png|350]]
 
