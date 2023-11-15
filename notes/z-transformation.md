@@ -2,16 +2,22 @@
 
 When we sample a signal, be may get poles repeated up and down the imaginary axis. The z-transformation solves this by *wrapping the imaginary axis around the unit circle* of the z-plane.
 
-$$ \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
+$$ X(z) = \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
+$X(z)$ converges (is stable) if $|x| < 1$.
 
 Zero points in the center only alter the phase, not the amplitude.
-
 ### Transfer Function
 $$H(z) = \frac{Y(z)}{X(z)}$$
+$X(z)$: Input sequence
+$Y(z)$: Output sequence
 
 **We cannot create a z-plane without a sample rate**.
 
 ![[Pasted image 20231012084315.png|400]]
+
+#### Standard Transfer Functions
+##### 1. Order
+$$H(z) = \frac{Y(z)}{X(z)} = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1}} = \frac{a_{0}z + a_{1}}{z + b_{1}}$$
 
 >[!tip]- Nice Rules
 >![[Pasted image 20231012085739.png]]
