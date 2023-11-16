@@ -18,6 +18,8 @@ $Y(z)$: Output sequence
 #### Standard Transfer Functions
 ##### 1. Order
 $$H(z) = \frac{Y(z)}{X(z)} = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1}} = \frac{a_{0}z + a_{1}}{z + b_{1}}$$
+##### 2. Order
+$$H(z) = \frac{Y(z)}{X(z)} = \frac{a_{0} + a_{1}z^{-1} + a_{2}z^{-2}}{1+b_{1}z^{-1}+b_{2}z^{-2}} = \frac{a_{0}z^2 + a_{1}z + a_{2}}{z^{2} + b_{1}z + b_{2}}$$
 
 >[!tip]- Nice Rules
 >![[Pasted image 20231012085739.png]]
@@ -45,7 +47,7 @@ $$
 The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to $\infty$. The negative part is mapped to the range $[0, 1]$.
 
 ### Inverse z-transform
-See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
+This is done with a ***table lookup***. See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 
 **Make sure that the system is stable before converting back**
 
@@ -70,6 +72,10 @@ See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 
 [[Partialbrøker]]
 
+### Impulse Response ([[Impulse Response|note]])
+The impulse response $h(n)$ for a discrete sequence can be found by taking the inverse z-transformation of the transfer function.
+
+$$h(n) = \mathcal{Z}^{-1}\{H(z)\}$$
 ### Foldningssum
 See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=10|slides]].
 
