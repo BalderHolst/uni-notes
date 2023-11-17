@@ -88,11 +88,21 @@ $$y(n) = x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
 ### Stabilitet
 See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=42|slides]].
 
-- **Stabilt system**: Et system er stabilt hvis dets impulsrespons $h(n)$ *går mod nul når n går med uendelig*.
+#### Stabilt system
+Et system er stabilt hvis dets impulsrespons $h(n)$ *går mod nul når n går med uendelig*.
 $$\lim_{n\to\infty}\ |h(n)| = 0$$
-- **Marginalt stabilt system**: Et system er marginalt stabilt hvis dets impulsrespons $h(n)$ går mod konstant værdi forskellig fra nul eller oscillerer med konstant amplitude og
-frekvens når n går mod uendelig.
-▶ Ustabilt system: Et system er ustabilt hvis dets impulsrespons h(n) vokser
+Her ligger **alle poler inden for enhedscirklen** i z-domænet.
+$$|p_{i}| < 1, \s \forall i \in \set{1,2,3,\dots,N}$$
+#### Marginalt stabilt system
+Et system er marginalt stabilt hvis dets impulsrespons $h(n)$ går mod konstant værdi forskellig fra nul eller *oscillerer med konstant amplitude og frekvens* når $n$ går mod uendelig.
+
+**Mindst én pol skal ligge på enhedcirklen** og resten indenfor.
+
+#### Ustabilt system
+Et system er ustabilt hvis dets impulsrespons $h(n)$ vokser ubegrænset når $n$ går mod $\infty$.
+$$\lim_{n\to\infty}\ |h(n)| = \infty$$
+Hvis bare **én pol ligger udenfor enhedscirklen** er systemet ustabilt.
+$$|p_{i}| > 1, \s \exists i \in \set{1,2,3,\dots, N}$$
 
 ---
 #signalprocessing
