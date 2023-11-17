@@ -104,5 +104,9 @@ $$\lim_{n\to\infty}\ |h(n)| = \infty$$
 Hvis bare **én pol ligger udenfor enhedscirklen** er systemet ustabilt.
 $$|p_{i}| > 1, \s \exists i \in \set{1,2,3,\dots, N}$$
 
+### Frekvensrespons
+See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=46|slides]].
+See also [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=66|grafisk bestemmelse]].
+
 ---
 #signalprocessing
