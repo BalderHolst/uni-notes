@@ -15,15 +15,16 @@ $Y(z)$: Output sequence
 
 ![[Pasted image 20231012084315.png|400]]
 
+### Lookup Tables
+![[Pasted image 20231012085739.png|center|450]]
+![[Pasted image 20231012092152.png|center|450]]
+
 #### Standard Transfer Functions
 ##### 1. Order
 $$H(z) = \frac{Y(z)}{X(z)} = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1}} = \frac{a_{0}z + a_{1}}{z + b_{1}}$$
 ##### 2. Order
 $$H(z) = \frac{Y(z)}{X(z)} = \frac{a_{0} + a_{1}z^{-1} + a_{2}z^{-2}}{1+b_{1}z^{-1}+b_{2}z^{-2}} = \frac{a_{0}z^2 + a_{1}z + a_{2}}{z^{2} + b_{1}z + b_{2}}$$
 
->[!tip]- Nice Rules
->![[Pasted image 20231012085739.png]]
->![[Pasted image 20231012092152.png]]
 
 >[!example]- Relation to [[Laplace Transformation]]
 >![[lektion 7 - Digitale realisationsstrukturer.pdf#page=24]]
@@ -47,7 +48,7 @@ $$
 The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to $\infty$. The negative part is mapped to the range $[0, 1]$.
 
 ### Inverse z-transform
-This is done with a ***table lookup***. See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
+This is done with a ***table lookup***. See [[#Lookup Tables|tables]]. See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 
 **Make sure that the system is stable before converting back**
 
@@ -73,7 +74,9 @@ This is done with a ***table lookup***. See [[Lektion 5 - Introduktion til z-tra
 [[Partialbrøker]]
 
 ### Impulse Response ([[Impulse Response|note]])
-The impulse response $h(n)$ for a discrete sequence can be found by taking the inverse z-transformation of the transfer function.
+
+##### For the Unit Sample
+The impulse response $h(n)$ for a [[Unit Sample|unit sample sequence]] can be found by taking the inverse z-transformation of the transfer function.
 
 $$h(n) = \mathcal{Z}^{-1}\{H(z)\}$$
 ### Foldningssum
@@ -81,6 +84,15 @@ See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=10|slides]].
 
 $h$-funktionen "spejles" med akse i $n$ ganges med $x$-funktionen.
 $$y(n) = x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
+
+### Stabilitet
+See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=42|slides]].
+
+- **Stabilt system**: Et system er stabilt hvis dets impulsrespons $h(n)$ *går mod nul når n går med uendelig*.
+$$\lim_{n\to\infty}\ |h(n)| = 0$$
+- **Marginalt stabilt system**: Et system er marginalt stabilt hvis dets impulsrespons $h(n)$ går mod konstant værdi forskellig fra nul eller oscillerer med konstant amplitude og
+frekvens når n går mod uendelig.
+▶ Ustabilt system: Et system er ustabilt hvis dets impulsrespons h(n) vokser
 
 ---
 #signalprocessing
