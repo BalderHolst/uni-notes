@@ -3,9 +3,10 @@ How heat distributed in a rod changes over time. Each point tends towards the av
 
 This **also works for multiple dimensions**.
 
-$$\frac{\partial u}{\partial t} = \alpha \cdot \nabla^{2} u$$
+$$\frac{\partial u}{\partial t} = \alpha \cdot \nabla^{2} u, \s \alpha = \frac{k}{c\rho}$$
 $t$: Time
 $u$: Temperature as a function of position and time.
+$k$: Therm
 
 
 >[!video]-
