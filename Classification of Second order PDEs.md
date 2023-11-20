@@ -1,0 +1,15 @@
+## Classification of Second order PDEs
+
+$$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$
+
+**Linear**: $A$, $B$, $C$, $D$, $E$ and $F$ are *only* a function of $x$ and $y$ (and not $u$).
+**Quasi-linear**: $A$, $B$, $C$, $D$, $E$ and $F$ may be functions of $x$, $y$, $u$, $u_{x}$ and $u_{y}$.
+**Fully Non-linear**: $A$, $B$, $C$, $D$, $E$ and $F$ may be functions of $x$, $y$, $u$, $u_{x}$, $u_{xx}$, $u_{xy}$ and $u_{yy}$.
+
+---
+$$A\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)^{2} - B \left(\frac{\mathrm{dy}}{\mathrm{dx}}\right) + C = 0$$
+![[Pasted image 20231120151321.png|center|550]]
+
+
+---
+#matematik #multivariablemath
