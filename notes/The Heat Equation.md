@@ -6,7 +6,9 @@ This **also works for multiple dimensions**.
 $$\frac{\partial u}{\partial t} = \alpha \cdot \nabla^{2} u, \s \alpha = \frac{k}{c\rho}$$
 $t$: Time
 $u$: Temperature as a function of position and time.
-$k$: Therm
+$k$: Thermal conductivity
+$c$: [[Varmekapacitet|Specific Heat Capacity]]
+$\rho$: Density
 
 
 >[!video]-
