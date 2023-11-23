@@ -79,12 +79,6 @@ This is done with a ***table lookup***. See [[#Lookup Tables|tables]]. See [[Lek
 The impulse response $h(n)$ for a [[Unit Sample|unit sample sequence]] can be found by taking the inverse z-transformation of the transfer function.
 
 $$h(n) = \mathcal{Z}^{-1}\{H(z)\}$$
-### Foldningssum
-See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=10|slides]].
-
-$h$-funktionen "spejles" med akse i $n$ ganges med $x$-funktionen.
-$$y(n) = x(n) \times h(n) = \sum_{m=0}^{n}x(m) \cdot h(n - m)$$
-
 ### Stabilitet
 See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=42|slides]].
 

@@ -32,5 +32,9 @@ $$H(z) = \sum_{i=0}^{2M} a_{i} \cdot z^{-i}$$
 - [[lektion 10 - Introduktion til FIR filtre.pdf#page=70|båndpas]].
 - [[lektion 10 - Introduktion til FIR filtre.pdf#page=75|båndstop]].
 
+### Using a [[Window Functions|window function]]
+To get the windowed fourier koefficients we simply multiply the fourier constants with the window samples.
+$$c_{m}' = c_{m}w_{n}$$
+
 ---
 #signalprocessing
