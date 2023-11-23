@@ -35,14 +35,17 @@ $$H(z) = \sum_{i=0}^{2M} a_{i} \cdot z^{-i}$$
 ### Using a [[Window Functions|window function]]
 To get the windowed fourier koefficients we simply multiply the fourier constants with the window samples.
 $$c_{m}' = c_{m}w_{n}$$
+In this case we find $a_{i}$ like this
+$$a_{i} = c'_{M-i}$$
 
 ## Design af FIR filter
+See [[lektion 11 - Design af FIR filtre.pdf#page=37|slides]].
 
 #### Bestem specifikation
-1. Afskæringsfrekvensen $f_a$
-2. Maksimal tilladelig bredde af overgangsområde $\Delta f_{a}$
-3. Maksimal tilladelig stopbåndsforstærkning $H_{s}$ 
-4. Maksimal tilladelig pasbåndsripple $H_{r}$ 
+1. Afskæringsfrekvensen $f_a$.
+2. Maksimal tilladelig bredde af overgangsområde $\Delta f_{a}$.
+3. Maksimal tilladelig stopbåndsforstærkning $H_{s}$.
+4. Maksimal tilladelig pasbåndsripple $H_{r}$.
 
 #### Bestem filter
 Konstruktionen af et FIR-filter kan forløbe efter følgende procedure
