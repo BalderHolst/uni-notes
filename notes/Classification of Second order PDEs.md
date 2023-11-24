@@ -7,6 +7,7 @@ In a linear PDE the *sum of two solutions* is also a solution.
 **Quasi-linear**: $A$, $B$, $C$, $D$, $E$ and $F$ may be functions of $x$, $y$, $u$, $u_{x}$ and $u_{y}$.
 **Fully Non-linear**: $A$, $B$, $C$, $D$, $E$ and $F$ may be functions of $x$, $y$, $u$, $u_{x}$, $u_{xx}$, $u_{xy}$ and $u_{yy}$.
 
+
 ---
 $$A\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)^{2} - B \left(\frac{\mathrm{dy}}{\mathrm{dx}}\right) + C = 0$$
 ![[Pasted image 20231120151321.png|center|550]]
