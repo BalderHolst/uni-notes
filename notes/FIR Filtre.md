@@ -41,6 +41,7 @@ $$a_{i} = c'_{M-i}$$
 ## Design af FIR filter
 See [[lektion 11 - Design af FIR filtre.pdf#page=37|slides]].
 
+
 #### Bestem specifikation
 1. Afskæringsfrekvensen $f_a$.
 2. Maksimal tilladelig bredde af overgangsområde $\Delta f_{a}$.
@@ -51,6 +52,13 @@ See [[lektion 11 - Design af FIR filtre.pdf#page=37|slides]].
 Konstruktionen af et FIR-filter kan forløbe efter følgende procedure
 1. Vælg vinduesfunktion. Dette valg foretagespå baggrund af specificerede stopbånds- og pasbåndsripple.
 2. Bestem ordenstal. Ordenstallet $2M$ bestemmes ud fra overgangsområde $\Delta f_{a}$.
+![[Pasted image 20231124105848.png]]
+$$M = \frac{B_{n} \cdot f_{s}}{2 \Delta f}$$
+$\Delta f$: Overgangsområde
+$B_{n}$: Den normerede main lobe bredde
+
+Begge findes i tabellen ovenfor.
+
 3. Beregn filterkoefficienter. Filterkoefficienterne udregnes som
 $$a_{i} = c_{M−i}w_{M−i}$$
 4. Verifikation. Filtrets amplitudekarakteristik kontrolleres og om nødvendigt redesignes filtret ($M$-værdi korrigeres).
