@@ -56,6 +56,7 @@ Konstruktionen af et FIR-filter kan forløbe efter følgende procedure
 $$M = \frac{B_{n} \cdot f_{s}}{2 \Delta f}$$
 $\Delta f$: Overgangsområde
 $B_{n}$: Den normerede main lobe bredde
+$f_{s}$: Sampling frekvens
 
 Begge findes i tabellen ovenfor.
 
