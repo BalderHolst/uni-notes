@@ -16,7 +16,7 @@ These all only have poles no zero points.
 
 - [[Butterworth Filter]]
 - [[Chebyshev Filter]]
-- [[Bessel]]
+- [[Bessel]] (More linear phase)
 
 Plots of the three filters
 ![[Pasted image 20230914090924.png|250]]
@@ -30,6 +30,8 @@ Denormering: $s \rightarrow \frac{s}{\omega_{a}}$.
 
 Used for determining the order of the filter needed.
 $$\frac{\omega_{s}}{\omega_{a}}$$
+$\omega_{s}$: Stop band frequency
+$\omega_{a}$: Cutoff frequency
 The result it the $x$-axis on a plot like this:
 ![[Pasted image 20230914092909.png|250]]
 You select the lowest order, that adheres to the specification, as higher order filter, are more complicated.
