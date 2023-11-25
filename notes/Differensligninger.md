@@ -16,5 +16,11 @@ Samme som i [[Laplace Transformation]].
 
 $$H(z) = \frac{Y(z)}{X(z)}$$
 
+>[!example]- Differensligning til overføringsfunction
+> $$y(n) = 2y(n-1) + 3x(n) \Rightarrow Y(z) = 2Y(z) \cdot z^{-1} + 3X(n)$$
+
+>[!video]- Example: transfer function from difference equation
+>![](https://www.youtube.com/watch?v=IJhyJGjeLvA)
+
 ---
 #signalprocessing
