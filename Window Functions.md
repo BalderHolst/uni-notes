@@ -29,6 +29,8 @@ a - \frac{|n|}{M} , &\mathrm{for}\ -M \leq n \leq M \\
 $$
 
 ### Hanning and Hamming window
+Hanning: $\alpha = 0.5$
+Hamming: $\alpha = 0.54$
 $$w(n) = 
 \begin{cases}
 \alpha + (1 - \alpha) \cdot \cos(\frac{n\pi}{M}) , &\mathrm{for}\ -M \leq n \leq M \\
