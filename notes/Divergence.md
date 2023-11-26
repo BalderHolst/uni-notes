@@ -1,13 +1,13 @@
 # Divergence
 Denotes the ratio of input flow and output flow at point in a [[vector fields|vector field]].
 
-$$\mathbf{div}\ \vec{v}(x,y) = \nabla \bullet \vec{v}(x,y) = \frac{\partial p}{\partial x} + \frac{\partial p}{\partial y}$$
+$$\mathbf{div}\ \vec{F}(x,y) = \nabla \bullet \vec{F}(x,y) = \frac{\partial \vec{F}}{\partial x} + \frac{\partial \vec{F}}{\partial y}$$
 
 $$
 \begin{cases}
-\mathbf{div}\ \vec{v}(x_{0}, y_{0}) > 0 &\Rightarrow &\text{more outflow} \\
-\mathbf{div}\ \vec{v}(x_{0}, y_{0}) = 0 &\Rightarrow &\text{equal infow and outflow} \\
-\mathbf{div}\ \vec{v}(x_{0}, y_{0}) < 0 &\Rightarrow &\text{more inflow}
+\mathbf{div}\ \vec{F}(x_{0}, y_{0}) > 0 &\Rightarrow &\text{more outflow} \\
+\mathbf{div}\ \vec{F}(x_{0}, y_{0}) = 0 &\Rightarrow &\text{equal infow and outflow} \\
+\mathbf{div}\ \vec{F}(x_{0}, y_{0}) < 0 &\Rightarrow &\text{more inflow}
 \end{cases}
 $$
 
