@@ -1,6 +1,6 @@
 # Green's Theorem
 $$
-\oint_{\mathcal{C}} \vec{F}(x,y) \ \mathrm{d\vec{r}} = \oint_\mathcal{C} P(x,y) \mathrm{dx} + Q(x,y) \mathrm{dy} = \iint_{R} \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\ \mathrm{dA}
+\oint_{\mathcal{C}} \vec{F}(x,y) \ \mathrm{d\vec{r}} = \oint_\mathcal{C} f_{1}(x,y) \mathrm{dx} + f_{2}(x,y) \mathrm{dy} = \iint_{R} \frac{\partial f_{1}}{\partial x} - \frac{\partial f_{2}}{\partial y}\ \mathrm{dA}
 $$
 
 Curve segments are always integrated **counter clockwise**. Meaning the bounded region is *always in the left*.
