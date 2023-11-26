@@ -18,15 +18,12 @@ $$\Delta f = \nabla^{2}f = \nabla \bullet \nabla \bullet f = \mathbf{div}(\mathb
 
 >[!example]- 3 Dimensions
 >$$\nabla = 
-\begin{bmatrix}
-\frac{\partial}{\partial x} \\
-\frac{\partial}{\partial y} \\
-\frac{\partial}{\partial z} \\
-\end{bmatrix}
-$$
-
->[!test]- Test
->hello
+>\begin{matrix}
+>\frac{\partial}{\partial x} \\
+>\frac{\partial}{\partial y} \\
+>\frac{\partial}{\partial z} \\
+>\end{matrix}
+>$$
 
 >[!video]- Explaination
 >![](https://www.youtube.com/watch?v=EW08rD-GFh0&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=65)
