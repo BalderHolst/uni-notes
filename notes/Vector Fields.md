@@ -4,32 +4,17 @@ A way of representing functions with $2$- or $3$-dimensional inputs and outputs.
 
 The coordinate system is the input space and the output is shown as vectors from a subset of the infinite points in the input space.
 
-### Nabla Notation
+### Conservative Fields
+>*"When a scalar function can be converted into a vector field using a [[Gradient|gradient]]."*
+>\- Cornelia's Notes
 
-$$\nabla = 
-\begin{bmatrix}
-\frac{\partial}{\partial x_{1}} \\
-\frac{\partial}{\partial x_{2}} \\
-\vdots \\
-\frac{\partial}{\partial x_{n}} \\
-\end{bmatrix}
+**Conditions:**
 $$
-
->[!example]- 2 Dimensions
->$$\nabla = 
->\begin{bmatrix}
->\frac{\partial}{\partial x} \\
->\frac{\partial}{\partial y} \\
->\end{bmatrix}
->$$
-
->[!example]- 3 Dimensions
->$$\nabla = 
-\begin{bmatrix}
-\frac{\partial}{\partial x} \\
-\frac{\partial}{\partial y} \\
-\frac{\partial}{\partial z} \\
-\end{bmatrix}
+\begin{align}
+\frac{\partial f_{1}}{\partial y} =  \frac{\partial f_{2}}{\partial x}, \\
+\frac{\partial f_{1}}{\partial z} =  \frac{\partial f_{3}}{\partial x}, \\
+\frac{\partial f_{2}}{\partial z} =  \frac{\partial f_{3}}{\partial y},
+\end{align}
 $$
 ## Notes
 ```dataview
