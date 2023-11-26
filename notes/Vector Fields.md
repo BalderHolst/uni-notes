@@ -8,6 +8,11 @@ The coordinate system is the input space and the output is shown as vectors from
 >*"When a scalar function can be converted into a vector field using a [[Gradient|gradient]]."*
 >\- Cornelia's Notes
 
+$$\nabla f = \mathbf{F}$$
+$f$: Potential function
+
+See also this [online resource](https://mathinsight.org/conservative_vector_field_find_potential).
+
 **Conditions:**
 $$
 \begin{align}
