@@ -1,7 +1,7 @@
 # Divergence
 Denotes the ratio of input flow and output flow at point in a [[vector fields|vector field]].
 
-$$\mathbf{div}\ \vec{F}(x,y) = \nabla \bullet \vec{F}(x,y) = \frac{\partial \vec{F}}{\partial x} + \frac{\partial \vec{F}}{\partial y}$$
+$$\mathbf{div}\ \vec{F}(x,y) = \nabla \bullet \vec{F}(x,y) = \frac{\partial \vec{F}_1}{\partial x} + \frac{\partial \vec{F}_2}{\partial y}$$
 
 $$
 \begin{cases}

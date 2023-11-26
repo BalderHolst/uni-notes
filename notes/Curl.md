@@ -23,9 +23,9 @@ $$
 $$
 \vec{v}(x,y,z) =
 \begin{bmatrix}
-P(x,y,z) \\
-Q(x,y,z) \\
-R(x,y,z)
+f_1(x,y,z) \\
+f_2(x,y,z) \\
+f_3(x,y,z)
 \end{bmatrix}
 $$
 $$\mathbf{curl}\ \vec{v}(x,y,z) = \nabla \times \vec{v}(x,y,z) = 
@@ -45,9 +45,18 @@ R(x,y,z)
 \begin{bmatrix}
 \hat{i} & \hat{j} & \hat{k} \\
 \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
-P & Q & R
+f_{1} & f_2 & f_3
 \end{bmatrix}
 $$
+$$
+=
+\begin{align}
+\left(\frac{\partial f_{3}}{\partial y} - \frac{\partial f_{2}}{\partial z}\right) i +
+\left(\frac{\partial f_{1}}{\partial z} - \frac{\partial f_{3}}{\partial x}\right) j +
+\left(\frac{\partial f_{2}}{\partial x} - \frac{\partial f_{1}}{\partial y}\right) k
+\end{align}
+$$
+
 
 >[!video]- 3D-curl
 >![](https://www.youtube.com/watch?v=a_49iMi10kg&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=62)

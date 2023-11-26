@@ -2,6 +2,8 @@
 > *"How much of a minimum is this ($x$,$y$)?"*
 > \- Khan Academy
 
+$$\nabla = \left[i \frac{\partial}{\partial x} +  j \frac{\partial}{\partial y} + k \frac{\partial}{\partial z}\right]$$
+
 An operator that takes in a function and returns another function.
 
 $$\Delta f = \nabla^{2}f = \nabla \bullet \nabla \bullet f = \mathbf{div}(\mathbf{grad}\ f)$$
