@@ -1,5 +1,7 @@
 # z-transformation
 
+$$z = e^{j\omega T}$$
+
 When we sample a signal, be may get poles repeated up and down the imaginary axis. The z-transformation solves this by *wrapping the imaginary axis around the unit circle* of the z-plane.
 
 $$ X(z) = \mathcal{Z}\{x(t)\} = \sum_{n=0}^{\infty} x(n)z^{-n}  $$
