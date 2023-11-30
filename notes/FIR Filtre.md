@@ -1,12 +1,15 @@
 # FIR Filtre
 See [[lektion 10 - Introduktion til FIR filtre.pdf|slides]].
 
+Can have *linear phase*!
+
 Ingen tilbagekobling: Afhænder kun a det nuværende og tidligere input
 
 $M$: Orden
 
 ![[Pasted image 20231109085155.png|300]]
 ## Lineær fase
+FIR filter can have linear phase!
 
 #### Nulpunkter
 
