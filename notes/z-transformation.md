@@ -52,6 +52,8 @@ The real axis in the $z$-domain is mapped to the z-plane's real axis from $0$ to
 ### Inverse z-transform
 This is done with a ***table lookup***. See [[#Lookup Tables|tables]]. See [[Lektion 5 - Introduktion til z-transformation.pdf#page=81|slides]].
 
+If the expression if not found in the table try [[Partialbrøker|partial fractions]].
+
 **Make sure that the system is stable before converting back**
 
 >[!example]-
