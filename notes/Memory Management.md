@@ -82,4 +82,4 @@ A loaded program can be "swapped" to memory to save space.
 
 
 ---
-#computerarkitecture
+#computerarchitecture

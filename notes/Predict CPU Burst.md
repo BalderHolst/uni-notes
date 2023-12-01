@@ -6,4 +6,4 @@ Usually $\alpha = 0.5$.
 
 
 ---
-#computerarkitecture 
+#computerarchitecture 

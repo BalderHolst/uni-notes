@@ -13,4 +13,4 @@ Introduces *latches* before and after the ALU. This **TRIPPLES** the efficiency,
 
 
 ---
-#notag
+#computerarchitecture

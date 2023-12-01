@@ -7,4 +7,4 @@ $N$: Number of cores.
 
 
 ---
-#computerarkitecture
+#computerarchitecture
