@@ -27,6 +27,9 @@ Pol = Singularitet i frekvensdomæne
 
 If poles are **on the imaginary axis** the impulse response will result in a constant oscillation at the frequency.
 
+### Table
+![[Pasted image 20231208095254.png]]
+
 ---
 ## Inverse Laplace Transformation
 $$\text{respons} \rightarrow \text{impuls}$$
