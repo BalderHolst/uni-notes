@@ -17,6 +17,7 @@ $z$ : Højden
 
 ### Oversæt til Cartesiske koordinater
 $$x=r \cdot \cos \theta \s y = r \sin \theta \s  z = z \s \mathrm{dxdydz} = r \cdot  \mathrm{d\theta dr dz}$$
-$$x^{2}+y^{2}= a^{2} \Rightarrow a$$
+$$x^{2}+y^{2}= a^{2} \Rightarrow r = a$$
+
 ---
 #matematik 
