@@ -33,5 +33,6 @@ $$\int\int_{S} \vec{F} \times \vec{n}\ \text{dS}$$
 $$\vec{n} = \frac{\vec{r_{u}} \times \vec{r_{v}}}{|\vec{r_{u}} \times \vec{r_{v}}|}$$
 $$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
 
+
 ---
 #matematik #multivariablemath
