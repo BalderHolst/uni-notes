@@ -31,7 +31,7 @@ $$\iint f[x,y,z(x,y)] \bullet \sqrt{\left(\frac{\partial z}{\partial x}\right)^{
 The *amount* of the vector field $F$ that passes through the surface $S$.
 $$\int\int_{S} \vec{F} \times \vec{n}\ \text{dS}$$
 $$\vec{n} = \frac{\vec{r_{u}} \times \vec{r_{v}}}{|\vec{r_{u}} \times \vec{r_{v}}|}$$
-$$\Rightarrow \int\int_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
+$$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
 
 ---
 #matematik #multivariablemath
