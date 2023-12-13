@@ -8,7 +8,7 @@ The coordinate system is the input space and the output is shown as vectors from
 >*"When a scalar function can be converted into a vector field using a [[Gradient|gradient]]."*
 >\- Cornelia's Notes
 
-Any [[Line Intergrals|line integral]] from point a to point be will always be the same.
+Any [[Line Integrals|line integral]] from point a to point be will always be the same.
 
 
 $$\nabla f = \mathbf{F}$$
