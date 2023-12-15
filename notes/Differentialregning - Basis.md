@@ -4,7 +4,7 @@
 
 ![Illustration af variabler|center|300](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.webmatematik.dk%2FOldsite%2Fmedia%2F34490424%2F2-38.png&f=1&nofb=1)
 
-Vi skal finde hældningen af [[Sekant#Sekant|sekanten]], der går gennem de to punkter. Til dette kan vi bruge [[Linaere Funktioner#To-punktsformlen|topunktsformlen]].
+Vi skal finde hældningen af [[Sekant#Sekant|sekanten]], der går gennem de to punkter. Til dette kan vi bruge [[Linære Funktioner#To-punktsformlen|topunktsformlen]].
 
 $$a=\frac{y_2-y_1}{x_2-x_{1}}= \frac{\Delta y}{\Delta x}$$
 

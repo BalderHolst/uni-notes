@@ -23,7 +23,7 @@ $$p_{total} = \sum p_i = p_1 + p_2 + p_3 \dots p_n$$
 $p_{total}$ : Den totale bevægelsesmængde for i et system.
 $p_i$ : Hvert objekts individuelle bevægelsesmængde.
 
-### Bevarelse af bevægelsesmængde ([[Stoed]])
+### Bevarelse af bevægelsesmængde ([[Stød]])
 Impuls er altid bevaret i en interaktion (hvis systemet ikke påvirkes af andre kræfter).
 
 $$m_1 \cdot v_1 + m_2 \cdot v_2 = m_1 \cdot v_1 + m_2 \cdot v_2 \arrows p_{1,før} + p_{2,før} = p_{1,efter} + p_{2,efter}$$

@@ -58,7 +58,7 @@ $$\det(A) =  c^{n} \cdot \det(A)$$
 ##### Transposition
 $$\det(A) = \det(A^{T})$$
 
-##### [[Linaert Afhaengige Vektorer|Linært Afhængige]] Rækker eller Søjler
+##### [[Linært Afhængige Vektorer|Linært Afhængige]] Rækker eller Søjler
 $$\det(A) = 0$$
 
 ##### Multiplikation

@@ -3,7 +3,7 @@ En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af 
 
 $$f(x)=C \cdot e^{k \cdot x}$$
 
-Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabel, der kan være **alle** tal. For at visualisere den fuldstændige funktions natur, kan man tegne et [[Haeldningsfelt]].
+Dette er den ***fuldstændige*** løsning og $C$ er i dette tilfælde en variabel, der kan være **alle** tal. For at visualisere den fuldstændige funktions natur, kan man tegne et [[Hældningsfelt]].
 
 For at finde den ***partikulære*** løsning
 

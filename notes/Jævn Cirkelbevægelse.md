@@ -3,7 +3,7 @@
 ---
 
 ## Jævn Cirkelbevægelse med lod
-![[Jaevn Cirkelbevaegelse med lod.png]]
+![[Jævn Cirkelbevægelse med lod.png]]
 
 **Formel**
 $$L=\frac{g}{4 \pi ^2 \cdot \cos(\theta)} \cdot T^2$$
@@ -26,7 +26,7 @@ $$T=\sqrt{\frac{4 \pi ^2 \cdot L}{g}} \cdot \sqrt{cos(\theta)}$$
 ## Kurvekørsel og Loop
 
 ### Vejsving uden hældning
-![[Jaevn Cirkelbevaegelse 2.png]]
+![[Jævn Cirkelbevægelse 2.png]]
 
 Bilen accelereres mod midten af cirkelbuen. Derfor må den resulterende kraft peje ind mod midten.
 
@@ -44,7 +44,7 @@ $$v_{maks} = \sqrt{\mu_s \cdot r \cdot g}$$
 
 ---
 ### Vejsving med hældning
-![[Jaevn Cirkelbevaegelse 1.png]]
+![[Jævn Cirkelbevægelse 1.png]]
 
 Vi begynder med at opdele alle [[Vektorer|vektore]] i deres vandrette og lodrette komposanter.
 

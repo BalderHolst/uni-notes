@@ -3,7 +3,7 @@
 
 ![|500](http://hades.mech.northwestern.edu/images/a/ad/Npn_transistor_diagram.gif)
 
-Kan forstærke *strømme* hvor [[Operationsforstaerker|operationsforstærkere]] forstærker spænding.
+Kan forstærke *strømme* hvor [[Operationsforstærker|operationsforstærkere]] forstærker spænding.
 
 ### Karakteristikker
 - Ideel

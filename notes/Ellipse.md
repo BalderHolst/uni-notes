@@ -14,7 +14,7 @@ $$|\vec{PF_1}| + |\vec{PF_2}| = k$$
 $k$ er den totale længde af den grønne linje
 
 ## Brændpunkter
-![[Ellipse Braendpunkt.png]]
+![[Ellipse Brændpunkt.png]]
 $F_1$ of $F_2$ er brændpunkterne.
 
 Dette må være sandt:

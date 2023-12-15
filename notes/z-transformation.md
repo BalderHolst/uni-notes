@@ -84,7 +84,7 @@ The impulse response $h(n)$ for a [[Unit Sample|unit sample sequence]] can be fo
 
 $$h(n) = \mathcal{Z}^{-1}\{H(z)\}$$
 ### Stabilitet
-See [[Lektion 6 - Systemanalyse i z-domaene.pdf#page=42|slides]].
+See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=42|slides]].
 
 #### Stabilt system
 Et system er stabilt hvis dets impulsrespons $h(n)$ *går mod nul når n går med uendelig*.
@@ -103,8 +103,8 @@ Hvis bare **én pol ligger udenfor enhedscirklen** er systemet ustabilt.
 $$|p_{i}| > 1, \s \exists i \in \set{1,2,3,\dots, N}$$
 
 ### Frekvensrespons
-See [[Lektion 6 - Systemanalyse i z-domaene.pdf#page=46|slides]].
-See also [[Lektion 6 - Systemanalyse i z-domaene.pdf#page=66|grafisk bestemmelse]].
+See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=46|slides]].
+See also [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=66|grafisk bestemmelse]].
 
 ---
 #signalprocessing

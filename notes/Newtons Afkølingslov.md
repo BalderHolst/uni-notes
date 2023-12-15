@@ -10,7 +10,7 @@ $k$: [[#k -værdien|Proportionalitetskonstanten]].
 
 ---
 ### Afkølingsloven og differentialligninger
-Denne model passer på differentialligningen $y'=b-a \cdot y$. (se [[Linaere foersteordensdifferentialligninger#3 Løsningsformel Newtons Afkølingslov]])
+Denne model passer på differentialligningen $y'=b-a \cdot y$. (se [[Linære førsteordensdifferentialligninger#3 Løsningsformel Newtons Afkølingslov]])
 
 Dette kan vi se hvis vi ganger parantesen ud
 
@@ -39,9 +39,9 @@ $b$ : en anden konstant der er lig $k \cdot T_{omg}$-
 $k$-værdien er en proportionalskonstant, der beskriver hvor hurtigt elementet optager eller afgiver varme. Jo højere $k$, jo hurtigere ændre temperaturen sig.
 
 ### Afkøling og Hældningsfelt
-Vi kan se hvordan temperaturen går mod omgivelsernes temperatur, hvis vi tegner et [[Haeldningsfelt]] for differentialligningen $T' = -k \cdot (T-T_{omg})$
+Vi kan se hvordan temperaturen går mod omgivelsernes temperatur, hvis vi tegner et [[Hældningsfelt]] for differentialligningen $T' = -k \cdot (T-T_{omg})$
 
-![[Newtons Afkoelingslov Haeldningsfelt.png|300]]
+![[Newtons Afkølingslov Hældningsfelt.png|300]]
 
 ---
 #matematik 

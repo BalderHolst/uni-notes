@@ -1,5 +1,5 @@
 # Røntgenstråling
-Kan dannes i [[Roentgenroer]]
+Kan dannes i [[Røntgenrør]]
 
 
 ### Røntgenspektrum

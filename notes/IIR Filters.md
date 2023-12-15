@@ -19,7 +19,7 @@ Use *capital letters for coefficients in $s$-domain*.
 
 - [[Matched z-transformation]]
 - [[Impule Inveriant z-transformation]]
-- [[Bilineaer z-transformation]]
+- [[Bilineær z-transformation]]
 
 ##### Differences in Frequency Response
 ![[Pasted image 20231107093021.png|center|300]]

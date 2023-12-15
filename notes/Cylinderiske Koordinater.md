@@ -1,7 +1,7 @@
 # Cylinderiske Koordinater
 Se i [[Calculus 9th.pdf#page=625|bogen]].
 
-Se også [[Sfaeriske Koordinater]].
+Se også [[Sfæriske Koordinater]].
 
 ---
 

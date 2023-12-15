@@ -7,7 +7,7 @@ $\vec{F}$ : Kraften vinkelret på $\vec{r}$
 $\vec{r}$ : Radius-vektor
 
 $$\tau_{net} = \frac{dl}{dt}$$
-$l$ : [[Bevaegelsesmaengdemoment]]
+$l$ : [[Bevægelsesmængdemoment]]
 
 Peger "op" ad tommelfingeren med højrehåndsreglen (derfor $\times$).
 

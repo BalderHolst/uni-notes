@@ -35,7 +35,7 @@ $$f(x) = e^{-P(x)}$$
 
 >[!Note]- Bevis
 >
->![[Bevis for den Gennerelle Loesningsformel til Linaere Foersteordensdifferentialligninger]]
+>![[Bevis for den Gennerelle Løsningsformel til Linære Førsteordensdifferentialligninger]]
 >
 
 >[!example]- Opgaver

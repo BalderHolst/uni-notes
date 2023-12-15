@@ -10,8 +10,8 @@ En "pil" i et hældningsfelt, heddet et linjeelement.
 
 Definer helst konstanter
 
-![[Haeldningsfelt i maple.png]]
-![[Haeldningsfelt i maple 2.png]]
+![[Hældningsfelt i maple.png]]
+![[Hældningsfelt i maple 2.png]]
 
 ---
 #matematik 

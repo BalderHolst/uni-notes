@@ -20,9 +20,9 @@ Inertimomentet for den lille cylinderiske masse ^1ez19k29
 
 Flytter med ^xiGjjnB0
 
-%%***>>>text element-link:[[Daempede Svingninger - Differentialligning]]<<<***%%[[Daempede Svingninger - Differentialligning]] ^hhDz3PgN
+%%***>>>text element-link:[[Dæmpede Svingninger - Differentialligning]]<<<***%%[[Dæmpede Svingninger - Differentialligning]] ^hhDz3PgN
 
-%%***>>>text element-link:[[Daempede Svingninger - Differentialligning]]<<<***%%[[Daempede Svingninger - Differentialligning]] ^71pvotqq
+%%***>>>text element-link:[[Dæmpede Svingninger - Differentialligning]]<<<***%%[[Dæmpede Svingninger - Differentialligning]] ^71pvotqq
 
 %%
 # Drawing

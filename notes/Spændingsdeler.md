@@ -19,7 +19,7 @@ $R_{1\dots}$ : De andre [[Serieforbindelser|serieforbundene]] modstande.
 ---
 
 ### Se Også
-- [[Stroemdeler]]
+- [[Strømdeler]]
 
 ---
 #elektronik 
