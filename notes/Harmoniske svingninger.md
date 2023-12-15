@@ -66,7 +66,7 @@ $b$ : Dæmpningskoefficienten
 Dæmpningskraften kan trækkes fra fjederkraften, for at finde net kraften. 
 $$F_{res}=-F_{fjeder}-F_{d} \arrow m \cdot x'' + b x' + k \cdot x = 0$$
 
-For at løse den, se [[Dæmpede Svingninger - Differentialligning]].
+For at løse den, se [[Daempede Svingninger - Differentialligning]].
 
 Løsningen er på formen:
 $$x(t)=A e^{-\alpha t}\sin(\omega't+\phi)$$

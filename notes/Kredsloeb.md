@@ -5,7 +5,7 @@
 ### Metoder
 - [[Maskemetoden]]
 - [[Knudepunktsmetoden]]
-- [[Ækvivalente Kredsløb]]
+- [[AEkvivalente Kredsløb]]
 - [[Ohm's Lov]]
 - [[KVL]]
 - [[KCl]]

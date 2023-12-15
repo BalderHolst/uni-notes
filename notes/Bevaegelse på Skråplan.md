@@ -1,5 +1,5 @@
 # Bevægelse på Skråplan
-![[Bevægelse på Skråplan.png]]
+![[Bevaegelse på Skråplan.png]]
 På billedet ovenfor ses en plan klods, der glider ned af et skråplan uden
 gnidning. Skråplanet danner vinklen $\alpha$ med vandret. Kræfterne, der
 virker på klodsen, er indtegnet på figuren, og de er som følger:

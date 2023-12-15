@@ -1,8 +1,8 @@
 # Effekt
 $$P = V \cdot I$$
 $P$ : [[Effekt]].
-$V$ : [[Spænding]].
-$I$ : [[Strøm]].
+$V$ : [[Spaending]].
+$I$ : [[Stroem]].
 $R$ : Modstand.
 
 ### Alternative

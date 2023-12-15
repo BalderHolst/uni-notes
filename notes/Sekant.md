@@ -14,7 +14,7 @@ $$f'(x_0)=
 
 ---
 ##### Se også
-- [[Linære Funktioner]]
+- [[Linaere Funktioner]]
 - [[Tangent]]
 - [[Differentialregning]]
 

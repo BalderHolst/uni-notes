@@ -27,7 +27,7 @@ Newtons 3. lov beskriver, hvad der sker, når man for eksempel skubber til en ka
 ---
 
 ### Se også
-- [[Bevægelsesmængde (Impuls)]]
+- [[Bevaegelsesmaengde (Impuls)]]
 
 
 

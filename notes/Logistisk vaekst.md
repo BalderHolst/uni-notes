@@ -16,11 +16,11 @@ Den maksimale væksthastighed er ved $f(x) = \frac{M}{2}$
 >
 >Plot af en [[#Fuldstændig og partikulær løsning|partikulær løsning]]
 >
->![[Logistisk Vækst.png]]
+>![[Logistisk Vaekst.png]]
 >
->[[Hældningsfelt]]
+>[[Haeldningsfelt]]
 >
->![[Logistisk Hældnningsfelt.png]]
+>![[Logistisk Haeldnningsfelt.png]]
 >
 
 
@@ -54,7 +54,7 @@ Den maksimale væksthastighed er ved $f(x) = \frac{M}{2}$
 >
 >$$g'(x)=a-g(x) \cdot b$$
 >
->Vi lægger mærke til at $g(x)$ er en løsning på den kendte differentialligning $y'=b-a \cdot y$. (dog er $a$ og $b$ byttet rundt her) [[Linære førsteordensdifferentialligninger#3 Løsningsformel Newtons Afkølingslov]]
+>Vi lægger mærke til at $g(x)$ er en løsning på den kendte differentialligning $y'=b-a \cdot y$. (dog er $a$ og $b$ byttet rundt her) [[Linaere foersteordensdifferentialligninger#3 Løsningsformel Newtons Afkølingslov]]
 >
 >derfor må dette være sandt om $g(x)$ (bruger $K$ i stedet for $C$)
 >

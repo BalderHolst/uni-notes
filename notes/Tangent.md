@@ -6,7 +6,7 @@ En tangents hældning kan beregnes med $f'(x)$, hvor $x$ er $x$-koordinaten for 
 
 ---
 ##### Se også
-- [[Linære Funktioner]]
+- [[Linaere Funktioner]]
 - [[Sekant]]
 
 ---

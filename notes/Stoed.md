@@ -1,5 +1,5 @@
 # Stød
-se også [[Bevægelsesmængde (Impuls)]].
+se også [[Bevaegelsesmaengde (Impuls)]].
 
 ---
 

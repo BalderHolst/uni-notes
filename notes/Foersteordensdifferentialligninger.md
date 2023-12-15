@@ -1,5 +1,5 @@
 # Førsteordens-differentialligninger	
-[[Linære førsteordensdifferentialligninger]]
+[[Linaere foersteordensdifferentialligninger]]
 
 
 >[!example]- Eksempel på Førsteordensdifferentialligning
@@ -9,7 +9,7 @@
 ---
 
 ## Specifikke Ligninger med løsninger
-- [[Logistisk vækst]]
+- [[Logistisk vaekst]]
 
 
 

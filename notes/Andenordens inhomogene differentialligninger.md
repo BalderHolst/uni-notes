@@ -5,7 +5,7 @@ $a, b, c$ : Konstanter.
 
 
 ### Find Løsningen!
-1. Løs den homogene differentialligning. (se [[Dæmpede Svingninger - Differentialligning]])
+1. Løs den homogene differentialligning. (se [[Daempede Svingninger - Differentialligning]])
 $$ay''+by'+cy=0$$
 Kald løsningen $y_h$
 

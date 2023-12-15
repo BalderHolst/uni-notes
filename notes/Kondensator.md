@@ -23,7 +23,7 @@ Spænding kan derfor *ikke ændre sig momentant*, da det ville betyde en uendeli
 
 #### Tidskonstanten
 $$\tau = R_T \cdot C$$
-$R_T$ : [[Thevenin Ækvivalens|Thevenin Modstanden]]
+$R_T$ : [[Thevenin AEkvivalens|Thevenin Modstanden]]
 $C$ : Kapacitansen 
 
 ##### Opladning
@@ -59,7 +59,7 @@ Kondensatoren er fuldt opladt efter $5\tau$.
 
 $\tau$ kan findes således
 $$\tau = R_{T} \cdot C$$
-$R_{T}$ : [[Thevenin Ækvivalens|Theveninmodstanden]]
+$R_{T}$ : [[Thevenin AEkvivalens|Theveninmodstanden]]
 $C$ : Kapacitansen
 
 ---
