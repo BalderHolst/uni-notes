@@ -49,8 +49,28 @@ $\xi(x, y) = c_{1}$ and $\eta$ will be chosen such that is will not be parallel 
 
 
 **Elliptic**:
-A *second transformation is done* after finding  $\xi(x, y) = c_{1}$$s \eta(x,y) = c_{2}$
+A *second transformation is done* after finding  $\xi(x, y) = c_{1}$ and $\eta(x,y) = c_{2}$:
+$$
+\begin{cases}
+\alpha = \frac{\xi + \eta}{2} \\
+\beta = \frac{\xi - \eta}{2i}
+\end{cases}
+$$
 
+#### 5. Write the canonical equation (normal form)!
+$$\bar{A}u_{\xi\xi} + \bar{B}u_{\xi\eta} + \bar{C}_{\eta\eta} + \bar{D}u_{\xi} + \bar{E}u_{\eta} + \bar{F}u = \bar{G}$$
+where
+$$
+\begin{cases}
+\bar{A} &= \\
+\bar{B} &= \\
+\bar{C} &= A\eta_{x}^{2} + B\eta_{x}\eta_{y} + C\eta_{y}^{2}\\
+\bar{D} &= A \xi_{xx} + B\xi_{xy} + C\xi_{yy} + D\xi_{x} + E\xi_{y}\ \\
+\bar{E} &= A \eta_{xx} + B\eta_{xy} + C\eta_{yy} + D\eta_{x} + E\eta_{y}\ \\
+\bar{F} &= F \\
+\bar{G} &= G
+\end{cases}
+$$
 
 ---
 #matematik
