@@ -62,8 +62,8 @@ $$\bar{A}u_{\xi\xi} + \bar{B}u_{\xi\eta} + \bar{C}_{\eta\eta} + \bar{D}u_{\xi} +
 where
 $$
 \begin{cases}
-\bar{A} &= \\
-\bar{B} &= \\
+\bar{A} &= A\xi_{x}^{2} + B\xi_{x}\xi_{y} + C\xi_{y}^{2} \\
+\bar{B} &= 2A\xi_{x}\eta_{x} + B(\xi_{x}\eta_{y} + \xi_{y}\eta_{x}) + 2C\xi_{y}\eta_{x} \\
 \bar{C} &= A\eta_{x}^{2} + B\eta_{x}\eta_{y} + C\eta_{y}^{2}\\
 \bar{D} &= A \xi_{xx} + B\xi_{xy} + C\xi_{yy} + D\xi_{x} + E\xi_{y}\ \\
 \bar{E} &= A \eta_{xx} + B\eta_{xy} + C\eta_{yy} + D\eta_{x} + E\eta_{y}\ \\
