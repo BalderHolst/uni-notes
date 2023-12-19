@@ -28,7 +28,7 @@ $$
 $$
 \frac{dy}{dx} = \frac{B}{2A}
 $$
-**Hyperbolic**:
+**Elliptic**:
 $$
 \begin{cases}
 \frac{dy}{dx} &= &\frac{ B + \sqrt{B^{2} - 4AC} }{ 2A } \\
