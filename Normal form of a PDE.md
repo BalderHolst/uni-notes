@@ -20,8 +20,8 @@ Classify PDE:
 **Hyperbolic**:
 $$
 \begin{cases}
-\frac{dy}{dx} &= &\frac{\xi(y)}{\xi(x)} &= &\frac{ -B + \sqrt{B^{2} - 4AC} }{ 2A } \\
-\frac{dy}{dx} &= &\frac{\eta(y)}{\eta(x)} &= &\frac{ -B - \sqrt{B^{2} - 4AC} }{ 2A }
+\frac{dy}{dx} &= &-\frac{\xi_y}{\xi_x} &= &\frac{ -B + \sqrt{B^{2} - 4AC} }{ 2A } \\
+\frac{dy}{dx} &= &-\frac{\eta_y}{\eta_x} &= &\frac{ -B - \sqrt{B^{2} - 4AC} }{ 2A }
 \end{cases}
 $$
 **Parabolic**:
