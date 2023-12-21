@@ -2,6 +2,10 @@
 $$\iint_{S}f(x,y,z) \,\text{dS}$$
 >[!video]-
 >![](https://www.youtube.com/watch?v=Gml1HT4y3_c)
+
+>[!video]- Evaluation Example
+>![](https://www.youtube.com/watch?v=ItW5CxLsLSo)
+
 ### Parameterization
 $$f(x,y,z)$$
 $$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
