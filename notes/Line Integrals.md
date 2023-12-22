@@ -1,4 +1,17 @@
 # Line Integrals
+Integrate a three-dimensional function along a curve.
+$$
+\int_{t=a}^{t=b}f(x(t),y(t)) 
+\mathrm{dS}
+$$
+$$
+\mathrm{dS} = \sqrt{
+	\left(\frac{\partial x}{\partial t}\right)^{2}+
+	\left(\frac{\partial y}{\partial t}\right)^2
+} \mathrm{dt}
+$$
+
+## With Conservative Fields
 
 Let $C$ be a smooth curve parameterized by $\vec{r}(t)$ from $\vec{r}(a) = A$ to $\vec{r}(b) = B$ for continuous $\mathbf{F} = \nabla f$ ($\mathbf{F}$ is [[Vector Fields#Conservative Fields|conservative]]).
 $$
