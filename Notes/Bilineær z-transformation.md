@@ -55,5 +55,8 @@ $$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s
 6. Den digitale overførings-funktions koefficienter beregnes.
 7. Filtret implementeres som en kaskadekoblet realisationsstruktur.
 
+>[!example]- Example with bandpass filter
+>![[lesson9-exercises.pdf]]
+
 ---
 #signalprocessing

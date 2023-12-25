@@ -1,5 +1,5 @@
 # Maskemetoden
-**Virker kun i [[plane kredsløb]]**
+**Virker kun i [[Plane Kredsløb]]**
 
 [[Electrical Engineering Principles & Applications, Global Edition.pdf#page=102]]
 

@@ -8,7 +8,7 @@
 - [[Ækvivalente Kredsløb]]
 - [[Ohm's Lov]]
 - [[KVL]]
-- [[KCl]]
+- [[KCL]]
 - [[Phasor Representation]]
 
 ---

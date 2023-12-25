@@ -23,7 +23,7 @@ You HAVE to change the signal half way through a data unit. Therefore the reciev
 ![[Pasted image 20230912130248.png|450]]
 
 ##### Problems
-- Three signal levels -> need higher [[bandwidth]].
+- Three signal levels -> need higher [[Bandwidth]].
 
 ### Polar Manchester and Differential Manchester
 Invented to fix the problems of the three others.
@@ -42,7 +42,7 @@ Two bits, one [[Signal element|signal element]] -> $4$ levels.
 
 ### Multilevel: 8B6T
 ![[Pasted image 20230912131746.png]]
-Here there are many redundant signal element meaning, the [[signal element]] could contain more than $8$ bits of data. These extra patters can be used as control patterns for the receiving hardware.
+Here there are many redundant signal element meaning, the [[Signal element]] could contain more than $8$ bits of data. These extra patters can be used as control patterns for the receiving hardware.
 
 ### Multilevel: 4D-PAM5
 4 Dimensional Pulse Amplitude Modulation 5 levels (4D-PAM5):

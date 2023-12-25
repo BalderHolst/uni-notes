@@ -70,7 +70,7 @@ $$\Delta K = K_{f}- K_{i}$$
 
 $$W = \int_{\theta_{i}}^{\theta_{f}} \vec{\tau} \cdot d\vec{\theta}$$
 
-## Rotations-[[effekt]]
+## Rotations-[[Effekt]]
 $$P = \frac{\vec{\tau} \cdot d \vec{\theta}}{dt} = \vec{\tau} \cdot \vec{\omega}$$
 
 

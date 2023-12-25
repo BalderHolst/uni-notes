@@ -15,7 +15,7 @@ $x$ : Udstrækningen/sammenpresningen af fjederen
 ### Sammensatte fjedre
 
 >[!Note] 
->Ligner [[Serieforbindelser|serie]] og [[parallelforbindelser]] men regnes omvendt!
+>Ligner [[Serieforbindelser|serie]] og [[Parallelforbindelser]] men regnes omvendt!
 
 Fjedre at i "serie"
 $$k_{eff}=\frac{1}{\frac{1}{k_{1}} + \frac{1}{k_{2}}+\dots} $$
