@@ -38,16 +38,22 @@ $T$: Periode ($1/f_s$)
 1. Prewarping konstanten bestemmes som
 $$C= \cot\left(\frac{\omega T}{2}\right)$$
 hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
-2. Ordenstallet for filtret bestemmes på baggrund af den prewarpede
-stopbåndsfrekvens(er).
+2. Ordenstallet for filtret bestemmes på baggrund af den prewarpede stopbåndsfrekvens(er).
 
 $$Q = \frac{f_{c}}{\Delta f}$$
 $$f_{1} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} - \frac{1}{2Q}\right)$$
 $$f_{2} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} + \frac{1}{2Q}\right)$$
 
-3. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles.
-4. Den digitale overføringsfunktions koefficienter beregnes.
-5. Filtret implementeres som en kaskadekoblet realisationsstruktur.
+3. Prewarp og normer frekvenserne med formlen:
+$$\Omega = c \cdot \tan\left(\frac{\omega T}{2}\right)$$
+4. Find formfaktoren $F$ bestem [[Filters#Actual filter types|filtertype]] og find filterordenen.
+
+**båndpas**:
+$$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s F = \frac{W_{s}}{W_{a}}$$
+
+5. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles (findes i tabel).
+6. Den digitale overførings-funktions koefficienter beregnes.
+7. Filtret implementeres som en kaskadekoblet realisationsstruktur.
 
 ---
 #signalprocessing
