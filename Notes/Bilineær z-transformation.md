@@ -40,7 +40,7 @@ $$C= \cot\left(\frac{\omega T}{2}\right)$$
 hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
 
 
-3. Prewarp og normer frekvenserne med formlen:
+2. Prewarp og normer frekvenserne med formlen:
 
 $$\Omega = c \cdot \tan\left(\frac{\omega T}{2}\right)$$
 >[!tip]- Frequencies for band pas/stop filters
@@ -48,14 +48,16 @@ $$\Omega = c \cdot \tan\left(\frac{\omega T}{2}\right)$$
 >$$f_{1} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} - \frac{1}{2Q}\right)$$
 >$$f_{2} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} + \frac{1}{2Q}\right)$$
 
-4. Find formfaktoren $F$ bestem [[Filters#Actual filter types|filtertype]] og find filterordenen.
+3. Find formfaktoren $F$ bestem [[Filters#Actual filter types|filtertype]] og find filterordenen.
 
+**Low/High-pass**:
+$$F = \frac{\Omega_{s}}{\Omega_{a}}$$
 **båndpas**:
-$$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s F = \frac{W_{s}}{W_{a}}$$
+$$F = \frac{\Omega_{s_{2}}- \Omega_{s_{1}}}{\Omega_{a_{2}}- \Omega_{a_{1}}}$$
 
-5. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles (findes i tabel).
-6. Den digitale overførings-funktions koefficienter beregnes.
-7. Filtret implementeres som en kaskadekoblet realisationsstruktur.
+4. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles (findes i tabel).
+5. Den digitale overførings-funktions koefficienter beregnes.
+6. Filtret implementeres som en kaskadekoblet realisationsstruktur.
 
 >[!example]- Example with bandpass filter
 >![[lesson9-exercises.pdf]]
