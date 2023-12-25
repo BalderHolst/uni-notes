@@ -37,7 +37,11 @@ The transformation back to band-pass:
 $$H_{bp}(s) = H_{lp}(\bar{s})|_{\bar{s} = \frac{1}{\omega_{a}}\left(\frac{s+1}{s}\right)}$$
 
 
-
+%% 
+TODO: List low-pass
+TODO: List high-pass 
+TODO: List band-stop
+%% 
 
 ---
 #signalprocessing
