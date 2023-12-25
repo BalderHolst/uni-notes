@@ -38,14 +38,16 @@ $T$: Periode ($1/f_s$)
 1. Prewarping konstanten bestemmes som
 $$C= \cot\left(\frac{\omega T}{2}\right)$$
 hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
-2. Ordenstallet for filtret bestemmes på baggrund af den prewarpede stopbåndsfrekvens(er).
 
-$$Q = \frac{f_{c}}{\Delta f}$$
-$$f_{1} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} - \frac{1}{2Q}\right)$$
-$$f_{2} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} + \frac{1}{2Q}\right)$$
 
 3. Prewarp og normer frekvenserne med formlen:
+
 $$\Omega = c \cdot \tan\left(\frac{\omega T}{2}\right)$$
+>[!tip]- Frequencies for band pas/stop filters
+>$$Q = \frac{f_{c}}{\Delta f}$$
+>$$f_{1} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} - \frac{1}{2Q}\right)$$
+>$$f_{2} = f_{c} \cdot \left(\sqrt{1 + \frac{1}{4Q^{2}}} + \frac{1}{2Q}\right)$$
+
 4. Find formfaktoren $F$ bestem [[Filters#Actual filter types|filtertype]] og find filterordenen.
 
 **båndpas**:

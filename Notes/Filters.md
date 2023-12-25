@@ -28,7 +28,7 @@ Plots of the three filters
 Normering: $s \rightarrow s \cdot  \omega_{a}$.
 Denormering: $s \rightarrow \frac{s}{\omega_{a}}$.
 
-Used for determining the order of the filter needed.
+Used for determining the order of the filter needed (form factor).
 $$\frac{\omega_{s}}{\omega_{a}}$$
 $\omega_{s}$: Stop band frequency
 $\omega_{a}$: Cutoff frequency
