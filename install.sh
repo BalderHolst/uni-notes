@@ -24,39 +24,48 @@ info () {
     done_something=1
 }
 
-CLASSMATES_DIR="classmates"
+EXTERNAL_DIR="External"
 
-# Function for cloning classmates's vaults
-clone_classmate_vault ()
+# Function for cloning external's vaults
+clone_external_vault ()
 {
     name="$1"
     url="$2"
-    path="$dir/$CLASSMATES_DIR/$name"
+    path="$dir/$EXTERNAL_DIR/$name"
 
-    [[ ! -d "$dir/$CLASSMATES_DIR" ]] && \
-        mkdir "$dir/$CLASSMATES_DIR" && \
-        info "Created '$CLASSMATES_DIR' directory."
+    [[ ! -d "$dir/$EXTERNAL_DIR" ]] && \
+        mkdir "$dir/$EXTERNAL_DIR" && \
+        info "Created '$EXTERNAL_DIR' directory."
 
     # Try to pull changes if the repo is already cloned
     [[ -d "$path" ]] && {
         if [[ -d "$path/.git" ]]; then
             info "Pulling $name's notes..."
+
+            # Restore any changes that may have happened
+            git -C "$path" restore .
+
+            # Actualy pull the repo
             git -C "$path" pull
+
         else
             info "`$path` is not a git repo. Skipping..."
         fi
         return
     }
-    info "Cloning $name's notes..."
+    info "Cloning repo '$name'..."
     git clone "$url" "$path"
 }
 
-# Clone classmates's notes if the `--classmates` flag is provided
-[[ "$1" = "--classmates" ]] && {
-    clone_classmate_vault "Kasper" "https://github.com/TheJoboReal/Noter" & \
-    clone_classmate_vault "Jacob" "https://github.com/Jack-The-Dane/UNI_Notes"
-    sleep 0.5 # Wait for prints to happen as to not mess up prompt1
-    done_something=1
+# Clone external's notes if the `--external` flag is provided
+[[ "$1" = "--external" ]] && {
+
+    # List of external vaults
+    {
+    clone_external_vault "Kasper's Notes"         "https://github.com/TheJoboReal/Noter"         & \
+    clone_external_vault "Kasper's Formelsamling" "https://github.com/TheJoboReal/Formelsamling" & \
+    clone_external_vault "Jacob's Notes"          "https://github.com/Jack-The-Dane/UNI_Notes"
+    } && sleep 0.5 && done_something=1
 }
 
 if [[ $done_something = 1 ]]; then
