@@ -54,7 +54,7 @@ clone_external_vault ()
         return
     }
     info "Cloning repo '$name'..."
-    git clone "$url" "$path"
+    git clone --depth 1 "$url" "$path"
 }
 
 # Clone external's notes if the `--external` flag is provided
