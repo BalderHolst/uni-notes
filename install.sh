@@ -64,7 +64,6 @@ clone_external_vault ()
     clone_external_vault "Kasper's Notes"         "https://github.com/TheJoboReal/Noter"
     clone_external_vault "Kasper's Formelsamling" "https://github.com/TheJoboReal/Formelsamling"
     clone_external_vault "Jacob's Notes"          "https://github.com/Jack-The-Dane/UNI_Notes"
-    # clone_external_vault "LittleD3092's Notes"     "https://github.com/LittleD3092/My-Vault"
 
     done_something=1
 }
