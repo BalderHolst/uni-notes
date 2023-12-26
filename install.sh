@@ -40,7 +40,7 @@ clone_external_vault ()
     # Try to pull changes if the repo is already cloned
     [[ -d "$path" ]] && {
         if [[ -d "$path/.git" ]]; then
-            info "Pulling $name's notes..."
+            info "Pulling '$name'..."
 
             # Restore any changes that may have happened
             git -C "$path" restore .

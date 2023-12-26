@@ -1,5 +1,5 @@
 # Notes for University
-Notes for robotics degree at University of Southern Denmark.
+Notes for my robotics degree at University of Southern Denmark.
 
 ## Installation
 
