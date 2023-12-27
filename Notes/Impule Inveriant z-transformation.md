@@ -15,7 +15,7 @@ afskæringsfrekvensen eller centerfrekvensen.
 #### Tranformation af 2. Ordens Overføringsfunktion
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=66|slides]].
 
-Dette er overføringsfunktionen
+Dette er den *denormerede* overføringsfunktionen
 $$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s}$$
 [[Notes/Partialbrøker|Partialbrøkopløs]] for at finde $\alpha$ og $\beta$.
 $$H(s) = \frac{k}{s-p} + \frac{k^{*}}{s-p^{*}}, \s k = \alpha + i \beta$$
