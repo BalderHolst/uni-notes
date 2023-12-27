@@ -12,11 +12,14 @@ afskæringsfrekvensen eller centerfrekvensen.
 4. Bestem den digitale overføringsfunktions koefficienter.
 5. Implementer overføringsfunktionen som en parallelstruktur.
 
-#### Partialbrøkopløsning af 2. Ordens Overføringsfuntioner
+#### Tranformation af 2. Ordens Overføringsfunktion
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=66|slides]].
 
-$$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s} \arrows H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
+Dette er overføringsfunktionen
+$$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s}$$
+[[Notes/Partialbrøker|Partialbrøkopløs]] for at finde $\alpha$ og $\beta$.
 $$H(s) = \frac{k}{s-p} + \frac{k^{*}}{s-p^{*}}, \s k = \alpha + i \beta$$
+Udregn konstanter
 $$
 \begin{align}
 a_{0} &= 2 \alpha_{i} \\
@@ -25,6 +28,9 @@ b_{1} &= -(2e^{\sigma_{i}T} \cos(\omega_{i} T)) \\
 b_{2} &= e^{2\sigma_{i}T}
 \end{align}
 $$
+
+Opskriv overføringsfunktionen i z-donæne.
+$$ H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
 
 ---
 #signalprocessing 
