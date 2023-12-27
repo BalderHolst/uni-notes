@@ -15,7 +15,7 @@ afskæringsfrekvensen eller centerfrekvensen.
 #### Partialbrøkopløsning af 2. Ordens Overføringsfuntioner
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=66|slides]].
 
-$$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s} \arrow H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
+$$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s} \arrows H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
 $$H(s) = \frac{k}{s-p} + \frac{k^{*}}{s-p^{*}}, \s k = \alpha + i \beta$$
 $$
 \begin{align}

@@ -7,7 +7,9 @@ $$z = e^{sT}$$
 
 ## Procedure
 1. Find poler og nulpunkter
-2. Overfør til z-domæne
+2. [[Filters#Frekvensnormering|Normer]] poler of nulpunkter
+$$s\rightarrow s \cdot \omega_{a}$$
+3. Overfør til z-domæne
 $$z=e^{sT}$$
 3. 
 
