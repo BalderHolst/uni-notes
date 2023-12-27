@@ -67,7 +67,7 @@ $$s \rightarrow C \frac{z-1}{z+1}$$
 6. Filtret implementeres som en kaskadekoblet realisationsstruktur.
 
 >[!example]- Example with bandpass filter
->![[lesson9-exercises.pdf]]
+>![[lektion9.pdf]]
 
 ---
 #signalprocessing
