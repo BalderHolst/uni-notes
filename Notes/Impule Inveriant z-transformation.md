@@ -13,9 +13,10 @@ $$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\f
 
 1. Bestem det analoge prototypefilters frekvensnormerede overføringsfunktion $H(s)$.
 2. [[Partialbrøker|Partialbrøksopløs]] $H(s)$ til 1. og 2. ordens overføringsfunktioner (maksimalt antal 2. ordens overføringsfunktioner).
-$$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
 3. [[Filters#Frekvensnormering|Denormer]] koefficienterne $k_i$ og polerne $\sigma_{i} + j\omega$ i ved *multiplikation med afskæringsfrekvensen ($\omega_{a}$) eller centerfrekvensen ($\omega_{c}$)*.
+$$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
 4. Bestem den digitale overføringsfunktions koefficienter. Hvis and ordens led se [[#Tranformation af 2. Ordens Overføringsfunktion]].
+$$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\frac{1}{1 - e^{s_{i}T}z^{-1}}$$
 5. Implementer overføringsfunktionen som en parallelstruktur.
 
 ---
@@ -27,7 +28,7 @@ Dette er den *denormerede* overføringsfunktionen
 $$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s}$$
 [[Notes/Partialbrøker|Partialbrøkopløs]] for at finde $\alpha$ og $\beta$.
 $$
-H(s) = \frac{k}{s_{i}-p} + \frac{k^{*}}{s-s_{i}^{*}}, \s
+H(s) = \frac{k}{s-s_{i}} + \frac{k^{*}}{s-s_{i}^{*}}, \s
 \begin{cases}
 k = \alpha + j \beta \\
 s_{i} = \sigma_{i} + j \omega_{i} \\
