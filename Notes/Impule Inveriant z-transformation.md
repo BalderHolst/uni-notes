@@ -39,7 +39,7 @@ $$
 \begin{align}
 a_{0} &= 2 \alpha_{i} \\
 a_{1} &= -2e^{\sigma_{i}T}(\alpha \cos(\omega_{i}T) - \beta_{i} \sin(\omega_{i}T)) \\
-b_{1} &= -(2e^{\sigma_{i}T} \cos(\omega_{i} T)) \\
+b_{1} &= -2e^{\sigma_{i}T} \cos(\omega_{i} T) \\
 b_{2} &= e^{2\sigma_{i}T}
 \end{align}
 $$
