@@ -3,6 +3,9 @@ See [[lektion 8 - Introduktion til IIR filtre.pdf#page=56|slides]]. Keeps impuls
 
 $$H(z) = T \cdot \mathcal{Z}[h(n)]$$
 
+If
+$$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
+then
 $$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\frac{1}{1 - e^{s_{i}T}z^{-1}}$$
 ##### Procedure
 1. Bestem det analoge prototypefilters frekvensnormerede overføringsfunktion $H(s)$.
@@ -18,7 +21,13 @@ See [[lektion 8 - Introduktion til IIR filtre.pdf#page=66|slides]].
 Dette er den *denormerede* overføringsfunktionen
 $$ H(s) = \frac{A_{0}}{B_{0} + B_{1} s + B_{2}s}$$
 [[Notes/Partialbrøker|Partialbrøkopløs]] for at finde $\alpha$ og $\beta$.
-$$H(s) = \frac{k}{s-p} + \frac{k^{*}}{s-p^{*}}, \s k = \alpha + i \beta$$
+$$
+H(s) = \frac{k}{s_{i}-p} + \frac{k^{*}}{s-s_{i}^{*}}, \s
+\begin{cases}
+k = \alpha + j \beta \\
+s_{i} = \sigma_{i} + j \omega_{i} \\
+\end{cases}
+$$
 Udregn konstanter
 $$
 \begin{align}
