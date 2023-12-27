@@ -7,13 +7,18 @@ If
 $$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
 then
 $$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\frac{1}{1 - e^{s_{i}T}z^{-1}}$$
-##### Procedure
+
+---
+## Procedure
+
 1. Bestem det analoge prototypefilters frekvensnormerede overføringsfunktion $H(s)$.
 2. [[Partialbrøker|Partialbrøksopløs]] $H(s)$ til 1. og 2. ordens overføringsfunktioner (maksimalt antal 2. ordens overføringsfunktioner).
-3. Denormer overføringsfunktionen
-%%3. Denormer koefficienterne $k_i$ og polerne $\sigma_{i} + j\omega$ i ved multiplikation med afskæringsfrekvensen eller centerfrekvensen.%%
-4. Bestem den digitale overføringsfunktions koefficienter.
+$$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
+3. [[Filters#Frekvensnormering|Denormer]] koefficienterne $k_i$ og polerne $\sigma_{i} + j\omega$ i ved *multiplikation med afskæringsfrekvensen ($\omega_{a}$) eller centerfrekvensen ($\omega_{c}$)*.
+4. Bestem den digitale overføringsfunktions koefficienter. Hvis and ordens led se [[#Tranformation af 2. Ordens Overføringsfunktion]].
 5. Implementer overføringsfunktionen som en parallelstruktur.
+
+---
 
 #### Tranformation af 2. Ordens Overføringsfunktion
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=66|slides]].
