@@ -1,4 +1,4 @@
-## Seneste
+## Recent
 
 ```dataview 
 table
@@ -10,9 +10,9 @@ limit 5
 
 ---
 
->[!box] ## Emner
+>[!box] ## Subjects
 >```dataview 
 >list
->from #subject 
+>from #subject and -"Templates/subject.md"
 >sort file.name
 >```
