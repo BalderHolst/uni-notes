@@ -9,7 +9,7 @@ curl https://raw.githubusercontent.com/BalderHolst/uni-notes/main/install.sh | b
 ```
 The install script can also be run after cloning the repo like this:
 ```bash
-git clone git@github.com:BalderHolst/uni-notes notes
+git clone https://github.com/BalderHolst/uni-notes notes
 notes/install.sh
 ```
 
