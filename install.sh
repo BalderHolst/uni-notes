@@ -4,16 +4,20 @@ dir=$(dirname $0)
 dir_name="notes"
 
 done_something=0
+private=0
 
 info () {
     echo -e "\u001b[36;1m""$@""\u001b[0m"
 }
 
-clone ()
+[[ "$*" = *--private* ]] && {
+    info "Private Mode: Using ssh for cloning vault."
+    private=1
+}
+
+clone_private ()
 {
-    if [[ "$1" = "--private" ]]
-    then
-        info "Cloning using SSH."
+    if [[ $private = 1 ]]; then
         git clone git@github.com:BalderHolst/$1 "$2"
     else
         git clone https://github.com/BalderHolst/$1 "$2"
@@ -23,7 +27,7 @@ clone ()
 # if script is run by itself
 [[ ! -d "$dir/.git" ]] && {
     info "Cloning notes..."
-    clone "uni-notes" "$dir_name"
+    clone_private "uni-notes" "$dir_name"
     dir="$dir/$dir_name"
     done_something=1
 }
@@ -31,7 +35,7 @@ clone ()
 # if the repo exist
 [[ -d "$dir/.git" ]] && [[ ! -d "$dir/.obsidian" ]] && {
     info "Adding settings..."
-    clone "uni-notes-settings" "$dir/.obsidian"
+    clone_private "uni-notes-settings" "$dir/.obsidian"
     done_something=1
 }
 
@@ -69,7 +73,7 @@ clone_external_vault ()
 }
 
 # Clone external's notes if the `--external` flag is provided
-[[ "$1" = "--external" ]] && {
+[[ "$*" = *--external* ]] && {
 
     # List of external vaults
     clone_external_vault "Kasper's Notes"         "https://github.com/TheJoboReal/Noter"
