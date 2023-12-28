@@ -43,4 +43,4 @@ See [[lektion 11 - Design af FIR filtre.pdf#page=34|slides]].
 $\beta$ alters the side lobe amplification.
 
 ---
-#notag
+#signalprocessing 
