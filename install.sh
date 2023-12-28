@@ -72,6 +72,15 @@ clone_external_vault ()
     git clone --depth 1 "$url" "$path"
 }
 
+# If in private mode set remote origins to use ssh
+if [[ $private = 1 ]]; then
+    git remote set-url origin git@github.com:BalderHolst/uni-notes \
+        && info "Set notes repo to use ssh."
+    git -C ".obsidian" remote set-url origin git@github.com:BalderHolst/uni-notes-settings \
+        && info "Set settings repo to use ssh."
+    done_something=1
+fi
+
 # Clone external's notes if the `--external` flag is provided
 [[ "$*" = *--external* ]] && {
 
