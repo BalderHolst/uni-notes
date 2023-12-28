@@ -44,6 +44,8 @@ $$a_{i} = c'_{M-i}$$
 ## Design af FIR filter
 See [[lektion 11 - Design af FIR filtre.pdf#page=37|slides]].
 
+>[!example]- Eksempel på design af lille FIR-filter
+>![[test-exam.pdf#page=8]]
 
 #### Bestem specifikation
 1. Afskæringsfrekvensen $f_a$.
