@@ -35,6 +35,8 @@ $T$: Periode ($1/f_s$)
 
 ---
 ## Procedure
+>[!example]- Eksempel på 
+
 1. Prewarping konstanten bestemmes som
 $$C= \cot\left(\frac{\omega T}{2}\right)$$
 hvor $\omega = \omega_a$ ved lavpasfilterdesign og $\omega = \omega_{c}$ ved design af båndpas- og båndstopfiltre.
