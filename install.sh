@@ -9,10 +9,21 @@ info () {
     echo -e "\u001b[36;1m""$@""\u001b[0m"
 }
 
+clone ()
+{
+    if [[ "$1" = "--private" ]]
+    then
+        info "Cloning using SSH."
+        git clone git@github.com:BalderHolst/$1 "$2"
+    else
+        git clone https://github.com/BalderHolst/$1 "$2"
+    fi
+}
+
 # if script is run by itself
 [[ ! -d "$dir/.git" ]] && {
     info "Cloning notes..."
-    git clone https://github.com/BalderHolst/uni-notes "$dir_name"
+    clone "uni-notes" "$dir_name"
     dir="$dir/$dir_name"
     done_something=1
 }
@@ -20,7 +31,7 @@ info () {
 # if the repo exist
 [[ -d "$dir/.git" ]] && [[ ! -d "$dir/.obsidian" ]] && {
     info "Adding settings..."
-    git clone https://github.com/BalderHolst/uni-notes-settings "$dir/.obsidian"
+    clone "uni-notes-settings" "$dir/.obsidian"
     done_something=1
 }
 
