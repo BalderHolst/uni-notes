@@ -18,9 +18,9 @@ info () {
 clone_private ()
 {
     if [[ $private = 1 ]]; then
-        git clone git@github.com:BalderHolst/$1 "$2"
+        git clone --depth 1 git@github.com:BalderHolst/$1 "$2"
     else
-        git clone https://github.com/BalderHolst/$1 "$2"
+        git clone --depth 1 https://github.com/BalderHolst/$1 "$2"
     fi
 }
 
