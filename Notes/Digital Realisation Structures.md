@@ -1,7 +1,12 @@
-## Digital Realisationstructures
+## Digital Realisation Structures
 A representation of a digital filter that could be implemented in a programming language. See [[lektion 7 - Digitale realisationsstrukturer.pdf|slides]].
 
-$$y(n) = \sum_{i=0}^{N}  a_{i} \cdot x(n-i) - \sum_{i=1}^{N}b_{i} \cdot y(n-1) $$
+$$
+\begin{align}
+H(z) &= \frac{Y(z)}{X(z)} = \frac{ \sum_{i=0}^{N} a_{i}z^{-i} }{ 1 + \sum_{i=1}^{N} b_{i} z^{-i} } \\ \\
+y(n) &= \sum_{i=0}^{N}  a_{i} \cdot x(n-i) - \sum_{i=1}^{N}b_{i} \cdot y(n-1)
+\end{align}
+$$
 $n$: time step
 $x(n)$: input in the discrete time domain
 $y(n)$: output in discrete time domain
