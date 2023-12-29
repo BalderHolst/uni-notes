@@ -62,13 +62,12 @@ $$F = \frac{\Omega_{s_{2}}- \Omega_{s_{1}}}{\Omega_{a_{2}}- \Omega_{a_{1}}}$$
 4. Den frekvensnormerede og faktoriserede analoge overføringsfunktion $H(s)$ opstilles (findes i tabel).
 5. Transform to correct filter type ([[Filter Transformations]])
 
-6. Overføringsfuntionen [[Filters#Frekvensnormering|denormeres]]
-
-7. Lav z-transformationen
+6. Lav z-transformationen
 
 $$s \rightarrow C \frac{z-1}{z+1}$$
+7. Overføringsfuntionen [[Filters#Frekvensnormering|denormeres]]
 
-6. Filtret implementeres som en kaskadekoblet realisationsstruktur.
+8. Filtret implementeres som en kaskadekoblet realisationsstruktur.
 
 ---
 #signalprocessing
