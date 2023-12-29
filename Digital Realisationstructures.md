@@ -6,6 +6,12 @@ $n$: time step
 $x(n)$: input in the discrete time domain
 $y(n)$: output in discrete time domain
 
+>[!tip]- Implementing a Transfer Function
+>1. Seperate $X(z)$ and $Y(z)$ terms the their own sides of the equation.
+>2. Take the [[Notes/z-transformation#Inverse z-transform|inverse z-transformation]] of each part of the equation.
+>3. Isolate $y(n)$
+>4. Find constants and draw the realisationsstructure
+
 #### Direct Type 1
 See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=35|slides]].
 
@@ -31,12 +37,12 @@ See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=46|slides]].
 >H_{2}(z) &= \frac{Y(z)}{W(z)} = \sum_{i=0}^{N} a_{i} z^{-i}
 >\end{align}
 >$$
-
-These two transfer functions can be realised like this:
-![[Pasted image 20231229142917.png|center|400]]
-
-The memory zells ($z^{-1}$) now share the same values and can be combined:
-![[Pasted image 20231229143502.png|center|400]]
+>
+>These two transfer functions can be realised like this:
+>![[Pasted image 20231229142917.png|center|400]]
+>
+>The memory xells ($z^{-1}$) now share the same values and can be combined:
+>![[Pasted image 20231229143502.png|center|400]]
 
 
 This is the **better way** of implementing a filter, as it stores half as many values resulting in a less expensive filter implementation.
