@@ -14,10 +14,10 @@ $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 
 ### Oversæt fra Cartesiske koordinater
 $$\begin{align}
-x &= \rho \cdot  \sin \phi \cdot \cos \theta\\
-y &= \rho \cdot  \sin \phi \cdot \sin \theta\\
-z &= \rho \cdot  \cos \phi \\
-\mathrm{dV} &= \rho^{2} \cdot \sin{\phi}\ \mathrm{d\rho\ d\phi\ d\theta}
+x &\rightarrow \rho \cdot  \sin \phi \cdot \cos \theta\\
+y &\rightarrow \rho \cdot  \sin \phi \cdot \sin \theta\\
+z &\rightarrow \rho \cdot  \cos \phi \\
+\mathrm{dV} &\rightarrow \rho^{2} \cdot \sin{\phi}\ \mathrm{d\rho\ d\phi\ d\theta}
 \end{align}$$
 
 $R$ kan også findes på denne måde
