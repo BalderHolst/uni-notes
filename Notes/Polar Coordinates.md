@@ -4,12 +4,16 @@ A two dimensional space described $r$ and $\theta$.
 
 #### Coordinates to Polar Coordinates
 $$
-g(r, \theta) = (
+\begin{align}
+g(r, \theta) &= (
 \underbrace{r \cos\theta}_x,
 \underbrace{r \sin\theta}_{y}
-)
+) \\
+||J|| &= r
+\end{align}
 $$
 $g(r, \theta)$: The mapping from polar space to cartesian space.
+$||J||$: The absolute value of the [[Jacobian Matrix|jacobian]] of $g$.
 
 $$
 \begin{align}

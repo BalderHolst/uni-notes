@@ -1,7 +1,7 @@
 # Jacobian Matrix for Robotics
-The Jacobian matrix relates robot joint velocities to end-affector velocity.
+The Jacobian matrix relates robot joint velocities to end-effector velocity.
 $$v = J(q) \cdot \dot{q}$$
-$v$: Velocity of the end-affector (cartesian space)
+$v$: Velocity of the end-effector (cartesian space)
 $J(q)$: The jacobian matrix, where $q$ is the current joint configuration
 $\dot{q}$: Velocity of the robot in joint space
 
@@ -37,7 +37,7 @@ $$\mu = \sqrt{\det(JJ^{T)}}, \s
 \end{cases}$$
 
 #### Manipulability Ellipsoid
-Shows how the end-affector can move.
+Shows how the end-effector can move.
 $$\dot{x}A^{-1}\dot{x} = 1, \s A = JJ^{T}$$
 
 The axes $a$, $b$, and $c$ of the ellipsoid can be related to the [[Egenværdier og Egenvektorer|eigen-values]] and eigen-vectors of $A$.
