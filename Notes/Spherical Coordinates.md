@@ -1,4 +1,5 @@
-# Sfæriske Koordinater
+# Spherical Coordinates
+
 
 $$P = (R, \phi, \theta)$$
 $R$ : Længden fra orego til $P$
@@ -11,7 +12,7 @@ $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 ---
 
 
-### Oversæt til Cartesiske koordinater
+### Oversæt fra Cartesiske koordinater
 $$\begin{align}
 x &= \rho \cdot  \sin \phi \cdot \cos \theta\\
 y &= \rho \cdot  \sin \phi \cdot \sin \theta\\

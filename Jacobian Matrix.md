@@ -3,7 +3,7 @@
 >\- [What is Jacobian?](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 
 $$
-J =
+J(a,b) =
 \begin{bmatrix}
 \frac{\partial f_{1}}{\partial x}|_{(a,b)} & \frac{\partial f_{1}}{\partial y}|_{(a,b)} \\
 \frac{\partial f_{2}}{\partial x}|_{(a,b)} & \frac{\partial f_{2}}{\partial y}|_{(a,b)}

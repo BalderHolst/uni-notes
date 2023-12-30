@@ -1,5 +1,5 @@
 # Cylinderiske Koordinater
-Se også [[Sfæriske Koordinater]].
+Se også [[Spherical Coordinates]].
 
 ---
 
