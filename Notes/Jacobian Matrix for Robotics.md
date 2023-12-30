@@ -1,13 +1,13 @@
-# Jacobian Matrix
-A matrix relating robot joint velocities to end-affector velocity.
+# Jacobian Matrix for Robotics
+The Jacobian matrix relates robot joint velocities to end-affector velocity.
 $$v = J(q) \cdot \dot{q}$$
 $v$: Velocity of the end-affector (cartesian space)
 $J(q)$: The jacobian matrix, where $q$ is the current joint configuration
 $\dot{q}$: Velocity of the robot in joint space
 
-Each column tells how each joint contributes to the end-affector in cartesian coordinates.
+Each column tells how each joint contributes to the end-effector in cartesian coordinates.
 
-You can also find the joint velocities from the end-affector velocity like this:
+You can also find the joint velocities from the end-effector velocity like this:
 $$\dot{q} = J^{-1}(q) \cdot v$$
 Note that *THE INVERSE JACOBIN MAY NOT EXIST*. This can be because the columns are linearly dependent (not [[Rang af Matrix#Full Rank|full rank]]), or that the jacobian is not square.
 
