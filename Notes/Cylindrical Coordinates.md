@@ -13,9 +13,28 @@ $r$ : Længden fra $z$ aksen.
 $\theta$ : Vinklen fra $x$ aksen i $xy$ planen.
 $z$ : Højden
 
-### Oversæt til Cartesiske koordinater
-$$x=r \cdot \cos \theta \s y = r \sin \theta \s  z = z \s \mathrm{dxdydz} = r \cdot  \mathrm{d\theta dr dz}$$
-$$x^{2}+y^{2}= a^{2} \Rightarrow r = a$$
+### Cartesian to Cylindrical Coordinates
+$$
+\begin{align}
+f(\theta, r, z) &= (
+\underbrace{r \cdot \cos \theta }_{x},
+\underbrace{r \cdot \sin \theta}_{y},
+\underbrace{ z }_{z}
+) \\
+||J|| &= r
+\end{align}
+$$
+
+**Substitutions:**
+$$
+\begin{align}
+x &\rightarrow r \cdot \cos \theta \\
+y &\rightarrow r \sin \theta \\
+z &\rightarrow z \\
+\mathrm{dxdydz} &\rightarrow r \cdot  \mathrm{d\theta dr dz} \\
+x^{2}+y^{2}= a^{2} &\rightarrow r = a
+\end{align}
+$$
 
 ---
 #matematik 
