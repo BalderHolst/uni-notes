@@ -10,6 +10,9 @@ $$
 	\left(\frac{\partial y}{\partial t}\right)^2
 } \mathrm{dt}
 $$
+>[!example]- Examples
+>[[lektion6.pdf#page=4]]
+>[[lektion6.pdf#page=5]]
 
 ## With Conservative Fields
 

@@ -16,7 +16,7 @@ $f$: Potential function
 
 See also this [online resource](https://mathinsight.org/conservative_vector_field_find_potential).
 
-**Conditions:**
+**Conditions for 3 Dimensions:**
 $$
 \begin{align}
 \frac{\partial f_{1}}{\partial y} =  \frac{\partial f_{2}}{\partial x}, \\
@@ -25,9 +25,19 @@ $$
 \end{align}
 $$
 
+**Conditions for 2 Dimensions:**
+$$
+\begin{align}
+\frac{\partial f_{1}}{\partial y} =  \frac{\partial f_{2}}{\partial x}
+\end{align}
+$$
+
 >[!video]- Explaination
 >![](https://www.youtube.com/watch?v=76nzOtupeRc)
 
+>[!example]- Examples
+>- [[lektion6.pdf#page=1]]
+>- [[lektion6.pdf#page=2]]
 ## Notes
 ```dataview
 list
