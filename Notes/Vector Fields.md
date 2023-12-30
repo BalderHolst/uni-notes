@@ -38,6 +38,7 @@ $$
 >[!example]- Examples
 >- [[lektion6.pdf#page=1]]
 >- [[lektion6.pdf#page=2]]
+>- [[lektion6.pdf#page=3]]
 ## Notes
 ```dataview
 list
