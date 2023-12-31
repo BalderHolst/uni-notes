@@ -35,6 +35,8 @@ z &\rightarrow z \\
 x^{2}+y^{2}= a^{2} &\rightarrow r = a
 \end{align}
 $$
+>[!example]- Exercises
+>[[lektion5.pdf#page=6]]
 
 ---
 #matematik 

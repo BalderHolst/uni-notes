@@ -156,6 +156,10 @@ $$
 \int  x \sqrt{x^2 \pm a^2}\ \mathrm{dx} = \frac{1}{3}\left ( x^2 \pm a^2 \right)^{3/2} 
 $$
 
+I added this one:
+$$
+\int  x \sqrt{- x^2 \pm a^2}\ \mathrm{dx} = -\frac{1}{3}\left ( x^2 \pm a^2 \right)^{3/2} 
+$$
 $$
 \int \frac{1}{\sqrt{x^2 \pm a^2}}\ \mathrm{dx}= \ln \left | x + \sqrt{x^2 \pm a^2} \right | 
 $$
