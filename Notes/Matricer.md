@@ -75,7 +75,7 @@ $$(A \cdot B)^{T} = B^{T} \cdot A^{T}$$
 
 
 ##### Symmetriske matricer
-Matrix a er symmetrisk hvis $A^T = A$.
+Matrix $A$ er symmetrisk hvis $A^T = A$.
 
 *Alle symmetriske matricer er kvadratiske.*
 
