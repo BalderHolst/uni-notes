@@ -1,5 +1,5 @@
 # Lineære førsteordensdifferentialligninger
-[[Differentialligninger]]
+[[Differential Equations]]
 
 **Førsteordensdifferentialligninger** = ligninger hvor der altid kun er *et* mærke (eks $y'$ og ikke $y''$)
 

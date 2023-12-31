@@ -30,7 +30,7 @@ Hvis man skal differentiere den funktion i hånden på denne måde kan man bruge
 
 
 ### Se også
-- [[Differentialligninger]]
+- [[Differential Equations]]
 - [[Differentialregning Regneregler]]
 - [[Integraler]]
 - [Differentialkvotient og differenskvotient](https://www.webmatematik.dk/lektioner/matematik-b/differentialregning/differenskvotient-og-differentialkvotient)
