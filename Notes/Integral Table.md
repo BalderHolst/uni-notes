@@ -84,13 +84,11 @@ $$
 \int \frac{1}{\sqrt{x\pm a}}\ \mathrm{dx}= 2\sqrt{x\pm a} 
 $$
 
-**Rigo**
 $$
 \int \frac{1}{\sqrt{a-x}}\ \mathrm{dx}= -2\sqrt{a-x} 
 $$
 
 
-**Gilmore**
 $$
 \int x\sqrt{x-a}\ \mathrm{dx}=  
 \left\{
@@ -110,7 +108,6 @@ $$
 \int (ax+b)^{3/2}\ \mathrm{dx}=\frac{2}{5a}(ax+b)^{5/2}
 $$
 
-**Weems**
 $$
 \int \frac{x}{\sqrt{x\pm a} } \ \mathrm{dx}= \frac{2}{3}(x\mp 2a)\sqrt{x\pm a}
 $$
@@ -175,13 +172,11 @@ $$
 \int \frac{x}{\sqrt{a^2-x^2}}\ \mathrm{dx}= -\sqrt{a^2-x^2} 
 $$
 
-**Russ**
 $$
 \int \frac{x^2}{\sqrt{x^2 \pm a^2}}\ \mathrm{dx}= \frac{1}{2}x\sqrt{x^2 \pm a^2}
 \mp \frac{1}{2}a^2 \ln \left| x + \sqrt{x^2\pm a^2} \right | 
 $$
 
-**Winokur1**
 $$
 \int \sqrt{a x^2 + b x + c}\ \mathrm{dx}= 
 \frac{b+2ax}{4a}\sqrt{ax^2+bx+c}
@@ -189,7 +184,6 @@ $$
 \frac{4ac-b^2}{8a^{3/2}}\ln \left| 2ax + b + 2\sqrt{a(ax^2+bx^+c)}\right |
 $$
 
-**Larry-Morris**
 $$
 \begin{split}
 \int &x \sqrt{a x^2 + bx + c}\ \mathrm{dx}= \frac{1}{48a^{5/2}}\left ( 
@@ -206,16 +200,14 @@ $$
 \frac{1}{\sqrt{a}}\ln \left| 2ax+b + 2 \sqrt{a(ax^2+bx+c)} \right | 
 $$
 
-**Duley**
 $$
 \int \frac{x}{\sqrt{ax^2+bx+c}}\ \mathrm{dx}
 \frac{1}{a}\sqrt{ax^2+bx + c} -
 \frac{b}{2a^{3/2}}\ln \left| 2ax+b + 2 \sqrt{a(ax^2+bx+c)} \right |
 $$
 
-**Winokur 2**
 $$
-\int\frac{dx}{(a^2+x^2)^{3/2}}=\frac{x}{a^2\sqrt{a^2+x^2}}
+\int\frac{\mathrm{dx}}{(a^2+x^2)^{3/2}}=\frac{x}{a^2\sqrt{a^2+x^2}}
 $$
 
 
@@ -299,7 +291,6 @@ $$
 \int e^{ax}\ \mathrm{dx}= \frac{1}{a}e^{ax} 
 $$
 
-**ajoy**
 $$
 \int \sqrt{x} e^{ax}\ \mathrm{dx}= \frac{1}{a}\sqrt{x}e^{ax} 
 +\frac{i\sqrt{\pi}}{2a^{3/2}}
@@ -327,34 +318,28 @@ $$
 \int x^3 e^{x}\ \mathrm{dx}= \left(x^3-3x^2 + 6x - 6\right) e^{x} 
 $$
  
-**swift1**
 $$
 \int x^n e^{ax}\ \mathrm{dx}= \dfrac{x^n e^{ax}}{a} - 
 \dfrac{n}{a}\int x^{n-1}e^{ax}\hspace{1pt}\text{d}x
 $$ 
  
-**ebke**
 $$
 \int x^n e^{ax}\ \mathrm{dx}= \frac{(-1)^n}{a^{n+1}}\Gamma[1+n,-ax], 
  \text{ where } \Gamma(a,x)=\int_x^{\infty} t^{a-1}e^{-t}\hspace{2pt}\text{d}t
  $$
 
-**swift2**
 $$
 \int e^{ax^2}\ \mathrm{dx}= -\frac{i\sqrt{\pi}}{2\sqrt{a}}\text{erf}\left(ix\sqrt{a}\right) 
 $$
 
-**swift3**
 $$
 \int e^{-ax^2}\ \mathrm{dx}= \frac{\sqrt{\pi}}{2\sqrt{a}}\text{erf}\left(x\sqrt{a}\right) 
 $$
 
-**qarles1**
 $$
 \int x e^{-ax^2}\ \mathrm{dx} = -\dfrac{1}{2a}e^{-ax^2} 
 $$
 
-**qarles2**
 $$
 \int x^2 e^{-ax^2}\ \mathrm{dx} = \dfrac{1}{4}\sqrt{\dfrac{\pi}{a^3}}\text{erf}(x\sqrt{a}) -\dfrac{x}{2a}e^{-ax^2}
 $$
@@ -402,7 +387,6 @@ $$
 \right] 
 $$
 
-**veky**
 $$
 \int \cos x \sin x\ \mathrm{dx}= \frac{1}{2}\sin^2 x + c_1 = -\frac{1}{2} \cos^2x + c_2 = -\frac{1}{4} \cos 2x + c_3
 $$
@@ -472,7 +456,6 @@ $$
 \int \sec^2 ax\ \mathrm{dx}= \frac{1}{a} \tan ax 
 $$
 
-**Kloeppel**
 $$
 \int \sec^3 x \ \mathrm{dx} = \frac{1}{2} \sec x \tan x + \frac{1}{2}\ln | \sec x + \tan x |
 $$
@@ -558,7 +541,6 @@ $$
 \int x^2 \sin ax\ \mathrm{dx}=\frac{2-a^2x^2}{a^3}\cos ax +\frac{ 2 x \sin ax}{a^2} 
 $$
 
-**xul**
 $$
 \int x^n \sin x \ \mathrm{dx}= -\frac{1}{2}(i)^n\left[ \Gamma(n+1, -ix) 
 %\right. \nonumber \\ & \left.
@@ -587,7 +569,6 @@ $$
 \int e^x \sin x \ \mathrm{dx}= \frac{1}{2}e^x (\sin x - \cos x) 
 $$
 
-**ritzert**
 $$
 \int e^{bx} \sin ax\ \mathrm{dx}= \frac{1}{a^2+b^2}e^{bx} (b\sin ax - a\cos ax) 
 $$
@@ -636,12 +617,10 @@ $$
 $$
 
 
-**yates**
 $$
 \int  \tanh ax\hspace{1.5pt} \mathrm{dx}=\frac{1}{a} \ln \cosh ax 
 $$
 
-**dewitt**
 $$
 \int  e^{ax} \tanh bx\ \mathrm{dx}= 
 \begin{cases}

@@ -4,8 +4,7 @@ En equation with a function as a solution.
 
 En equation containing a [[Differentialregning|derivative]].
 
->[!tip]- Overview from [integral-table.com](https://integral-table.com)
->![[ODE-Summary.pdf]]
+A nice overview of ODE's can be found [here](https://www.integral-table.com/downloads/ODE-Summary.pdf).
 
 ---
 ## Noter
