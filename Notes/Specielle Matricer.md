@@ -37,21 +37,25 @@ $$A \cdot I = I \cdot  A = A$$
 ### Symetriske og Antisymetriske Matricer
 
 ##### Symetrisk
+
 $$a_{jk}=a_{kj} \s A^{T} = A$$
+
 >[!Example]- Eksempel
 >$$
 >\left(
-\begin{array}{ccc}
- 1 & 3 & -2 \\
- 3 & 2 & 5 \\
- -2 & 5 & -1 \\
-\end{array}
-\right)
-$$
+>\begin{array}{ccc}
+> 1 & 3 & -2 \\
+> 3 & 2 & 5 \\
+> -2 & 5 & -1 \\
+>\end{array}
+>\right)
+>$$
 
 
 ##### Antisymetrisk
+
 $$a_{jk}=-a_{kj} \s A^{T} = -A$$
+
 >[!Example]- Eksempel
 >$$
 >\left(
