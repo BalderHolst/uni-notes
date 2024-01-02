@@ -1,4 +1,5 @@
 # Fourieseries
+Se [[Lektion 1 - Fourierraekker.pdf#page=22|slides]].
 
 [[Trigonometri|Trigonometric]] approximations for **periodic signals**. (As opposed to [[Fourier-transformation]])
 
