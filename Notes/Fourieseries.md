@@ -19,6 +19,9 @@ $$
 
 You only need to integrate over the one period, thus from $-L$ to $L$.
 
+>[!example]- Examples
+>[[lektion1.pdf#page=1]]
+
 ##### Period and Frequency
 $$L = \frac{T}{2} \arrows T = 2L \arrows f = \frac{1}{2L}$$
 
