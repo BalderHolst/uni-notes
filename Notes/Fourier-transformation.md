@@ -11,5 +11,8 @@ $$
 x(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X(\omega) e^{j \omega t} \mathrm{d\omega}
 $$
 
+>[!example]- Examples
+>![[lektion1.pdf#page=2]]
+
 ---
 #matematik #signals 
