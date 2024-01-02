@@ -12,8 +12,7 @@ Hvis et af de ovenstående er sandt, er dette også sandt.
 $$\lim_{x\rightarrow a}\left( \frac{f(x)}{g(x)} \right) = \lim_{x\rightarrow a}\left( \frac{f'(x)}{g'(x)} \right)$$
 
 >[!video]- L'Hopital-reglen - Video
-><iframe width="560" height="315" src="https://www.youtube.com/embed/8D1Pqc3TJ8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-print(i)
+>![](https://www.youtube.com/watch?v=8D1Pqc3TJ8o)
 
 
 ---

@@ -31,7 +31,7 @@ $$\bcancel{\cancel{^AP = \  ^B_AR \cdot \ ^BP}}$$
 ## Using Angles
 
 >[!video]- Derivation
-><iframe width="560" height="315" src="https://www.youtube.com/embed/gkyuLPzfDV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+>![](https://www.youtube.com/watch?v=gkyuLPzfDV0)
 
 >[!tip]- Rotation around the x-axis
 >$$R = \left(

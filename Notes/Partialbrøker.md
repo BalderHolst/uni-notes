@@ -16,10 +16,10 @@ $$Y(x) = \frac{T(x)}{N(x)} = \frac{T(x)}{(x-p_1)(x-p_{2})\cdots(x-p_{N})} = \fra
 $$k_{i} = (x-p_{i})\ Y(x)\ |_{x=p_{i}}$$
 
 >[!video]- Opsplitning i partial brøker - Video
-><iframe width="560" height="315" src="https://www.youtube.com/embed/dDjz_PXA_6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>![](https://www.youtube.com/watch?v=dDjz_PXA_6k)
 
 >[!video]- Omskrivning af uægte brøk til ægte - Video
-><iframe width="560" height="315" src="https://www.youtube.com/embed/acCslvFwbts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>![](https://www.youtube.com/watch?v=acCslvFwbts)
 
 ### Integration af Rest-brøken
 $$
@@ -30,8 +30,8 @@ $$
 \end{align}
 $$
 
->[!note]- Henrik viser og differentierer disse udtryk
-><iframe width="560" height="315" src="https://www.youtube.com/embed/47PmQ5NJBnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>[!video]- Henrik viser og differentierer disse udtryk
+>![](https://www.youtube.com/watch?v=47PmQ5NJBnI)
 
 ---
  

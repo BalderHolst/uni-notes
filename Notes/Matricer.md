@@ -47,7 +47,7 @@ $$C_{m\times p} = A_{n\times m} \cdot B_{n\times p}$$
 
 
 >[!video]- Gange med Matricer - Video
-><iframe width="350" height="200" src="https://www.youtube.com/embed/vzt9c7iWPxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>![](https://www.youtube.com/watch?v=vzt9c7iWPxs)
 
 
 ### Addition
