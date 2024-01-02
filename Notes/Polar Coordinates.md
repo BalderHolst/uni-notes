@@ -25,6 +25,5 @@ x^{2}+y^{2} = a^{2} &\Rightarrow a
 $$
 
 
-
 ---
 #matematik 

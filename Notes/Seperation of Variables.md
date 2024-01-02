@@ -1,4 +1,4 @@
-# Seperation of Variable
+# Seperation of Variables
 
 $$u(x,y) = F(x)G(y)$$
 This is **not true for all** $u(x,y)$. It must be [[Classification of Second order PDEs|linear]] and homogeneous.
@@ -21,6 +21,9 @@ $$
 
 >[!video]-
 >![](https://www.youtube.com/watch?v=VjWtMl6vQ3Q&list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S&index=18)
+
+>[!example]- Examples
+>[[Lessons/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=2|lektion10]]
 
 ---
 #matematik #multivariablemath
