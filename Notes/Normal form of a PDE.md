@@ -3,6 +3,9 @@ See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
 
 See [nice PDF](https://faculty.uml.edu//spennell/Teaching/PDE/classification.pdf).
 
+>[!video]- Normal form of *hyperbolic* PDE
+>![](https://www.youtube.com/watch?v=-iI8p1CtifU)
+
 #### 1. Compare with the standard PDE
 $$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$
 Obtain constant values
