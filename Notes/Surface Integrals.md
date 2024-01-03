@@ -28,7 +28,7 @@ $$
 
 ## Flux
 The *amount* of the vector field $F$ that passes through the surface $S$.
-$$\int\int_{S} \vec{F} \times \vec{n}\ \text{dS}$$
+$$\iint_{S} \vec{F} \cdot \vec{n}\ \text{dS}$$
 $$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
 $$\vec{n} = \frac{\vec{r_{u}} \times \vec{r_{v}}}{|\vec{r_{u}} \times \vec{r_{v}}|}$$
 $$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
@@ -36,7 +36,7 @@ $$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du
 For cases where
 $$z = g(x, y) \Rightarrow \vec{r} = [x, y ,z(x,y)]$$
 Here we can use this formula:
-$$\iint f[x,y,z(x,y)] \bullet \sqrt{\left(\frac{\partial z}{\partial x}\right)^{2} + \left(\frac{\partial z}{\partial y}\right)^{2} + 1}\ \text{dx}\ \text{dy}$$
+$$\iint f[x,y,z(x,y)] \cdot \sqrt{\left(\frac{\partial z}{\partial x}\right)^{2} + \left(\frac{\partial z}{\partial y}\right)^{2} + 1}\ \text{dx}\ \text{dy}$$
 
 
 ---
