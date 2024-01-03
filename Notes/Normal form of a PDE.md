@@ -1,6 +1,8 @@
 # Normal form of a PDE
 See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
 
+See [nice PDF](https://faculty.uml.edu//spennell/Teaching/PDE/classification.pdf).
+
 #### 1. Compare with the standard PDE
 $$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$
 Obtain constant values
