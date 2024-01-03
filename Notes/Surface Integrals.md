@@ -34,6 +34,7 @@ $$\iint f[x,y,z(x,y)] \bullet \sqrt{\left(\frac{\partial z}{\partial x}\right)^{
 ### Flux
 The *amount* of the vector field $F$ that passes through the surface $S$.
 $$\int\int_{S} \vec{F} \times \vec{n}\ \text{dS}$$
+$$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
 $$\vec{n} = \frac{\vec{r_{u}} \times \vec{r_{v}}}{|\vec{r_{u}} \times \vec{r_{v}}|}$$
 $$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
 
