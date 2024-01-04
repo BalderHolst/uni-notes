@@ -2,9 +2,12 @@
 See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
 
 See [nice PDF](https://faculty.uml.edu//spennell/Teaching/PDE/classification.pdf).
-
+ 
 >[!video]- Normal form of *hyperbolic* PDE
->![](https://www.youtube.com/watch?v=-iI8p1CtifU)
+>![](https://www.youtube.com/watch?v=-iI8p1CtifU&list=PLZSrM0Ajr9iTk-vzVEyjJkKL2T5ZEeCgz&index=9)
+
+>[!video]- Normal form of *elliptic* PDE
+>![](https://www.youtube.com/watch?v=2uWh9y5Zuw0&list=PLZSrM0Ajr9iTk-vzVEyjJkKL2T5ZEeCgz&index=10)
 
 #### 1. Compare with the standard PDE
 $$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$
@@ -88,26 +91,32 @@ $$
 \beta = \frac{\xi - \eta}{2i}
 \end{cases}
 $$
-#### Find the needed derivatives
+#### 4. Find the needed derivatives
 Only calculate the ones that are part of the original PDE.
 
-$$u_{x} = \frac{\partial u}{\partial \xi} \frac{\partial \xi}{\partial x} + \frac{\partial u}{\partial \eta} \frac{\partial \eta}{\partial x} $$
+Note that *derivatives of $\xi$ and $\eta$ are **constant**.
 
+$$
+\begin{align}
+u_{x} &= u_{\xi}\xi_{x} + u_{\eta}\eta_{x} \\
+u_{y} &= u_{\xi}\xi_{y} + u_{\eta}\eta_{y} \\
 
-#### 5. Write the canonical equation (normal form)!
-$$\bar{A}u_{\xi\xi} + \bar{B}u_{\xi\eta} + \bar{C}_{\eta\eta} + \bar{D}u_{\xi} + \bar{E}u_{\eta} + \bar{F}u = \bar{G}$$
-where
+u_{xx} &= u_{\xi\xi}(\xi_{x})^{2} + 2_{\xi\eta}\xi_{x}\eta_{x} + u_{\eta\eta}(\eta_{x})^{2} + u_{\xi}\xi_{xx} + u_{\eta}\eta_{xx} \\
+
+u_{yy} &= u_{\xi\xi}(\xi_{y})^{2} + 2_{\xi\eta}\xi_{y}\eta_{y} + u_{\eta\eta}(\eta_{y})^{2} + u_{\xi}\xi_{yy} + u_{\eta}\eta_{yy} \\
+
+u_{xy} &= u_{\xi\xi}\xi_{x}\xi_{y} + u_{\eta\eta}\eta_{x}\eta_{y} + u_{\xi}\xi_{xy} + u_{\eta}\eta_{xy} + u_{\xi\eta}(\xi_{x}\eta_y + \xi_y\eta_x)
+
+\end{align}
 $$
-\begin{cases}
-\bar{A} &= A\xi_{x}^{2} + B\xi_{x}\xi_{y} + C\xi_{y}^{2} \\
-\bar{B} &= 2A\xi_{x}\eta_{x} + B(\xi_{x}\eta_{y} + \xi_{y}\eta_{x}) + 2C\xi_{y}\eta_{x} \\
-\bar{C} &= A\eta_{x}^{2} + B\eta_{x}\eta_{y} + C\eta_{y}^{2}\\
-\bar{D} &= A \xi_{xx} + B\xi_{xy} + C\xi_{yy} + D\xi_{x} + E\xi_{y}\ \\
-\bar{E} &= A \eta_{xx} + B\eta_{xy} + C\eta_{yy} + D\eta_{x} + E\eta_{y}\ \\
-\bar{F} &= F \\
-\bar{G} &= G
-\end{cases}
-$$
+
+#### 5. Replace the derivatives
+Replace the derivatives of $u$ with the newly calculated ones.
+
+The resulting equation is the normal form of the PDE.
+
+**Hyperbolic**:
+$$u_{\xi\eta} = \Phi(\xi, \eta,u,u_\xi,u_\eta)$$
 
 ---
-#matematik
+#matematik #multivariablemath
