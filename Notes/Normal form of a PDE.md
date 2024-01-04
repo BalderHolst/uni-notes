@@ -12,27 +12,67 @@ Obtain constant values
 
 #### 2. Classify with Discriminant
 
+$$d = B^{2}-4AC$$
+
+
 Classify PDE:
 
-| Discriminant | PDE type |
-| ------------ | --- |
-| $B^{2}-4AC>0$  | Hyperbolic    |
-| $B^{2}-4AC=0$  | Parabolic    |
-| $B^{2}-4AC<0$  | Elliptic    |
+| Discriminant | PDE type   |
+| ------------ | ---------- |
+| $d>0$        | Hyperbolic |
+| $d=0$        | Parabolic  |
+| $d<0$        | Elliptic   |
 
-#### 3. Find Characteristic Equation (normal form)
+#### 3. Find New Variables
+We solve the following equation. Steps are different depending on the type of PDE.
+$$A\lambda^{2} - B\lambda + C = 0$$
 
 **Hyperbolic**:
+
+The equation results in two solutions: $\lambda_1$ and $\lambda_2$.
+
+Then solve the following solutions to obtain $c_1$ and $c_2$.
 $$
 \begin{cases}
-\frac{dy}{dx} &= &-\frac{\xi_y}{\xi_x} &= &\frac{ -B + \sqrt{B^{2} - 4AC} }{ 2A } \\
-\frac{dy}{dx} &= &-\frac{\eta_y}{\eta_x} &= &\frac{ -B - \sqrt{B^{2} - 4AC} }{ 2A }
+\frac{dy}{dx} = \lambda_1 \\
+\frac{dy}{dx} = \lambda_2
+\end{cases}
+\Rightarrow
+\begin{cases}
+\int\frac{dy}{dx} = \int\lambda_1 \\
+\int\frac{dy}{dx} = \int\lambda_2
+\end{cases}
+\Rightarrow
+\begin{cases}
+\phi(x, y) = c_1 \\
+\psi(x, y) = c_2
 \end{cases}
 $$
+
+Now assign to $\xi$ and $\eta$.
+
+$$
+\begin{cases}
+\xi = \phi(x, y) \\
+\eta = \psi(x, y) \\
+\end{cases}
+$$
+
 **Parabolic**:
+
+The is the ONE solution for the equation.
 $$
 \frac{dy}{dx} = \frac{B}{2A}
+\Rightarrow 
+\int\frac{dy}{dx} = \int\frac{B}{2A}
+\Rightarrow 
+\psi(x,y) = c_{1}
 $$
+
+$\xi = \psi(x,y)$ and $\eta$ will be chosen such that is will not be parallel to the $\xi$ coordinate; $\eta$ is chosen such that *the [[Jacobian Matrix for Robotics|jacobian]] of the transformation is not zero*.
+
+
+
 **Elliptic**:
 $$
 \begin{cases}
@@ -41,19 +81,6 @@ $$
 \end{cases}
 $$
 
-#### 4. Integrate Characteristic Equations
-We are trying to obtain the following values:
-$$\xi(x, y) = c_{1}, \s \eta(x,y) = c_{2}$$
-
-This is done differently depending on the type of PDE.
-
-**Hyperbolic**:
-$$\xi(x, y) = c_{1}, \s \eta(x,y) = c_{2}$$
-**Parabolic**:
-$\xi(x, y) = c_{1}$ and $\eta$ will be chosen such that is will not be parallel to the $\xi$ coordinate; $\eta$ is chosen such that *the [[Jacobian Matrix for Robotics|jacobian]] of the transformation is not zero*.
-
-
-**Elliptic**:
 A *second transformation is done* after finding  $\xi(x, y) = c_{1}$ and $\eta(x,y) = c_{2}$:
 $$
 \begin{cases}
@@ -61,6 +88,11 @@ $$
 \beta = \frac{\xi - \eta}{2i}
 \end{cases}
 $$
+#### Find the needed derivatives
+Only calculate the ones that are part of the original PDE.
+
+$$u_{x} = \frac{\partial u}{\partial \xi} \frac{\partial \xi}{\partial x} + \frac{\partial u}{\partial \eta} \frac{\partial \eta}{\partial x} $$
+
 
 #### 5. Write the canonical equation (normal form)!
 $$\bar{A}u_{\xi\xi} + \bar{B}u_{\xi\eta} + \bar{C}_{\eta\eta} + \bar{D}u_{\xi} + \bar{E}u_{\eta} + \bar{F}u = \bar{G}$$
