@@ -6,7 +6,7 @@ $$\iint_{S}f(x,y,z) \,\text{dS}$$
 >[!video]- Evaluation Example
 >![](https://www.youtube.com/watch?v=ItW5CxLsLSo)
 
-### Parameterization
+### Parameterisation
 $$f(x,y,z)$$
 $f$: A **function** not vector field
 $$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
@@ -19,6 +19,14 @@ $$
 $$
 $$
 \Rightarrow \iint_{S} f(\vec{r}) \cdot |\vec{r_{u}} \times \vec{r_{v}}|\ \text{du}\ \text{dv}
+$$
+
+##### Direction
+$$
+\begin{align}
+|\vec{r_{u}} \times \vec{r_{v}}| &\rightarrow \text{Outward} \\
+|\vec{r_{v}} \times \vec{r_{u}}| &\rightarrow \text{Inward}
+\end{align}
 $$
 
 ##### Surface Area of Parameterization
