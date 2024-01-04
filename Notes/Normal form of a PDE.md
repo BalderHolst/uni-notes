@@ -2,12 +2,15 @@
 See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
 
 See [nice PDF](https://faculty.uml.edu//spennell/Teaching/PDE/classification.pdf).
- 
+
 >[!video]- Normal form of *hyperbolic* PDE
 >![](https://www.youtube.com/watch?v=-iI8p1CtifU&list=PLZSrM0Ajr9iTk-vzVEyjJkKL2T5ZEeCgz&index=9)
 
 >[!video]- Normal form of *elliptic* PDE
 >![](https://www.youtube.com/watch?v=2uWh9y5Zuw0&list=PLZSrM0Ajr9iTk-vzVEyjJkKL2T5ZEeCgz&index=10)
+
+>[!tip]- A nice lille overview
+>![[caracteristic_examples.png]]
 
 #### 1. Compare with the standard PDE
 $$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$
