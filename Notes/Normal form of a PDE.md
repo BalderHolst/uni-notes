@@ -75,9 +75,15 @@ $$
 \psi(x,y) = c_{1}
 $$
 
-$\xi = \psi(x,y)$ and $\eta$ will be chosen such that is will not be parallel to the $\xi$ coordinate; $\eta$ is chosen such that *the [[Jacobian Matrix for Robotics|jacobian]] of the transformation is not zero*.
+$\xi = \psi(x,y)$ and $\eta$ will be chosen such that is will not be parallel to the $\xi$ coordinate; $\eta$ is chosen such that *the determinamt of the [[Jacobian Matrix for Robotics|jacobian]] of the transformation is not zero*.
 
-
+$$
+|J(x,y)| = 
+\begin{vmatrix}
+\xi_{x} & \xi_{y} \\
+\eta_{x} & \eta_{y}
+\end{vmatrix}
+$$
 
 **Elliptic**:
 The solution to the equation will be given by $\lambda_{1} + i\lambda_{2}$ and  $\lambda_{1} - i\lambda_{2}$.
