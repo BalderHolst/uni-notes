@@ -42,8 +42,8 @@ $$
 \end{cases}
 \Rightarrow
 \begin{cases}
-\int\frac{dy}{dx} = \int\lambda_1 \\
-\int\frac{dy}{dx} = \int\lambda_2
+\int dy = \int\lambda_{1} dx \\
+\int dy = \int\lambda_{2} dx
 \end{cases}
 \Rightarrow
 \begin{cases}
@@ -63,11 +63,14 @@ $$
 
 **Parabolic**:
 
-The is the ONE solution for the equation.
+There is the ONE solution  for the equation.
+$$\lambda = \frac{B}{2A}$$
+
+Integration to find $c_{1}$.
 $$
-\frac{dy}{dx} = \frac{B}{2A}
+\frac{dy}{dx} = \lambda
 \Rightarrow 
-\int\frac{dy}{dx} = \int\frac{B}{2A}
+\int dy = \int \lambda\ dx
 \Rightarrow 
 \psi(x,y) = c_{1}
 $$
@@ -77,12 +80,34 @@ $\xi = \psi(x,y)$ and $\eta$ will be chosen such that is will not be parallel to
 
 
 **Elliptic**:
+The solution to the equation will be given by $\lambda_{1} + i\lambda_{2}$ and  $\lambda_{1} - i\lambda_{2}$.
+
+We integrate them to get $c_{1}$ and $c_{2}$:
 $$
 \begin{cases}
-\frac{dy}{dx} &= &\frac{ B + \sqrt{B^{2} - 4AC} }{ 2A } \\
-\frac{dy}{dx} &= &\frac{ B - \sqrt{B^{2} - 4AC} }{ 2A }
+\frac{dy}{dx} = \lambda_{1} +i\lambda_{2} \\
+\frac{dy}{dx} = \lambda_{1} -i\lambda_{2}
+\end{cases}
+\Rightarrow
+\begin{cases}
+\int dy = (\lambda_{1} +i\lambda_{2}) dx \\
+\int dx = (\lambda_{1} -i\lambda_{2}) dx
+\end{cases}
+\Rightarrow
+\begin{cases}
+c_{1} = f_{1}(x,y) + if_{2}(x,y) \\
+c_{2} = f_{2}(x,y) - if_{2}(x,y)
 \end{cases}
 $$
+
+We define $\xi$ and $\eta$ like this
+$$
+\begin{cases}
+\xi  = f_{1}(x,y) + if_{2}(x,y) \\
+\eta = f_{1}(x,y) - if_{2}(x,y)
+\end{cases}
+$$
+
 
 A *second transformation is done* after finding  $\xi(x, y) = c_{1}$ and $\eta(x,y) = c_{2}$:
 $$
@@ -90,7 +115,15 @@ $$
 \alpha = \frac{\xi + \eta}{2} \\
 \beta = \frac{\xi - \eta}{2i}
 \end{cases}
+\Rightarrow
+\begin{cases}
+\alpha = f_{1}(x,y) \\
+\beta = f_{2}(x,y)
+\end{cases}
 $$
+
+Use $\alpha$ and $\beta$ instead of $\xi$ and $\eta$ in the following steps.
+
 #### 4. Find the needed derivatives
 Only calculate the ones that are part of the original PDE.
 
@@ -117,6 +150,8 @@ The resulting equation is the normal form of the PDE.
 
 **Hyperbolic**:
 $$u_{\xi\eta} = \Phi(\xi, \eta,u,u_\xi,u_\eta)$$
+**Elliptic**:
+$$u_{\alpha\alpha} + u_{\beta\beta} = \Phi(\alpha, \beta, u, u_{\alpha}, u_{\beta})$$
 
 ---
 #matematik #multivariablemath
