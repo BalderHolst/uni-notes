@@ -140,9 +140,9 @@ $$
 u_{x} &= u_{\xi}\xi_{x} + u_{\eta}\eta_{x} \\
 u_{y} &= u_{\xi}\xi_{y} + u_{\eta}\eta_{y} \\
 
-u_{xx} &= u_{\xi\xi}(\xi_{x})^{2} + 2_{\xi\eta}\xi_{x}\eta_{x} + u_{\eta\eta}(\eta_{x})^{2} + u_{\xi}\xi_{xx} + u_{\eta}\eta_{xx} \\
+u_{xx} &= u_{\xi\xi}(\xi_{x})^{2} + 2u_{\xi\eta}\xi_{x}\eta_{x} + u_{\eta\eta}(\eta_{x})^{2} + u_{\xi}\xi_{xx} + u_{\eta}\eta_{xx} \\
 
-u_{yy} &= u_{\xi\xi}(\xi_{y})^{2} + 2_{\xi\eta}\xi_{y}\eta_{y} + u_{\eta\eta}(\eta_{y})^{2} + u_{\xi}\xi_{yy} + u_{\eta}\eta_{yy} \\
+u_{yy} &= u_{\xi\xi}(\xi_{y})^{2} + 2u_{\xi\eta}\xi_{y}\eta_{y} + u_{\eta\eta}(\eta_{y})^{2} + u_{\xi}\xi_{yy} + u_{\eta}\eta_{yy} \\
 
 u_{xy} &= u_{\xi\xi}\xi_{x}\xi_{y} + u_{\eta\eta}\eta_{x}\eta_{y} + u_{\xi}\xi_{xy} + u_{\eta}\eta_{xy} + u_{\xi\eta}(\xi_{x}\eta_y + \xi_y\eta_x)
 
