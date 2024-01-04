@@ -8,6 +8,7 @@ $$\iint_{S}f(x,y,z) \,\text{dS}$$
 
 ### Parameterization
 $$f(x,y,z)$$
+$f$: A **function** not vector field
 $$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
 $$
 \text{dS} = |\vec{r_{u}} \times \vec{r_{v}}|\ \text{du}\ \text{dv}, \ \text{where}
@@ -26,17 +27,17 @@ $$
 $$
 
 
-## Flux
-The *amount* of the vector field $F$ that passes through the surface $S$.
-$$\iint_{S} \vec{F} \cdot \vec{n}\ \text{dS}$$
-$$\vec{r} = [x(u,v),\ y(u,v),\ z(u,v)]$$
-$$\vec{n} = \frac{\vec{r_{u}} \times \vec{r_{v}}}{|\vec{r_{u}} \times \vec{r_{v}}|}$$
-$$\Rightarrow \iint_{S} \vec{F} \cdot (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
-### With dependent z (no parametrization)
+### With dependent z (no parametrisation)
 For cases where
 $$z = g(x, y) \Rightarrow \vec{r} = [x, y ,z(x,y)]$$
 Here we can use this formula:
 $$\iint f[x,y,z(x,y)] \cdot \sqrt{\left(\frac{\partial z}{\partial x}\right)^{2} + \left(\frac{\partial z}{\partial y}\right)^{2} + 1}\ \text{dx}\ \text{dy}$$
+
+## Flux
+The *amount* of the vector field $F$ that passes through the surface $S$.
+
+Make sure to *parameterise* $F$.
+$$\iint_{S} \vec{F} \bullet (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
 
 
 ---

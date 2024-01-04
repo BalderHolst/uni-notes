@@ -83,6 +83,7 @@ $$
 \xi_{x} & \xi_{y} \\
 \eta_{x} & \eta_{y}
 \end{vmatrix}
+\neq 0
 $$
 
 **Elliptic**:
@@ -158,6 +159,11 @@ The resulting equation is the normal form of the PDE.
 $$u_{\xi\eta} = \Phi(\xi, \eta,u,u_\xi,u_\eta)$$
 **Elliptic**:
 $$u_{\alpha\alpha} + u_{\beta\beta} = \Phi(\alpha, \beta, u, u_{\alpha}, u_{\beta})$$
+
+#### 6. Solve PDE
+
+#### 7. Replace Variables
+Replace $\xi$ and $\eta$ with functions of $x$ and $y$.
 
 ---
 #matematik #multivariablemath
