@@ -6,14 +6,16 @@ $$z = e^{sT}$$
 ![[Pasted image 20231102085545.png|300]]
 
 ## Procedure
-1. Find poler og nulpunkter
-2. Find [[Filters#Frekvensnormering|normerede]] poler og nulpunkter
-3. Overfør poler og nul-punkter til z-domæne
+1. Bestem den frekvensnormerede og faktoriserede overføringsfunktion
+2. Find poler og nulpunkter
+3. Find [[Filters#Frekvensnormering|denormerede]] poler og nulpunkter (gange med cutoff/center frekvens)
+4. Overfør poler og nul-punkter til z-domæne. Sæt poler og nul-punkter ind i stedet for $s$ for at finde det tilsvarende i $z$-domænet
 $$z=e^{sT}$$
-4. Opskriv overføringsfunktionen og gang en konstant på.
-5. Find konstanten med ligningen:
+
+
+6. Opskriv overføringsfunktionen og gang en konstant på for at få constant DC forstærkning.Find konstanten med ligningen:
 $$H(s)|_{s=0} = H(z)|_{z=1}$$
-6. Opskriv den endelige løsning
+7. Opskriv den endelige løsning
 
 >[!example]- Eksempel på Procedure
 >![[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf|lektion8#page=1]]
