@@ -21,7 +21,7 @@ $$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\f
 2. [[Partialbrøker|Partialbrøksopløs]] $H(s)$ til 1. og 2. ordens overføringsfunktioner (maksimalt antal 2. ordens overføringsfunktioner).
 3. [[Filters#Frekvensnormering|Denormer]] koefficienterne $k_i$ og polerne $\sigma_{i} + j\omega$ i ved *multiplikation med afskæringsfrekvensen ($\omega_{a}$) eller centerfrekvensen ($\omega_{c}$)*.
 $$H(s) = \sum_{i=1}^{N} \frac{k_{i}}{s-s_{i}}$$
-4. Bestem den digitale overføringsfunktions koefficienter. Hvis and ordens led se [[#Tranformation af 2. Ordens Overføringsfunktion]].
+4. Bestem den digitale overføringsfunktions koefficienter. Hvis anden ordens led se [[#Tranformation af 2. Ordens Overføringsfunktion]].
 $$H(z) = T \sum_{i=1}^{N}k_{i}\frac{z}{z - e^{s_{i}T}} = T \sum_{i=1}^{N}k_{i}\frac{1}{1 - e^{s_{i}T}z^{-1}}$$
 5. Implementer overføringsfunktionen som en parallelstruktur.
 
@@ -50,7 +50,7 @@ b_{2} &= e^{2\sigma_{i}T}
 \end{align}
 $$
 
-Opskriv overføringsfunktionen i z-donæne.
+Opskriv overføringsfunktionen i z-domæne.
 $$ H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
 
 ---

@@ -8,7 +8,10 @@ Har *altid poler*.
 
 ### Procedure
 1. Filtrets specifikationer opstilles (see [[Filters]])
-2. Filtrets z-domæne overføringsfunktion opstilles
+2. Filtrets z-domæne overføringsfunktion opstilles med en z-transformation
+- [[Notes/Matched z-transformation|Matched z-transformation]]
+- [[Impule Inveriant z-transformation]]
+- [[Notes/Bilineær z-transformation|Bilineær z-transformation]]
 3. Der vælges optimal realisationsstruktur
 4. Der fremstilles program til signalprocessor eller tegnes diagram for hardwareløsning
 
