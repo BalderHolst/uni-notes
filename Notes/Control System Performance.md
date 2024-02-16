@@ -16,6 +16,7 @@ $$
 $$
 M_{p} = e^{-\pi / \sqrt{1-\zeta^{2}}}
 $$
+$\zeta$: Dampening factor (larger means more dampening)
 
 ![[Pasted image 20240209092310.png]]
 
