@@ -6,7 +6,7 @@ Opstil *den karakteristiske* ligning
 $$\det(A_{}- \lambda I) = 0$$
 $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
-$$(A-I \lambda)\vec{x} = \vec{0}$$
+$$(A-\lambda I)\vec{x} = \vec{0}$$
 
 For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 

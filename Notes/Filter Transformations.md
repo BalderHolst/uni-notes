@@ -34,7 +34,7 @@ Formfaktor
 $$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s F = \frac{W_{s}}{W_{a}}$$
 
 The transformation back to band-pass:
-$$H_{bp}(s) = H_{lp}(\bar{s})|_{\bar{s} = \frac{1}{\omega_{a}}\left(\frac{s+1}{s}\right)}$$
+$$H_{bp}(s) = H_{lp}(\bar{s})|_{\bar{s} = \frac{1}{W_{a}}\left(\frac{s+1}{s}\right)}$$
 
 
 %% 
