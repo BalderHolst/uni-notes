@@ -1,9 +1,10 @@
 # Control System Performance
 See [[Lecture 2 - Stability Analysis.pdf#page=44|slides]] and more [[Lecture 5 - Root Locus.pdf#page=21|here]].
 
-We are interested in three parameters
+We are interested in three parameters:
 - Rise time $t_{r}$
 - Settling time $t_{s}$
+- Peak time $t_{p}$
 - Overshoot $M_{p}$
 
 ![[Pasted image 20240209091249.png|center|500]]
@@ -18,7 +19,7 @@ $$
 t_{s} = \frac{-\ln(\alpha / 100)}{\omega_{n} \zeta}
 $$
 $$
-M_{p} = e^{-\pi / \sqrt{1-\zeta^{2}}}
+M_{p} = e^{-\pi \zeta / \sqrt{1-\zeta^{2}}}
 $$
 $\zeta$: Dampening factor (larger means more dampening/less overshoot)
 
