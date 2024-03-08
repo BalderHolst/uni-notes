@@ -1,4 +1,6 @@
 # Signal Bandwidth
+See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=28|slides]].
+
 The bandwidth of a closed loop system $T(s)$ is the *maximum frequency* at which the output $y$ of a system will track a sunusoidal input $r$ in a satisfactory manner.
 
 The bandwith $\omega_{BW}$ of $T(s)$ is the maximal frequency such that:
