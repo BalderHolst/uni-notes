@@ -1,5 +1,7 @@
 # Fejlberegning på Operationsforstærker
 
+![[Pasted image 20240312083453.png]]
+
 $$A_{OL} = \frac{dV_{o}}{dV_{id}}$$
 $A_{OL}$: Open loop amplification 
 
