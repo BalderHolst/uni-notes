@@ -6,7 +6,6 @@ $$
 D(s) = \frac{Ts + 1}{\alpha Ts + 1} \quad \mathrm{where}\ \alpha < 1
 $$
 
-![[Pasted image 20240322094502.png]]
 
 #### Procedure
 1. Determine open-loop gain $K$ to satisfy error or bandwidth requirements:
