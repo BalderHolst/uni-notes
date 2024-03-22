@@ -5,6 +5,9 @@ $$
 |L(s)| = 1 \quad \angle L(s) = 180\degree
 $$
 
+>[!tip] Rule of thumb
+> Phase margin should be at least $40\degree$
+
 ## Bode Plot
 Draw [[Notes/Bode Plot|Bode Plot]] for loop amplification.
 1. Look where phase is $180\degree$
@@ -15,6 +18,8 @@ Draw [[Notes/Bode Plot|Bode Plot]] for loop amplification.
 ## Nyquist Plot
 ![[Pasted image 20240322083846.png]]
 
+>[!tip]- Vector Margin
+>![[Pasted image 20240322090059.png]]
 
 ---
 #controlsystems
