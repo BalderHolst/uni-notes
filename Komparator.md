@@ -1,0 +1,8 @@
+# Komparator
+
+
+
+
+
+---
+#forstærker

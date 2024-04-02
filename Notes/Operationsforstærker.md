@@ -30,8 +30,11 @@ $R_1$ : Modstanden mellem operationsforstærkerens negative indgang og jord (gnd
 ### Biaskompensering
 Hver terminal trækker en strøm. Denne strøm er ikke den samme.
 $$R_{B}^{+} \neq R_{B}^{-}$$
-Biaskompensering er at lave de to strømme lig hinanden. Dette gøres typisk ved at sætte en modstand ind sådan at begge biasstrømme trækkes gennem samme modstand.
+Biaskompensering er at lave de to strømme lig hinanden. Dette gøres typisk ved at sætte en modstand ind sådan at begge biasstrømme trækkes gennem samme modstand. Dette gør det muligt kun at opgive offset mellem terminalerne.
 
+![[Pasted image 20240402084028.png]]
+
+Offset strømmen $I_{off}$ kompenserer vi for ved at indsætte en $V_{off}$ sådan af vi kompenserer for $I_{off}$.
 
 
 ---
