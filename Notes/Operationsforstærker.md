@@ -27,5 +27,12 @@ $V_{in}$ : Input-spændingen (der er forbundet til operationsforstærkerens posi
 $R_f$ : Feedback modstanden (den fra $V_{out}$ til operationsforstærkerens negative indgang)
 $R_1$ : Modstanden mellem operationsforstærkerens negative indgang og jord (gnd).
 
+### Biaskompensering
+Hver terminal trækker en strøm. Denne strøm er ikke den samme.
+$$R_{B}^{+} \neq R_{B}^{-}$$
+Biaskompensering er at lave de to strømme lig hinanden. Dette gøres typisk ved at sætte en modstand ind sådan at begge biasstrømme trækkes gennem samme modstand.
+
+
+
 ---
 #elektronik #komponent 
