@@ -23,8 +23,19 @@ Make sure to take sampling delay into a count (see [[Lecture 8 - Implementation.
 Design the entire system in the [[Notes/z-transformation|z-domain]].
 
 ### Integration
+See [[Lecture 8 - Implementation.pdf#page=62|slides]].
+
+>[!warning]
+> Do not use forward integration, as it *does not guarantee stability* even if the continuous system is stable.
+
 There are three main ways of approximating integration in discrete time.
 ![[Pasted image 20240405093924.png|center|500]]
+
+These map the $s$-domain to different parts of the $z$-domain.
+
+![[Pasted image 20240405094204.png]]
+
+
 
 ---
 #controlsystems
