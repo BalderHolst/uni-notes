@@ -53,5 +53,6 @@ $G_{d}(s)$: Transfer funktion for samling delay
 >[!tip]- Sampling delay illustration
 >![[Pasted image 20240416084850.png]]
 
+
 ---
 #controlsystems
