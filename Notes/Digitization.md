@@ -25,6 +25,13 @@ Design the entire system in the [[Notes/z-transformation|z-domain]].
 ### Integration
 See [[Lecture 8 - Implementation.pdf#page=62|slides]].
 
+>[!tip] Always use Tustins rule
+>Tustins rule is the same as the Trapezoid rule. To transform from $s$-place to $z$-plane, use the following rule:
+>$$
+>G(s)|_{s=\frac{2}{T}\frac{z-1}{z+1}}
+>$$
+>This is similar to [[Notes/Bilineær z-transformation|Bilinear z-transformation]] without pre-warping.
+
 >[!warning]
 > Do not use forward integration, as it *does not guarantee stability* even if the continuous system is stable.
 
@@ -35,7 +42,16 @@ These map the $s$-domain to different parts of the $z$-domain.
 
 ![[Pasted image 20240405094204.png]]
 
+### Sampling Delay
+See [[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf#page=27|slides]].
 
+$$G_{d}(s) = \frac{1}{\frac{T}{2}s + 1}$$
+$G_{d}(s)$: Transfer funktion for samling delay
+
+![[Pasted image 20240416084917.png|500]]
+
+>[!tip]- Sampling delay illustration
+>![[Pasted image 20240416084850.png]]
 
 ---
 #controlsystems
