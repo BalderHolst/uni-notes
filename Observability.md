@@ -11,9 +11,10 @@ CA^{2}\\
 C A^{n-1}
 \end{bmatrix}
 $$
-$\mathcal{O}$: Observability matric
+$\mathcal{O}$: Observability matrix
 $A$: A matrix from [[State Space Models|state space model]].
 $C$: C matrix from [[State Space Models|state space model]].
+$n$: Number of states
 
 If a state $x$ exists so that $y$ is always $0$, and $x \neq 0$, then the system is not observable.
 
