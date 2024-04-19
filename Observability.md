@@ -31,7 +31,14 @@ Create an estimate of the system and feed the error from the real system into th
 $$
 \dot{e} = (A + LC) e
 $$
-$A$'s [[Egenværdier og Egenvektorer|eigen values]] must be in the left half plane. This is also the general criteria for stability of a system.
+$(A + LC)$'s [[Egenværdier og Egenvektorer|eigen values]] must be in the left half plane. This is also the general criteria for stability of a system. Choosing an $L$ to make the system stable is *only possible if the system is observable*.
+
+$L$ can be found matlab using the `place` function.
+
+### Observer Based Control
+Feedback based on estimated state instead of real syste
+
+![[Pasted image 20240419091927.png]]
 
 ---
 #controlsystems
