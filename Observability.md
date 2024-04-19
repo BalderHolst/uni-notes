@@ -24,6 +24,9 @@ Dual of [[Controllability]].
 ### Full Order Observer
 See [[Lecture 10 - Observers.pdf#page=28|slides]].
 
+>[!warning] Place poles to the left of system
+>When choosing $L$ **MAKE SURE THAT THE POLES OF $A+LC$ ARE TO THE LEFT OF THE SYSTEM** (about seven times) this makes sure that the system has the dominant poles.
+
 Create an estimate of the system and feed the error from the real system into the estimate system.
 
 ![[Pasted image 20240419084942.png]]
@@ -36,9 +39,15 @@ $(A + LC)$'s [[Egenværdier og Egenvektorer|eigen values]] must be in the left h
 $L$ can be found matlab using the `place` function.
 
 ### Observer Based Control
-Feedback based on estimated state instead of real syste
+See [[Lecture 10 - Observers.pdf#page=71|slides]].
+
+[[Notes/State Feedback|State feedback]] based on estimated state instead of real system state.
 
 ![[Pasted image 20240419091927.png]]
+
+![[Pasted image 20240419093350.png]]
+
+For the observer based control to be closer to the state feedback. Place the $A+LC$ poles further to the left in the $s$-plane.
 
 ---
 #controlsystems
