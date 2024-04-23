@@ -18,4 +18,7 @@ u_{0}
 \end{bmatrix}
 $$
 
-A system is controllable if and **only if** the controllability matrix has full rank.
+A system is controllable if and **only if** the controlability matrix has full rank.
+
+---
+#controlsystems
