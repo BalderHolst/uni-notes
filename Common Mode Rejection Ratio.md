@@ -1,7 +1,7 @@
 # Common Mode Rejection Ratio
 How good a differential amplifier is at rejecting noise when the impedance on its inputs is the same.
 
-Common mode = when the inputs are equal.
+Common mode = average of inputs
 
 $$CMRR \to \infty \Rightarrow A_{cm} \to 0$$
 
