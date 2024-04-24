@@ -19,7 +19,7 @@ u_{0}
 $$
 $\mathcal{C}$: Controllability Matrix
 
-A system is controllable if and **only if** the controlability matrix has [[Rang af Matrix|full rank]].
+A system is controllable if and **only if** the controllability matrix has [[Rang af Matrix|full rank]].
 
 $$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
 
@@ -57,6 +57,9 @@ $0_{(n-1)\times 1}$: Matrix of zeros
 
 #### Transformation to Canonical Form
 
+>[!Warning]
+>The system *must be controllable* to be representable on controllable canonical form.
+
 >[!video]- Transformation to a canonical form
 >![](https://www.youtube.com/watch?v=anlC9ackwV4)
 
@@ -88,6 +91,32 @@ _{M_{cx}}
 _{M_{cz}}
 $$
 
+##### Getting the Transformation
+This is the (inverse of) the transformation
+$$
+T^{-1} =
+\begin{bmatrix}
+s_{1} \\
+s_{2} \\
+\vdots \\
+s_{n}
+\end{bmatrix}
+$$
+Its constants can be found like this
+$$
+\begin{align}
+s_{n} &= 
+\begin{bmatrix}
+0_{(n-1)\times 1} & 1
+\end{bmatrix}
+\, \mathcal{C}^{-1} \\
+s_{n-1} &= s_{n} A \\
+s_{n-2} &= s_{n-1} A \\
+&\vdots \\
+s_{1} &= s_{2}A
+\end{align}
+$$
+
 ##### Procedure for Pole Placement
 1. Find transfer function representation.
 $$C(sI-A)^{-1}B$$
@@ -99,6 +128,7 @@ $$u = -\hat{F}z$$
 $$T = \mathcal{C}_{z} \cdot \mathcal{C}_{x}^{-1}$$
 5. Find state feedback for original state space system.
 $$F = \hat{F}T$$
+
 >[!example]- General Transformation to Canonical form in three dimensions
 >![[Lecture 9 - State Feedback Control.pdf#page=37]]
 
