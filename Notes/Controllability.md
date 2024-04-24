@@ -7,7 +7,7 @@ $$
 x_{n} =
 \underbrace{
     \begin{bmatrix}
-    \Gamma & \Phi\Gamma & \dots & \Phi^{n-1}\Gamma
+    B & AB & \cdots & A^{n-1}B
     \end{bmatrix}
 }_{\mathrm{Controllability\ Matrix}}
 \begin{bmatrix}
@@ -19,7 +19,6 @@ u_{0}
 $$
 
 A system is controllable if and **only if** the controlability matrix has full rank.
-
 ## Transformation to Canonical Form
 
 >[!video]- Transformation to a canonical form
