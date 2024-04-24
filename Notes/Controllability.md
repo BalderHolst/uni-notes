@@ -19,7 +19,7 @@ u_{0}
 $$
 $\mathcal{C}$: Controllability Matrix
 
-A system is controllable if and **only if** the controllability matrix has [[Rang af Matrix|full rank]].
+A system is cont^rollable if and **only if** the controllability matrix has [[Rang af Matrix|full rank]].
 
 $$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
 
