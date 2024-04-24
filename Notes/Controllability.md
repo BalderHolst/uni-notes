@@ -19,11 +19,12 @@ u_{0}
 $$
 $\mathcal{C}$: Controllability Matrix
 
-A system is controllable if and **only if** the controlability matrix has full rank.
+A system is controllable if and **only if** the controlability matrix has [[Rang af Matrix|full rank]].
 
 $$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
 
 ## Controllable Canonical Form
+See [[Lecture 9 - State Feedback Control.pdf#page=33|slides]].
 
 $$
 \dot{z} = \hat{A}z+\hat{B}u, \quad z \in \mathbb{R^{n}},\quad u \in \mathbb{R}
@@ -51,6 +52,9 @@ $a^{T}$: $\begin{bmatrix} a_{1} & a_{2} & \cdots & a_{n} \end{bmatrix}$
 $I_{n-1}$: Identity matrix of size $(n-1) \times (n-1)$
 $0_{(n-1)\times 1}$: Matrix of zeros
 
+>[!Example]- Example where $n=3$
+>![[Lecture 9 - State Feedback Control.pdf#page=35]]
+
 #### Transformation to Canonical Form
 
 >[!video]- Transformation to a canonical form
@@ -62,7 +66,15 @@ $$
 x = T^{-1}z \quad &\Leftrightarrow \quad z = Tx
 \end{align}
 $$
-Where the controlabillity matrices are relates as follows
+We can convert between the matrices like this
+$$
+\begin{align}
+\hat{A} &= T^{-1}AT \\
+\hat{B} &= T^{-1}B
+\end{align}
+$$
+
+Where the controllability matrices are relates as follows
 $$
 T 
 \underbrace{\begin{bmatrix}
@@ -87,6 +99,8 @@ $$u = -\hat{F}z$$
 $$T = \mathcal{C}_{z} \cdot \mathcal{C}_{x}^{-1}$$
 5. Find state feedback for original state space system.
 $$F = \hat{F}T$$
+>[!example]- General Transformation to Canonical form in three dimensions
+>![[Lecture 9 - State Feedback Control.pdf#page=37]]
 
 ---
 #controlsystems
