@@ -10,13 +10,16 @@ There are two main methods.
 - [[#Discrete Design]]
 
 ### Emulation
-Use [[Notes/Bilineær z-transformation|Bilineær z-transformation]] to convert a continuous system to a digital system.
+Use tustins rule to convert a continuous system to a digital system.
 
 Make sure to take sampling delay into a count (see [[Lecture 8 - Implementation.pdf#page=55|slides]]). 
 
 ##### Procedure
 1. Design continuous compensation for the system $G_{d}(s)G(s)$, where $G_{d}(s)$ approximates a delay of $T/2$.
-2. Derive the discrete controller by applying Tustin’s rule or the matched pole-zero method (other discretization methods exist, but the mentioned methods are preferred).
+$$
+G_{d}(s) = \frac{1}{\frac{T}{2}s+1}
+$$
+2. Derive the discrete controller by applying *Tustin’s rule* or the matched pole-zero method (other discretization methods exist, but the mentioned methods are preferred).
 3. Analyze the design by simulation or experimentally.
 
 ### Discrete Design
