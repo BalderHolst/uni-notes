@@ -9,7 +9,7 @@ x_{n} =
     \begin{bmatrix}
     B & AB & \cdots & A^{n-1}B
     \end{bmatrix}
-}_{\mathrm{Controllability\ Matrix}}
+}_{\mathcal{C}}
 \begin{bmatrix}
 u_{n-1} \\
 u_{n-2} \\
@@ -17,9 +17,41 @@ u_{n-2} \\
 u_{0}
 \end{bmatrix}
 $$
+$\mathcal{C}$: Controllability Matrix
 
 A system is controllable if and **only if** the controlability matrix has full rank.
-## Transformation to Canonical Form
+
+$$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
+
+## Controllable Canonical Form
+
+$$
+\dot{z} = \hat{A}z+\hat{B}u, \quad z \in \mathbb{R^{n}},\quad u \in \mathbb{R}
+$$
+
+This is said to be on canonical form if
+$$
+\hat{A} =
+\begin{bmatrix}
+a^{T} \\
+\hline
+\begin{array}{c|c}
+I_{n-1} & 0_{(n-1) \times 1}
+\end{array}
+\end{bmatrix}
+\quad \mathrm{and} \quad
+\hat{B} =
+\begin{bmatrix}
+1 \\
+\hline
+0_{(n-1)\times1}
+\end{bmatrix}
+$$
+$a^{T}$: $\begin{bmatrix} a_{1} & a_{2} & \cdots & a_{n} \end{bmatrix}$
+$I_{n-1}$: Identity matrix of size $(n-1) \times (n-1)$
+$0_{(n-1)\times 1}$: Matrix of zeros
+
+#### Transformation to Canonical Form
 
 >[!video]- Transformation to a canonical form
 >![](https://www.youtube.com/watch?v=anlC9ackwV4)
@@ -50,11 +82,11 @@ $$C(sI-A)^{-1}B$$
 2. Find control canonical form
 $$\dot{z} = \hat{A}z + \hat{B}u$$
 3. Find pole placement state feedback for control canonical form.
-$$u = -\hat{K}z$$
+$$u = -\hat{F}z$$
 4. Find transformation matrix using controllability matrices.
-$$T = M_{cz} \cdot M_{cx}^{-1}$$
+$$T = \mathcal{C}_{z} \cdot \mathcal{C}_{x}^{-1}$$
 5. Find state feedback for original state space system.
-$$K = \hat{K}T$$
+$$F = \hat{F}T$$
 
 ---
 #controlsystems
