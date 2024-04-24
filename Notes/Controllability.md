@@ -55,7 +55,11 @@ $0_{(n-1)\times 1}$: Matrix of zeros
 >[!Example]- Example where $n=3$
 >![[Lecture 9 - State Feedback Control.pdf#page=35]]
 
-#### 
+#### Characteristic Polynomial
+$$
+\det(\lambda I - \hat{A}) = \lambda^{n} - a_{1}\lambda^{n-1}-\dots- a_{n}
+$$
+$\lambda$ is sometimes replaced with $s$.
 
 #### Transformation to Canonical Form
 
@@ -129,7 +133,7 @@ $$u = \hat{F}z$$
 4. Find transformation matrix using controllability matrices.
 $$T = \mathcal{C}_{z} \cdot \mathcal{C}_{x}^{-1}$$
 5. Find state feedback for original state space system.
-$$F = \hat{F}T$$
+$$F = \hat{F}T^{-1}$$
 
 >[!example]- General Transformation to Canonical form in three dimensions
 >![[Lecture 9 - State Feedback Control.pdf#page=37]]
