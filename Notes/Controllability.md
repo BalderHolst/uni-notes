@@ -19,7 +19,7 @@ u_{0}
 $$
 $\mathcal{C}$: Controllability Matrix
 
-A system is cont^rollable if and **only if** the controllability matrix has [[Rang af Matrix|full rank]].
+A system is controllable if and **only if** the controllability matrix has [[Rang af Matrix|full rank]].
 
 $$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
 
@@ -54,6 +54,8 @@ $0_{(n-1)\times 1}$: Matrix of zeros
 
 >[!Example]- Example where $n=3$
 >![[Lecture 9 - State Feedback Control.pdf#page=35]]
+
+#### 
 
 #### Transformation to Canonical Form
 
@@ -123,7 +125,7 @@ $$C(sI-A)^{-1}B$$
 2. Find control canonical form
 $$\dot{z} = \hat{A}z + \hat{B}u$$
 3. Find pole placement state feedback for control canonical form.
-$$u = -\hat{F}z$$
+$$u = \hat{F}z$$
 4. Find transformation matrix using controllability matrices.
 $$T = \mathcal{C}_{z} \cdot \mathcal{C}_{x}^{-1}$$
 5. Find state feedback for original state space system.
