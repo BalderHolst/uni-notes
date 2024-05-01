@@ -38,24 +38,20 @@ $$
 where
 $$
 \begin{align}
-
 A_\mathrm{cl} &=
 \begin{bmatrix}
 A & BF \\
 -LC & A+BF+LC
 \end{bmatrix} \\
-
 \tilde{B}_\mathrm{cl} &=
 \begin{bmatrix}
 B \\
 \tilde{M}
 \end{bmatrix} \\
-
 C_\mathrm{cl} &=
 \begin{bmatrix}
 C & 0
 \end{bmatrix}
-
 \end{align}
 $$
 
