@@ -11,12 +11,13 @@ Funktionen for normalfordelingen hedder "frekvensfunktionen" eller "tæthedsfunk
 
 Dette er forskriften for *frekvensfunktionen*:
 
-$$f(x) = \frac{1}{\sigma \cdot \sqrt{2\pi}} \cdot e^{-\frac{1}{2} \cdot \left( \frac{x \cdot \mu}{\sigma}  \right)^2}$$
+$$f(x) = \frac{1}{\sigma \cdot \sqrt{2\pi}} \cdot e^{-\frac{1}{2} \cdot \left( \frac{x - \mu}{\sigma}  \right)^2}$$
 
 Dette er grafen for *frekvensfunktionen*
 ![[Normalfordelingen.png|370]]
 
-**Middelværdi ($\mu$)**, toppen af "klokken"
+**Middelværdi ($\mu$)**
+toppen af "klokken"
 
 **Spredningen ($\sigma$)**
 Hvor langt data ligger fra middelværdien i gennemsnit
