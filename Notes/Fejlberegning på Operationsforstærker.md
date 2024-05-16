@@ -1,7 +1,9 @@
 # Fejlberegning på Operationsforstærker
 
 ![[Pasted image 20240312083453.png]]
-
+$$
+V_{o} = A_\mathrm{OL} \cdot V_{id}
+$$
 $$A_{OL} = \frac{dV_{o}}{dV_{id}}$$
 $A_{OL}$: Open loop amplification 
 
@@ -21,7 +23,8 @@ $$
 ##### Closed Loop Amplification
 
 $$
-A_{L} = \frac{V_{o}}{V_{in}} = \frac{\alpha}{\beta }\cdot k_{p}
+V_{o} = A_\mathrm{OL} \cdot V_{id} \quad \Rightarrow \quad
+A_{L} = \frac{V_{o}}{V_{in}} = \frac{\alpha}{\beta }\cdot  \underbrace { \frac{1}{1 + \frac{1}{\beta A_{OL}}} }_{k_{p}}
 $$
 ### Bandwidth
 The bandwidth of an opamp is partly determined by the gain used. Datasheets often specify a **GBWP** (gain bandwidth product) also called *unity gain bandwidth*.
