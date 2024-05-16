@@ -23,7 +23,12 @@ $$
 $$
 A_{L} = \frac{V_{o}}{V_{in}} = \frac{\alpha}{\beta }\cdot k_{p}
 $$
+### Bandwidth
+The bandwidth of an opamp is partly determined by the gain used. Datasheets often specify a **GBWP** (gain bandwidth product) also called *unity gain bandwidth*.
 
+$$
+\mathrm{BW} = \frac{\mathrm{GPWP}}{\mathrm{G}}
+$$
 
 ---
 #forstærker
