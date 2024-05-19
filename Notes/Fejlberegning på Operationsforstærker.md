@@ -22,9 +22,8 @@ k_{p} = \frac{1}{1 + \frac{1}{\beta A_{OL}}}
 $$
 
 ##### Closed Loop Amplification
-
+Y
 $$
-V_{o} = A_\mathrm{OL} \cdot V_{id} \quad \Rightarrow \quad
 A_{L} = \frac{V_{o}}{V_{in}} = \frac{\alpha}{\beta }\cdot  \underbrace { \frac{1}{1 + \frac{1}{\beta A_{OL}}} }_{k_{p}}
 $$
 ### Bandwidth
@@ -35,10 +34,15 @@ $$
 $$
 
 ### Common Mode Rejection Ratio
-See [[lektion6.pdf#page=21]]
+See [[lektion6.pdf#page=21|slides]].
 
-In reality the common mode input is also amplified.
+In reality the common mode input (mean of inputs) is also amplified. This is caused by differences in amplification of the two inputs.
 
+$$
+\mathrm{CMRR} = 20\, \log \left( \frac{|A_d|}{|A_{cm}|} \right)
+$$
+$A_d$: Amplification of input difference
+$A_{cm}$: Common mode amplification
 
 ---
 #forstærker
