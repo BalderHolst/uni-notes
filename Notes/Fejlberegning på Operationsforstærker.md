@@ -34,5 +34,11 @@ $$
 \mathrm{BW} = \frac{\mathrm{GPWP}}{\mathrm{G}}
 $$
 
+### Common Mode Rejection Ratio
+See [[lektion6.pdf#page=21]]
+
+In reality the common mode input is also amplified.
+
+
 ---
 #forstærker
