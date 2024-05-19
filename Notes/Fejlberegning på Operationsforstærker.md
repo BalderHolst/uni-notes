@@ -1,4 +1,5 @@
 # Fejlberegning på Operationsforstærker
+See [[Noter lektion 2.pdf|lecture notes]].
 
 ![[Pasted image 20240312083453.png]]
 $$
