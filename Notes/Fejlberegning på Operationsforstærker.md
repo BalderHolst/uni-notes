@@ -33,7 +33,6 @@ $$
 $$
 
 ### Common Mode Rejection Ratio
-See [[lektion6.pdf#page=21|slides]].
 
 In reality the common mode input (mean of inputs) is also amplified. This is caused by differences in amplification of the two inputs.
 
