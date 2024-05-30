@@ -22,7 +22,6 @@ k_{p} = \frac{1}{1 + \frac{1}{\beta A_{OL}}}
 $$
 
 ##### Closed Loop Amplification
-Y
 $$
 A_{L} = \frac{V_{o}}{V_{in}} = \frac{\alpha}{\beta }\cdot  \underbrace { \frac{1}{1 + \frac{1}{\beta A_{OL}}} }_{k_{p}}
 $$
@@ -30,7 +29,7 @@ $$
 The bandwidth of an opamp is partly determined by the gain used. Datasheets often specify a **GBWP** (gain bandwidth product) also called *unity gain bandwidth*.
 
 $$
-\mathrm{BW} = \frac{\mathrm{GPWP}}{\mathrm{G}}
+\mathrm{BW} = \frac{\mathrm{GBWP}}{\mathrm{G}}
 $$
 
 ### Common Mode Rejection Ratio
