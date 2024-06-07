@@ -10,8 +10,21 @@ $e(s)$: error transfer function
 ![[Pasted image 20240607144028.png]]
 or alternatively
 $$
-K(s) = K_{p} \left( 1 + \frac{1}{sT_{i}} + \frac{sT_{d}{1}+ s} \right)
+K(s) = K_{p} \left( 1 + \frac{1}{sT_{i}} + sT_d \right)
 $$
+Which includes a low pass filder for the D-term.
+$K_p$: Constant gain of the controller
+$T_d$: Derivative time constant
+$T_i$: Integral time constant
+
+![[Pasted image 20240607144634.png]]
+
+>[!Warning] Please add a Low Pass Filter!
+>Add a low pass filter to reduce the effect of noise on the D-term.
+>$$
+>K(s) = K_{p} \left( 1 + \frac{1}{sT_{i}} + \frac{sT_{d}}{1+ sT_{d}/N} \right)
+>$$
+>$N$: Filter constant. Typically values between 2 and 20.
 
 ### PID-controller as a [[Notes/Differensligninger|Difference Equation]]
 See [[Lecture 8 - Implementation.pdf#page=45|slides]].
