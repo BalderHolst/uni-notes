@@ -1,8 +1,10 @@
 # PID-controller
 
 $$
-u(s) = (k_{p} + \frac{k_{i}}{s} + k_{d}s)e(s)
+\frac{u(s)}{e(s)} = k_{p} + \frac{k_{i}}{s} + k_{d}s
 $$
+$u(s)$: reference transfer function
+$e(s)$: error transfer function
 
 ### PID-controller as a [[Notes/Differensligninger|Difference Equation]]
 See [[Lecture 8 - Implementation.pdf#page=45|slides]].
