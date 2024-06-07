@@ -1,7 +1,7 @@
 # Root Locus Tuning
 See [[Lecture 5 - Root Locus.pdf#page=46|slides]].
 
-Use if a model of the system ***IS AVAILABLE***. If not, use [[Ziegler Nichols Tuning Method]] instead.
+Use if a model of the system ***IS AVAILABLE***. If not, use [[Zeigler Nichols Tuning Method]] instead.
 
 Here *one* parameter $K$ is changed, and the changes in the poles and zeros are plotted.
 
