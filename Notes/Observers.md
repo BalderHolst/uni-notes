@@ -1,4 +1,4 @@
-# Observability
+# Observers
 See [[Lecture 10 - Observers.pdf#page=6|slides]].
 
 $$
