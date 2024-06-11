@@ -1,4 +1,6 @@
 # Optimal Control
+See [[Lecture 11 - Integral Control.pdf#page=18|slides]].
+
 Placing poles to optimize a cost function.
 
 $$
