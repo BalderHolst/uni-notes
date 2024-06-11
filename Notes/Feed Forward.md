@@ -30,7 +30,8 @@ where $\tilde{M} = MN^{-1}$.
 #### Zero Assignment Procedure
 See [[Lecture 11 - Integral Control.pdf#page=46|slides]].
 
-1. Design $\tilde{M}$ assigning zeros close to the cut-off frequency of the Bode plot, such that the "horizontal" part is extended.
+1. Design $\tilde{M}$ assigning zeros close to the cut-off frequency of the Bode plot, such that the "horizontal" part is extended. Place eigen values at desired zeros for $$A_{za} + \tilde{M}C_{za}$$ to find $\tilde{M}$, where $A_za = A + BF + LC$ and $C_{za} = -F$.
+
 2. Compute $N$ such that the DC-value of the transfer function from $r$ to $y$ is unity:
 $$
 N = -(C_{\mathrm{cl}}A_{\mathrm{cl}}^{-1}\tilde{B}_{\mathrm{cl}})^{-1}
