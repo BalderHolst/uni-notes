@@ -7,7 +7,7 @@ $$
 x_{n} =
 \underbrace{
     \begin{bmatrix}
-    B & AB & \cdots & A^{n-1}B
+    \Gamma & \Phi\Gamma & \cdots & \Phi^{n-1}\Gamma
     \end{bmatrix}
 }_{\mathcal{C}}
 \begin{bmatrix}
