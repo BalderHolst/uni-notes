@@ -20,6 +20,9 @@ $$
 G_{d}(s) = \frac{1}{\frac{T}{2}s+1}
 $$
 2. Derive the discrete controller by applying *Tustin’s rule* or the matched pole-zero method (other discretization methods exist, but the mentioned methods are preferred).
+$$
+G(z) = G(s)G_{d}(s)|_{s = \frac{2}{T}\frac{z-1}{z+1}}
+$$
 3. Analyze the design by simulation or experimentally.
 
 ### Discrete Design
