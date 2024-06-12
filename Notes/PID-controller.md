@@ -3,6 +3,8 @@ See [[Lecture 4 - Design of PID Controllers.pdf|slides]].
 
 $$
 K(s) = \frac{u(s)}{e(s)} = k_{p} + \frac{k_{i}}{s} + k_{d}s
+=
+\frac{k_{d}s^{2} + k_{p}s + k_{i}}{s}
 $$
 $u(s)$: reference transfer function
 $e(s)$: error transfer function
