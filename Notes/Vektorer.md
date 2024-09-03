@@ -1,23 +1,16 @@
 # Vektorer
+Vectors are multidimensional numbers.
 
-Vektor = en retning i et punkt. Det kan opfattes som et linjestykke der
-går ud fra punktet.
-$$\vec{a} = \begin{pmatrix}
-x \\
-y \\
-\end{pmatrix}$$
-$$\text{længde af vektor} = \left| \vec{a} \right|,\ \ x^{2} + y^{2} = {|\vec{a}|}^{2}$$
-vektor lægges sammen:
-$$\begin{pmatrix}
-x1 \\
-y1 \\
-\end{pmatrix} + \begin{pmatrix}
-x2 \\
-y2 \\
-\end{pmatrix} = \begin{pmatrix}
-x1 + x2 \\
-y1 + y2 \\
-\end{pmatrix}$$
+$$
+\vec{x} =
+\begin{bmatrix}
+x_{1}  \\
+x_{2} \\
+\vdots \\
+x_n
+\end{bmatrix}
+\in \mathbb{R}^{n}
+$$
 
 ---
 
@@ -29,6 +22,21 @@ sort file.name
 ```
 
 ---
+
+### Length
+$$|\vec{a}|^{2} = x^{2} + y^{2} $$
+
+### Addition
+$$\begin{pmatrix}
+x_1 \\
+y_1 \\
+\end{pmatrix} + \begin{pmatrix}
+x_2 \\
+y_2 \\
+\end{pmatrix} = \begin{pmatrix}
+x_1 + x_2 \\
+y_1 + y_2 \\
+\end{pmatrix}$$
 
 ### Prik produkt
 $$\vec{a} \cdot \vec{b} = a_1 \cdot b_1 + a_2  \cdot b_2 + \dots = \sum_{i=1}^{n}a_i b_i$$
