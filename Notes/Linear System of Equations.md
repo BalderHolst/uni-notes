@@ -1,14 +1,14 @@
-# Linære Ligningssystemer
+# Linear System of Equations
 > *"Vi vil gerne have noget der er linært, for så er det nemt at regne på"*
 > \- Preben
 
-Kan løses enten med [[#Den udvidede Matrix|den udvidede matrix]] eller [[Den Inverse af en Matrix#Løs ligningssystem med den Inverse Matrix|den inverse matrix]].
+Can be solved with the [[#Extended Matrix]].
 
-$m$ ligninger med $n$ ubekendte.
+$m$ equations with $n$ unknowns.
 
-$a_{ij}$ : koefficienter
-$x_{i}$ : variable
-$b_{i}$ : konstanter
+$a_{ij}$: Coefficients
+$x_{i}$: Variables
+$b_{i}$: Constants
 
 $$
 \begin{cases} 
@@ -45,16 +45,17 @@ $$
 $$
 
 ---
-## Noter
+## Linear Algebra Notes
 ```dataview 
 list
-from #linæralgebra  
+from #linearalgebra 
 sort file.name
 ```
 ---
 
-### Den udvidede Matrix
-En nemmere måde at opskrive ligningssystemer, hvor den variable undlades.
+### Extended Matrix
+Write the system of equation by omitting the variable vector.
+
 $$\tilde{A} = \left(
 \begin{array}{cccc|c}
  a_{11} & a_{12} & \dots  & a_{1n} & b_1 \\
@@ -62,19 +63,22 @@ $$\tilde{A} = \left(
  a_{m1} & a_{m2} & \dots  & a_{mn} & b_n\\
 \end{array}
 \right)$$
-Her repræsenterer hver række hver ligning.
 
+Every row is an equation.
 
-### Løsninger af Linære Ligningssystemer
+### Solving Systems of Linear Equations
+See [[Rank of Matrix]].
+
 $m$ ligninger og $n$ ubekendte: 
 
-Der er én eller ***flere*** løsninger hvis kun hvis (se [[Rang af Matrix]]):
-$$\rang(A) = \rang{(\tilde{A})}$$
-Der er ***én*** løsning hvis og kun hvis
-$$\rang(A)=\rang(\tilde{A})=n$$
+There are one **or more** solutions if (and only if):
+$$\mathrm{rank}(A) = \mathrm{rank}{(\tilde{A})}$$
 
-Der eksisterer ***uendelig mange*** løsninger hvis:
-$$\rang(A) < n \s \text{og} \s \rang{(A)} = \rang(\tilde{A})$$
+**Only one** solution exists if (and only if):
+$$\mathrm{rank}(A)=\mathrm{rank}(\tilde{A})=n$$
+
+An ***infinite amount** of solutions exist if:
+$$\mathrm{rank}(A) < n \s \text{og} \s \mathrm{rank}{(A)} = \mathrm{rank}(\tilde{A})$$
 
 
 ### Homogene Linære Ligningssystemer

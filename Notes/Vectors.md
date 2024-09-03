@@ -1,4 +1,4 @@
-# Vektorer
+# Vectors
 Vectors are multidimensional numbers.
 
 $$

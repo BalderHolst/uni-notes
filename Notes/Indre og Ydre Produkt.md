@@ -1,5 +1,5 @@
 # Indre og Ydre Produkt
-Måder at "gange" [[Vektorer|vektorer]].
+Måder at "gange" [[Notes/Vectors|vektorer]].
 
 $$\vec{a} = \left(
 \begin{array}{c}

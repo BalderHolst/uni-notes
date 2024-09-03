@@ -7,7 +7,7 @@ $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
 ### Løs ligningssystem med den Inverse Matrix
 
-Udgangspunkt: [[Linære Ligninssystemer|ligningssystem]]
+Udgangspunkt: [[Linear System of Equations|ligningssystem]]
 $$A\vec{x} = \vec{b}$$
 "Dividerer med $A$" ($A^{-1}$ eksisterer kun hviss $\det(A) \neq 0$)
 $$A^{-1} \cdot A\vec{x} = A^{-1} \cdot  \vec{b}$$

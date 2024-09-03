@@ -46,7 +46,7 @@ $$v_{maks} = \sqrt{\mu_s \cdot r \cdot g}$$
 ### Vejsving med hældning
 ![[Jævn Cirkelbevægelse 1.png]]
 
-Vi begynder med at opdele alle [[Vektorer|vektore]] i deres vandrette og lodrette komposanter.
+Vi begynder med at opdele alle [[Notes/Vectors|vektore]] i deres vandrette og lodrette komposanter.
 
 $$F_{N_x} = F_N \cdot \sin(\alpha) \s \text{og} \s F_{N_y} = F_N \cdot \cos(\alpha)$$
 

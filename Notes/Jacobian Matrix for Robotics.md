@@ -9,14 +9,14 @@ Each column tells how each joint contributes to the end-effector in cartesian co
 
 You can also find the joint velocities from the end-effector velocity like this:
 $$\dot{q} = J^{-1}(q) \cdot v$$
-Note that *THE INVERSE JACOBIN MAY NOT EXIST*. This can be because the columns are linearly dependent (not [[Rang af Matrix#Full Rank|full rank]]), or that the jacobian is not square.
+Note that *THE INVERSE JACOBIN MAY NOT EXIST*. This can be because the columns are linearly dependent (not [[Rank of Matrix#Full Rank|full rank]]), or that the jacobian is not square.
 
 ### If the Jacobian is not square
 $$\dot{q} = \alpha J^{T}\dot{x}, \s \alpha>0$$
 True for **very** small steps.
 
 ## Rank and Determinant
-If the [[Rang af Matrix|rank]] of the jacobian is not full, the robot can not move in one or more directions.
+If the [[Rank of Matrix|rank]] of the jacobian is not full, the robot can not move in one or more directions.
 
 ### Singularities
 There is no [[Den Inverse af en Matrix|inverse]] when the determinant is $0$.

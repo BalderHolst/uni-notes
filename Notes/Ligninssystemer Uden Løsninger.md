@@ -1,6 +1,6 @@
-# [[Linære Ligninssystemer|Ligninssystemer]] Uden Løsninger
+# [[Linear System of Equations|Ligninssystemer]] Uden Løsninger
 
-Når koefficient-delen og højresiden af den [[Linære Ligninssystemer#Den udvidede Matrix|udvidede]] matrix har *forskellig* [[Rang af Matrix|rang]], så har ligningssystemet ingen løsninger. 
+Når koefficient-delen og højresiden af den [[Linear System of Equations#Den udvidede Matrix|udvidede]] matrix har *forskellig* [[Rank of Matrix|rang]], så har ligningssystemet ingen løsninger. 
 $$\rang(A) \neq \rang(\tilde{A}) \arrow \text{Ingen løsninger!}$$
 
 ### Eksempel

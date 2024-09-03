@@ -1,5 +1,5 @@
 ## Determinanen for Matricer
-Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rang af Matrix|rang]]. The matrix **must be square**.
+Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rank of Matrix|rang]]. The matrix **must be square**.
 
 $$\det(A) \neq 0 \arrow \text{Fuld rang!}$$
 
