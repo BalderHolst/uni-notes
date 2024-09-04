@@ -34,5 +34,71 @@ $$
 P(A) = P(B|A)
 $$
 
+### Distributions
+Different distributions have different **probability mass functions**.
+
+##### Bernoulli
+> *"Flipping coins"*
+
+$$
+X \sim Bernoulli(p)
+$$
+
+$$\begin{cases}
+P(X = 0) = p \\
+P(X = 1) = 1-p
+\end{cases}
+$$
+
+##### Binomial
+$$
+X \sim Binomial(p, n) \Rightarrow 
+$$
+##### Geometric
+$$
+X \sim Geometric(p)
+$$
+
+##### Poisson
+$$
+X \sim Poison(\lambda),\; \mathrm{where}\; \lambda > 0
+$$
+$$
+P(X=k) = e^{-\lambda} \frac{\lambda^k}{k!}
+$$
+
+---
+### Joint Distribution
+Probability of $X$ and $Y$.
+$$
+P(X, Y)
+$$
+
+### Marginalisation
+$$
+P(X = x) = \sum_{y} P(X=x, Y=y)
+$$
+
+When $X$ and $Y$ are independent, this results in [[convolusion]].
+
+---
+### Expected Value
+> *"Center of mass"* or *"mean value"*
+
+Here $X$ is a *discrete* random varable.
+$$
+\mathbb{E}h(X) = \sum_{x}h(x)P(X=x)
+$$
+
+##### Linearity
+$$
+\mathbb{E}(X_{1}, \dots, X_{n}) = \mathbb{E}X_{1} + \dots + \mathbb{E}X_{n}
+$$
+
+If $X$s are independent
+$$
+\mathrm{Var}
+$$
+
 ---
 #intelligent-systems
