@@ -90,6 +90,9 @@ $$
 \mathbb{E}h(X) = \sum_{x}h(x)P(X=x)
 $$
 
+For $c \in \mathbb{R}$
+
+
 ##### Linearity
 $$
 \mathbb{E}(X_{1}, \dots, X_{n}) = \mathbb{E}X_{1} + \dots + \mathbb{E}X_{n}
@@ -97,7 +100,24 @@ $$
 
 If $X$s are independent
 $$
-\mathrm{Var}
+\mathrm{var}(X_{1} + \dots + X_{n}) = \mathrm{var}(X_{1}, \dots, X_n)
+$$
+
+## Moment Generating Function
+**Defines the distribution** of the random variable.
+
+$$
+\begin{align}
+\phi x(t) &= \mathbb{E}(e^{tX}) \\
+\phi' x(t) &= X \mathbb{E}(e^{tX}) \\
+\phi'' x(t) &= X^2 \mathbb{E}(e^{tX}) 
+\end{align}
+$$
+$X$: Random variable
+
+You can find the distribution from the moment generating function like this:
+$$
+\phi'x(0) = X
 $$
 
 ---
