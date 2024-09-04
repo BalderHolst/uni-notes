@@ -1,11 +1,12 @@
 # Row Echelon Form
-> Pivot-elementet i en række er altid til højre for pivot elementet i rækken over.
 
-*Pivot-element*: første ikke-nul i en række.
-*Ønske*: altid nuller under og under-til-venstre.
+> The Pivot-element is always to the left of the Pivot-element in the row above.
 
 
->[!Example]- Eksempler
+*Pivot-element*: The first non-zero in a row.
+
+
+>[!Example]- Examples
 >$$
 >\left(
 >\begin{array}{cccc|c}
@@ -44,12 +45,13 @@
 >$$
 
 ### Reduceret Row Echelon form
-##### Krav
-- Row Echelon form
-- *Alle* pivot elementer er $1$.
-- Alle tal **OVER** pivot-elementet er *nul*.
 
->[!Example]- Eksempel på reduceret row echelon form
+##### Requirements
+- Row Echelon form
+- All Pivot-elements are $1$
+- All numbers *above* the Pivot-element are $0$.
+
+>[!Example]- Example
 >$$
 >\left(
 >\begin{array}{ccccc}
