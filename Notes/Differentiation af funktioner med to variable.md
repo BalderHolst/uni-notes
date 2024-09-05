@@ -71,7 +71,7 @@ $$
 \end{align}
 $$
 
-Kan også skrives på [[Matricer|matriceform]]:
+Kan også skrives på [[Matrix|matriceform]]:
 $$
 \left(
 \begin{array}{cc}

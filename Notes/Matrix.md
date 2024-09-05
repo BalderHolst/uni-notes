@@ -1,4 +1,4 @@
-# Matricer
+# Matrices
 En matrix her $m$ rækker og $n$ **søjler**.
 
 $$ A_{m\times n} =
