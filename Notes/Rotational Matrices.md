@@ -15,7 +15,7 @@ $$^{A}_{B} R = \left[^{A}\hat{X}_{B} \,\,^{A}\hat{Y}_{B}  \,\, ^{A}\hat{Z}_{B} \
 The *columns* are the unit vectors of $\set{B}$ seen from $\set{A}$.
 
 ### Properties
-[[Den Inverse af en Matrix|The inverse]] and the [[Matrix#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
+[[Inverse Matrix|The inverse]] and the [[Matrix#Transponering|transposed]] both swap reference. Because of this we usually prefer to transpose the matrix.
 $$^A_BR^{-1} =\ ^A_BR^{T} = \ ^B_AR$$
 
 

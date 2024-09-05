@@ -1,15 +1,16 @@
-# Den Inverse af en Matrix
+# Inverse Matrix
 
 $$A^{-1} \cdot A = I$$
 $I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
 
 ---
 
-### Løs ligningssystem med den Inverse Matrix
+### Solve System of Linear Equations
 
-Udgangspunkt: [[Linear System of Equations|ligningssystem]]
+We begin with a [[system of linear equations]].
 $$A\vec{x} = \vec{b}$$
-"Dividerer med $A$" ($A^{-1}$ eksisterer kun hviss $\det(A) \neq 0$)
+
+We "divide by $A$" ($A^{-1}$ only exists if $\det(A) \neq 0$)
 $$A^{-1} \cdot A\vec{x} = A^{-1} \cdot  \vec{b}$$
 $$I\vec{x} = A^{-1} \cdot \vec{b} \arrow \vec{x} = A^{-1}\cdot \vec{b}$$
 

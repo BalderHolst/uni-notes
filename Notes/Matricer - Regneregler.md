@@ -3,7 +3,7 @@
 
 
 ---
-$A_{n\times n}$ og $B_{n\times n}$ har benne en [[Den Inverse af en Matrix|invers]].
+$A_{n\times n}$ og $B_{n\times n}$ har benne en [[Inverse Matrix|invers]].
 
 $$(AB)^{-1} = B^{-1} \bullet A^{-1} \s \text{INVERS RÆKKEFØLGE!}$$
 

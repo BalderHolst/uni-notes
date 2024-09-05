@@ -19,7 +19,7 @@ True for **very** small steps.
 If the [[Rank of Matrix|rank]] of the jacobian is not full, the robot can not move in one or more directions.
 
 ### Singularities
-There is no [[Den Inverse af en Matrix|inverse]] when the determinant is $0$.
+There is no [[Inverse Matrix|inverse]] when the determinant is $0$.
 
 ##### For SQUARE Jacobians (non-redundant)
 At a [[Singularities|singularity]], the **[[Determinanen for Matricer|determinant]] of the jacobian will be *zero***. Therefore, the inverse jacobian will not exist.
