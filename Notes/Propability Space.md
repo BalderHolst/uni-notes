@@ -28,7 +28,7 @@ $$
 Outcomes are independent if:
 
 >[!warning]
->Independence is **not intuitive**.
+>Independence is **not intuitive**. Do not assume it!
 
 $$
 P(A) = P(B|A)
