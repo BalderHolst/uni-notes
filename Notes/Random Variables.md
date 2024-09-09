@@ -16,6 +16,10 @@ $f_{X}$: The probability density function for *continuous* systems. It outputs t
 $\mu$ is the average value of outcomes.
 $\sigma$ is the standard deviation which describes the spread of outcomes.
 
+>[!tip] Capitalization
+>$X$: Random variable
+>$x$: Realization
+
 ##### Probability
 Probability of a range of outcomes (continuous)
 $$

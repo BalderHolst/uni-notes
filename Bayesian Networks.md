@@ -21,8 +21,9 @@ $$
 
 #### Full Joint Distribution
 The formula for calculating joint distribution at all nodes in the system.
+
 $$
-P(x_{1}, \dots, x_{n}) = \prod_{i=i}^{n}P(x_{i}|\mathrm{parrents}(x_{i}))
+P(x_{1}, \dots, x_{n}) = \prod_{i=1}^{n}P(x_{i}|\mathrm{parrents}(x_{i}))
 $$
 
 #### Chain Rule
