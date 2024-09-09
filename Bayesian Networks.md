@@ -8,7 +8,16 @@ $$
 P(X_{i}|\mathrm{parrents}(X_{i}))
 $$
 
->[!w]
+>[!tip] Markov Blanket
+>Each node is *conditionally independent* from nodes outside of
+>- Parents
+>- Childen
+>- Co-parents
+
+>[!warning]
+>**Order of variables matters** when constructing a Baysian network.
+>
+>See [[lecture3a.pdf#page=8|example]].
 
 #### Full Joint Distribution
 The formula for calculating joint distribution at all nodes in the system.
@@ -20,6 +29,18 @@ $$
 $$
 P(x_{1}, \dots, x_{n})= \prod_{i=1}^{n}P(x_{i}|x_{i}-1,\dots,x_{1})
 $$
+
+#### Noisy OR Model
+Assign the probability for a `true` parent to cause the child to be true. See [[lecture3a.pdf#page=11|slides]].
+
+**Assumptions**
+- We have listed all cause
+- Parents are independent of each other
+
+$$
+P(x_{i}|\mathrm{parents}(x_{i})) = 1-\prod_{\{j:\;x_{j}=true\}} = q_{j}
+$$
+
 
 ---
 
