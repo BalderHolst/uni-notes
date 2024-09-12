@@ -5,6 +5,8 @@ or
 
 > Number of non-zero-rows when $A$ is on [[Row Echelon Form]]
 
+or
+> Dimension of [[Matrix Image]]
 ### Full Rank
 All columns are completely independent; You cannot compute any given column, by multiplying any other column by a constant.
 
