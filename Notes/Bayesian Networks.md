@@ -25,6 +25,8 @@ $$
 #### Full Joint Distribution
 The formula for calculating joint distribution at all nodes in the system.
 
+Use this to calculate the probability of a certain state of the network.
+
 $$
 P(x_{1}, \dots, x_{n}) = \prod_{i=1}^{n}P(x_{i}|\mathrm{parrents}(x_{i}))
 $$
