@@ -31,11 +31,16 @@ $$
 P(x_{1}, \dots, x_{n}) = \prod_{i=1}^{n}P(x_{i}|\mathrm{parrents}(x_{i}))
 $$
 
-#### Single Joint Probability
-An example of getting the probability of $r$ given $s$ in a Bayesian network with variables $R$, $W$, $S$ and $C$.
+#### Query a Network
+We sum over *all combinations of unobserved variables*.
 $$
-P(r|s) = \sum_{w}\sum_{c}\frac{P(r, w, s, c)}{P(s)}
+\mathbf{P}(X | \mathbf{e}) = \alpha \mathbf{P}(X, \mathbf{e}) = \alpha \sum_{\mathbf{y}} \mathbf{P}(X, \mathbf{e}, \mathbf{y})
 $$
+$\mathbf{E}$: Evidence variables 
+$\mathbf{Y}$: Unobserved Variables
+$X$: Query variable
+$\alpha$: $1/P(\mathbf{E})$
+
 
 #### Chain Rule
 $$
