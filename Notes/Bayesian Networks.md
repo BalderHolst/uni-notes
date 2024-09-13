@@ -29,6 +29,12 @@ $$
 P(x_{1}, \dots, x_{n}) = \prod_{i=1}^{n}P(x_{i}|\mathrm{parrents}(x_{i}))
 $$
 
+#### Single Joint Probability
+An example of getting the probability of $r$ given $s$ in a Bayesian network with variables $R$, $W$, $S$ and $C$.
+$$
+P(r|s) = \sum_{w}\sum_{c}\frac{P(r, w, s, c)}{P(s)}
+$$
+
 #### Chain Rule
 $$
 P(x_{1}, \dots, x_{n})= \prod_{i=1}^{n}P(x_{i}|x_{i}-1,\dots,x_{1})

@@ -34,6 +34,7 @@ $$
 P(b|a) = P(a|b) \cdot \frac{P(b)}{P(a)}
 $$
 
+
 ##### Probability
 Probability of a range of outcomes (continuous)
 $$
