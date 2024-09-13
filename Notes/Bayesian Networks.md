@@ -8,6 +8,9 @@ $$
 P(X_{i}|\mathrm{parrents}(X_{i}))
 $$
 
+>[!video]- Bayesian Networks Lesson
+>![](https://www.youtube.com/watch?v=TuGDMj43ehw)
+
 >[!tip] Markov Blanket
 >Each node is *conditionally independent* from nodes outside of
 >- Parents

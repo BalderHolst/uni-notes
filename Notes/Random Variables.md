@@ -18,7 +18,21 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 
 >[!tip] Capitalization
 >$X$: Random variable
->$x$: Realization
+>$x$: Realization/Sample
+
+##### Identities
+Probability of $a$ *given* $b$
+$$
+P(a|b) = \frac{P(a, b)}{P(b)}
+$$
+Probability of $a$ *and* $b$
+$$
+P(a, b) = P(a|b)P(b)
+$$
+Bayes formula (flip the order of given variable)
+$$
+P(b|a) = P(a|b) \cdot \frac{P(b)}{P(a)}
+$$
 
 ##### Probability
 Probability of a range of outcomes (continuous)
