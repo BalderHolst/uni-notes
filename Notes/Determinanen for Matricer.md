@@ -25,6 +25,7 @@ $$= a \cdot e \cdot i + b \cdot f \cdot g + d \cdot h \cdot c - c \cdot e \cdot 
 > 
 > Derudover er det smart at *følge rækker med mange nuller*.
 
+
 $$D = \sum\limits_{j=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
 (Føljer $k$'te søjle)
 
@@ -33,6 +34,11 @@ $$D = \sum\limits_{k=1}^{n}(-1)^{j+k} \cdot A_{jk} \cdot D_{jk}$$
 (Følger $j$'te række)
 
 $D_{jk}$ : Determinanten af $A$ uden række $j$ og søjle $k$.
+
+##### Determinant as the Product of Eigenvalues
+$$
+\det(A) = \prod_{i=1}^{n} \lambda_{i}, \;\;\; \mathrm{for}\, A \in \mathbb{R}^{n\times n}
+$$
 
 ### Row Echelon form (det slapper!)
 $$\left|\left(

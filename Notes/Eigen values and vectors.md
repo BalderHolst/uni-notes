@@ -1,16 +1,15 @@
-# Egenværdier og Egenvektorer
-Egenværdi $\lambda$, og egenvektor $\vec{x}$.
+# Eigen-values and Vectors
+Eigen-value $\lambda$, and eigen-vector $\vec{x}$.
 $$A\vec{x} = \lambda\vec{x}, \s \vec{x} \neq \vec{0}$$
 
-Opstil *den karakteristiske* ligning
+The characteristic formula:
 $$\det(A_{}- \lambda I) = 0$$
-$I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
+$I$ : [[Specielle Matricer#Identitetsmartix|Identity Matrix]]
 
 $$(A-\lambda I)\vec{x} = \vec{0}$$
+For ever eigen-value ($\lambda$), a corresponding eigen-vector ($\vec{x}$) exists.
 
-For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
-
->[!example]- Eksempel
+>[!example]- Example of finding eigen-values and vectors
 >
 >$$
 >A=
@@ -22,7 +21,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >\right)
 >$$
 >
->Finder $\lambda$.
+>Finding $\lambda$.
 >
 >$$\det(A-\lambda I) = 0 \arrow
 >\lambda =
@@ -33,7 +32,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >$$
 >
 >
->For hver $\lambda$-værdi gør man dette
+>For every $\lambda$, do this:
 >
 >$$(A-I \lambda)\vec{x} = \vec{0}$$
 >$$A-I \lambda = 
@@ -51,7 +50,7 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >\right)
 >$$
 >
->Ganger $\vec{x}$ ind og bruger den første egenværdi ($\lambda_{1}$).
+>Multiplying with $\vec{x}$ and using the first eigen-value.
 >$$\left(
 >\begin{array}{cc|c}
  >0 & 0 & 0 \\
@@ -64,7 +63,8 @@ For hver egenværdi ($\lambda$), findes en tilhørende egenvektor $\vec{x}$.
 >x_{2}=2
 >\end{cases}
 >$$
->Det samme gøres med den anden egenværdi.
+>
+>The same should be calculated for the other eigen-value.
 
 >[!video]- Video
 >![](https://www.youtube.com/watch?v=PFDu9oVAE-g)

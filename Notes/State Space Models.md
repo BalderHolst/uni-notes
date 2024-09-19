@@ -26,7 +26,7 @@ $n$: Order of the differential equation.
 $$G(s) = C (sI-A)^{-1} B + D$$
 This is only possible if
 $$\det(sI-A) \neq 0$$
-This is also the definition of [[Egenværdier og Egenvektorer|eigen values]].
+This is also the definition of [[Eigen values and vectors|eigen values]].
 
 At $\det(sI-A) = 0$ the system must have a pole. Therefore, the **poles of a state space model are the eigenvalues of $A$.**
 
