@@ -56,5 +56,17 @@ $$A^{-1} = \left(
 \end{array}
 \right)$$
 
+### Inverse and Transposition
+$$
+(A^{T})^{-1}=
+(A^{-1})^{T}= A^{-T}
+$$
+
+### Distribution
+$$
+(AB)^{-1} = A^{-1}B^{-1}
+$$
+
+
 ---
 #matematik #matricer 
