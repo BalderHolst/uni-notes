@@ -14,7 +14,9 @@ $$
 \mathrm{ker}(\Phi) = \set{ x \in \mathbb{R}^{n} \; |  \;\Phi x = 0}, \; \mathrm{where}\; \Phi \in \mathbb{R}^{n \times m}
 $$
 
-
+>[!top] Calculating the Kernel
+>Write this as a system of linear equations
+>$$ \Phi x = \vec{0} $$
 
 
 ---

@@ -66,10 +66,10 @@ $$\tilde{A} = \left(
 
 Every row is an equation.
 
-### Solving Systems of Linear Equations
+### Solutions for Systems of Linear Equations
 See [[Rank of Matrix]].
 
-$m$ ligninger og $n$ ubekendte: 
+$m$ equations and $n$ unknowns: 
 
 There are one **or more** solutions if (and only if):
 $$\mathrm{rank}(A) = \mathrm{rank}{(\tilde{A})}$$
