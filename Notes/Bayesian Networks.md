@@ -11,6 +11,9 @@ $$
 >[!video]- Bayesian Networks Lesson
 >![](https://www.youtube.com/watch?v=TuGDMj43ehw)
 
+>[!example]- Problems with Bayesian Networks
+>![[hw1.pdf]]
+
 >[!tip] Markov Blanket
 >Each node is *conditionally independent* from nodes outside of
 >- Parents
