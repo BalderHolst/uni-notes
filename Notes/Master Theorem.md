@@ -7,7 +7,7 @@ then
 $$
 T(n) =
 \begin{cases}
-O(n^{d} \log(n),  &\mathrm{if}\; a = b^{d} \\
+O(n^{d} \log(n)),  &\mathrm{if}\; a = b^{d} \\
 O(n^{d})          &\mathrm{if}\; a < b^{d} \\
 O(n^{\log_{b}(a)})          &\mathrm{if}\; a > b^{d}
 \end{cases}
