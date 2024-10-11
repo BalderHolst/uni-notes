@@ -20,6 +20,34 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >$X$: Random variable
 >$x$: Realization/Sample
 
+##### Independence
+Variable $A$ and $B$ are independent, if one's outcome does not affect the other.
+
+$A$ and $B$ are independent if
+$$
+P(AB) = P(A)P(B)
+\Rightarrow A \, {\perp\!\!\!\perp} \, B
+$$
+A set of *events* $\set{A_{i}: i\in I}$ is independent if
+$$
+P\left( \bigcap_{i \in J} A_{i} \right) = \prod_{i \in J} P(A_i)
+$$
+For any finite subset $J$ of $I$. This means that
+$$
+P(A, B, C) = P(A)P(B)P(C)
+$$
+If $A$, $B$ and $C$ are independent.
+
+If $A$ and $B$ are *not independent*  we write
+
+$$
+A\;\not\!\perp\!\!\!\perp B
+$$
+
+>[!warning]
+> Disjoint event is not an independent event
+>$$\underbrace{P(A, B) = 0}_{\mathrm{disjoint}} \;\;\not\Rightarrow\;\; \mathrm{Independent}$$
+
 ##### Identities
 Probability of $a$ *given* $b$
 $$
