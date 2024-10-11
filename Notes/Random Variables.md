@@ -13,6 +13,7 @@ $p_{X}$ is the propability mass function in *discrete* systems.
 
 $f_{X}$: The probability density function for *continuous* systems. It outputs the propability of a certain outcome.
 
+$\Omega$ is the space containing all outcomes.
 $\mu$ is the average value of outcomes.
 $\sigma$ is the standard deviation which describes the spread of outcomes.
 
@@ -20,7 +21,8 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >$X$: Random variable
 >$x$: Realization/Sample
 
-##### Independence
+### Independence
+
 Variable $A$ and $B$ are independent, if one's outcome does not affect the other.
 
 $A$ and $B$ are independent if
@@ -48,7 +50,14 @@ $$
 > Disjoint event is not an independent event
 >$$\underbrace{P(A, B) = 0}_{\mathrm{disjoint}} \;\;\not\Rightarrow\;\; \mathrm{Independent}$$
 
-##### Identities
+### Conditional
+Calculate probabilities an outcome given other outcomes.
+
+The propability of $A$ given $B$ is denoted as
+$$
+P(A|B)
+$$
+
 Probability of $a$ *given* $b$
 $$
 P(a|b) = \frac{P(a, b)}{P(b)}
@@ -62,6 +71,16 @@ $$
 P(b|a) = P(a|b) \cdot \frac{P(b)}{P(a)}
 $$
 
+>[!warning] Order Matters!!
+>$$P(A|B) \not= P(B|A)$$
+
+##### Law of Total Probability
+The propability of a variable can be found by *summing* over all possibilities of the variables it depends on.
+$$
+P(B) = \sum_{i=1}^{k}P(B|A_{i})P(A_{i})
+$$
+
+---
 
 ##### Probability
 Probability of a range of outcomes (continuous)
