@@ -22,7 +22,13 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >$X$: Random variable
 >$x$: Realization/Sample
 
-
+## Terminomogy
+| Symbol   | Term                       |
+| -------- | -------------------------- |
+| $\Omega$ | Sample space               |
+| $\omega$ | Outcome                    |
+| $A$      | Event (subset of $\Omega$) |
+ 
 ## Discrete Variables
 
 ### Independence
