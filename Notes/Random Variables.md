@@ -2,6 +2,9 @@
 See [[Lecture 12 - The KalmanFilter.pdf#page=29|slides]].
 
 Variables that describe a range of outcomes.
+$$
+X: \Omega \rightarrow \mathbb{R}
+$$
 
 >[!example]- Dice Example
 >Let $X$ be a random variable describing the outcome of rolling a fair dice. The fair dice is characterized by:
@@ -11,9 +14,14 @@ Variables that describe a range of outcomes.
 
 $p_{X}$ is the propability mass function in *discrete* systems.
 
-$f_{X}$: The probability density function for *continuous* systems. It outputs the propability of a certain outcome.
+$f_{X}$: The probability density function (pdf) for *continuous* systems. Integrate over the range you want to find the propability of an outcome lying within.
 
-$\Omega$ is the space containing all outcomes.
+$$
+F_{X} = P(X \leq x)
+$$
+$F_{X}$: Cumulative density function (cdf) for *continuous* systems. Integral of $f_X$. Should equal $1$ as input ($\Omega$) approaches $\infty$.
+
+$\Omega$ is the space containing all outcomes (sample space).
 $\mu$ is the average value of outcomes.
 $\sigma$ is the standard deviation which describes the spread of outcomes.
 
@@ -78,6 +86,10 @@ $$
 The propability of a variable can be found by *summing* over all possibilities of the variables it depends on.
 $$
 P(B) = \sum_{i=1}^{k}P(B|A_{i})P(A_{i})
+$$
+This *only applies if $A_{i}$ is a **partition** of $\Omega$.
+$$
+\sum_{i} A_{i} = 1
 $$
 
 ---
