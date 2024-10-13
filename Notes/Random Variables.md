@@ -12,14 +12,7 @@ $$
 >- The probability of getting each of the six outcomes is the same, i.e., $\mathrm{Pr}(X = 4) = \frac{1}{6}$
 >- The outcome of each roll of the dice is independent.
 
-$p_{X}$ is the propability mass function in *discrete* systems.
-
-$f_{X}$: The probability density function (pdf) for *continuous* systems. Integrate over the range you want to find the propability of an outcome lying within.
-
-$$
-F_{X} = P(X \leq x)
-$$
-$F_{X}$: Cumulative density function (cdf) for *continuous* systems. Integral of $f_X$. Should equal $1$ as input ($\Omega$) approaches $\infty$.
+$f_{X}$ is the propability mass function (pmf) in *discrete* systems.
 
 $\Omega$ is the space containing all outcomes (sample space).
 $\mu$ is the average value of outcomes.
@@ -28,6 +21,9 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >[!tip] Capitalization
 >$X$: Random variable
 >$x$: Realization/Sample
+
+
+## Discrete Variables
 
 ### Independence
 
@@ -93,15 +89,29 @@ $$
 $$
 
 ---
-
-##### Probability
-Probability of a range of outcomes (continuous)
+## Continuous Variables
+Probability of a range of outcomes
 $$
-\mathrm{Pr}(\set{a \leq X \leq b}) = \int_{a}^{b} f_{X}(x)\;\mathrm{dx}
+\mathrm{P}(\set{a \leq X \leq b}) = \int_{a}^{b} f_{X}(x)\;\mathrm{dx} = F_{X}(b) - F_{X}(a)
 $$
-$f_{X}$: Probability density function
+$f_{X}$: Probability density function (pdf).
 
-##### Variance
+$$
+F_{X}(x) = P(X \leq x) = \int_{-\infty}^{x}f_X(t)\; \mathrm{dt}
+$$
+$F_{X}$: Cumulative density function (cdf) for *continuous* systems. Integral of $f_X$. Should equal $1$ as input ($\Omega$) approaches $\infty$.
+
+$$
+\lim_{x\to\infty} F_{X}(x)  = 1
+$$
+
+#### Quantile Function
+$$
+F_{X}^{-1} = \inf\left\{ x:\; F(x) > q \right\}, \quad q \in [0, 1]
+$$
+As 
+
+#### Variance
 $$
 \mathrm{Var}(X) = E[(X - \mu)^2]
 $$
