@@ -3,13 +3,14 @@ Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rank of Matrix|rang]]. The 
 
 $$\det(A) \neq 0 \arrow \text{Fuld rang!}$$
 
-
-
-
+$$
+\det(A) = \prod_{i=1}^{n} \lambda_{i}
+$$
+$\lambda_{i}$: [[Eigen values and vectors|eigen values]] of $A$
 
 #### For $2\times 2$ matricer
 $$M=\left( {\begin{array}{cccc} a & b \\ c & d \\ \end{array} } \right)$$
-$$det(M) = detM = |M| = ad-cb$$
+$$\det(M) = |M| = ad-cb$$
 #### For $3\times 3$ matricer
 $$M=
 \left( {\begin{array}{cccc}
