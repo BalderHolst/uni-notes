@@ -23,11 +23,18 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >$x$: Realization/Sample
 
 ## Terminomogy
-| Symbol   | Term                       |
-| -------- | -------------------------- |
-| $\Omega$ | Sample space               |
-| $\omega$ | Outcome                    |
-| $A$      | Event (subset of $\Omega$) |
+| Symbol            | Term                                            |
+| ----------------- | ----------------------------------------------- |
+| $\Omega$          | Sample space                                    |
+| $\omega$          | Outcome                                         |
+| $A$               | Event (subset of $\Omega$)                      |
+| $\neg A$ or $A^c$ | Complement (not $A$)                            |
+| $A \cup B$        | Union ($A$ or $B$)                              |
+| $A\cap B$         | Intersection ($A$ and $B$)                      |
+| $A-B$             | Set difference ($\omega$ in $A$ but not in $B$) |
+| $A\subset B$      | Set inclusion                                   |
+| $\emptyset$       | Null event (always false)                       |
+| $\Omega$          | True event (always true)                        |
  
 ## Discrete Variables
 
