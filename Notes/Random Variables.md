@@ -110,6 +110,7 @@ Inverse of the cdf.
 $$
 F_{X}^{-1} = \inf\left\{ x:\; F_X(x) > q \right\}, \quad q \in [0, 1]
 $$
+To get the $25\%$ quantile, do $F_{X}^{-1}(25\%)$
 
 #### Variance
 $$
