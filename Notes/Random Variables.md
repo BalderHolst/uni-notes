@@ -106,10 +106,10 @@ $$
 $$
 
 #### Quantile Function
+Inverse of the cdf.
 $$
-F_{X}^{-1} = \inf\left\{ x:\; F(x) > q \right\}, \quad q \in [0, 1]
+F_{X}^{-1} = \inf\left\{ x:\; F_X(x) > q \right\}, \quad q \in [0, 1]
 $$
-As 
 
 #### Variance
 $$
