@@ -75,4 +75,4 @@ $$\det(A \cdot B) = \det(B \cdot A) = \det(A) \cdot \det(B)$$
 Her er operationsrækkefølgen ligefølgen ligegyldig **IKKE** som at [[Matrix#Gange med matricer|gange med matricer]].
 
 ---
-#matematik #matricer 
+#matematik #matricer #linearalgebra 

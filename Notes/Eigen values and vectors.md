@@ -59,8 +59,8 @@ For ever eigen-value ($\lambda$), a corresponding eigen-vector ($\vec{x}$) exist
 >\right) 
 >\arrow
 >\begin{cases}
->x_{1}=1 \\
->x_{2}=2
+>x_{1}=2 \\
+>x_{2}=-1
 >\end{cases}
 >$$
 >
@@ -70,4 +70,4 @@ For ever eigen-value ($\lambda$), a corresponding eigen-vector ($\vec{x}$) exist
 >![](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 ---
-#matematik #matricer 
+#matematik #matricer #linearalgebra 
