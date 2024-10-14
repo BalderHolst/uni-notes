@@ -10,5 +10,9 @@ $$
 D = P^{-1}AP
 $$
 
+See also [this website](https://www.statlect.com/matrix-algebra/matrix-diagonalization).
+
+Use [[Eigendecomposition]] to dia
+
 ---
 #linearalgebra

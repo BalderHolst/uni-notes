@@ -77,10 +77,10 @@ $$\left(A^T\right)^T = A$$
 >$$(A \cdot B)^{T} = B^{T} \cdot A^{T}$$
 
 ##### Symmetric Matrices
-Matric $A$ is symmetric if $A^T = A$.
+Matrix $A$ is symmetric if $A^T = A$.
 
 All symmetric matrices are quadratic.
 
 
 ---
-#matematik #subject 
+#matematik #linearalgebra 
