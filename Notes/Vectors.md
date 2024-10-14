@@ -23,6 +23,12 @@ sort file.name
 
 ---
 
+### Distance between Vectors
+$$
+d(x,y) = ||x - y|| = \sqrt{\langle x-y, x-y \rangle}
+$$
+Where $\langle a, b \rangle$ is the inner product.
+
 ### Length
 $$|\vec{a}|^{2} = x^{2} + y^{2} $$
 
@@ -38,8 +44,8 @@ x_1 + x_2 \\
 y_1 + y_2 \\
 \end{pmatrix}$$
 
-### Prik produkt
-$$\vec{a} \cdot \vec{b} = a_1 \cdot b_1 + a_2  \cdot b_2 + \dots = \sum_{i=1}^{n}a_i b_i$$
+### Inner Product
+$$\langle \vec{a}, \vec{b} \rangle = \vec{a} \bullet \vec{b} = a_1 \cdot b_1 + a_2  \cdot b_2 + \dots = \sum_{i=1}^{n}a_i b_i$$
 Ortogonal hvis $\vec{a} \bullet \vec{b} = 0$
 
 Hvis to vektorer er *paralelle* ($\vec{a} || \vec{b}$):   $\vec{a} \bullet \vec{b}  = |\vec{a}| \cdot  |\vec{b}|$ (see [[#Angle between vectors]])
