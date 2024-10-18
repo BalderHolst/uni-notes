@@ -1,4 +1,5 @@
 # Dynamic Bayesian Networks
+See [[lecture8a.pdf|slides]].
 
 Initial state distribution: $P(X_{0})$
 Transition Model: $P(X_{t+1}|X_{t})$
