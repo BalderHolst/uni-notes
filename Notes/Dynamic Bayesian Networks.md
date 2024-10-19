@@ -35,18 +35,27 @@ Updated in two steps:
 2. *Measurement Update*: $P(X_{t+1}|e_{1:t}) \to P(X_{t+1}|e_{1:t+1})$
 
 #### Smoothing
+See [[lecture5b.pdf#page=7|slides]].
+
+Find a smooth estimate of $X$ at sample $k$ given **past and future** evidence.
+
 $$
 P(X_{k}|e_{1:t}) = \alpha P(X_{k}|e_{1:k})P(e_{k+1:t}|X_{k})
 = \alpha f_{1:k} \times b_{k+1:t}
 $$
 
 $$
-P(e_{k+1:t}|X_{k}) = 
+P(e_{k+1:t}|X_{k}) = \sum_{x_{k+1}}P(e_{k+1}|x_{k+1})P(e_{k+2:t}|x_{k+1})P(x_{k+1}|X_{k})
 $$
 
 #### Prediction
 
-#### Most Likely Explaination
+#### Most Likely Sequence
+See [[lecture5b.pdf#page=11|slides]].
+
+Find the sequence of $X$ that is most likely to have lead to a series of evidence $E$.
+
+Use the [[Viterbi Algorithm]].
 
 #### Learning
 
