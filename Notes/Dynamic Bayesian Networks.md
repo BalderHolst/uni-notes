@@ -1,6 +1,8 @@
 # Dynamic Bayesian Networks
 See [[lecture8a.pdf|slides]].
 
+![[Pasted image 20241019061733.png]]
+
 Initial state distribution: $P(X_{0})$
 Transition Model: $P(X_{t+1}|X_{t})$
 Sensor Model: $P(E_{t}|S_{t})$
@@ -22,7 +24,8 @@ See [[lecture5b.pdf#page=3|slides]].
 See [[lecture5b.pdf#page=4|slides]].
 
 $$
-P(X_{t+1}|e_{1:t+1}) = \alpha P(e_{t+1}|X_{t+1})\sum_{x_{t}}P(X_{t+1}|x_{t})P(x_{t}|e_{1:t})
+P(X_{t+1}|e_{1:t+1}) = \alpha P(e_{t+1}|X_{t+1})
+\underbrace{\sum_{x_{t}}P(X_{t+1}|x_{t})P(x_{t}|e_{1:t})}_{P(X_{t+1}|e_{1:t})}
 $$
 $\alpha$: Normalisation factor
 
@@ -31,9 +34,17 @@ Updated in two steps:
 1. *Prediction*: $P(X_{t}|e_{1:t}) \to P(X_{t+1}|e_{1:t})$
 2. *Measurement Update*: $P(X_{t+1}|e_{1:t}) \to P(X_{t+1}|e_{1:t+1})$
 
-#### Prediction
-
 #### Smoothing
+$$
+P(X_{k}|e_{1:t}) = \alpha P(X_{k}|e_{1:k})P(e_{k+1:t}|X_{k})
+= \alpha f_{1:k} \times b_{k+1:t}
+$$
+
+$$
+P(e_{k+1:t}|X_{k}) = 
+$$
+
+#### Prediction
 
 #### Most Likely Explaination
 
