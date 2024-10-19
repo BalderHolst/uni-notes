@@ -16,9 +16,20 @@ $$
 
 ---
 ### Inference Problems for Dynamic Model
-See [[lecture]]
+See [[lecture5b.pdf#page=3|slides]].
 
 #### Filtering
+See [[lecture5b.pdf#page=4|slides]].
+
+$$
+P(X_{t+1}|e_{1:t+1}) = \alpha P(e_{t+1}|X_{t+1})\sum_{x_{t}}P(X_{t+1}|x_{t})P(x_{t}|e_{1:t})
+$$
+$\alpha$: Normalisation factor
+
+Updated in two steps:
+
+1. *Prediction*: $P(X_{t}|e_{1:t}) \to P(X_{t+1}|e_{1:t})$
+2. *Measurement Update*: $P(X_{t+1}|e_{1:t}) \to P(X_{t+1}|e_{1:t+1})$
 
 #### Prediction
 
