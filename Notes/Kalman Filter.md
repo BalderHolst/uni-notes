@@ -1,14 +1,18 @@
 # Kalman Filter
-See [[Lecture 12 - The KalmanFilter.pdf#page=47|slides]].
+See slides:
+- [[Lecture 12 - The KalmanFilter.pdf#page=51|Control Systems - Kalman Filter]]
+- [[lecture7a.pdf|Intelligent Systems - Kalman Filter]]
+- [[lecture7b.pdf|Intelligent Systems - Kalman Filter (Vector  Case)]]
+
+
 
 Both measurements and observer outputs are in represented as [[random variables]] to model measurement noise and observer inaccuracy.
 
 We define how *confident* we are in the *model* and *measurements* respectively by defining their [[covariance]].
 
 #### Stages
-See [[Lecture 12 - The KalmanFilter.pdf#page=51|slides]].
 
-The Kalman filter works in two **stages**: *Prediction* and *update*.
+The Kalman filter works in two **stages**: *Prediction* and *update*. Every step results in a new [[Normalfordelingen|gaussian distribution]].
 
 **Prediction**:
 $$
@@ -28,6 +32,9 @@ P(X_{t+1}|e_{1:t+1}) =
 \;
 \underbrace{P(X_{t+1}|e_{1:t})}_{\mathrm{Prediction}}
 $$
+
+>[!tip]- Nice Slide
+>![[lecture7b.pdf#page=10|slide]].
 
 $\hat{x}_{k+1|k}$: The prediction of $x$ at $k+1$ given information at sample $k$.
 
