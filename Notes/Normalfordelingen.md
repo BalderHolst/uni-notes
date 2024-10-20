@@ -1,5 +1,5 @@
 # Normalfordelingen
-"klokken"
+Aka. *Gaussian Distribution*
 
 $$X\sim N(\mu,\sigma)$$
 

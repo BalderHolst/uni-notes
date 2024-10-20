@@ -10,6 +10,25 @@ See [[Lecture 12 - The KalmanFilter.pdf#page=51|slides]].
 
 The Kalman filter works in two **stages**: *Prediction* and *update*.
 
+**Prediction**:
+$$
+P(X_{t+1}|e_{1:t}) = \int_{x_{t}} 
+\;
+\underbrace{P(X_{t+1}|x_{t})}_{\mathrm{Transition\ Model}}
+\;\;
+\underbrace{P(x_{t}|e_{1:t})}_{\mathrm{Current\ Dist.}}
+$$
+
+**Update**:
+$$
+P(X_{t+1}|e_{1:t+1}) =
+\alpha
+\,
+\underbrace{P(e_{t+1}|X_{t+1})}_{\mathrm{New\ Evidence}}
+\;
+\underbrace{P(X_{t+1}|e_{1:t})}_{\mathrm{Prediction}}
+$$
+
 $\hat{x}_{k+1|k}$: The prediction of $x$ at $k+1$ given information at sample $k$.
 
 $K_k$: is the "observer" gain for the Kalman filter.
