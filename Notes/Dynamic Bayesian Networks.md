@@ -41,7 +41,7 @@ Find a smooth estimate of $X$ at sample $k$ given **past and future** evidence.
 
 $$
 P(X_{k}|e_{1:t}) = \alpha P(X_{k}|e_{1:k})P(e_{k+1:t}|X_{k})
-= \alpha f_{1:k} \times b_{k+1:t}
+= \alpha \cdot f_{1:k} \cdot b_{k+1:t}
 $$
 
 $$
