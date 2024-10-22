@@ -9,7 +9,7 @@ $$
 \begin{align}
 &\max_{x_{1},\dots, x_{t}} P(x_{1},\dots, x_{t},X_{t+1}|e_{1:t+1}) \\
 &\quad\quad= \alpha P(e_{t+1}|X_{t+1}) \max_{x_{t}} \left(
-P(X_{t+1}|x_{t})\; \max_{x_1,\dots,x_{t-1}} P(x_{1},\dots,x_{t-1},x_{t}|e_{1:e})
+P(X_{t+1}|x_{t})\; \max_{x_1,\dots,x_{t-1}} P(x_{1},\dots,x_{t-1},x_{t}|e_{1:t})
 \right)
 \end{align}
 $$
