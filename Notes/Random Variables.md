@@ -143,10 +143,27 @@ $$
 To get the $25\%$ quantile, do $F_{X}^{-1}(25\%)$
 
 #### Variance
+The "spread" of the distribution
 $$
-\mathrm{Var}(X) = E(X - \mu)^2
+\mathbb{V}(X) = \sigma^{2} = \mathbb{E}(X - \mu)^{2} = \mathbb{E}(X) - \mu^{2} = \int (x-\mu)^{2}\; \mathrm{dF(x)}
+$$
+$X$: Random Variable
+$\mu$: Mean of $X$
+
+**Standard Deviation**
+$$
+\mathrm{Sd} = \sigma = \sqrt{\mathbb{V}(X)}
 $$
 
+#### Sample Mean and Variance
+$$
+\bar{X_{n}} = \frac{1}{n} \sum_{i=1}^{n}X_{i}
+$$
+$\bar{X_{n}}$: Sample Mean
+$$
+S_{n}^{2} = \frac{1}{n-1}\sum_{i=1}^{n}(X_{i} - \bar{X_{n}})^{2}
+$$
+$S_{n}^{2}$: Sample Variance
 
 
 ---
