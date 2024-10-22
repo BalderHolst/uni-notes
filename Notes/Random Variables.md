@@ -118,6 +118,23 @@ $$
 \lim_{x\to\infty} F_{X}(x)  = 1
 $$
 
+#### Expected Value
+The *mean* of outcomes
+$$
+\mathbb{E}(X) 
+$$
+
+>[!tip] Useful property
+>$X$s do not have to be intependent.
+>$$
+>\mathbb{E}\left(\sum_{i}a_{i}X_{i} \right) = \sum_{i} a_{i} \mathbb{E}(X_{i})
+>$$
+
+If $X_{i}$s are intependent:
+$$
+\mathbb{E}\left(\prod_{i=1}^{n}X_{i} \right) = \prod_{i} \mathbb{E}(X_{i})
+$$
+
 #### Quantile Function
 Inverse of the cdf.
 $$
@@ -127,8 +144,9 @@ To get the $25\%$ quantile, do $F_{X}^{-1}(25\%)$
 
 #### Variance
 $$
-\mathrm{Var}(X) = E[(X - \mu)^2]
+\mathrm{Var}(X) = E(X - \mu)^2
 $$
+
 
 
 ---
