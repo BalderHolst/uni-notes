@@ -150,6 +150,13 @@ $$
 $X$: Random Variable
 $\mu$: Mean of $X$
 
+$$
+\begin{align}
+\mathbb{V}(X + Y) &= \mathbb{V}(X) + \mathbb{V}(Y) + 2\,\mathrm{Cov}(X, Y) \\
+\mathbb{V}(X - Y) &= \mathbb{V}(X) + \mathbb{V}(Y) - 2\,\mathrm{Cov}(X, Y)
+\end{align}
+$$
+
 **Standard Deviation**
 $$
 \mathrm{Sd} = \sigma = \sqrt{\mathbb{V}(X)}
@@ -165,6 +172,14 @@ S_{n}^{2} = \frac{1}{n-1}\sum_{i=1}^{n}(X_{i} - \bar{X_{n}})^{2}
 $$
 $S_{n}^{2}$: Sample Variance
 
+#### Covariance
+Indicates the strength of the **LINEAR** relationship.
+$$
+\mathrm{Cov}(X, Y) = \mathbb{E}\Big[ (X - \mu_{X})(Y-\mu_{Y}) \Big]
+$$
+
+>[!warning] Covariance Only Expresses Linear Correlations
+$$\mathrm{Cov}(X, Y)=0 \quad\not\Rightarrow \quad X {\perp\!\!\!\perp} Y$$
 
 ---
 #statistics
