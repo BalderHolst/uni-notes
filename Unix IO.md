@@ -15,6 +15,9 @@ A process always has access to the following files
 
 Any other descriptors are obtained by opening new files using the API.
 
+>[!warning] Shortcounts
+> Sometimes `read` and `write` returns less bytes than you wanted to read or write. This does not return an error by itself. The **programmer** should therefore detect and handle this themselves.
+
 ---
 
 ## API
@@ -39,6 +42,16 @@ Positioning
 ```c
 off_t lseek(int fd, off_t offset, int whence)
 ```
+The `whence` determines how the `offset` is used:
+
+| Flag | Behavior |
+| ---- | -------- |
+| SEEK_SET | `filepos = offset` |
+| SEEK_CUR | `filepos = filepos + offset` |
+| SEEK_END | `filepos = end + offset` (can seek beyond end of file)|
+
+
+
 See also `llseek, lseek64`.
 
 Close
@@ -94,13 +107,69 @@ if ((retval = close(fd)) < 0) {
 char buf[512];
 int fd;
 ssize_t nbytes;
-…
+
+// Open file …
+
 if ((nbytes = read(fd, buf, sizeof(buf))) < 0) {
   perror("Cannot read from file");
   exit(EXIT_FAILURE);
 }
 ```
 
+Writing files
+```c
+char buf[512];
+int fd;
+ssize_t nbytes;
+
+// Open file …
+
+if ((nbytes = write(fd, buf, sizeof(buf)) < 0) {
+  perror("Cannot write to file");
+  exit(EXIT_FAILURE);
+}
+```
+
+#### Seeking in Files
+```c
+int fd;
+
+// Open file …
+
+if (lseek(fd, 100, SEEK_SET) < 0) {
+  perror("Cannot seek in file");
+  exit(EXIT_FAILURE);
+}
+```
+
+## Larger Examples
+
+#### Hello, World!
+```c
+#include <stdlib.h>
+#include <unisth.h>
+#include <string.h>
+char str[] = "Hello, world\n";
+int main(void)
+{
+  write(STDOUT_FILENO, str, strlen(str));
+  return EXIT_SUCCESS;
+}
+```
+
+#### Simple Unix IO
+```c
+#include <stdlib.h>
+#include <unistd.h>
+int main(void)
+{
+  char c;
+  while (read(STDIN_FILENO, &c, 1) > 0) {
+    write(STDOUT_FILENO, &c, 1);
+  }
+  return EXIT_SUCCESS;
+}
+```
 
 ---
 #c
