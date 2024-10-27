@@ -1,4 +1,4 @@
-# File Metadata
+### File Metadata
 
 Data about the file that is not contained within the file.
 - Filename
@@ -42,9 +42,10 @@ int fstat(int fd, struct stat *statbuf);
 int fstatat(int dirfd, const char *pathname, struct stat *statbuf, int flags);
 ```
 
-useful when stat-ing files in a directory
+Useful when stat-ing files in a directory
+
 ```c
-int statx(int dirfd, const char *pathname, int flags, unsigned int mask, struct statx *statxbuf)
+int statx(int dirfd, const char *pathname, int flags, unsigned int mask, struct statx *statxbuf);
 ```
 
 

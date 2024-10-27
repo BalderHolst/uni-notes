@@ -15,7 +15,7 @@ $x$: Original point
 $x_U$: Projected point
 
 >[!example]- Example Calculation
->![[Lessons/Semester 5/HW1.pdf#page=6]]
+>![[Lessons/Semester 5/math_and_statistics/HW1.pdf#page=6]]
 
 
 ---
