@@ -19,7 +19,7 @@ void free(void *ptr);
 Allocate automatically freed memory (allocated at *stack* not heap)
 
 ```c
-void* alloca(size_t size);;
+void* alloca(size_t size);
 ```
 
 Find end of heap
