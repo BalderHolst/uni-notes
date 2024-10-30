@@ -1,8 +1,0 @@
-# Tarjan’s Algorithm
-
-
-
-
-
----
-#algorithms
