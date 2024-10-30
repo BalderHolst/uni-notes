@@ -37,6 +37,7 @@ Divide and concur. This algorithm breaks down the input into smaller and smaller
 >    return result
 >```
 
+Mergesort is [[Stable Sorting|stable]] sorting algorithm.
 #### Time Complexity
 $$
 O(n\cdot \log(n))

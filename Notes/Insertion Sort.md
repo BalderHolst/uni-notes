@@ -1,6 +1,18 @@
 # Insertion Sort
 Insert the current number correctly in the part left of the current cursor position.
 
+```
+function InsertionSort(A):
+	n = length(A)
+	for i = 1 to n:
+	key = A[i]
+	j = i - 1
+	while j >= 0 and A[j] > key:
+		A[j + 1] = A[j]
+		j = j - 1
+		A[j + 1] = key
+```
+
 >[!info]- Python Implementation
 >```python
 >def insertion_sort(l):
