@@ -1,5 +1,5 @@
 # Bellman-Ford* Algorithm
-Similar to [[Dijkstra’s algorithm]] but can handl (detect) *negative weights*. However, **it is slower**.
+Similar to [[Dijkstra’s algorithm]] but can handel (detect) *negative weights*. However, **it is slower**.
 
 ```
 procedure Bellman-Ford*(G,s):
