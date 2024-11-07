@@ -24,7 +24,6 @@ $$
 
 #### Variance
 
-
 $$
 \begin{align}
 \mathbb{V}(a^{T} X) &= a^{T}\Sigma a \\

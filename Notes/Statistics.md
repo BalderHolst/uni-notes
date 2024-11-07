@@ -2,14 +2,6 @@
 Working with uncertain data.
 
 ---
-#### Distributions
-```dataview
-list
-from #distribution
-sort file.name
-```
-
----
 
 ## Notes
 

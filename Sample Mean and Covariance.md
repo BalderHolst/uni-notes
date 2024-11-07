@@ -12,8 +12,7 @@ Let $X_{1}, \dots, X_n$ be [[IID]] and let $\mu = \mathbb{E}(X_i)$  and $\sigma^
 $$
 \mathbb{E}(\bar{X}_{n}) = \mu,
 \quad
-\mathbb{V}(\bar{X}_{n}) = \si
-
+\mathbb{V}(\bar{X}_{n}) = \frac{\sigma^{2}}{n} \quad \mathrm{and} \quad \mathbb{E}(S^{2}_{n}) = \sigma^{2}
 $$
 
 ---
