@@ -117,7 +117,7 @@ $X$: Random variable
 
 You can find the distribution from the moment generating function like this:
 $$
-\phi'x(0) = X
+\phi'_x(0) = X
 $$
 
 ---
