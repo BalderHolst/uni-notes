@@ -22,9 +22,11 @@ $$
 **Log-likelihood**
 $$
 \mathcal{L}(\theta| x_{1}, \dots, x_{N}) = \sum_{n=1}^{N} \log \left\{
-\sum_{i=1}^{K} P(C_{n}^{i} = 1 | \pi) \; P(x_{n} | C_{n}^{i} = 1, \theta_{i})
+\sum_{i=1}^{K} \;\underbrace{P(C_{n}^{i} = 1 | \pi)}_\mathrm{Mixture\; Weights} \; P(x_{n} | C_{n}^{i} = 1, \theta_{i})
 \right\}
 $$
+$\theta_{i}$: The parameters for the distribution. That is $\theta_{i} = (\mu_{i}, \sigma_{i}^2)$ for a Gausian.
+$\pi$: Mixture model proportions
 
 
 ---
