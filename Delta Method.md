@@ -2,9 +2,10 @@
 Given a sequence of [[Random Variables]] $X_{1}, X_{2}, \dots, X_{n}$. If a function $g$ can be defined, the distribution converges as follows.
 
 $$
-\sqrt{n}(g(x_{n}) -g(\mu)) \;\xrightarrow{d}\; \mathcal{N}(0, ( (g'(\mu))^{2} \cdot \sigma^{2}))
+\sqrt{n}(g(X_{n}) -g(\mu)) \;\xrightarrow{d}\; \mathcal{N}(0, ( (g'(\mu))^{2} \cdot \sigma^{2}))
 $$
 
+---
 ### Examples
 
 ##### Problem 1.
@@ -12,7 +13,7 @@ What is the asymptotic limit of $\sqrt{n}(\bar{X}_{n}^{2} - \mu^{2})$?
 
 Here we can now look for the $g$ function
 $$
-\sqrt{n}(\bar{X}_{n}^{2} - \underbracket{\mu^{2}}_{g(\mu)}) \quad \Rightarrow \quad g(\mu) = \mu^{2}
+\sqrt{n}(\underbracket{\bar{X}_{n}^{2}}_{g(X_{n})} - \underbracket{\mu^{2}}_{g(\mu)}) \quad \Rightarrow \quad g(\mu) = \mu^{2}
 $$
 By the delta method, the limit approaches as follows
 $$
@@ -30,7 +31,22 @@ $$
 $$
 
 ##### Problem 2.
-Given $X_{1}, X_{2}, \dots, X_{n}$ from $\mathcal{N}(\mu, 1)$ and $\bar{X}_{n} = \frac{1}{n} \sum_{i=1}^{n} x__{i}$ 
+Given $X_{1}, X_{2}, \dots, X_{n}$ from $\mathcal{N}(\mu, 1)$ and $\bar{X}_{n} = \frac{1}{n} \sum_{i=1}^{n} x_{i}$ and $\mu \neq 0$. What is the asymptotic limit of $\sqrt{n}\left( \frac{1}{\bar{X}_{n}} - \frac{1}{\mu^2} \right)$?
+
+By the delta method, find $g(\mu)$.
+$$
+\sqrt{n}\ \bigg(
+\underbracket{\frac{1}{\bar{X}_{n}}}_{g(X_{n})} - \underbracket{\frac{1}{\mu^2}}_{g(\mu)}
+\bigg)
+$$
+let $g(\mu) = \frac{1}{\mu^{2}}$.
+$$
+g(\mu) = \frac{1}{\mu^{2}} = \mu^{-2}
+\quad\Rightarrow\quad
+g'(\mu) = -2\mu^{-3} = \frac{-2}{\mu^3}
+$$
+
+Here, $\mu$ has to be *non-zero*, as given in the problem.
 
 ---
 #statistics
