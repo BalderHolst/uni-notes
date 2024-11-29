@@ -5,5 +5,8 @@
 >![](https://www.youtube.com/watch?v=XepXtl9YKwc)
 >![](https://www.youtube.com/watch?v=66FqSpf1trA)
 
+>[!video]- MLE for Exponential Distribution
+>![](https://www.youtube.com/watch?v=p3T-_LMrvBc)
+
 ---
 #statistics 
