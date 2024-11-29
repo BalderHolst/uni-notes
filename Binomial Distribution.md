@@ -6,6 +6,8 @@ $$
 $n$: Number of samples
 $p$: Probability
 
+mean: $np$
+variance: $np(1-p)$
 
 #### PDF
 $$
