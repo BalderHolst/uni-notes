@@ -1,5 +1,4 @@
 # Mean Square Error
-
 $$
 \mathrm{MSE}
 =
@@ -7,7 +6,8 @@ $$
 =
 \mathrm{bias}^{2}(\widehat{\theta}_{n}) + \mathbb{V}_{\theta}(\widehat{\theta}_{n})
 $$
-
+$\theta$: The real value of a parameter
+$\theta_{n}$: The estimated value of the parameter given $n$ samples
 
 
 
