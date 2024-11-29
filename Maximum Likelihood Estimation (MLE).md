@@ -1,11 +1,9 @@
 # Maximum Likelihood Estimation
 "Fit" a distribution to data; Choose the distribution that is most likely to have caused the observed samples.
 
->[!video]- Intuition
+>[!video]- Videos
 >![](https://www.youtube.com/watch?v=XepXtl9YKwc)
-
-
-
+>![](https://www.youtube.com/watch?v=66FqSpf1trA)
 
 ---
 #statistics 
