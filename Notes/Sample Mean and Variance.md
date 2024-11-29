@@ -1,4 +1,4 @@
-# Sample Mean and Covariance
+# Sample Mean and Variance
 [[Expectation|Mean]] and [[Variance|variance]] of a sampled random variable. See [[lecture7.pdf#page=16|slides]].
 
 $$
