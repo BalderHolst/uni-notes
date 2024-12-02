@@ -6,6 +6,9 @@ $$
 $\mu$: Mean
 $\sigma^2$: [[Variance]]
 
+$$
+z = \frac{\bar{x}-\mu_{0}}{\sigma / \sqrt{n}} \sim \mathcal{N}(0, 1)
+$$
 
 
 ---
