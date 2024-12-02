@@ -5,6 +5,11 @@ $$
 \sqrt{n}(g(X_{n}) -g(\mu)) \;\xrightarrow{d}\; \mathcal{N}(0, ( (g'(\mu))^{2} \cdot \sigma^{2}))
 $$
 
+also
+$$
+\widehat{\mathrm{se}}(\log \sigma) \approx \left| \frac{d}{d\sigma} \log(\sigma) \right| \cdot \widehat{\mathrm{se}}(\sigma)
+$$
+
 ---
 ### Examples
 
