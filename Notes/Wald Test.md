@@ -2,7 +2,7 @@
 Test how extreme a sample is
 
 $$
-t_{W} = \frac{(\hat{\theta} - \theta_{0})^{2}}{\mathcal{I}(\theta_{0})^{-1}} \sim \mathcal{X}^{2}(1) \quad\Leftrightarrow\quad s_{W} = \frac{\hat{\sigma} - \sigma_{0}}{\sigma} \sim Z
+t_{W} = \frac{(\hat{\theta} - \theta_{0})^{2}}{\mathcal{I}(\theta_{0})^{-1}} \sim \mathcal{X}^{2}(1) \quad\Leftrightarrow\quad s_{W} = \frac{\hat{\sigma} - \sigma_{0}}{\sigma^{0}} \sim Z
 $$
 $\hat{\theta}$: Sample
 $\theta_{0}$: Sample mean according to the null hypothesis
