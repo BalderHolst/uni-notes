@@ -6,6 +6,8 @@ $H_{a}$: Alternative hypothesis
 
 #### Tests
 - [[Wald Test]]
+- [[Log-likelihood Test]]
+- [[Score Test]]
 
 
 
