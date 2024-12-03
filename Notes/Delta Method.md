@@ -5,9 +5,13 @@ $$
 \sqrt{n}(g(X_{n}) -g(\mu)) \;\xrightarrow{d}\; \mathcal{N}(0, ( (g'(\mu))^{2} \cdot \sigma^{2}))
 $$
 
-also
+also that if
 $$
-\widehat{\mathrm{se}}(\log \sigma) \approx \left| \frac{d}{d\sigma} \log(\sigma) \right| \cdot \widehat{\mathrm{se}}(\sigma)
+\frac{\hat{\theta} - \theta}{\widehat{\mathrm{se}}_{\hat{\theta}}} \to \mathcal{N}(0, 1)
+$$
+then
+$$
+\frac{g(\hat{\theta}) - g(\theta)}{g'(\hat{\theta})\, \widehat{\mathrm{se}}_{\hat{\theta}}} \to \mathcal{N}(0, 1)
 $$
 
 ---

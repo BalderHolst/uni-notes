@@ -15,5 +15,10 @@ $$
 \mathbb{V}(\bar{X}_{n}) = \frac{\sigma^{2}}{n} \quad \mathrm{and} \quad \mathbb{E}(S^{2}_{n}) = \sigma^{2}
 $$
 
+#### Standard Error
+$$
+\mathrm{se} = \frac{\sigma}{\sqrt{n}} = \sqrt{\mathbb{V}(\bar{X}_{n})}
+$$
+
 ---
 #statistics
