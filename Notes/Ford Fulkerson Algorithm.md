@@ -39,7 +39,8 @@ O(V^{2}E) \quad\mathrm{or}\quad O(V^{2}\sqrt{E})
 $$
 Depending on the variant.
 
->
+>[!note] Don't be afraid!
+>Generally, the time complexity of max flow algorithms are very pessimistic. It is therefore hard to say much about the run time of these algorithms solely based on their time complexity.
 
 ---
 
