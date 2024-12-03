@@ -17,7 +17,7 @@ $$
 
 #### Standard Mean Error
 $$
-\mathrm{se} = \frac{\sigma}{\sqrt{n}} = \sqrt{\mathbb{V}(\bar{X}_{n})}
+\mathrm{se} = \frac{\sigma}{\sqrt{n}}
 $$
 
 ---

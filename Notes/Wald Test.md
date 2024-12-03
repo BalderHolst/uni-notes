@@ -24,7 +24,11 @@ H_{0}: \; \theta = \theta_{0} \quad\mathrm{versus}\quad H_{1}:\; \theta \neq \th
 $$
 assuming that $\theta_{0}$ is asymptotically normal:
 $$
-\frac{\widehat{\theta} - \theta }{\widehat{\mathrm{se}}} = 
+\frac{\widehat{\theta} - \theta }{\widehat{\mathrm{se}}} \rightsquigarrow \mathcal{N}(0, 1)
+$$
+**TEST**: Reject $H_{0}$ when $|W| > z_{\alpha/2}$ where
+$$
+W =  \frac{\widehat{\theta} - \theta }{\widehat{\mathrm{se}}}
 $$
 
 ---
