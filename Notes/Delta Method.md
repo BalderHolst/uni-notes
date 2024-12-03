@@ -5,14 +5,11 @@ $$
 \sqrt{n}(g(X_{n}) -g(\mu)) \;\xrightarrow{d}\; \mathcal{N}(0, ( (g'(\mu))^{2} \cdot \sigma^{2}))
 $$
 
-also that if
+also
 $$
-\frac{\hat{\theta} - \theta}{\widehat{\mathrm{se}}_{\hat{\theta}}} \to \mathcal{N}(0, 1)
+\mathrm{se}(g(X))=|g'(E[X])| \cdot \mathrm{se}(X),
 $$
-then
-$$
-\frac{g(\hat{\theta}) - g(\theta)}{g'(\hat{\theta})\, \widehat{\mathrm{se}}_{\hat{\theta}}} \to \mathcal{N}(0, 1)
-$$
+
 
 ---
 ### Examples
