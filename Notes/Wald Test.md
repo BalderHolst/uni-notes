@@ -15,6 +15,17 @@ $$
 t_{W} = \frac{(\hat{\theta} - \theta_{0})^{2}}{\mathcal{I}(\hat{\theta})^{-1}} \sim \mathcal{X}^{2}(1)
 $$
 
+---
+
+### More Concrete Example
+Consider
+$$
+H_{0}: \; \theta = \theta_{0} \quad\mathrm{versus}\quad H_{1}:\; \theta \neq \theta_{0}
+$$
+assuming that $\theta_{0}$ is asymptotically normal:
+$$
+\frac{\widehat{\theta} - \theta }{\widehat{\mathrm{se}}} = 
+$$
 
 ---
 #statistics
