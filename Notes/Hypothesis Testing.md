@@ -9,12 +9,13 @@ $H_{a}$: Alternative hypothesis
 - [[Log-likelihood Test]]
 - [[Score Test]]
 
+#### Error Types
+
 **Type I Error ($\alpha$)**
 Rejecting the null hypothesis ($H_0$) when it is actually true. Represents a "false positive."
 
 **Type II Error ($\beta$)**
-Failing to reject the null hypothesis ($H_0$) when it is actually false.  
-  Represents a "false negative."
+Failing to reject the null hypothesis ($H_0$) when it is actually false. Represents a "false negative."
 
 
 
