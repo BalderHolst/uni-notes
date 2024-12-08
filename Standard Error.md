@@ -10,6 +10,7 @@ $$
 \widehat{\mathrm{se}} = \sqrt{\frac{1}{\mathcal{I}_{n}(\hat{\theta}_{n})}}
 %= \sqrt{\frac{\theta^{2}}{n}}
 $$
+$\mathcal{I}_{n}$: [[Fisher Information]]
 
 ---
 

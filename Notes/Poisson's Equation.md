@@ -1,4 +1,4 @@
-# Poissin's Equation
+# Poisson's Equation
 [[Laplace's Equation]] but with forcing
 
 $$\nabla^{2} u = f$$
