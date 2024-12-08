@@ -1,7 +1,8 @@
 # Fisher Information
 A measure for how much information each sample contains. Also the *variance of the score function*.
 
-### Single Parameter Estmation
+
+### Single Parameter Estimation
 
 For a *single parameter* $\lambda$:
 $$
