@@ -3,11 +3,11 @@
 $$\int u(x) \cdot v'(x) dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) dx$$
 
 >[!note]- Udledning
->- [Udledning med Henrik](https://youtu.be/sGlXgFbmvws)
+>- ![Udledning med Henrik](https://youtu.be/sGlXgFbmvws)
 
 >[!Example]- Eksempler
->- [Eksempel med Henrik](https://youtu.be/IMTxnWypzBw)
->- [Svært eksempel med Henrik](https://youtu.be/aDdV2X6MWEc)
+>- ![Eksempel med Henrik](https://youtu.be/IMTxnWypzBw)
+>- ![Svært eksempel med Henrik](https://youtu.be/aDdV2X6MWEc)
 
 
 ---
