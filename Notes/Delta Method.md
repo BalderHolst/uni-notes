@@ -7,7 +7,15 @@ $$
 
 also
 $$
-\mathrm{se}(g(X))=|g'(E[X])| \cdot \mathrm{se}(X),
+\widehat{\mathrm{se}}(g(\hat{\theta}))=|g'(\hat{\theta})| \cdot \widehat{\mathrm{se}}(\hat{\theta}),
+$$
+
+We can then construct a confidence interval like so:
+$$
+C_{n} = \Big[\;
+g(\hat{\theta}) - z_{\alpha / 2}\, \widehat{\mathrm{se}}(g(\hat{\theta})), \;\;
+g(\hat{\theta}) + z_{\alpha / 2}\, \widehat{\mathrm{se}}(g(\hat{\theta}))
+\;\Big]
 $$
 
 

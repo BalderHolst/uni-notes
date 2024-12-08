@@ -1,6 +1,8 @@
 # Maximum Likelihood Estimation
 "Fit" a distribution to data; Choose the distribution that is most likely to have caused the observed samples.
 
+It is the **most optimal** estimator.
+
 ---
 
 >[!video]- Videos
