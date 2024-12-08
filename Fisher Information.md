@@ -6,10 +6,10 @@ A measure for how much information each sample contains. Also the *variance of t
 For a *single parameter* $\lambda$:
 $$
 \mathcal{I}_{n}(\lambda)
+= \sum_{i=1}^{n}\mathbb{V}_{\lambda}\big( S_{n}(\lambda) \big)
 = - \mathbb{E}\Big[ \ell''_{n}(\lambda) \Big]
 = - \mathbb{E}\Big[ S'_{n}(\lambda) 
 \Big]
-= \sum_{i=1}^{n}\mathbb{V}_{\lambda}\big( S_{n}(\lambda) \big)
 $$
 
 $\mathcal{I}_{n}(\lambda)$: Fisher information
