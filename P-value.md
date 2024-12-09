@@ -1,5 +1,5 @@
 # P-value
-What is the smallest $\alpha$ level test that supports the hypothesis?
+What is the smallest $\alpha$ level test that supports the hypothesis? It is the *evidence against $H_{0}$.*
 
 $$
 p = \inf \Big\{ \alpha: T(X^{n}) \in R_{\alpha} \Big\}
