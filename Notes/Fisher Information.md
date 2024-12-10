@@ -48,4 +48,4 @@ $$
 The is a [[Symetric Matrices|symetric matrix]]
 
 ---
-#notag
+#statistics
