@@ -2,7 +2,7 @@
 Expected value, or **mean**, or first moment. See [[lecture7.pdf|slides]].
 
 $$
-\mathbb{E}(X) = \int x\ dF(x) =
+\mathbb{E}(X) = 
 \begin{cases}
 \sum_{x} x\, f(x) &\mathrm{if}\ X\ \mathrm{is\ discrete} \\
 \int_{x} x\, f(x) &\mathrm{if}\ X\ \mathrm{is\ continuous}
