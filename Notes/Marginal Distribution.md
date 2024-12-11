@@ -4,6 +4,7 @@ Marginalization. See [[lecture6a.pdf#page=12|slides]].
 - [[#Discrete]]
 - [[#Continuous]]
 
+
 ---
 ## Discrete
 
@@ -22,6 +23,14 @@ $$
 Marginal densities for continuous variables
 $$
 f_{X}(x) = \int f(x,y)\, dy \quad \mathrm{and} \quad f_{Y}(y) = \int f(x,y)\, dx
+$$
+
+
+---
+## Independence
+$X$ and $Y$ are independent if
+$$
+f_{X,Y}(x, y) = f_{x}(x) f_{Y}(y)
 $$
 
 
