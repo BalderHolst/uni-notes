@@ -12,11 +12,16 @@ $H_{a}$: Alternative hypothesis
 #### Error Types
 
 **Type I Error ($\alpha$)**
-Rejecting the null hypothesis ($H_0$) when it is actually true. Represents a "false positive."
+Rejecting the null hypothesis ($H_0$) when it is actually true. Represents a "false positive".
 
 **Type II Error ($\beta$)**
 Failing to reject the null hypothesis ($H_0$) when it is actually false. Represents a "false negative."
 
+$$
+\beta = 1 - \mathbf{P}(Z < p)
+$$
+$Z$: [[Z-distribution|Z distributed]] random variable
+$p$: [[P-value]]
 
 
 ---
