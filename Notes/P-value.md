@@ -6,8 +6,10 @@ $$
 p = \frac{C - \mu_{a}}{\frac{\sigma}{\sqrt{n}}}
 $$
 $p$: p-value
-$C$: [[critical Value]]
-
+$C$: [[critical value]]
+$\mu_{a}$: Mean given the *alternative hypothesis*
+$\sigma$: Standard deviation
+$n$: Number of samples
 
 
 
