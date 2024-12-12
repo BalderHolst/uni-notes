@@ -16,7 +16,7 @@ $$
 $$
 #### Standard Mean Error
 $$
-\mathrm{se} = \frac{\sigma}{\sqrt{n}}
+\widehat{\mathrm{se}} = \frac{\sigma}{\sqrt{n}}
 $$
 
 ---

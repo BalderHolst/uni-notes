@@ -9,7 +9,7 @@ C_{n} = \Big[\;
 \;\Big]
 $$
 $\hat{\theta}_{n}$: Parameter estimate
-$z_{\alpha / 2}$: The value on the [[standard normal distribution]] that satisfies the confidence level $\alpha$ (two sided).
+$z_{\alpha / 2}$: The value on the [[Z-distribution|standard normal distribution]] that satisfies the confidence level $\alpha$ (two sided).
 $\widehat{\mathrm{se}}$: [[Standard error]] estimate
 
 
