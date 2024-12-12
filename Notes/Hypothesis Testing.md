@@ -18,10 +18,14 @@ Rejecting the null hypothesis ($H_0$) when it is actually true. Represents a "fa
 Failing to reject the null hypothesis ($H_0$) when it is actually false. Represents a "false negative."
 
 $$
-\beta = 1 - \mathbf{P}(Z < p)
+\beta =
+\begin{cases}
+\mathbf{P}(Z \leq p_\mathrm{upper}) - \mathbf{P}(Z \leq p_\mathrm{lower}) \\
+\mathbf{P}(Z \leq p)
+\end{cases}
 $$
 $Z$: [[Z-distribution|Z distributed]] random variable
-$p$: [[P-value]]
+$p$: [[P-value]]. One or two depending on the type of test (single/double sided)
 
 
 ---
