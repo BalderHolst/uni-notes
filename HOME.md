@@ -1,8 +1,3 @@
----
-excalidraw-plugin: parsed
-cssclasses:
-  - ad
----
 ## Recent
 
 ```dataview 
