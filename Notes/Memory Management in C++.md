@@ -4,8 +4,6 @@
 ## Stack
 Keeps track of function calls and variables in the called functions.
 
-Uses the [[stack datastructure]].
-
 ## Heap
 A memory resource that we can manually manipulate.
 

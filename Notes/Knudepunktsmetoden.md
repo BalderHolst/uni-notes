@@ -1,5 +1,4 @@
 # Knudepunktsmetoden (Node-Voltage Analysis)
-[[Electrical Engineering Principles & Applications, Global Edition.pdf#page=82]]
 
 ### Ide
 1. Opskriv alle knudepunkters [[KCL]]. 

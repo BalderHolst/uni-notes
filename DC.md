@@ -1,0 +1,8 @@
+# DC
+Direct Current
+
+
+
+
+---
+#elektronik 

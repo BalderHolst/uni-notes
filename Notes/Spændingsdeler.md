@@ -1,6 +1,4 @@
 # Spændingsdeler
-[[Electrical Engineering Principles & Applications, Global Edition.pdf#page=77]]
-
 $$V_n = \frac{R_n}{R_1 + R_2 + R_3+\dots} \cdot V_{total}$$
 $V_n$ : Spændinden over den $n$'te modstand.
 $R_n$ : Modstanden af den $n$'te modstand.

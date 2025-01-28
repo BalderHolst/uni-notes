@@ -1,7 +1,7 @@
 # Inverse Matrix
 
 $$A^{-1} \cdot A = I$$
-$I$ : [[Specielle Matricer#Identitetsmartix|Identitetsmatrix]]
+$I$ : [[Identity Matrix]]
 
 ---
 

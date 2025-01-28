@@ -19,8 +19,5 @@ eller...
 $$Ax + By + Cz = D \s \text{hvor} \s D=Ax_0+By_0+Cz_0$$
 
 
-##### Eksempler
-- [[Calculus 9th.pdf#page=615]]
-
 ---
 #matematik 
