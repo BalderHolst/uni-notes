@@ -1,5 +1,4 @@
 # Underactuated Robots
-See [[Lecture 1 - Euler-Lagrange Modelling.pdf|introduction slides]].
 
 ---
 
