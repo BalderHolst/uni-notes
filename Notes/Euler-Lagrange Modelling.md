@@ -35,5 +35,15 @@ $t$: Time
 $q$: [[Generalized Coordinates]]
 $Q$: Non-conservative/generalized forces
 
+This results in the dynamics of the system:
+$$
+\underbracket{B(q)}_\mathrm{Inertia}\ddot{q}
++
+\underbracket{C(q, \dot{q})} \dot{q}
++
+g(q) = \Gamma\tau
+$$
+$\tau$: Matrix of forces
+
 ---
 #underactuated-robots
