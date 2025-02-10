@@ -20,9 +20,26 @@ $$
 $$
 $x$: State vector
 $$
-\dot{x} 
+
+\dot{x} =
+\begin{bmatrix}
+\dot{q} \\
+\ddot{q}
+\end{bmatrix}
+=
+\begin{bmatrix}
+\dot{q} \\
+-B(q)^{-1} \Big[\Gamma\tau - C(q, \dot{q}) \dot{q} + g(q) \Big]
+\end{bmatrix}
++
+\begin{bmatrix}
+0 \\
+B^{-1}(q)\Gamma
+\end{bmatrix}
+\tau
 $$
 
+$q$ and $\dot{q}$ will always be the state variables for mechanical systems.
 
 
 ---

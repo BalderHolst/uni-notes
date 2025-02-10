@@ -1,5 +1,5 @@
 # Neutral Stability
-The boundry between stability and instability.
+The boundary between stability and instability.
 
 This is the closed loop transfer funktion $H(s)$
 $$
