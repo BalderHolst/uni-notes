@@ -23,12 +23,6 @@ $u$: Input
 
 A system is controllable if and **only if** the controllability matrix has [[Rank of Matrix|full rank]].
 
-$$
-\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}
-\quad
-\mathrm{for}\; \mathcal{C}^{n\times n}
-$$
-
 ## Controllable Canonical Form
 See [[Lecture 9 - State Feedback Control.pdf#page=33|slides]].
 
