@@ -2,6 +2,7 @@
 See [[Lecture 9 - State Feedback Control.pdf#page=6|slides]].
 
 > *"When can a system be controlled to a reference."*
+> *"The system can reach any position at any velocity"*
 
 $$
 x_{n} =
@@ -18,10 +19,15 @@ u_{0}
 \end{bmatrix}
 $$
 $\mathcal{C}$: Controllability Matrix
+$u$: Input
 
 A system is controllable if and **only if** the controllability matrix has [[Rank of Matrix|full rank]].
 
-$$\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}$$
+$$
+\det(\mathcal{C}) \neq 0 \Rightarrow \mathrm{Controllable}
+\quad
+\mathrm{for}\; \mathcal{C}^{n\times n}
+$$
 
 ## Controllable Canonical Form
 See [[Lecture 9 - State Feedback Control.pdf#page=33|slides]].
@@ -30,7 +36,7 @@ $$
 \dot{z} = \hat{A}z+\hat{B}u, \quad z \in \mathbb{R^{n}},\quad u \in \mathbb{R}
 $$
 
-This is said to be on canonical form if
+where
 $$
 \hat{A} =
 \begin{bmatrix}
