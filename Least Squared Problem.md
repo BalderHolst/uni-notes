@@ -1,4 +1,5 @@
 # Least Squared Problem
+See [[week2.pdf#page=5|slides]].
 
 We minimise the following
 $$
@@ -6,6 +7,15 @@ $$
 \frac{y_{i} - \sum_{k=0}^{M-1}a_{k}X_{k}(x_{i})}{\sigma_{i}}
 \right]^{2}
 $$
+$X_{k}$: Basis functions
+$a_{k}$: Coefficiants
+
+>[!warning] Points are not always equal
+> In some scenarios, some points may be less certain than others. These uncertainties should be taken into a count when fitting a function.
+
+>[!example] Example of basis functions
+> Fitting a line: $X_{0}(x) = 1$ and $X_{1}(x) = x$
+> Fitting a parabola: $X_{0}(x) = 1$, $X_{1}(x) = x$ and $X_{2}(x) = x^2$
 
 The first order conditions are
 $$
