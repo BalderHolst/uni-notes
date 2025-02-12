@@ -9,6 +9,8 @@ $$
 $$
 $X_{k}$: Basis functions
 $a_{k}$: Coefficiants
+$(x_{i}, y_{i})$: Data points
+
 
 >[!warning] Points are not always equal
 > In some scenarios, some points may be less certain than others. These uncertainties should be taken into a count when fitting a function.
