@@ -30,6 +30,11 @@ V^{T}V&=I
 \end{align}
 $$
 
+### Numerical Methods
+**Advantage**: We get a lot of information
+
+The solution is the *least squares solution*.
+
 ---
 
 ## Calculating
