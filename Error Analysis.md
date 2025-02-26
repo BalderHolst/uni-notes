@@ -1,4 +1,5 @@
 # Error Analysis
+See [[week4.pdf#page=15|slides]].
 
 #### Residual Error
 Here you need the real solution.
