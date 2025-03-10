@@ -5,7 +5,7 @@ Placing poles to optimize a cost function.
 $$
 \min_{u} \underbracket{\mathcal{J}}_\mathrm{cost} = \int_{0}^{\infty} x^{T}Qx + u^{T}Ru\, \mathrm{dt}
 $$
-$\mathcal{J}$: Fn
+$\mathcal{J}$: Cost functional
 $Q$: "Price" of signal. [[Positive semi-definite matrix]].
 $R$: "Price" of input. [[Positive definite matrix]]
 
