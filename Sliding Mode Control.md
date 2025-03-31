@@ -4,6 +4,7 @@ See [[Lecture 8 - Sliding Mode Control.pdf|slides]].
 > Are we to the **left** of the target? *go right*
 > Are we to the **right** of the target? *go left*
 
+**NOT MODEL BASED**... and that is a good thing!
 
 This is our system:
 $$
@@ -34,6 +35,7 @@ $$
 
 Usually $\beta$ is as large as possible resulting in a "bang bang" control system.
 
+After reaching the 
 
 ---
 #underactuated-robots
