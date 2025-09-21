@@ -4,7 +4,7 @@ Models the number of events occurring in a fixed interval of time or space, assu
 $$
 X \sim \mathrm{Poisson}(\lambda)
 $$
-![[Pasted image 20241211070439.png|300]]
+![[Poisson-Distribution.png|300]]
 
 The **PDF** is as follows
 $$

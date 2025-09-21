@@ -14,8 +14,8 @@ The sides of a Karnaugh map "warp" around.
 2. For each rectangle write an equivalent equations that would create each rectangle and `OR` them together. (example [[Lesson 3.pdf#page=34|here]])
 
 > [!example]- Example of Karnaugh to gates
-> ![[Pasted image 20230602151349.png]]
-> ![[Pasted image 20230602151402.png]]
+> ![[Karnaugh-Map-Procedure.png|Pasted image 20230602151349.png]]
+> ![[Karnaugh-Map-Procedure-1.png|Pasted image 20230602151402.png]]
 
 ---
 #microcontrolers 

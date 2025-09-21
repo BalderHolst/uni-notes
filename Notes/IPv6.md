@@ -8,7 +8,7 @@ Addresses can be either
 - Anycast: Address of a group of computers, **only one** will receive the packet.
 - Multicast: Address of a group of computers, **all** will receive the packet.
 
-![[Pasted image 20231031123001.png|600]]
+![[IPv6.png|600]]
 
 ## Benefits
 - Better header format
@@ -16,22 +16,22 @@ Addresses can be either
 - Possibility of extension
 - Resource allocation support
 
-![[Pasted image 20231031131449.png|600]]
+![[IPv6-Benefits.png|600]]
 
 ### Global Unicast Addressing
-![[Pasted image 20231031123135.png|600]]
+![[IPv6-Global-Unicast-Addressing.png|600]]
 - Global routing prefix: Website/Domain
 - Subnet: Ex: Sections of a company
 - Interface Identifier: The physical plug
 
 ### Special Addresses
-![[Pasted image 20231031123917.png]]
+![[IPv6-Special-Addresses.png|Pasted image 20231031123917.png]]
 **Compatible**: Used when IPv4 devices want to communicate with each other
 **Mapped**: Used when IPv6 devices want to communicate IPv4 devices
 
 ---
 ## Network Layer
-![[Pasted image 20231031124237.png]]
+![[IPv6-Network-Layer.png|Pasted image 20231031124237.png]]
 
 #### Unique Local Unicast
 For packets that do not leave the organisation. Randomness used to minimise the likelihood of identical addresses.
@@ -54,7 +54,7 @@ Flow packets allow for data streaming. Handles by the *flow label table*. It wor
 See [[KOM - lecture 8a - Itslearning.pdf#page=32|slides]].
 
 For setting options in all routers that the packet traverses
-![[Pasted image 20231031130021.png]]
+![[IPv6-Extension-Headers.png|Pasted image 20231031130021.png]]
 
 ##### Fragmentation
 **ONLY THE SENDER CAN PERFORM FRAGMENTATION**.

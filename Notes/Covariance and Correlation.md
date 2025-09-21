@@ -6,7 +6,7 @@ $$
 \mathrm{Cov}(X, Y) = \mathbb{E}\Big( (X - \mu_{X}) (Y - \mu_{Y})  \Big)
 $$
 ### Correlation
-![[Pasted image 20241107132801.png|center|400]]
+![[Covariance-and-Correlation-Correlation.png|center|400]]
 
 Correlation is defined by
 $$

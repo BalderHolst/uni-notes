@@ -10,7 +10,7 @@ $$
 V_{o} = v_{1} - v_{2}
 $$
 
-![[Pasted image 20240423101735.png]]
+![[Subtractor.png|Pasted image 20240423101735.png]]
 
 
 

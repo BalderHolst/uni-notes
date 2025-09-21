@@ -1,5 +1,5 @@
 # Law of Cosines
-![[Pasted image 20230621111948.png|300]]
+![[Law-of-Cosines.png|300]]
 
 $$a^{2} = b^{2} + c^{2} - 2bc \cos(A)$$
 $$b^{2} = a^{2} + c^{2} - 2ac \cos(B)$$

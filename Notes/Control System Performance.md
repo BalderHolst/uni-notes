@@ -7,7 +7,7 @@ We are interested in three parameters:
 - Peak time $t_{p}$
 - Overshoot $M_{p}$
 
-![[Pasted image 20240209091249.png|center|500]]
+![[Control-System-Performance.png|center|500]]
 
 #### Second Order Systems
 
@@ -22,9 +22,9 @@ $$
 
 $\zeta$: Dampening factor (larger means more dampening/less overshoot)
 
-![[Pasted image 20240209092310.png]]
+![[Control-System-Performance-Second-Order-Systems.png|Pasted image 20240209092310.png]]
 
-![[Pasted image 20240304092114.png]]
+![[Control-System-Performance-Second-Order-Systems-1.png|Pasted image 20240304092114.png]]
 
 ---
 #controlsystems

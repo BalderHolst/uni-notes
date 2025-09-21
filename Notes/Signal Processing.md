@@ -1,6 +1,6 @@
 # Signal Processing
 
-![[Pasted image 20230914082356.png|center|600]]
+![[Signal-Processing.png|center|600]]
 
 [[Decibel]]
 

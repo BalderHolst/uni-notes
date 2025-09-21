@@ -3,7 +3,7 @@ See [[Lecture 8 - Implementation.pdf|slides]].
 
 Implement control systems in digitally. The sampling frequency for the discrete controller should be at least 20 times. Otherwise special care should be taken to design a discrete controller.
 
-![[Pasted image 20240405090737.png]]
+![[Digitization.png|Pasted image 20240405090737.png]]
 
 There are two main methods.
 - [[#Emulation]]
@@ -42,11 +42,11 @@ See [[Lecture 8 - Implementation.pdf#page=62|slides]].
 > Do not use forward integration, as it *does not guarantee stability* even if the continuous system is stable.
 
 There are three main ways of approximating integration in discrete time.
-![[Pasted image 20240405093924.png|center|500]]
+![[Digitization-Integration.png|center|500]]
 
 These map the $s$-domain to different parts of the $z$-domain.
 
-![[Pasted image 20240405094204.png]]
+![[Digitization-Integration-1.png|Pasted image 20240405094204.png]]
 
 ### Sampling Delay
 See [[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf#page=27|slides]].
@@ -54,10 +54,10 @@ See [[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf#page=27|slides]
 $$G_{d}(s) = \frac{1}{\frac{T}{2}s + 1}$$
 $G_{d}(s)$: Transfer funktion for samling delay
 
-![[Pasted image 20240416084917.png|500]]
+![[Digitization-Sampling-Delay-1.png|500]]
 
 >[!tip]- Sampling delay illustration
->![[Pasted image 20240416084850.png]]
+>![[Digitization-Sampling-Delay.png|Pasted image 20240416084850.png]]
 
 
 ---

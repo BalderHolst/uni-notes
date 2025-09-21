@@ -18,8 +18,8 @@ $d_{i}$: Link offset
 $\theta_{i}$: Joint angle, angle of connection to the next joint, around the joint axis.
 
 >[!example]- Images
->![[Pasted image 20230621105223.png]]
->![[Pasted image 20230621105657.png]]
+>![[DH-Parameters-Variables.png|Pasted image 20230621105223.png]]
+>![[DH-Parameters-Variables-1.png|Pasted image 20230621105657.png]]
 
 #### Placing Frames (Modified Craig)
 - The **origin** of frame $\set{i}$ is located where $a_{i}$ intersects joint axis $i$.
@@ -28,7 +28,7 @@ $\theta_{i}$: Joint angle, angle of connection to the next joint, around the joi
 - The **Y-axis** of frame $\set{i}$ follows in order to form a right-handed coordinate system.
 
 >[!example]- Image
->![[Pasted image 20230621110417.png]]
+>![[DH-Parameters-Placing-Frames-Modified-Craig.png|Pasted image 20230621110417.png]]
 
 ## Procedure
 See [[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=29|slide]]:

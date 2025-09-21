@@ -1,7 +1,7 @@
 # TCP/IP
 
 ##### Example of the logic inside a single router
-![[Pasted image 20230919124703.png|450]]
+![[TCP-IP-Example-of-the-logic-inside-a-single-router.png|450]]
 
 $L$: Data Link Address (mac addresses), each router has a local and a public address.
 $N$: IP of the sender and final receiver of a packet.
@@ -20,12 +20,12 @@ See [[KOM - Lecture 3_a - Itslearning.pdf#page=3|slides]].
 - Data Link Control (DLC) : this layer takes care of all the issues common to both point-to-point and broadcast links. 
 - Media Access Control (MAC) : Only deals with the issues specific to broadcast links.
 
-![[Pasted image 20230919122516.png]]
+![[TCP-IP-Sublayers.png|Pasted image 20230919122516.png]]
 
 #### Addressing
 See [[KOM - Lecture 3_a - Itslearning.pdf#page=8|slides]].
 
-![[Pasted image 20230919123314.png|450]]
+![[TCP-IP-Addressing.png|450]]
 
 Each router uses a [[Forwarding Table]] to determine where to relay the packet.
 
@@ -45,7 +45,7 @@ Error detection is of cause easier than error correction.
 Message is divided into blocks (*"datawords"*), and add **redundant bits** to each packet to create *"codewords"*.
 
 >[!example]- Diagram 
->![[Pasted image 20230919130937.png]]
+>![[TCP-IP-Block-Coding.png|Pasted image 20230919130937.png]]
 
 The sender makes sure that the codeword is a *correct codeword*. Determining if a codeword is current, requires a table for validating the codeword, which is **shared by sender and receiver**.
 
@@ -65,7 +65,7 @@ Where $A$, $B$ and $C$ are all valid.
 Se [[KOM - Lecture 3_b - Itslearning.pdf#page=15|slides]].
 
 The redundant bit "rotate" for each dataword.
-![[Pasted image 20230919133343.png|450]]
+![[TCP-IP-Cyclic-Coding.png|450]]
 
 $$s(x) = e(x) \,\,\text{mod} \,\, g(x)$$
 $x$: Dataword

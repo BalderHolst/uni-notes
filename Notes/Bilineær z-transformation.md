@@ -16,11 +16,11 @@ $C$: [[#Pre-Warping|Prewarping-konstanten]]
 
 ## Warping
 Normalt er  en vinkel på $\pi$ lig en frekvens lig $f_o$. Her er en vinkel på $\pi$ eller $-\pi$ lig en **uendelig frekvens**. Dette betyder at (specielt høje) frekvenser forvrænges.
-![[Pasted image 20231107084334.png|center|350]]
+![[Bilineær-z-transformation-Warping.png|center|350]]
 
 $\Omega$: Original frekvens
 $\omega$: Warpet frekvens
-![[Pasted image 20231107085053.png|center|300]]
+![[Bilineær-z-transformation-Warping-1.png|center|300]]
 
 #### Pre-Warping
 For at komme udenom warping warper vi først overføringsfunktionen i den mosatte retning, sådan et den resulterende overføringsfunktion har $f_{a}$.

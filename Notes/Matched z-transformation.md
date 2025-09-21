@@ -3,7 +3,7 @@ See [[lektion 8 - Introduktion til IIR filtre.pdf#page=11|slides]].
 
 Poler og nulpunkter overføres direkte til z-domænet med formlen:
 $$z = e^{sT}$$
-![[Pasted image 20231102085545.png|300]]
+![[Matched-z-transformation.png|300]]
 
 ## Procedure
 1. Bestem den frekvensnormerede og faktoriserede overføringsfunktion

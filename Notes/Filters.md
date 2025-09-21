@@ -4,7 +4,7 @@
 ### Filter Types
 
 >[!example]- Ideal filters
->![[Pasted image 20230914082441.png]]
+>![[Filters-Filter-Types.png|Pasted image 20230914082441.png]]
 
 We want three things from a filter:
 1. *Constant amplification* on the pass band
@@ -19,10 +19,10 @@ These all only have poles no zero points.
 - [[Bessel]] (More linear phase)
 
 Plots of the three filters
-![[Pasted image 20230914090924.png|250]]
+![[Filters-Actual-filter-types.png|250]]
 
 [[Laplace Transformation#Poles|Poles]] of the filters.
-![[Pasted image 20230914091121.png|250]]
+![[Filters-Actual-filter-types-1.png|250]]
 **Note:** [[Butterworth Filter|Butterworth]] lies on a circle around $(0, 0)$, with a radius of $j\omega_{a}$.
 ### Frekvensnormering
 Normering: $s \rightarrow s \cdot  \omega_{a}$.
@@ -33,7 +33,7 @@ $$F = \frac{\omega_{s}}{\omega_{a}}$$
 $\omega_{s}$: Stop band frequency
 $\omega_{a}$: Cutoff frequency
 The result it the $x$-axis on a plot like this:
-![[Pasted image 20230914092909.png|250]]
+![[Filters-Frekvensnormering.png|250]]
 You select the lowest order, that adheres to the specification, as higher order filter, are more complicated.
 
 ### Filter Order ($N$)

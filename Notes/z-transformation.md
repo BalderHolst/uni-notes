@@ -15,11 +15,11 @@ $Y(z)$: Output sequence
 
 **We cannot create a z-plane without a sample rate**.
 
-![[Pasted image 20231012084315.png|400]]
+![[z-transformation-Transfer-Function.png|400]]
 
 ### Lookup Tables
-![[Pasted image 20231012085739.png|center|450]]
-![[Pasted image 20231012092152.png|center|450]]
+![[z-transformation-Lookup-Tables.png|center|450]]
+![[z-transformation-Lookup-Tables-1.png|center|450]]
 
 #### Standard Transfer Functions
 ##### 1. Order

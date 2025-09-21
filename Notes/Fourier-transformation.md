@@ -19,8 +19,8 @@ $$
 >[[lektion1.pdf#page=4]]
 
 ### Tables
-![[Pasted image 20240102153415.png]]
-![[Pasted image 20240102153435.png]]
+![[Fourier-transformation-Tables.png|Pasted image 20240102153415.png]]
+![[Fourier-transformation-Tables-1.png|Pasted image 20240102153435.png]]
 
 ---
 #matematik #signals 

@@ -4,7 +4,7 @@ $$
 $$
 
 Curve segments are always integrated **counter clockwise**. Meaning the bounded region is *always in the left*.
-![[Pasted image 20231030202133.png|200]]
+![[Greens-Theorem.png|200]]
 
 You can go clockwise by simply making the expression negative.
 

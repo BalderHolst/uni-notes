@@ -7,7 +7,7 @@ A signal that can only be HIGH or LOW, can only represent one bit pr. signal ele
 
 A small number of signal levels is easier to parse the signal and lessens the effectes of distortion.
 
-![[Pasted image 20230912122012.png|450]]
+![[Signal-element.png|450]]
 
 ### Rate of signal elements
 $$S = c \cdot N \cdot \frac{1}{r}$$

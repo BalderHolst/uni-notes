@@ -3,7 +3,7 @@ See [[lecture5b.pdf#page=12|slides]].
 
 Use to find the most likely sequence given some input and a [[Dynamic Bayesian Networks|sensor and transition model]].
 
-![[Pasted image 20241019064242.png]]
+![[Viterbi-Algorithm.png|Pasted image 20241019064242.png]]
 
 $$
 \begin{align}

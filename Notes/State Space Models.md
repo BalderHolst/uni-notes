@@ -87,10 +87,10 @@ Large $\tau$ is *slow*
 Small $\tau$ is *FAST*
 
 ##### Step Response
-![[Pasted image 20240209083648.png|400]]
+![[State-Space-Models-Step-Response.png|400]]
 
 ##### Impulse Response
-![[Pasted image 20240209083723.png|400]]
+![[State-Space-Models-Impulse-Response.png|400]]
 
 ### Second Order Systems
 See [[Lecture 2 - Stability Analysis.pdf#page=14|slides]].
@@ -112,18 +112,18 @@ $$
 | $\zeta = 0$ | One real pole  | Critically Damenped |
 | $\zeta < 0$ | Complex poles  | Overdamped          |
 
-![[Pasted image 20240209084808.png|400]]
+![[State-Space-Models-Second-Order-Systems.png|400]]
 
 
 #### Under Damped
 ##### Impulse Response
-![[Pasted image 20240209085010.png|400]]
+![[State-Space-Models-Impulse-Response-1.png|400]]
 
 ##### Step Response
-![[Pasted image 20240209085121.png|400]]
+![[State-Space-Models-Step-Response-1.png|400]]
 
 ##### Bodeplot
-![[Pasted image 20240209085248.png|400]]
+![[State-Space-Models-Bodeplot.png|400]]
 
 #### Critically Damped
 See [[Lecture 2 - Stability Analysis.pdf#page=40|slides]].

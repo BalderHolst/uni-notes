@@ -2,9 +2,9 @@
 [[Lektion 1 - Filterfunktioner.pdf#page=28]]
 
 Høj forstærking ved lav orden
-![[Pasted image 20231225212534.png]]
+![[Chebyshev-Filter-Chebyshev.png|Pasted image 20231225212534.png]]
 #### 2dB
-![[Pasted image 20230914121712.png|450]]
+![[Chebyshev-Filter-2dB.png|450]]
 
 
 

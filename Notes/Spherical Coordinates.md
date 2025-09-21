@@ -7,7 +7,7 @@ $\phi$ : Vinkel opad
 $\theta$ : Vinklen fra $x$-aksen i $xy$-planen
 
 ---
-![[Pasted image 20231105163245.png|center|300]]
+![[Spherical-Coordinates.png|center|300]]
 
 ---
 

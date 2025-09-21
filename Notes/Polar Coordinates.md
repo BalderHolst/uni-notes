@@ -1,6 +1,6 @@
 # Polar Coordinates
 A two dimensional space described $r$ and $\theta$.
-![[Pasted image 20231230193938.png]]
+![[Polar-Coordinates.png|Pasted image 20231230193938.png]]
 
 #### Coordinates to Polar Coordinates
 $$

@@ -25,10 +25,10 @@ Use *capital letters for coefficients in $s$-domain*.
 - [[Bilineær z-transformation]]
 
 ##### Differences in Frequency Response
-![[Pasted image 20231107093021.png|center|300]]
+![[IIR-Filters-Differences-in-Frequency-Response.png|center|300]]
 
 ##### Differences in Impule Response
-![[Pasted image 20231107093152.png|center|300]]
+![[IIR-Filters-Differences-in-Impule-Response.png|center|300]]
 
 ---
 #signalprocessing

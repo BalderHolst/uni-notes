@@ -8,7 +8,7 @@ There are two Zeigler Nichols tuning methods:
 ### Based on Step Responce
 Consider a system with the following step response
 
-![[Pasted image 20240607152006.png|center|450]]
+![[Zeigler-Nichols-Tuning-Method-Based-on-Step-Responce.png|center|450]]
 
 The constants for a P, PI or PID controller can then be determined as follows
 
@@ -26,7 +26,7 @@ $$
 ### Ultimate Sensitivity Method
 Attach a P-controller to the system and turn up the gain until the system output oscilates. The gain is now the *ultimate gain* $K_u$. The period of the output signal is called $P_u$. PID controller constants can now be found with the following table.
 
-![[Pasted image 20240607152958.png]]
+![[Zeigler-Nichols-Tuning-Method-Ultimate-Sensitivity-Method.png|Pasted image 20240607152958.png]]
 
 | Controller | PID Gains              |
 | ---------- | :--------------------- |

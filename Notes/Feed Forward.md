@@ -3,7 +3,7 @@ See [[Lecture 11 - Integral Control.pdf#page=31|slides]].
 
 *Placing zeros* and thereby increasing [[Signal Bandwidth|bandwidth]].
 
-![[Pasted image 20240426092506.png|center|500]]
+![[Feed-Forward.png|center|500]]
 
 $$
 \begin{align}

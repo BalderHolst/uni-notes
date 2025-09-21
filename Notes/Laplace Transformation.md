@@ -23,12 +23,12 @@ $\alpha$: den karakteristikle ligning
 
 Pol = Singularitet i frekvensdomæne
 
-![[Pasted image 20230913215819.png]]
+![[Laplace-Transformation-Poles.png|Pasted image 20230913215819.png]]
 
 If poles are **on the imaginary axis** the impulse response will result in a constant oscillation at the frequency.
 
 ### Table
-![[Pasted image 20231208095254.png]]
+![[Laplace-Transformation-Table.png|Pasted image 20231208095254.png]]
 
 ---
 ## Inverse Laplace Transformation

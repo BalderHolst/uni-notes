@@ -1,7 +1,7 @@
 # Exponential Distribution
 Can model things like lifetimes of electronic components.
 
-![[Pasted image 20241107115517.png|center|300]]
+![[Exponential-Distribution.png|center|300]]
 
 $$
 X \sim \mathrm{Exp}(\beta)

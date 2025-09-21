@@ -21,7 +21,7 @@ $y(n)$: output in discrete time domain
 See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=35|slides]].
 
 This is the intuitive way to implement a discrete transfer function.
-![[Pasted image 20231229141244.png|center|350]]
+![[Digital-Realisation-Structures-Direct-Type-1.png|center|350]]
 
 #### Direct Type 2
 See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=46|slides]].
@@ -44,14 +44,14 @@ See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=46|slides]].
 >$$
 >
 >These two transfer functions can be realised like this:
->![[Pasted image 20231229142917.png|center|400]]
+>![[Digital-Realisation-Structures-Direct-Type-2-1.png|center|400]]
 >
 >The memory xells ($z^{-1}$) now share the same values and can be combined:
->![[Pasted image 20231229143502.png|center|400]]
+>![[Digital-Realisation-Structures-Direct-Type-2-2.png|center|400]]
 
 
 This is the **better way** of implementing a filter, as it stores half as many values resulting in a less expensive filter implementation.
-![[Pasted image 20231229141938.png|center|350]]
+![[Digital-Realisation-Structures-Direct-Type-2.png|center|350]]
 
 
 ---

@@ -1,7 +1,7 @@
 # Fejlberegning på Operationsforstærker
 See [[Noter lektion 2.pdf|lecture notes]].
 
-![[Pasted image 20240312083453.png]]
+![[Fejlberegning-på-Operationsforstærker.png|Pasted image 20240312083453.png]]
 $$
 V_{o} = A_\mathrm{OL} \cdot V_{id}
 $$

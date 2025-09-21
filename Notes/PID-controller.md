@@ -9,7 +9,7 @@ $$
 $u(s)$: reference transfer function
 $e(s)$: error transfer function
 
-![[Pasted image 20240607144028.png]]
+![[PID-controller.png|Pasted image 20240607144028.png]]
 or alternatively
 $$
 K(s) = K_{p} \left( 1 + \frac{1}{sT_{i}} + sT_d \right)
@@ -19,7 +19,7 @@ $K_p$: Constant gain of the controller
 $T_d$: Derivative time constant
 $T_i$: Integral time constant
 
-![[Pasted image 20240607144634.png]]
+![[PID-controller-1.png|Pasted image 20240607144634.png]]
 
 >[!Warning] Please add a Low Pass Filter!
 >Add a low pass filter to reduce the effect of noise on the D-term.

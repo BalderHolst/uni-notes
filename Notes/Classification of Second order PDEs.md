@@ -10,7 +10,7 @@ In a linear PDE the *sum of two solutions* is also a solution.
 
 ---
 $$A\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)^{2} - B \left(\frac{\mathrm{dy}}{\mathrm{dx}}\right) + C = 0$$
-![[Pasted image 20231120151321.png|center|550]]
+![[Classification-of-Second-order-PDEs.png|center|550]]
 
 
 ---

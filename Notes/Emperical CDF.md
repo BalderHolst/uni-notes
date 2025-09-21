@@ -9,7 +9,7 @@ $n$: Number of samples
 $I(X_{i} \leq x)$: $1$ if the inner statement is `true`, otherwise $0$.
 
 >[!example]- Example Plot
->![[Pasted image 20241128093128.png]]
+>![[Emperical-CDF.png|Pasted image 20241128093128.png]]
 
 ---
 #statistics

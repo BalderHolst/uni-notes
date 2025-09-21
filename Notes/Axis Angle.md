@@ -1,7 +1,7 @@
 # Axis Angle (Euler Vector)
 A way of defining a rotation with an axis and an angle. See [[Lecture 5 - Other Orientation Representations.pdf#page=30|slides]].
 
-![[Pasted image 20230622155121.png|300]]
+![[Axis-Angle-Euler-Vector.png|300]]
 
 Can be given seperately or combined:
 $$

@@ -5,7 +5,7 @@ Ways of getting from one point to another in a smooth and stylish fashion!
 
 >[!example]- Trapezoidal Velocity Profiles
 >A simple velocity profile. It does however result in high [[jerk]] which can result in wear on the motors. Therefore, [[#Cubic Polynomial Profiles]] are usually used instead.
->![[Pasted image 20230622100202.png]]
+>![[Velocity-Curves.png|Pasted image 20230622100202.png]]
 
 ## Cubic Polynomial Profiles
 $$
@@ -17,7 +17,7 @@ q(t) &= at^{3} + bt^{2} + ct + d \\
 \end{align}
 $$
 Because [[jerk]] is constant, the motion will be smooth, and the motor will therefore last longer. Higher order polynomials can also be used.
-![[Pasted image 20230622101336.png|300]]
+![[Velocity-Curves-Cubic-Polynomial-Profiles.png|300]]
 
 ##### Finding the constants
 Here we calculate the velocity profile in *joint space*.

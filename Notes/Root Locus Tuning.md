@@ -21,8 +21,8 @@ $$1 + KG(s) = 0$$
 Describes how the closed loop poles move in the $s$-place, when the $K$ changes. We move from the poles to the zeroes of the *open-loop* system.
 
 >[!example]- Examples of Locus Plots
->![[Pasted image 20240304095810.png]]
->![[Pasted image 20240304095732.png]]
+>![[Root-Locus-Tuning-Root-Locus-Plot-1.png|Pasted image 20240304095810.png]]
+>![[Root-Locus-Tuning-Root-Locus-Plot.png|Pasted image 20240304095732.png]]
 
 ##### Rules
 See [[Lecture 5 - Root Locus.pdf#page=52|slides]].

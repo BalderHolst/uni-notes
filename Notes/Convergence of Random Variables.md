@@ -28,7 +28,7 @@ $$
 ### Convergence Implications
 See [[lecture8.pdf#page=14|slide]].
 
-![[Pasted image 20241126092353.png|center|550]]
+![[Convergence-of-Random-Variables-Convergence-Implications.png|center|550]]
 
 $$
 \begin{align}
@@ -39,7 +39,7 @@ $$
 And if $X_{n} \rightsquigarrow X$ and $\mathbb{P}(X=c)=1$ where $c \in \mathbb{R}$, then $X_{n} \xrightarrow{\mathrm{P}} X$.
 
 #### With Multiple Variables
-![[Pasted image 20241126093309.png|center|600]]
+![[Convergence-of-Random-Variables-With-Multiple-Variables.png|center|600]]
 
 ---
 #statistics

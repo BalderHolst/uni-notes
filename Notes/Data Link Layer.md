@@ -4,12 +4,12 @@ See slides [[KOM - lecture 4a - Itslearning.pdf#page=6|here]] and more [[KOM - l
 Ways of dividing data into packets for transmission.
 
 ### Character-oriented framing
-![[Pasted image 20230926123006.png]]
+![[Data-Link-Layer-Character-oriented-framing.png|Pasted image 20230926123006.png]]
 
 Escape characters are used to send the flag without it being interpreted as a flag by the receiver.
 
 ### Bit-oriented framing
-![[Pasted image 20230926123459.png]]
+![[Data-Link-Layer-Bit-oriented-framing.png|Pasted image 20230926123459.png]]
 
 ## Flow and Error Control Protocols
 See [[KOM - lecture 4a - Itslearning.pdf#page=14|slides]].
@@ -19,10 +19,10 @@ The sender listens for a confirmation packet from the receiver. If it does not r
 
 ### Stop-and-Wait
 After a frame is sent, the sender waits for an ACK (acknowledgement) packet.
-![[Pasted image 20230926124212.png]]
+![[Data-Link-Layer-Stop-and-Wait.png|Pasted image 20230926124212.png]]
 
 This can be implements as two state machines:
-![[Pasted image 20230926124500.png]]
+![[Data-Link-Layer-Stop-and-Wait-1.png|Pasted image 20230926124500.png]]
 
 The **data-frames and ACK's are numbered** to ensure that the receiver does not send the data twice, if the ACK is lost/corrupted.
 
@@ -35,7 +35,7 @@ It is sometimes quite wasteful to transmit ACK packets, as it results in double 
 ### Point-to-Point
 [[KOM - lecture 4c - Itslearning.pdf|slides]].
 
-![[Pasted image 20230926133743.png|450]]
+![[Data-Link-Layer-Point-to-Point.png|450]]
 
 ---
 #datacommunication 

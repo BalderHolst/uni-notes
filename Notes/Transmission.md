@@ -12,7 +12,7 @@ $V_{2}$: Final Voltage
 
 ##### Distortion
 Different frequencies will be warped (in phase) differently as the signal travels. Therefore the receiver signal will be distorted.
-![[Pasted image 20230912120722.png|450]]
+![[Transmission-Distortion.png|450]]
 
 ##### Noise
 - *Thermal noise*: From random movements of electrons in the conductor.
@@ -24,7 +24,7 @@ Different frequencies will be warped (in phase) differently as the signal travel
 ### Signal-to-Noise ratio
 $$SNR=\frac{\text{average signal power}}{\text{average noise power}}$$
 $$SNR_{dB}  = 10 \cdot \log_{10}(SNR)$$
-![[Pasted image 20230912121313.png|450]]
+![[Transmission-Signal-to-Noise-ratio.png|450]]
 
 ### Data rate limit
 

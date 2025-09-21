@@ -1,7 +1,7 @@
 # Diskret Fourier Transformation
 See [[Lektion 3 - Introduktion til FFT.pdf|slides]].
 
-![[Pasted image 20230928091317.png]]
+![[Diskret-Fourier-Transformation.png|Pasted image 20230928091317.png]]
 
 Skalleringen ($1/N$) kan være i begge formler, bare den kun er i én af dem.
 $$X(m) = \frac{1}{N} \sum_{n=0}^{N-1}x(nT) W_{N}^{mn}$$

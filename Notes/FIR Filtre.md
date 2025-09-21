@@ -7,7 +7,7 @@ Ingen tilbagekobling: Afhænder kun a det nuværende og tidligere input
 
 $M$: Orden
 
-![[Pasted image 20231109085155.png|300]]
+![[FIR-Filtre.png|300]]
 ## Lineær fase
 FIR filter can have linear phase!
 
@@ -16,11 +16,11 @@ FIR filter can have linear phase!
 Nulpunker skal ligge i par således
 $$z_{1} = r\angle \phi, \s z_{2} = r/1\ \angle\phi$$
 Dette resulterer i nulpunkter der kunne ligge således.
-![[Pasted image 20231109083436.png|center|250]]
+![[FIR-Filtre-Nulpunkter.png|center|250]]
 
 #### Symetri
 Et FIR filter med lineær fase er altid spejlet over midterste sample:
-![[Pasted image 20231109083656.png|center|400]]
+![[FIR-Filtre-Symetri.png|center|400]]
 
 **Koefficienterne er symmetriske.**
 
@@ -28,7 +28,7 @@ Et FIR filter med lineær fase er altid spejlet over midterste sample:
 See [[lektion 10 - Introduktion til FIR filtre.pdf#page=54|slide]].
 $$H(z) = \sum_{i=0}^{2M} a_{i} \cdot z^{-i}$$
 
-![[Pasted image 20231109094441.png]]
+![[FIR-Filtre-Filtre-med-Fouré-Koefficienter.png|Pasted image 20231109094441.png]]
 #### Slides
 - [[lektion 10 - Introduktion til FIR filtre.pdf#page=59|lavpas]]
 - [[lektion 10 - Introduktion til FIR filtre.pdf#page=66|højpas]].
@@ -57,7 +57,7 @@ See [[lektion 11 - Design af FIR filtre.pdf#page=37|slides]].
 Konstruktionen af et FIR-filter kan forløbe efter følgende procedure
 1. Vælg vinduesfunktion. Dette valg foretagespå baggrund af specificerede stopbånds- og pasbåndsripple.
 2. Bestem ordenstal. Ordenstallet $2M$ bestemmes ud fra overgangsområde $\Delta f_{a}$.
-![[Pasted image 20231124105848.png]]
+![[FIR-Filtre-Bestem-filter.png|Pasted image 20231124105848.png]]
 $$M = \frac{B_{n} \cdot f_{s}}{2 \Delta f}$$
 $\Delta f$: Overgangsområde
 $B_{n}$: Den normerede main lobe bredde
