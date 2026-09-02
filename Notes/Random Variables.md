@@ -1,5 +1,5 @@
 # Random Variables
-See [[Lecture 12 - The KalmanFilter.pdf#page=29|slides]].
+See [[Lecture 12 - The KalmanFilter.pdf#page=29|slides from control]] and [[Lektion 1 slides.pdf#page=2|slides from statistics]].
 
 Variables that describe a range of outcomes.
 $$
@@ -41,6 +41,12 @@ $$
 f(x_1, x_2) = P(X_1 = x_1, X_2 = x_2)
 $$
 
+### Marginal PDF
+Integrate out a variable
+$$
+f(x_1) = \int_\mathbb{R}f(x_{1}, x_{2})\; \mathrm{d}x_2
+$$
+
 ### Mean
 $$
 \mu_{x_{2 \times 1}} =
@@ -80,9 +86,19 @@ $$
 ### Correlation Matrix
 
 $$
-\Rho
+\rho =
+\begin{bmatrix}
+1 & \rho_{12} \\
+\rho_{12} & 1 \\
+\end{bmatrix}
 $$
 
+$1$s encode that $x_1$ is 100% correlated with $x_1$ and the same for $x_2$.
+
+$$
+\rho_{ij} = \frac{\sigma_{12}}{\sqrt{\sigma_{1}^{2}}\sqrt{\sigma_{2}^{2}}}
+$$
+Values are *ALWAYS* between -1 and 1.
 
 ## Terminomogy
 | Symbol            | Term                                            |

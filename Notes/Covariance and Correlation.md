@@ -1,9 +1,9 @@
-# Covariance and Correlation
+# Covariance and Correlationn
 See [[lecture7.pdf#page=17|slides]].
 
 Let $X$ and $Y$ be random variables with [[Expectation|means]] $\mu_X$ and $\mu_Y$ and standard deviations $\sigma_X$ and $\sigma_Y$. Define **covariance** between $X$ and $Y$ as
 $$
-\mathrm{Cov}(X, Y) = \mathbb{E}\Big( (X - \mu_{X}) (Y - \mu_{Y})  \Big)
+\mathrm{Cov}(X, Y) = \mathbb{E}\Big[ (X - \mu_{X}) (Y - \mu_{Y})  \Big]
 $$
 ### Correlation
 ![[Covariance-and-Correlation-Correlation.png|center|400]]
