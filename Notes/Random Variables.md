@@ -22,6 +22,68 @@ $\sigma$ is the standard deviation which describes the spread of outcomes.
 >$X$: Random variable
 >$x$: Realization/Sample
 
+## 2D Random Variable
+
+> *We measure two things per sample*
+> \- Claus
+
+Outcome contains two scalar values
+$$
+x_{2 \times 1} =
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+
+Simultanious PDF
+$$
+f(x_1, x_2) = P(X_1 = x_1, X_2 = x_2)
+$$
+
+### Mean
+$$
+\mu_{x_{2 \times 1}} =
+\begin{bmatrix}
+\mu_{x_1} \\
+\mu_{x_2}
+\end{bmatrix}
+$$
+
+### Marginal Variances
+$$
+\begin{cases}
+\sigma_1^2 = \sigma_{11} = E[(X_1 - \mu_{x_1})^2] \geq 0  \\
+\sigma_2^2 = \sigma_{22} = E[(X_2 - \mu_{x_2})^2] \geq 0
+\end{cases}
+$$
+
+### Covariance
+$$
+\mathrm{Cov}(X_1, X_2) = \sigma_{12} = E[(X_1-\mu_{x_1})^2 (X_2-\mu_{x_2})^2 ]
+$$
+
+### Covariance Matrix
+(Marginal Variances Covariance Matrix)
+
+> [!Note] Sensitive to Units
+> We usually normalize this to a Correlation Matrix
+
+$$
+\Sigma =
+\begin{bmatrix}
+\sigma_1^2 & \sigma_{12} \\
+\sigma_{12} & \sigma^2_2
+\end{bmatrix}
+$$
+
+### Correlation Matrix
+
+$$
+\Rho
+$$
+
+
 ## Terminomogy
 | Symbol            | Term                                            |
 | ----------------- | ----------------------------------------------- |
