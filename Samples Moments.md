@@ -1,5 +1,8 @@
 # Samples Moments
+See [[Lektion 1 slides.pdf#page=3|slides]].
+
 We try to estimate the population mean and variance from the sampled population.
+
 
 See [[Multivariate Data Sets]].
 
@@ -26,8 +29,9 @@ Note that we use $\bar{X}$ in place of the true mean $\mu$. Doing this loses us 
 ##### Generalized Sample Variance
 Further simplification of the variance. We simplify the covariance to a single scalar value $|S|$.
 $$
-|S| = \mathrm{det}(S) = \frac{s_{ij}}{\sqrt{s_{i}^{2}}\sqrt{s_{j}^{2}}}
+|S| = \mathrm{det}(S) = \prod_{i=1}^{p} \lambda_{i,S}
 $$
+$\lambda$: Eigenvalues of $S$
 
 ##### Sample Correlation Matrix
 $$
@@ -38,6 +42,7 @@ r_{12} & 1      & \cdots & r_{2p} \\
 \vdots & \vdots & \ddots & \vdots \\
 r_{1p} & r_{2p} & \cdots & 1
 \end{bmatrix}
+,\quad \mathrm{where}\quad r_{ij} = \frac{s_{ij}}{\sqrt{s_{i}^{2}}\sqrt{s_{j}^{2}}}
 $$
 
 
