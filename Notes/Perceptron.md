@@ -42,6 +42,7 @@ Step 2:
 $$
 w \leftarrow \eta(y-\hat{y}) \cdot x + w
 $$
+$y$: Annotated data (ground truth)
 $\eta$: Learning rate
 
 ##### As Matrix Multiplication
