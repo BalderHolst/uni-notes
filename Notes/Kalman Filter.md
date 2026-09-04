@@ -5,7 +5,6 @@ See slides:
 - [[lecture7b.pdf|Intelligent Systems - Kalman Filter (Vector  Case)]]
 
 
-
 Both measurements and observer outputs are in represented as [[random variables]] to model measurement noise and observer inaccuracy.
 
 We define how *confident* we are in the *model* and *measurements* respectively by defining their [[covariance]].
@@ -40,7 +39,7 @@ $\hat{x}_{k+1|k}$: The prediction of $x$ at $k+1$ given information at sample $k
 
 $K_k$: is the "observer" gain for the Kalman filter.
 
-The **Kalman gain** is defines as
+The **Kalman gain** is defined as
 $$
 K_{k} = P_{k+1|k} C^{T} (CP_{k+1|k} C^{T} + R_{k})^{-1}
 $$
