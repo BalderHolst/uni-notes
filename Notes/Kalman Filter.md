@@ -9,6 +9,10 @@ Both measurements and observer outputs are in represented as [[random variables]
 
 We define how *confident* we are in the *model* and *measurements* respectively by defining their [[covariance]].
 
+> [!warning] Only a Locally Converging Filter
+> A kalman filter is *not guaratee* a stable output if your initial state is not set correctly. It is not globally converging.
+
+---
 #### Stages
 
 The Kalman filter works in two **stages**: *Prediction* and *update*. Every step results in a new [[Normalfordelingen|gaussian distribution]].
@@ -46,6 +50,15 @@ $$
 
 $R_{k}$: Inaccuracy of measurements
 $P_{k}$: Inaccuracy of model
+
+---
+
+## Input Properties
+
+The kalman filter is the *ideal filter* given the following requirements:
+- Only Linear Systems (in practice not so important)
+- Gausian Noise on measurements centered at 0
+- Samples must be independent
 
 ---
 #controlsystems
