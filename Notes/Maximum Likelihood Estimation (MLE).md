@@ -38,7 +38,7 @@ $$
 $$
 $\bar{x}$: Sample average
 
-We define the sample average $S_{p \times p}$ as follows:
+We define the sample covariance $S_{(p \times p)}$ as follows to get an unbiased estimator:
 $$
 S_{(p\times p)} = \hat{\Sigma} = \frac{n}{n-1} \hat{\Sigma}_{ML} \sim \frac{1}{n-1} W_{p}(\Sigma, n-1)
 $$
