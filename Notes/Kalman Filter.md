@@ -53,6 +53,13 @@ $P_{k}$: Inaccuracy of model
 
 ---
 
+## Implementation
+
+> [!tip]- Explaination and Psudocode
+> ![[kalman_filter_notes.pdf#page=5]]
+
+---
+
 ## Input Properties
 
 The kalman filter is the *ideal filter* given the following requirements:
