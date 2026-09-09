@@ -1,24 +1,8 @@
 # Multivariate Normal Distribution (MVN)
+See [[Lektion 2 slides.pdf#page=2|slides]].
 
-## 1D
-$$
-X \sim N(\mu, \sigma^2)
-$$
-where
-$$
-\begin{align}
-E[X] &= \mu \\
-V[X] &= \sigma^{2}
-\end{align}
-$$
+[[Notes/Normal Distribution|Normal distribution]] in multiple ($p$) dimensions.
 
-PDF:
-$$
-f(x) = \frac{1}{\sqrt{2\pi} \sigma} e^{\frac{1}{2} \frac{x-\mu}{\sigma}}, \;\;x\in\mathbb{R}
-$$
-
-
-## PD
 $$
 X =
 \begin{bmatrix}
@@ -28,10 +12,35 @@ x_{2} \\
 x_{p} \\
 \end{bmatrix}, \quad X_{(p\times 1)} \sim N_{p}(\mu, \Sigma)
 $$
+
+$$
+\begin{align}
+E[X] &= \mu \\
+\mathrm{Cov}[X] &= \Sigma
+\end{align}
+$$
+
 **PDF**
 $$
-exponent = - \frac{1}{2} (x - \mu)^T \Sigma^{-1}
+f_{X}(x)= (2\pi)^{-p}{2}\; |\Sigma|^{-\frac{1}{2}} \; \mathrm{exp}({- \frac{1}{2} (x - \mu)^T \Sigma^{-1}})
 $$
+
+> [!example]- 1D Normal Distribution
+> $$
+> X \sim N(\mu, \sigma^2)
+> $$
+> where
+> $$
+> \begin{align}
+> E[X] &= \mu \\
+> V[X] &= \sigma^{2}
+> \end{align}
+> $$
+> 
+> PDF:
+> $$
+> f(x) = \frac{1}{\sqrt{2\pi} \sigma} e^{\frac{1}{2} \frac{x-\mu}{\sigma}}, \;\;x\in\mathbb{R}
+> $$
 
 
 ---
