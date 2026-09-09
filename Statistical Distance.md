@@ -18,8 +18,10 @@ A model can be checked by making sure the statistical distance of a dataset foll
 
 $\alpha$: What fraction of the data is included in the region.
 
+To calculate where to make the "cut" on a MVN, calculate $\mathcal{X}^{2}(p)_{\alpha}$:
+
 $$
-\mathcal{X}^{2}(p) = \mathrm{chi2inv}(1-\alpha, p)
+\mathcal{X}^{2}(p)_{\alpha} = \mathrm{chi2inv}(1-\alpha, p)
 $$
 
 ### Outlier Detection

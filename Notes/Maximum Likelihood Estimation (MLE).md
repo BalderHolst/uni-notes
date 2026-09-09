@@ -3,8 +3,19 @@
 
 It is the **most optimal** estimator.
 
+
+$$
+L(\mu, \Sigma) = \prod_{j=1}^{n} f_{X}(x_{j}|\mu, \Sigma)
+$$
+We maximise this function to find the correct values of $\mu$ and $\Sigma$.
+
+$$
+\nabla L 
+$$
+
+
 ### Calculating
-Calculating MLE given samples $X = \set{X_{1}, X_{2}, \dots, X_{n}}$.
+Calculating MLE given samples $X = \set{x_{1}, x_{2}, \dots, x_{n}}$. These are [[IID|iid]] from the same population.
 
 1. Calculate the *likelihood* function.
 $$L(\theta | x) = \prod_{i=1}^{n} f(\theta, x_{i})$$
