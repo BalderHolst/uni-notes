@@ -26,18 +26,21 @@ $$
 $$
 
 $$
-\hat{\Sigma}_{ML} = \frac{1}{n} \sum_{j=1}^{n}(X_{j}-\mu)(X_{j} - \mu)^T
+\begin{align}
+\hat{\Sigma}_{ML} &= \frac{1}{n} \sum_{j=1}^{n}(x_{j}-\mu)(x_{j} - \mu)^{T} \quad \Rightarrow \quad E[\hat{\Sigma}_{ML}] = \Sigma \quad \mathrm{unbiased!} \\
+
+\hat{\Sigma}_{ML} &= \frac{1}{n} \sum_{j=1}^{n}(x_{j}-\bar{x})(x_{j} - \bar{x})^{T} \quad \Rightarrow \quad E[\hat{\Sigma}_{ML}] = \frac{n-1}{n} \Sigma \quad \mathrm{biased\ (not\ good)}
+\end{align}
 $$
 We usually don't have access to the correct mean, so we use an estimate instead:
 $$
-\hat{\Sigma}_{ML} = \frac{1}{n-1} \sum_{j=1}^{n}(x_{j}-\bar{x})(x_{j} - \bar{x})^T
+\hat{\Sigma}_{ML} = \frac{1}{n} \sum_{j=1}^{n}(x_{j}-\bar{x})(x_{j} - \bar{x})^T
 $$
 $\bar{x}$: Sample average
+
+We define the sample average $S_{p \times p}$ as follows:
 $$
-E[\hat{\Sigma}_{ML}] = \frac{n-1}{n} \Sigma
-$$
-$$
-S = \hat{\Sigma} = \frac{n}{n-1} \hat{\Sigma}_{ML} \sim \frac{1}{n-1} W_{p}(\Sigma, n-1)
+S_{(p\times p)} = \hat{\Sigma} = \frac{n}{n-1} \hat{\Sigma}_{ML} \sim \frac{1}{n-1} W_{p}(\Sigma, n-1)
 $$
 $W_{p}$: Wishart distribution
 
