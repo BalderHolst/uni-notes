@@ -1,7 +1,9 @@
 # Constant Density Contours
+See [[Bivariat distribution geometry and confidence ellipses - examples.pdf|slide examples]].
+
 "Slice" a pdf, to represent a distribution in a lower dimension.
 
-### For Normal Distributions
+## For Normal Distributions
 $$
 (x-\mu)^{T} \Sigma^{-1}(x-\mu ) = \mathrm{constant} = c^{2}
 $$
