@@ -4,15 +4,42 @@
 It is the **most optimal** estimator.
 
 
+## For [[Multivariate Normal Distribution|MVN]]
+
 $$
 L(\mu, \Sigma) = \prod_{j=1}^{n} f_{X}(x_{j}|\mu, \Sigma)
 $$
 We maximise this function to find the correct values of $\mu$ and $\Sigma$.
 
 $$
-\nabla L 
+\vec{\nabla} L = \vec{0} \quad\Rightarrow\quad
+
+\hat{\mu}_{ML} = \bar{X} = \frac{1}{n} \sum_{j=1}^{n}X_{j} \sim N_{p}(\mu, \Sigma/n)
+$$
+This is an *unbiased* estimator of $\mu$:
+$$
+E[\hat{\mu}_{ML}] = \mu
+$$
+Uncertainty decreases with number of samples $n$, it is *consistent*, of the estimate is given by:
+$$
+\mathrm{Cov}[\hat{\mu}_{ML}] = \frac{\Sigma}{n}
 $$
 
+$$
+\hat{\Sigma}_{ML} = \frac{1}{n} \sum_{j=1}^{n}(X_{j}-\mu)(X_{j} - \mu)^T
+$$
+We usually don't have access to the correct mean, so we use an estimate instead:
+$$
+\hat{\Sigma}_{ML} = \frac{1}{n-1} \sum_{j=1}^{n}(x_{j}-\bar{x})(x_{j} - \bar{x})^T
+$$
+$\bar{x}$: Sample average
+$$
+E[\hat{\Sigma}_{ML}] = \frac{n-1}{n} \Sigma
+$$
+$$
+S = \hat{\Sigma} = \frac{n}{n-1} \hat{\Sigma}_{ML} \sim \frac{1}{n-1} W_{p}(\Sigma, n-1)
+$$
+$W_{p}$: Wishart distribution
 
 ### Calculating
 Calculating MLE given samples $X = \set{x_{1}, x_{2}, \dots, x_{n}}$. These are [[IID|iid]] from the same population.
