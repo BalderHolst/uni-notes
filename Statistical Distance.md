@@ -9,7 +9,13 @@ X \sim \mathcal{N}_{p}(\mu,\Sigma) \quad\Rightarrow\quad d_{M}^{2}(x, \mu) := (x
 $$
 
 ### Model Check
-A model can be checked by making sure the statistical distance of a dataset follows the $\mathcal{X}^2$ distibution.
+
+> [!tip] Any Dimension!
+> This works in *any number of dimensions*!!
+
+A model can be checked by making sure the statistical distance of a dataset follows the $\mathcal{X}^2(p)$ distibution.
+
+We can use a qq-plot to compare a sampled distribution to the $\mathcal{X}^{2}(p)$ distribution.
 
 ### Confidence Regions
 

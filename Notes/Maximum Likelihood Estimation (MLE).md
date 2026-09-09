@@ -41,6 +41,10 @@ S = \hat{\Sigma} = \frac{n}{n-1} \hat{\Sigma}_{ML} \sim \frac{1}{n-1} W_{p}(\Sig
 $$
 $W_{p}$: Wishart distribution
 
+$$
+E[S] = \Sigma \quad \Rightarrow \quad \mathrm{unbiased :)}
+$$
+
 ### Calculating
 Calculating MLE given samples $X = \set{x_{1}, x_{2}, \dots, x_{n}}$. These are [[IID|iid]] from the same population.
 
