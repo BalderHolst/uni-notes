@@ -16,11 +16,14 @@ The drone **only recieves** signals!
 
 The satelites send an "almanac", which contains the locations of all satelites.
 
+Satelites send "chips" which are recognisable units of noise. These chips are so long, that the distance to the satelite can be determined by finding the position in the sequency.
+
 ##### 3 Satelite Navigation
 If only three satelites are available, a 2D position can be acuired by using a height map to remove the $z$ unknown.
 
 ##### Frequency Bands
 We choose frequency bands *least affected by water*.
+
 
 - $L_1$: 1575 MHz
 - $L_2$: 1227 MHz
@@ -31,5 +34,8 @@ These can be used to correct for signal latency due to the atmosphere.
 ##### Satelite "holes"
 It happens that an area of the sky contains no satelites at some times of day. This can be a problem in confined spaces.
 
+##### Ground Stations
+A ground station with an *known absolute position*, can be used to increase the accuacy of the GPS. The ground station is sending the *error for each satelite*. The drone subtracts the error for each satelite before doing calculations.
+
 ---
-#notag
+#drones
