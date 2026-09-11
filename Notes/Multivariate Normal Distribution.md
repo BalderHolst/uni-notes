@@ -6,10 +6,10 @@ See [[Lektion 2 slides.pdf#page=2|slides]].
 $$
 X =
 \begin{bmatrix}
-x_{1} \\
-x_{2} \\
+X_{1} \\
+X_{2} \\
 \vdots \\
-x_{p} \\
+X_{p} \\
 \end{bmatrix}, \quad X_{(p\times 1)} \sim N_{p}(\mu, \Sigma)
 $$
 

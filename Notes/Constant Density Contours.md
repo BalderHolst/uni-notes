@@ -14,7 +14,7 @@ Quadratic form -> elipsoids (hyperelipsoids in more dimensions)
 - Axis halflengths: $c\sqrt{\lambda_{i}}$, where $\lambda_{i}$ are the eigenvalues of $\Sigma$
 
 
-![[Pasted image 20260909124217.png|500]]
+![[Constant-Density-Contours-For-Normal-Distributions.png|500]]
 
 
 
