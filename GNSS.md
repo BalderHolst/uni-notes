@@ -5,6 +5,9 @@ $5\%$ of the time, accuracy is *worse* than $\pm 15$ meters.
 
 Absolute position changes *slowly* over time.
 
+**Coordinate Systems**:
+- [[Latitude and Longitude]] for *long distances*
+- 
 #### Functionallity
 Satelites (four or more) are broadcasting their time using *very accurate clocks*.
 
@@ -50,22 +53,6 @@ Needs more satelites (6 or more).
 
 We can't always get an RTK fixed position. It will cut out sometimes.
 
-##### Coordinate System
-![[Pasted image 20260911095035.png]]
-
-**Decimal Degrees**:
-N 55.36732 deg
-E 010.43192 deg
-
-**Decimal Minutes**:
-*Fraction times 60 -> minutes*
-N 55 deg 22.039' (minutes)
-E 010 deg 25.915' (minutes)
-
-**Decimal Minutes Seconds**:
-*Fraction of minutes times 60 -> seconds*
-N 55 deg 22'  02.4''
-E 010 deg 25' 54.9''
 
 ---
 #drones
