@@ -1,16 +1,21 @@
 # Power Spectral Density (PSD)
+See [[Lessons/Semester 7/ssp/Lektion 2 slides.pdf#page=3|slides]].
 
+Power pr. bandwidth (interval of frequenzy)
+
+### Power Spectral Density Function
 $$
 \begin{align}
-S_{xx}(w) &= F \{ R_{xx}(\tau) \} \\
+S_{xx}(w) &= \mathcal{F} \{ R_{xx}(\tau) \} \\
 &= \int_{-\infty}^{\infty} R_{xx}(\tau) e^{-jw\tau} \quad \left[\frac{v^{2}}{Hz}\right]
 \end{align}
 $$
 $\tau$: Lag ($t_{2} - t_{1}$)
 
+### Auto-correlation function
 $$
 \begin{align}
-R_{xx} &= F^{-1} \{ S_{xx}(w) \} \\
+R_{xx} &= \mathcal{F}^{-1} \{ S_{xx}(w) \} \\
 &= \frac{1}{\pi} \int_{-\infty}^{\infty} e^{jw\tau} dw
 \end{align}
 $$
