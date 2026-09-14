@@ -1,6 +1,8 @@
 # Stocastic Properties of Filters
 
 ### Linear-filtering of Random Signals
+See [[Lektion 3 slides.pdf#page=4|slide]].
+
 We assume that we know the filter.
 
 $$
@@ -19,16 +21,12 @@ $$
 $$
 $m$: Convolution dummy variable.
 
-$R_{yy}$
-
 $$
 R_{yy} = h(z) * h(-\tau) * R_{xx}(\tau)
 $$
 $$
 S_{yy} = \underbracket{|H(w)|^{2}}_\mathrm{Power\ Gain} \cdot S_{xx}(w)
 $$
-
-$P_y$
 
 For their correlaiton:
 
@@ -49,6 +47,7 @@ R_{yx}(\tau) &= R_{xy}(-\tau) \\
 &= h(-\tau) * R_{xx}
 \end{align}
 $$
+
 ##### PSD
 $$
 S_{xy}(w) = H(w) \cdot S_{xx}(w)
@@ -59,6 +58,20 @@ For system identification:
 $$
 \hat{H}(w) = \frac{\hat{S}_{xy}(w)}{\sigma_{x}^{2}}
 $$
+
+---
+
+### Non-linear Filters
+See [[Lektion 3 slides.pdf#page=6|slide]].
+
+Here we use a *coherence function*.
+
+$$
+Y^{2}_{xy}(w) = \frac{|S_{xy}(w)|^{2}}{S_{xx}(w)S_{yy}(w)} \quad 0 \leq Y^{2}_{xy}(w) \leq 1
+$$
+
+If the filter is linear, $Y_{xy}^{2}(w) = 1$. If it is less than $1$, non-linearities exist at the $w$ frequency.
+
 
 
 ---
