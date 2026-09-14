@@ -4,7 +4,7 @@
 We assume that we know the filter.
 
 $$
-X(t) \rightarrow \mathrm{filter} \rightarrow Y(t)
+X(t) \rightarrow \underbracket{H(w)}_\mathrm{filter} \rightarrow Y(t)
 $$
 We can now find the following properties of $X$: $\mu_x$, $R_{xx}$, $S_{xx}$ and $P_x$.
 
@@ -20,7 +20,14 @@ $$
 $m$: Convolution dummy variable.
 
 $R_{yy}$
-$S_{yy}$
+
+$$
+R_{yy} = h(z) * h(-\tau) * R_{xx}(\tau)
+$$
+$$
+S_{yy} = \underbracket{|H(w)|^{2}}_\mathrm{Power\ Gain} \cdot S_{xx}(w)
+$$
+
 $P_y$
 
 For their correlaiton:
@@ -42,7 +49,16 @@ R_{yx}(\tau) &= R_{xy}(-\tau) \\
 &= h(-\tau) * R_{xx}
 \end{align}
 $$
-
+##### PSD
+$$
+S_{xy}(w) = H(w) \cdot S_{xx}(w)
+$$
+For system identification:
+1. Feed the filter with white noise (contains all frequencies)
+2. Estimate the plat filter with
+$$
+\hat{H}(w) = \frac{\hat{S}_{xy}(w)}{\sigma_{x}^{2}}
+$$
 
 
 ---
