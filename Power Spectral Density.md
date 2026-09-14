@@ -39,6 +39,17 @@ $$
 2 \frac{1}{2\pi} \int_{w_{1}}^{w_{2}} S_{xx}(w)\ dw \quad [V^{2}]
 $$
 
+#### Effective Bandwidth
+$$
+2 \cdot \int_{0}^{\infty} S_{xx} (w)\ dw = 2 \cdot S_{xx}(0) \cdot B_\mathrm{eff}
+$$
+
+#### Bandpass Signal
+
+$$
+\int_{0}^{\infty} S_{xx} (w)\ dw = S_{xx}(w_{0}) \cdot B_\mathrm{eff}
+$$
+$B_\mathrm{eff}$: Width of the band
 
 ---
 #statistical-signal-processing
