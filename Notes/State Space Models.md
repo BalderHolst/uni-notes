@@ -1,6 +1,12 @@
 # State Space Models
 See [[Lecture 1 - Slides.pdf#page=32|slides]].
 
+$$
+\dot{x} = f(x, u)
+$$
+
+### Linear Models
+
 The system is designated as
 $$
 \dot{x} = Ax + Bu
