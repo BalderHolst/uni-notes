@@ -1,4 +1,6 @@
 # Hypothesis Testing
+Most useful for *comparing*.
+
 Test if an alternative hypothesis is worth accepting or rejecting as opposed to the currently accepted hypothesis.
 
 $H_{0}$: Null hypothesis; currently accepted hypothesis
