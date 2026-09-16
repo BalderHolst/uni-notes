@@ -45,7 +45,7 @@ $F$: [[Fisher Distribution]]
 #### Test
 Calculate the test-statistic $T^{2}_{0}$ by using estimates and $H_{0}$.
 
-If $T_{2}$ is *big*, we *reject* the hypothesis.
+If $T_{0}$ is *big*, we *reject* the hypothesis.
 
 We use an $\alpha$ value (level of significance) to determine if $T^{2}$ should be reject. Usually set to **5%**. This means that we have a 5% chance of rejecting $H_{0}$, even if it was true.
 
@@ -66,7 +66,7 @@ We can also calculate the p-value to se how much we reject the hypothesis.
 $$
 \begin{align}
 p_\mathrm{value} &= \mathbf{P}\left[ F(p, n-p) > \frac{n-p}{p(n-1)} t_{0}^{2}\right] \\
-&= 1 - \mathrm{fcdf}\left(\frac{n-p}{p(n-1)}, t_{0}^{2}, p,n-p\right)
+&= 1 - \mathrm{fcdf}\left(\frac{n-p}{p(n-1)} t_{0}^{2}, p,n-p\right)
 \quad \leftarrow \quad \mathrm{for\ calculating}
 \end{align}
 $$
