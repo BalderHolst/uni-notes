@@ -51,7 +51,7 @@ We use an $\alpha$ value (level of significance) to determine if $T^{2}$ should 
 
 Matlab function to accomplish this:
 ```matlab
-finv(1 - alpha), p, n-p
+finv(1 - alpha, p, n-p)
 ```
 This calculates: $F(p, n-p)_{\alpha}$.
 
@@ -70,7 +70,13 @@ p_\mathrm{value} &= \mathbf{P}\left[ F(p, n-p) > \frac{n-p}{p(n-1)} t_{0}^{2}\ri
 \quad \leftarrow \quad \mathrm{for\ calculating}
 \end{align}
 $$
-
+$\mu$: Multidimensional variable!
+$\bar{x}$: Multidimensional average
+$S$: Sample Covariance
+$p$: Dimensions
+$n$: Sample Count
+$\alpha$: Level of significance
+$F$: Fisher distribution
 
 ---
 
