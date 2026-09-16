@@ -31,7 +31,27 @@ pD: $\mathbf{P}(\mu \in I_{\mu_{1}, \dots, \mu_{n})} \approx \mathbf{P}((1-\alph
 *Intuition*: We are less confiedent if multiple statements have to be true.
 
 ##### Bonferroni CI's
-Choose $\alpha_{B} \overset{\mathrm{def}}{=} \frac{\alpha}{p}$, and use this instead of $\alpha$. It compensates for 
+***Best approximation!***
+
+Choose $\alpha_{B} \overset{\mathrm{def}}{=} \frac{\alpha}{p}$, and use this instead of $\alpha$. It approximately compensates for the simultanious uncertainty.
+
+Same as naive approach, but with $\alpha_{B}$:
+$$
+\left[\bar{x_{i}} \pm t(n-1)_{ \alpha_B / 2 } \sqrt{\frac{S_{ii}}{n}}\right]
+\quad i=1,\dots,p
+$$
+
+> [!warning]- Approximation
+> This is an approximatin, but a relatively good approximation. The key assumption is that $\alpha$ is much less that 1.
+> $$\alpha << 1 \Rightarrow (1-\alpha)^{p} \approx 1 - \alpha p$$
+> This is a 1st order [[Taylorpolynomium|taylorseries]] approximation.
+
+##### Simultanious CI's
+Too wide.
+$$
+\bar{x_{i}} \pm \sqrt{\frac{p(n-1)}{n-p} F(p, n-p)_{\alpha} \sqrt{\frac{S_{ii}}{n}}}
+\quad i = 1,\dots,n
+$$
 
 
 ---
