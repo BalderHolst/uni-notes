@@ -12,6 +12,7 @@ $\hat{\theta}_{n}$: Parameter estimate
 $z_{\alpha / 2}$: The value on the [[Z-distribution|standard normal distribution]] that satisfies the confidence level $\alpha$ (two sided).
 $\widehat{\mathrm{se}}$: [[Standard error]] estimate
 
+In multiple dimensions it becomes a [[Confidence Region]].
 
 
 ---
