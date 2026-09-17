@@ -21,7 +21,7 @@ $$
 
 #### Mean Square Error ([[Mean Square Error (MSE)|MSE]]):
 $$
-\nabla L = \left( - \frac{2}{n} \sum x_{i}e_{i}m,\ - \frac{2}{n} \sum e_{i}\right)
+\nabla L = \left[ - \frac{2}{n} \sum x_{i}e_{i}m,\ - \frac{2}{n} \sum e_{i}\right]
 $$
 **Closed from MSE**:
 
@@ -57,7 +57,7 @@ $Y$: Output / Target values in the dataset
 
 Optimized weights:
 $$
-w = (X^{T}X)^{-1} X^{T}Y
+W = (X^{T}X)^{-1} X^{T}Y
 $$
 #### Mean Absolute Error ([[Mean Absolute Error (MAE)|MAE]]):
 $$
@@ -65,6 +65,13 @@ $$
 $$
 A closed form solution *does not exist*.
 
+
+### Evaluation
+$$
+R^{2} = 1 - \frac{\sum(y-\hat{y})^{2}}{\sum (y - \bar{y})^{2}}
+\quad \in\; [-\infty, 1]
+$$
+$\bar{y}$: Average
 
 ---
 #machine-learning
