@@ -7,9 +7,23 @@ We *always* split our date into three buckets:
 ### Training
 Establis parameters of the model
 
+```psudocode
+for epoch in N {
+	- forward pass
+	- backward pass
+	- update network
+}
+```
+
 ### Validation
 Hyper parameters
 Decission (threshold)
+
+Calculate
+- Forward pass
+- Average Loss
+
+Retrain with different parameters if nessecary.
 
 ### Test
 > "A seperate *holy* dataset"

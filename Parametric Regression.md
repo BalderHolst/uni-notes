@@ -1,0 +1,8 @@
+# Parametric Regression
+
+
+
+
+
+---
+#machine-learning
