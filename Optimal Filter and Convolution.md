@@ -6,13 +6,15 @@ $$
 \rightarrow \underset{\mathrm{Bluring\ Filter}}{G(f)}
 \rightarrow+
 \underset{\mathrm{Noise}}{W(n)}
-\underset{}{\rightarrow}
+\rightarrow
+\underset{\mathrm{Observed\ Signal}}{X(n)}
+\rightarrow
 \underset{\mathrm{Wiener\ Filter}}{H(f)} \rightarrow
 \underset{\mathrm{Estimate}}{\hat{Y}(n)}
 $$
 
 **Assumptions**:
-$G(f)$ is *known*. $W(n)$ and $Y(n)$ are WSS.
+$G(f)$ is *known*. $W(n)$ and $Y(n)$ are WSS which means that $R_{ww}$ and $R_{yy}$ are known.
 
 ## Finding the Optimal Filter
 We define a cost function to minimize $H(f)$ and $h(n)$:
@@ -79,8 +81,9 @@ h(M_{2}) \\
 $$
 
 $$
-\b
-\vec{h}_\mathrm{opt} = R_{xx}^{-1} \bullet \vec{r}_{xy}
+\begin{align}
+\vec{h}_\mathrm{opt} &= R_{xx}^{-1} \cdot \vec{r}_{xy}
+\end{align}
 $$
 
 > [!warning] Downsides
