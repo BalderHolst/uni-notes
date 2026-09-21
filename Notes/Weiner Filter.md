@@ -1,4 +1,4 @@
-# Optimal Filter and Convolution
+# Weiner Filter
 See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
 
 $$
@@ -14,7 +14,10 @@ $$
 $$
 
 **Assumptions**:
-$G(f)$ is *known*. $W(n)$ and $Y(n)$ are WSS which means that $R_{ww}$ and $R_{yy}$ are known.
+$G(f)$ is *known* or estimated from a datasheet. $W(n)$ and $Y(n)$ are WSS which means that $R_{ww}$ and $R_{yy}$ are known.
+
+> [!warning] Downsides
+> Requres stationary conditions! In a changing enviornment, it has to be constantly recalculated.
 
 ## Finding the Optimal Filter
 We define a cost function to minimize $H(f)$ and $h(n)$:
@@ -86,8 +89,6 @@ $$
 \end{align}
 $$
 
-> [!warning] Downsides
-> Requres stationary conditions!
 
 #### IIR Weiner Filter
 See [[IIR Filters]] and [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=4|slides]].
@@ -101,6 +102,11 @@ $$
 
 > [!tip] Intuition
 > For high signal-to-noise ratios (SNR) $H(f) \approx 1$, so we keep the signal. And the oppossite for low SNRs.
+
+#### Deconvolution
+See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=5|slide]].
+
+We try to reverse the effects of $G(f)$ and remove noise *at the same time*.
 
 ---
 #statistical-signal-processing
