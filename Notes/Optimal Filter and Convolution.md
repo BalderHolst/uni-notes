@@ -89,6 +89,18 @@ $$
 > [!warning] Downsides
 > Requres stationary conditions!
 
+#### IIR Weiner Filter
+See [[IIR Filters]] and [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=4|slides]].
+$$
+\hat{Y}(n) = \sum_{-\infty}^{\infty} h(m)X(n-m)
+$$
+
+$$
+H(f) = \frac{S_{xy}(f)}{S_{xx}(f)}
+$$
+
+> [!tip] Intuition
+> For high signal-to-noise ratios (SNR) $H(f) \approx 1$, so we keep the signal. And the oppossite for low SNRs.
 
 ---
 #statistical-signal-processing
