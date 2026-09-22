@@ -1,6 +1,8 @@
 # Weiner Filter
 See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
 
+Optimal Filter for filtering noise from a desired signal.
+
 $$
 \underset{\mathrm{Desired\ Signal}}{Y(n)}
 \rightarrow \underset{\mathrm{Bluring\ Filter}}{G(f)}
