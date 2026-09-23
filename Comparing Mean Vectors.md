@@ -5,6 +5,7 @@ Two ways:
 - [[#Paired Test|Paired Comparison]] (*Best*, but not always possible)
 - Non-paired (Always possible)
 
+---
 ## Paired Test
 High *power* (ability to reject a hyposthesis if I should). Simple.
 
@@ -110,6 +111,44 @@ $$
 \hat{\Sigma} = S_{p} = \frac{ (n_{1} - 1) S_{1} + (n_{2} - 1)S_{2} }{n_{1}+n_{2}-2}
 $$
 In the case $n_{1} = n_{2}$, this is a simple average.
+
+**Test Statistic**:
+$$
+T^{2}_{0} = [(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}]^{T} 
+\left[\left(\frac{1}{n_{1}} + \frac{1}{n_{2}}\right) S_{p}\right]^{-1}
+[(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}]
+ \sim
+ \frac{ p(n_{1} + n_{2} - 2) }{ n_{1} + n_{2} - p - 1}
+ F(p, n_{1} + n_{2} - p - 1)
+$$
+
+If
+$$
+t_{0}^{2} > 
+ \frac{ p(n_{1} + n_{2} - 2) }{ n_{1} + n_{2} - p - 1}
+ F(p, n_{1} + n_{2} - p - 1)_{\alpha}
+ \quad \Rightarrow \quad \mathrm{reject}\ H_{0}
+$$
+
+##### CASE 2: Heteroscedasticity
+$$
+\Sigma_{1} \neq \Sigma_{2}
+$$
+Here we to a **large sample approximate test**.
+$$
+n_{1} \gg p, \quad n_{2} \gg p
+$$
+$$
+T_{0}^{2} =
+[(\bar{X_{1}} - \bar{X_{2}}) -\delta_{0}]^{T}
+\left(\frac{S_{1}}{N_{1}} + \frac{S_{2}}{N_{2}}\right)^{-1}
+[(\bar{X_{1}} - \bar{X_{2}}) -\delta_{0}]
+\sim \chi^{2}(p)
+$$
+If
+$$
+t_{0}^{2} > \chi^{2}(p)_{\alpha} \quad \Rightarrow \quad \mathrm{Reject}\ H_{0}
+$$
 
 ---
 #statistics
