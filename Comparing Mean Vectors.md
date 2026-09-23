@@ -82,10 +82,34 @@ X_{2j} \sim N_{p}(\mu_{2}, \Sigma_{2}), \quad j = 2,\dots,n_{2}
 $$
 Best if $n_{1} \approx n_{2}$. This is a *balanced* dataset.
 
-Same hypothesis as in [[#paired Test]]
+Same hypothesis as in [[#paired test]].
 
 $H_{0}$: $\mu_{1} - \mu_{2} \overset{?}{=} \delta_{0}$ (most often $\delta_{0} = 0$)
-$H_{1}$: $\mu_{1} - \mu_{2} \overset{?}{\neq} \delta_{0}$
+$H_{1}$: $\mu_{1} - \mu_{2} \neq \delta_{0}$
+
+**Estimates**:
+$$
+\begin{align}
+\hat{\mu_{1}} = \bar{X_{1}} \sim N_{p}\left(\mu_{1}, \frac{\Sigma_{1}}{n}\right) \\
+\hat{\mu_{2}} = \bar{X_{2}} \sim N_{p}\left(\mu_{2}, \frac{\Sigma_{2}}{n}\right)
+\end{align}
+$$
+
+We now split in two cases
+
+##### CASE 1: Homoscedasticity
+
+$$
+\Sigma_{1} = \Sigma_{2} := \Sigma
+$$
+
+We use a [[Bartlett Test]] to determine if this can be true.
+
+Because we know that covariances to be equal, se can use *both* estimates ($S_{1}$ and $S_{2}$) to get a common estimate $S_{p}$. We use a **pooled estimate**:
+$$
+\hat{\Sigma} = S_{p} = \frac{ (n_{1} - 1) S_{1} + (n_{2} - 1)S_{2} }{n_{1}+n_{2}-2}
+$$
+In the case $n_{1} = n_{2}$, this is a simple average.
 
 ---
 #statistics
