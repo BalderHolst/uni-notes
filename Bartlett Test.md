@@ -40,11 +40,12 @@ $$
 c = 1 - \frac{2p^{2} + 3p - 1}{6(p+1)}\left(\frac{1}{n_{1}-1} + \frac{1}{n_{2}-1} - \frac{1}{n_{1} + n_{2} - 2}\right) \approx 1\ \mathrm{usually}
 $$
 
+
 This is usually close to $1$, and doesn't make much of a difference. Crazy formula though...
 
 If
 $$
-t_{B} > \chi^{2}\left(p \frac{p+1}{2}\right) \quad \Rightarrow \quad \mathrm{reject}\ H_{0}
+t_{B} > \chi^{2}\left(p \frac{p+1}{2}\right)_{\alpha} \quad \Rightarrow \quad \mathrm{reject}\ H_{0}
 $$
 **Rejection will happen often**, as the bartlett test is hard to pass. You may have to accept $H_{0}$ in some cases if it is just outside of a $95\%$ confidence, if that is acceptable.
 
