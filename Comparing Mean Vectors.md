@@ -1,0 +1,8 @@
+# Comparing Mean Vectors
+
+
+
+
+
+---
+#statistics
