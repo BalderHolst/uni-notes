@@ -143,7 +143,7 @@ $$
 $$
 T_{0}^{2} =
 [(\bar{X_{1}} - \bar{X_{2}}) -\delta_{0}]^{T}
-\left(\frac{S_{1}}{N_{1}} + \frac{S_{2}}{N_{2}}\right)^{-1}
+\left(\frac{S_{1}}{n_{1}} + \frac{S_{2}}{n_{2}}\right)^{-1}
 [(\bar{X_{1}} - \bar{X_{2}}) -\delta_{0}]
 \sim \chi^{2}(p)
 $$
