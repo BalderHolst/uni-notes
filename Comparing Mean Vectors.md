@@ -114,12 +114,14 @@ In the case $n_{1} = n_{2}$, this is a simple average.
 
 **Test Statistic**:
 $$
-T^{2}_{0} = [(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}]^{T} 
+\begin{align}
+T^{2}_{0} &= [(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}]^{T} 
 \left[\left(\frac{1}{n_{1}} + \frac{1}{n_{2}}\right) S_{p}\right]^{-1}
-[(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}]
- \sim
+[(\bar{X}_{1} - \bar{X}_{2}) - \delta_{0}] \\
+ &\sim
  \frac{ p(n_{1} + n_{2} - 2) }{ n_{1} + n_{2} - p - 1}
  F(p, n_{1} + n_{2} - p - 1)
+\end{align}
 $$
 
 If
@@ -148,6 +150,16 @@ $$
 If
 $$
 t_{0}^{2} > \chi^{2}(p)_{\alpha} \quad \Rightarrow \quad \mathrm{Reject}\ H_{0}
+$$
+[[Multiple 1D Confidence Intervals|Confidence intervals]]:
+$$
+\left[
+(\bar{X_{1i}} - \bar{X_{2i}}) \pm t(n_{1} + n_{2} - 2)_{\alpha / 2p} \sqrt{
+\frac{S_{1ii}}{n_{1}}
+\frac{S_{2ii}}{n_{2}}
+}
+\right],
+\quad i = 1, \dots, p
 $$
 
 ---
