@@ -28,6 +28,11 @@ $H_{1}$: $\mu_{1} - \mu_{2} \overset{?}{\neq} \delta_{0}$
 
 $\delta_{0}$: Hypothesised difference
 
+> [!info] Proving a new method is better!
+> To show a new method is better, we would hypothiesize $\delta_{0} = 0$ and then hopefully reject it.
+> Of course, we have to make sure your new mean is better and not worse.
+
+
 **Estimates**:
 
 $$
@@ -55,6 +60,32 @@ t_{0}^{2} >
 \quad
 $$
 
+We can now draw a [[Confidence Region|confidence region]], or do [[Multiple 1D Confidence Intervals|confidence intervals]]. All for $\delta_{0}$.
+
+If the confidence region contains $0$, we confirm $\delta_{0} = 0$.
+
+#### Bonferroni
+$$
+\left[\bar{D}_{j} \pm t(n-1)_{\alpha / 2p} \cdot \sqrt{\frac{S_{D,jj}}{n}}\right]
+$$
+
+---
+
+## Non-paired test
+Observations are *not in pairs*. Random samples from multiple populations. **Populations are independent**. Number of samples can be different.
+
+$$
+\begin{align}
+X_{1j} \sim N_{p}(\mu_{1}, \Sigma_{1}), \quad j = 1,\dots,n_{1} \\
+X_{2j} \sim N_{p}(\mu_{2}, \Sigma_{2}), \quad j = 2,\dots,n_{2}
+\end{align}
+$$
+Best if $n_{1} \approx n_{2}$. This is a *balanced* dataset.
+
+Same hypothesis as in [[#paired Test]]
+
+$H_{0}$: $\mu_{1} - \mu_{2} \overset{?}{=} \delta_{0}$ (most often $\delta_{0} = 0$)
+$H_{1}$: $\mu_{1} - \mu_{2} \overset{?}{\neq} \delta_{0}$
 
 ---
 #statistics
