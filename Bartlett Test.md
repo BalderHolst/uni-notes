@@ -15,11 +15,13 @@ $H_{0}$: $\Sigma_{1} \overset{?}{=} \Sigma_{2}$
 $H_{1}$: $\Sigma_{1} \neq \Sigma_{2}$
 
 For this, we use a [[Likelihood Ratio Test]].
+
 **Unconstrained Model**: $\Sigma_{1}, \Sigma_{2}$ (different)
 **Constrained Model**: $\Sigma_{1} = \Sigma_{2} = \Sigma$
 
 #### Test Statistic
 First, find $S_{1}$, $S_{2}$ and $S_{p}$.
+
 
 $$
 T_{B} = c \Big[
@@ -29,6 +31,7 @@ T_{B} = c \Big[
 \Big]
 \sim \chi^{2}(\mathrm{df} - \mathrm{df}_{H_{0}})
 $$
+$S_{p}$: $\frac{ (n_{1} - 1) S_{1} + (n_{2} - 1)S_{2} }{n_{1}+n_{2}-2}$
 $\mathrm{df}$: Number of elements in $\Sigma_{1}$, $\Sigma_{2}$
 $\mathrm{df}_{H_{0}}$: Number of elements in $\Sigma$
 
@@ -38,6 +41,12 @@ c = 1 - \frac{2p^{2} + 3p - 1}{6(p+1)}\left(\frac{1}{n_{1}-1} + \frac{1}{n_{2}-1
 $$
 
 This is usually close to $1$, and doesn't make much of a difference. Crazy formula though...
+
+If
+$$
+t_{B} > \chi^{2}\left(p \frac{p+1}{2}\right) \quad \Rightarrow \quad \mathrm{reject}\ H_{0}
+$$
+**Rejection will happen often**, as the bartlett test is hard to pass. You may have to accept $H_{0}$ in some cases if it is just outside of a $95\%$ confidence, if that is acceptable.
 
 ---
 #statistics

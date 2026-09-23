@@ -1,4 +1,4 @@
-# Covariance and Correlationn
+# Covariance and Correlation
 See [[lecture7.pdf#page=17|slides]].
 
 Let $X$ and $Y$ be random variables with [[Expectation|means]] $\mu_X$ and $\mu_Y$ and standard deviations $\sigma_X$ and $\sigma_Y$. Define **covariance** between $X$ and $Y$ as
