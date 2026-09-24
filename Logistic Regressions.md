@@ -30,22 +30,10 @@ $$
 \end{align}
 $$
 
+Closed form solution:
 $$
 W = (X^{T}X)^{-1} X^{T}y
 $$
-#### Beware of overfitting
-![[Pasted image 20260924124855.png|500]]
 
-#### Ridge / L2 Loss Function
-![[Ridge - L2]]
-
-$$
-W = (X^{T}X + \lambda I)^{-1} X^{T}y
-$$
-$W$: weight vector
-$X$: Data vector
-$I$: [[Identity Matrix]]
-$\lambda$: Ri
-
----
-#machine-learning
+#### L1 and L2 loss function
+We can also
