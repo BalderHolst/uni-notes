@@ -30,10 +30,7 @@ $$
 \end{align}
 $$
 
-Closed form solution:
-$$
-W = (X^{T}X)^{-1} X^{T}y
-$$
-
 #### L1 and L2 loss function
-We can also
+We can also use a loss function that punishes the number of parameters in the model. For this we have two options:
+- [[L1 (Lasso Regularization)]]
+- [[L2 (Ridge Regularization)]]
