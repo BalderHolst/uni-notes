@@ -43,6 +43,7 @@ $$
 \mathrm{Precision} = \frac{TP}{TP + FP}
 $$
 **Recall**
+How many of the detected positives are *actual* ground truth positives.
 $$
 \mathrm{Recall} = \frac{TP}{TP + FN}
 $$

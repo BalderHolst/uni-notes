@@ -3,6 +3,9 @@ Working with uncertain data.
 
 ---
 
+![[statistics-subject.base]]
+
+
 ## Notes
 
 ```dataview
