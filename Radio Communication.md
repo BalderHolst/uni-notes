@@ -1,6 +1,7 @@
 # Radio Communication
 Electromagnetic waves, therefore the same properties and light.
 
+A good antenna has a length of half the wave length.
 
 Propagates in straight lines until it hits a mass. Here it can reflect or refract.
 ![[Pasted image 20260925085954.png|400]]
@@ -30,6 +31,9 @@ The rotation is reversed when the wave hits a mass.
 **UHF**: 300Mhz - 3Ghz
 **SHF**: 3Ghz - 30Ghz
 **EHF**: 30Ghz - 300Ghz
+
+#### ISM
+Free for use frequencies with certified hardware.
 
 
 ---
