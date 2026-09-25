@@ -45,12 +45,35 @@ An antenna should be half the wavelength of the desired wave. It also has to be 
 The electric field ocillation enduces a current in the antenna. 
 
 Gain for transmission = Gain for reception.
+
+Strength decreases with the *square of the distance*.
 ##### Point Antenna
 Theoretical antenna, an unfinetly small point. Transmits signals in a sphere, therefore it is *isotropic*. $0\ \mathrm{dBi}$.
 
 ##### Dipole Antenna
 It transmits more power in one direction.
 $$ 0\ \mathrm{dBd} = 2.15\ \mathrm{dBi}$$
+##### Ground Place Antenna
+Works exactly like the dipole.
+ 
+Good for when you don't know where you are receiving/transmitting to.
+
+##### Reflector (Yagi-Uda Antenna) 
+Directional antenna. Good when you *know* where your recipient is.
+
+#### Radio Link Budget
+You have a transmitter (Tx) and a receiver (Rx).
+
+*QUESTION*: Do we have enough signal strength to reveive the signal?
+
+1. Cable loss
+2. Antenna gain
+3. Transmission loss (FSPL - Free Space Path Loss)
+4. Receiver antenna loss
+5. Cable
+
+To answer the question, look at *signal-to-noise-ratio* (SNR) on the receiver. 
+
 
 ---
 #drones
