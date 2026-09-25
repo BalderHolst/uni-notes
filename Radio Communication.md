@@ -24,9 +24,7 @@ The rotation is reversed when the wave hits a mass.
 
 #### Radio Spectrum
 **VLF**: 3kHz - 30kHz
-**LF**: 30kHz - 300kHz
-**MF**: 300kHz - 3Mhz
-**HF**: 3Mhz - 20Mhz
+**LF**: 30kHz - 300kHz **MF**: 300kHz - 3Mhz **HF**: 3Mhz - 20Mhz
 **VHF**: 30Mhz - 300Mhz
 **UHF**: 300Mhz - 3Ghz
 **SHF**: 3Ghz - 30Ghz
@@ -35,6 +33,24 @@ The rotation is reversed when the wave hits a mass.
 #### ISM
 Free for use frequencies with certified hardware.
 
+#### Power
+Power dB is *scaled diffrently* than voltage and curent. We multiply by $10$, not $20$ as usual.
+$$
+\mathrm{dB} = 10 \cdot \log_{10} \frac{P_{1}}{P_{2}}
+$$
+
+#### Antennas
+An antenna should be half the wavelength of the desired wave. It also has to be correctly polerized.
+
+The electric field ocillation enduces a current in the antenna. 
+
+Gain for transmission = Gain for reception.
+##### Point Antenna
+Theoretical antenna, an unfinetly small point. Transmits signals in a sphere, therefore it is *isotropic*. $0\ \mathrm{dBi}$.
+
+##### Dipole Antenna
+It transmits more power in one direction.
+$$ 0\ \mathrm{dBd} = 2.15\ \mathrm{dBi}$$
 
 ---
 #drones
