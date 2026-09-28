@@ -14,7 +14,7 @@ graph LR
     G["$$G(f)$$"]:::box
     X["$$X(n)$$"]:::text
     H["$$H(f)$$"]:::box
-    Yhat["$$\hat{Y(n)}$$"]:::text
+    Yhat["$$\hat{Y}(n)$$"]:::text
 
     Y --> G
     G --> Sum
