@@ -20,8 +20,6 @@ $\Gamma$: Input matrix
 $C$: Output matrix
 $D$: Feedthrough
 
-
-
 ### Stability
 See [[Lecture 2 - Stability Analysis.pdf#page=63|slides]].
 
@@ -30,6 +28,27 @@ See [[Lecture 2 - Stability Analysis.pdf#page=63|slides]].
 2. Identify (or select) state variables
 **Hint:** Variables are the ones with derivatives!
 3. Organize your D.E.'s so that they are in the canonical forms.
+
+### Poles
+Poles exist where
+$$
+|zI - A| = 0
+$$
+The poles of $H(z)$ (equivalent transfer function) are the same as the eigenvalues of $A$. If $A$ is $n \times n$, then $n$ poles exist.
+
+### State Transformation
+"old state": $\vec{x}(n)$
+"new state": $\vec{z}(n)$
+
+This is simple as long as there is a *linear relationship* between $\vec{x}(n)$ and $\vec{z}(n)$.
+
+$$
+\vec{x}(n) \rightarrow E\ \vec{z}(t)
+\
+\Leftrightarrow
+$$
+
+
 
 ---
 #controlsystems
