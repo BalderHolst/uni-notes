@@ -8,3 +8,6 @@ $$A = A_{1} \cdot A_{2} \cdot A_{3} = A_{1dB} + A_{2dB} + A_{3dB}$$
 - Nemmere alfbilledning
 - Mennesker hører logaritmisk
 - *Hyperbler og polynomier bliver linære*
+
+---
+#signalprocessing

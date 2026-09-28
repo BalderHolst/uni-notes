@@ -24,7 +24,7 @@ Stand up - because **it should be short**.
 - ...
 - ...
 
-**NO ADDITIONAL QUESTINGS
+**NO ADDITIONAL QUESTINGS**
 
 ---
 

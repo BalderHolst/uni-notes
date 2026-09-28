@@ -15,11 +15,31 @@ $$
 ---
 
 ## Noter om Vektorer
-```dataview 
-list
-from #vektorer 
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("vektorer")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("vektorer")
+    order:
+      - file.name
+
 ```
+
 
 ---
 

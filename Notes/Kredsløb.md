@@ -20,12 +20,12 @@
 ---
 
 ### Komponenter
-```dataview 
-list
-from #komponent 
-sort file.name
-```
-
+- [[Dioder]]
+- [[Kondensator]]
+- [[Modstande]]
+- [[Notes/Operationsforstærker|Operationsforstærker]]
+- [[Notes/Spoler|Spoler]]
+- [[Transistorer]]
 
 ---
 #elektronik #subject 

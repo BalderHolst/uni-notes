@@ -1,13 +1,32 @@
 # Statistical Signal Processing
 
----
-
-## Notes
-
-```dataview
-list
-from #statistical-signal-processing 
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("statistical-signal-processing")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("statistical-signal-processing")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
 ```
 
 ---

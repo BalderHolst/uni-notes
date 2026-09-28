@@ -1,12 +1,7 @@
-# Numerical Methods
-### Solving Linear Systems
-Algorithms for solving a system of linear equations
-$$
-Ax = b
-$$
-They should be considered in the following order. Left most one has faster run time.
+# Kinematics
+Mathematics for relating coordinate systems (frames), and calculating positions, angles and motions.
 
-[[Cholesky Decomposition]] > [[LU Decomposition]] > [[Notes/Singular Value Decomposition|Singular Value Decomposition]]
+All bodies are rigid and forces aren't considered.
 
 ```base
 views:
@@ -14,7 +9,7 @@ views:
     name: View
     filters:
       and:
-        - file.tags.contains("numerical-methods")
+        - file.tags.contains("kinematics")
     order:
       - file.name
       - file.mtime
@@ -27,7 +22,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("numerical-methods")
+        - file.tags.contains("kinematics")
     order:
       - file.name
       - file.ctime
