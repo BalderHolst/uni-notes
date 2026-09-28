@@ -5,13 +5,16 @@ Optimal Filter for filtering noise from a desired signal.
 
 ```mermaid
 graph LR
-    Y["$$Y(n)$$"]
-    G["$$G(f)$$"]
-    Sum((+))
-    W["$$W(n)$$"]
-    X["$$X(n)$$"]
-    H["$$H(f)$$"]
-    Yhat["$$\hat{Y}(n)$$"]
+    classDef box font-size:30px;
+    classDef text fill:none,stroke:none,font-size:30px;
+
+    Sum((+)):::box
+    W["$$W(n)$$"]:::text
+    Y["$$Y(n)$$"]:::text
+    G["$$G(f)$$"]:::box
+    X["$$X(n)$$"]:::text
+    H["$$H(f)$$"]:::box
+    Yhat["$$\hat{Y(n)}$$"]:::text
 
     Y --> G
     G --> Sum
@@ -19,24 +22,14 @@ graph LR
     Sum --> X
     X --> H
     H --> Yhat
-
-    style Y fill:none,stroke:none
-    style W fill:none,stroke:none
-    style X fill:none,stroke:none
-    style Yhat fill:none,stroke:none
 ```
 
-$$
-\underset{\mathrm{Desired\ Signal}}{Y(n)}
-\rightarrow \underset{\mathrm{Bluring\ Filter}}{G(f)}
-\rightarrow+
-\underset{\mathrm{Noise}}{W(n)}
-\rightarrow
-\underset{\mathrm{Observed\ Signal}}{X(n)}
-\rightarrow
-\underset{\mathrm{Wiener\ Filter}}{H(f)} \rightarrow
-\underset{\mathrm{Estimate}}{\hat{Y}(n)}
-$$
+$Y(n)$: Desired Signal
+$G(f)$: Blurring Filter
+$W(n)$: Noise
+$X(n)$: Observed Signal
+$H(f)$: Wiener Filter
+$\hat{Y}(n)$: Estimate
 
 **Assumptions**:
 $G(f)$ is *known* or estimated from a datasheet. $W(n)$ and $Y(n)$ are WSS which means that $R_{ww}$ and $R_{yy}$ are known.

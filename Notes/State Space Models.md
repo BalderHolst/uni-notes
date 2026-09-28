@@ -5,7 +5,7 @@ $$
 \dot{x} = f(x, u)
 $$
 
-### Linear Models
+## Linear Models (SSL)
 
 The system is designated as
 $$
@@ -49,15 +49,28 @@ C & D
 $$
 
 
-### Discrete Time Space Models
+## Discrete Time Space Models
 See [[Lecture 1 - Slides.pdf#page=53|slides]].
 
+**Difference Equation**:
+$$
+y(n) = \sum^{M}_{i=0}b_{i}\ y(n-i) - \sum_{i=1}^{N}a_{i}\ y(n-i)
+$$
+This becomes
+$$
+H(z) = \frac{Y(z)}{U(z)} = \frac{b_{0} + b_{1}z^{-1} + \cdots + b_{M}z^{-M}}{1 + a_{1}z^{-1} + \cdots + a_{N}z^{-N}}
+$$
+*Instead of this* we create an internal model to create a discrete state space model.
+
+**EQUATION 1**: How are the states developing over time?
+**EQUATION 2**: How is the output depending of state an control inputs?
 $$
 \begin{cases}
 x_{k+1} &= \Phi x_{k} + \Gamma u_{k} \\
 y_{k} &= Cx_{k} + Du_{k}
 \end{cases}
 $$
+$x_{k+1}$: Next sta
 
 #### Stability
 See [[Lecture 2 - Stability Analysis.pdf#page=63|slides]].
@@ -140,5 +153,7 @@ See [[Lecture 2 - Stability Analysis.pdf#page=40|slides]].
 See [[Lecture 2 - Stability Analysis.pdf#page=36|slides]].
 
 
+
 ---
 #controlsystems
+
