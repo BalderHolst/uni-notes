@@ -35,11 +35,23 @@ Funktionsværdien ($f(x,y)$) hedder som udgangspunkt $z$.
 ---
 
 ## Noter
-```dataview 
-list
-from #funktionafflerevariable  
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("funktionafflerevariable")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
 ```
+
 
 ---
 

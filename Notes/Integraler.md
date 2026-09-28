@@ -3,10 +3,21 @@
 I [[Ulige Funktioner|ulige funkioner]] er integralet altid $0$, hvis $-a = b$.
 
 ### Noter
-```dataview 
-list
-from #integraler  
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("integraler")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
 ```
 
 

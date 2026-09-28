@@ -46,11 +46,24 @@ $$
 
 ---
 ## Linear Algebra Notes
-```dataview 
-list
-from #linearalgebra 
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("linearalgebra")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
 ```
+
+
 ---
 
 ### Extended Matrix

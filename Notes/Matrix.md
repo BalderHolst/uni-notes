@@ -12,10 +12,22 @@ a_{m1} & a_{m2} & \cdots & a_{mn}\\
 ---
 
 ## Noter om Matricer
-```dataview 
-list
-from #matricer 
-sort file.name
+
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("matricer")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
 ```
 
 

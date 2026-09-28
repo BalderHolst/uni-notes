@@ -1,11 +1,20 @@
 ## Recent
 
-```dataview 
-table
-file.mtime as "Redigeret"
-from "/" and !"External"
-sort file.mtime desc
-limit 5
+```base
+filters:
+  and:
+    - file.inFolder("Notes")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 10
+
 ```
 
 ---
@@ -26,4 +35,3 @@ views:
     imageAspectRatio: 1.1
     cardSize: 210
 ```
->```
