@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Integral Control
 See [[Lecture 10 - Observers.pdf#page=57|slides]].
@@ -12,7 +13,3 @@ See [[Lecture 10 - Observers.pdf#page=57|slides]].
 
 #### Anti-windup
 ![[Integral-Control-Anti-windup.png|Pasted image 20240519161915.png]]
-
-
----
-#controlsystems

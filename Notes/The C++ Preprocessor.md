@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # The C++ Processor
 
@@ -28,7 +29,3 @@ decrarations...
 
 #endif
 ```
-
-
----
-#cpp 

@@ -1,5 +1,6 @@
 ---
 created: 2024-12-02
+tags: [statistics]
 ---
 # Log-likelihood Test
 Test how extreme a sample is by comparing the log likelihood of the null hypothesis $\theta_{0}$ and the sampled data.
@@ -11,5 +12,3 @@ $l(\theta)$: Log-likelihood function
 
 
 
----
-#statistics

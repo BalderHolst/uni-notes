@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 # Signal Processing
 ![[Signal-Processing.png|800]]
@@ -32,6 +33,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

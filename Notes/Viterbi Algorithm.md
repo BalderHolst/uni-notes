@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [intelligent-systems]
 ---
 # Viterbi Algorithm
 See [[lecture5b.pdf#page=12|slides]].
@@ -32,6 +33,3 @@ $$
 
 >[!example]- Example of Calculation
 >![[lecture5b.pdf#page=13]]
-
----
-#intelligent-systems

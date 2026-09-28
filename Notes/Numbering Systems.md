@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Numbering Systems
 
@@ -36,6 +37,3 @@ Used to easily subtract binary numbers.
 The 2's complementary can be found by *negating* the 1's complementary.
 
 ![[twos compliment.png|center|270]]
-
----
-#microcontrolers 

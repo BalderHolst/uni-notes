@@ -1,5 +1,6 @@
 ---
 created: 2024-11-28
+tags: [statistics]
 ---
 # The Bootstrap
 Estimate the underlying distribution of a sampled distribution, but with only a single (usually limited) dataset.
@@ -14,5 +15,3 @@ Say the original dataset has $n$ samples. Create new datasets by sampling $n$ sa
 
 The resulting distribution tells *how the paramenter may change if we redid the experiment*. This could also be used to generate a confidence interval.
 
----
-#statistics

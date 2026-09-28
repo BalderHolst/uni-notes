@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 ## Bevis for [[Linjer og Vektorer i 2D#Parameterfremstilling|Parameterfremstilling]]
 
@@ -19,7 +20,3 @@ Dette kan omskrives således
 $$\v{x_0}{y_0} + t \cdot \v{r_1}{r_2}$$
 Dette udtryk betegner altså punkterne på linjen
 $$\v{x}{y} = \v{x_0}{y_0} + t \cdot \v{r_1}{r_2}$$
-
-
----
-#matematik 

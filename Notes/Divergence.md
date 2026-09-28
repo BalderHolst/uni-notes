@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vectorfields, multivariablemath]
 ---
 # Divergence
 Denotes the ratio of input flow and output flow at point in a [[Vector Fields|vector field]].
@@ -19,6 +20,3 @@ $$
 
 >[!video]- Nabla notation
 >![](https://www.youtube.com/watch?v=TyYlBXNETZE&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=54)
-
----
-#multivariablemath #vectorfields

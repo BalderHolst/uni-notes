@@ -1,5 +1,6 @@
 ---
 created: 2026-09-24
+tags: [statistics]
 ---
 # Multiple 1D Confidence Intervals
 To get an idea of confidence intervals in multidimensional cases, where the confidence region is unplottable, we can use a simple 1D confidence interval for each variable.
@@ -39,6 +40,3 @@ $$
 \bar{x_{i}} \pm \sqrt{\frac{p(n-1)}{n-p} F(p, n-p)_{\alpha} \sqrt{\frac{S_{ii}}{n}}}
 \quad i = 1,\dots,n
 $$
-
----
-#statistics

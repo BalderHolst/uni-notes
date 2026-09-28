@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [matricer, matematik]
 ---
 # Inverse Matrix
 
@@ -69,7 +70,3 @@ $$
 $$
 (AB)^{-1} = A^{-1}B^{-1}
 $$
-
-
----
-#matematik #matricer 

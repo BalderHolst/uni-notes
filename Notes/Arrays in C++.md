@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Arrays in C++
 
@@ -58,7 +59,4 @@ You *cannot get the length* of the array directly.
 You can however use the `sizeof(myArray)` function to find out how much memory is allocated.
 
 It is probably best to just remember the length as it must always be constant.
-
----
-#cpp 
 

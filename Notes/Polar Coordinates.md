@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [matematik]
 ---
 # Polar Coordinates
 A two dimensional space described $r$ and $\theta$.
@@ -26,7 +27,3 @@ y &= r \cdot \sin(\theta) \\
 x^{2}+y^{2} = a^{2} &\Rightarrow a
 \end{align}
 $$
-
-
----
-#matematik 

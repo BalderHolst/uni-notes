@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # RMS-værdien
 > *"Ækvivalent for tidsvarierende signal ([[AC]] $\rightarrow$ [[DC]])"*
@@ -11,6 +12,3 @@ Bruges til at beregne effektafsættelse
 $$V_{RMS}= V_{DC} =\sqrt{ \frac{1}{T} \cdot \int_{0}^{T} v^{2}(t) \text{dt} }$$
 
 $$V_{RMS}= \frac{v_{max}}{\sqrt{2}}$$
-
----
-#elektronik 

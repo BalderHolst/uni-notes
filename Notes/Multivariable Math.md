@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 # Multivariable Math
 Math involving integration in and over multi-dimensional spaces.
@@ -34,6 +35,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Konservative Kræfter
 > *Kraftens arbejde er uafhængig af hvilken strækning der tages mellem to punkter $A$ og $B$*.
@@ -10,6 +11,3 @@ $$W_{AB} = W_{ACB} \arrow \text{Konservativ}$$
 
 # Ikke-konservative Kræfter
 $$W_{AB} \neq W_{ACB} \arrow \text{Ikke-konservativ}$$
-
----
-#fysik 

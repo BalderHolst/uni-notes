@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Strømdeler
 Sker i [[Parallelforbindelser]]. 
@@ -14,5 +15,3 @@ $R_2$ : Den anden modstand.
 **NOTE:**
 Tælleren er den modstand strømmen IKKE løber i. Hvis der er flere, kan den ækvivalente modsand betragtes som en [[Parallelforbindelser|parallelforbindelse]].
 
----
-#elektronik 

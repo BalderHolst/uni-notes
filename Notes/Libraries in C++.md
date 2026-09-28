@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Libraries in C++
 
@@ -13,6 +14,3 @@ created: 2023-12-25
 - `-I{dir}` add header file directory.
 - `-l{library}` Search for a compiled library file (.so)
 - `-L{dir}` add .so directory
-
----
-#cpp

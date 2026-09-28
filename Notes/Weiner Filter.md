@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [statistical-signal-processing]
 ---
 # Weiner Filter
 See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
@@ -129,5 +130,3 @@ See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=5|slide]].
 
 We try to reverse the effects of $G(f)$ and remove noise *at the same time*.
 
----
-#statistical-signal-processing

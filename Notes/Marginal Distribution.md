@@ -1,5 +1,6 @@
 ---
 created: 2024-12-11
+tags: [distribution, statistics]
 ---
 # Marginal Distribution
 Marginalization. See [[lecture6a.pdf#page=12|slides]].
@@ -35,7 +36,3 @@ $X$ and $Y$ are independent if
 $$
 f_{X,Y}(x, y) = f_{x}(x) f_{Y}(y)
 $$
-
-
----
-#statistics #distribution

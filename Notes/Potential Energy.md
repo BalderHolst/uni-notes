@@ -1,5 +1,6 @@
 ---
 created: 2025-02-04
+tags: [underactuated-robots]
 ---
 # Potential Energy
 
@@ -17,5 +18,3 @@ $k$: Spring constant
 $x$: Displacement of the spring
 
 
----
-#underactuated-robots

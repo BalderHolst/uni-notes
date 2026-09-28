@@ -1,5 +1,6 @@
 ---
 created: 2026-09-14
+tags: [statistical-signal-processing]
 ---
 # Stocastic Properties of Filters
 
@@ -77,5 +78,3 @@ If the filter is linear, $Y_{xy}^{2}(w) = 1$. If it is less than $1$, non-linear
 
 
 
----
-#statistical-signal-processing

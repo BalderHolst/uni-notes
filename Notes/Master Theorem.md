@@ -1,5 +1,6 @@
 ---
 created: 2024-10-07
+tags: [algorithms]
 ---
 # Master Theorem
 If
@@ -21,5 +22,3 @@ Where $a$, $b$ and $d$ are all constants.
 
 
 
----
-#algorithms 

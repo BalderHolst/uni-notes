@@ -1,3 +1,6 @@
+---
+tags: [subject]
+---
 # <% tp.file.title %>
 
 ```base
@@ -28,6 +31,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

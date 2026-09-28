@@ -1,5 +1,6 @@
 ---
 created: 2026-09-13
+tags: [drones]
 ---
 # Global Navigation Satellite System (GNSS)
 GPS is an implementation of GNSS.
@@ -57,5 +58,3 @@ Needs more satelites (6 or more).
 We can't always get an RTK fixed position. It will cut out sometimes.
 
 
----
-#drones

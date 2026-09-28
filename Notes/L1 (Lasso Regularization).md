@@ -1,5 +1,6 @@
 ---
 created: 2026-09-25
+tags: [machine-learning]
 ---
 # L1 (Lasso Regularization)
 Called "Lasso Regularization" in linear models and "L1" in logistic regressions and other contexts.
@@ -12,7 +13,3 @@ $$
 $$
 \frac{\partial L}{\partial W} = \frac{-2}{n} \sum_{i=1}^{n} x_{i}(y_{i} - \hat{y}_{i}) + \sum_{j} \lambda\ \mathrm{sign}(w_{j})
 $$
-
-
----
-#machine-learning

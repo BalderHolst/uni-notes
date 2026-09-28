@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [komponent, elektronik]
 ---
 # Kondensator
 >*"Jo mere ladning, jo større spændingsforskel over pladen"*
@@ -65,5 +66,3 @@ $$\tau = R_{T} \cdot C$$
 $R_{T}$ : [[Thevenin Ækvivalens|Theveninmodstanden]]
 $C$ : Kapacitansen
 
----
-#elektronik #komponent

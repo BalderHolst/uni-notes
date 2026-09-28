@@ -1,5 +1,6 @@
 ---
 created: 2024-12-03
+tags: [algorithms]
 ---
 # Ford Fulkerson Algorithm
 An algorithm for calculating the [[Max Flow|max flow]] of a flow graph.
@@ -62,7 +63,3 @@ The edge along an augmenting path, which has the smallest capacity, thus limitin
 
 >[!video]- Video Introduction
 >![](https://www.youtube.com/watch?v=LdOnanfc5TM)
-
-
----
-#algorithms

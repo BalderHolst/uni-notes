@@ -1,8 +1,4 @@
-# <% tp.file.title %>
-
-
-
-
-
 ---
-#notag
+tags: [notag]
+---
+# <% tp.file.title %>

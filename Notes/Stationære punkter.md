@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Stationære punkter
 Et punkt på en [[Funktioner af flere Variable|flade]], hvor [[Gradient|gradienten]] er lig $0$.
@@ -22,5 +23,3 @@ hvis $t \cdot t-s^2 = 0$, så kan vi ikke vide arten af punktet.
 
 
 
----
-#matematik 

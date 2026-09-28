@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Ækvivalente Kredsløb 
 Kredsløb med samme $I/V$ egenskaber. 
@@ -8,6 +9,3 @@ Kredsløb med samme $I/V$ egenskaber.
 ## Typer
 - [[Thevenin Ækvivalens]]
 - [[Norton Ækvivalens]]
-
----
-#elektronik 

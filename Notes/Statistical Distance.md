@@ -1,5 +1,6 @@
 ---
 created: 2026-09-09
+tags: [multivariate-statistics]
 ---
 # Statistical (Mahalanobis) Distance
 A measure of "how rare" a sample is.
@@ -34,8 +35,3 @@ $$
 $$
 
 ### Outlier Detection
-
-
-
----
-#multivariate-statistics 

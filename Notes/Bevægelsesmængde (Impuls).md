@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Bevægelsesmængde
 Også kaldet **impuls**
@@ -41,5 +42,3 @@ $t_2$ : Støddets **slut**tids
 $F_{av}$ : Den gennemsnitlige kraft under støddet.
 $\Delta t$ : Den tid som $F_{av}$ er den gennemsnitlige kraft over.
 
----
-#fysik 

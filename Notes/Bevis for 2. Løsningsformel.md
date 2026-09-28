@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 
 # Bevis
@@ -72,6 +73,3 @@ $$0 = 0 \cdot e^{kx}$$
 Det betyder at vi kan opskrive ligningen uden nogle betingelser.
 
 $$y= C \cdot e^{kx}$$
-
----
-#matematik

@@ -1,5 +1,6 @@
 ---
 created: 2024-09-19
+tags: [matricer, kinematics]
 ---
 # Jacobian Matrix for Robotics
 The Jacobian matrix relates robot joint velocities to end-effector velocity.
@@ -76,6 +77,3 @@ $$\mu = {\lambda_{\text{max}}(A) \over \lambda_{\text{min}}(A)} \geq 1, \s
 \mu \text{ is large} \Rightarrow \text{close to singularity}\\
 \mu \text{ is small} \Rightarrow \text{far from singularity}\\
 \end{cases}$$
-
----
-#kinematics #matricer

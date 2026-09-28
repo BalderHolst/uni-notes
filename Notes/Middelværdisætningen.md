@@ -1,10 +1,8 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # Middelværdisætningen
 > *Det vil altid være et punkt $c$ mellem to andre punkter ($a$ og $b$) på en **glat** graf, hvor hældningen af grafen er lig hældningen på linjestykket mellem $a$ og $b$.*
 
 $$f'(c)= \frac{f(b)-f(a)}{b-a} \s \text{hvor } c\in \ ]a,b[$$
-
----
-#matematik #funktioner 

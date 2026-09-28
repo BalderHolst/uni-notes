@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktionafflerevariable, matematik]
 ---
 # Gradient
 See also [[Laplacian Operator]]
@@ -9,6 +10,3 @@ En vektor der peger i $x$-$y$-planet, til den stejlsete side
 
 To get the rate of change ($h$) in a specific direction in a point, you can project the gradient onto the unit vector in the direction ($\hat{\vec v}$).
 $$h = \hat{\vec v} \bullet \nabla f(x_{0}, y_{0})$$
-
----
-#matematik #funktionafflerevariable 

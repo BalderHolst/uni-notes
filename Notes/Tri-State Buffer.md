@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Tri-State Buffer
 See slides [[Lesson 3.pdf#page=24]]
@@ -12,5 +13,3 @@ An *enable signal* can make the output **completely disconnected from the input*
 
 Tri-State meaning $\text{HIGH}$, $\text{LOW}$ or $\text{HI-Z}$ (high [[Impedans|impedance]]/disconnected).
 
----
-#microcontrolers 

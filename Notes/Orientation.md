@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Orientation
 
@@ -8,8 +9,3 @@ created: 2023-12-25
 *Subjective chart by Iñigo Iturrate*
 
 ![[Overview-of-Orientation-Representations.png]]
-
-
-
----
-#kinematics 

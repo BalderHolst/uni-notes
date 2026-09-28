@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Fotoelektrisk Effekt
 Fotoelektrisk effekt sker hvis dette er sandt
@@ -14,6 +15,3 @@ $$E_{samlet}=A_L+E_{kin}$$
 $$E_{fotoelektron}=E_{foton} - E_{binding}$$
 ### Sandsynligheden for at fotoelektrisk effekt forekommer
 $$\sigma_{F} \propto \frac{Z^n}{E^m}$$
-
----
-#fysik 

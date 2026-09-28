@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Registers
 A set of [[D Latch#Gated D-Latch|gated D-latches]] with the clock pins connected.
@@ -9,5 +10,3 @@ A set of [[D Latch#Gated D-Latch|gated D-latches]] with the clock pins connected
 
 
 
----
-#microcontrolers 

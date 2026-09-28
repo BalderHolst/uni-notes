@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Inverse Kinematics
 > *"What should the states of the robot joints be, to get the end affecter to a certain position?"*
@@ -21,5 +22,3 @@ Inexact solutions found by algorithms.
 
 
 
----
-#kinematics

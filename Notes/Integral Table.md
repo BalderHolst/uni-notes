@@ -1,5 +1,6 @@
 ---
 created: 2023-12-31
+tags: [matematik]
 ---
 # Integral Table
 These equations are from [integral-table.com](https://www.integral-table.com/).
@@ -686,7 +687,3 @@ $$
 b \cosh bx \sinh ax 
 - a \cosh ax \sinh bx \right]
 $$
-
-
----
-#matematik

@@ -1,5 +1,6 @@
 ---
 created: 2024-10-19
+tags: [intelligent-systems]
 ---
 # Particle Filtering
 
@@ -22,6 +23,3 @@ Also known as
 
 >[!tip]- Slide
 >![[lecture8a.pdf#page=10]]
-
----
-#intelligent-systems

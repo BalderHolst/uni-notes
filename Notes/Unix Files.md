@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Unix Files
 See [[05.IO.Files.and.Directories.pdf|slides]].
@@ -31,6 +32,3 @@ int fileno(FILE *stream)
 
 >[!example]- Graphical Examples
 >![[05.IO.Files.and.Directories.pdf#page=17]]
-
----
-#c

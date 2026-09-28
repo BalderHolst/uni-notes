@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [multivariablemath, matematik]
 ---
 ## Classification of Second order PDEs
 
@@ -14,7 +15,3 @@ In a linear PDE the *sum of two solutions* is also a solution.
 ---
 $$A\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)^{2} - B \left(\frac{\mathrm{dy}}{\mathrm{dx}}\right) + C = 0$$
 ![[Classification-of-Second-order-PDEs.png|center|550]]
-
-
----
-#matematik #multivariablemath

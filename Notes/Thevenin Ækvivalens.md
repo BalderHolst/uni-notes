@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 ## Thevenin Ækvivalens
 #### Beregn det Thevenin-ækvivalente kredsløb.
@@ -10,6 +11,3 @@ created: 2023-12-25
 ##### Find $V_T$
 1. Sæt $i$ (slut-strømmen) til $0$.
 2. Find spændingen
-
----
-#elektronik 

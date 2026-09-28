@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [komponent, elektronik]
 ---
 # Modstande
 ![[resistor.png |center| 350]]
@@ -21,6 +22,3 @@ $$Z= \frac{V}{I} \s [\Omega]$$
 
 >[!Note]- Color codes
 >![colorcodes|center|600](https://instrumentationtools.com/wp-content/uploads/2015/06/Resistor-Color-Code-Chart.jpg?ezimgfmt=rs:640x500/rscb2/ng:webp/ngcb2)
-
----
-#elektronik #komponent 

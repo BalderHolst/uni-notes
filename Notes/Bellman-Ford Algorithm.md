@@ -1,5 +1,6 @@
 ---
 created: 2025-09-20
+tags: [algorithms]
 ---
 # Bellman-Ford* Algorithm
 Similar to [[Dijkstra’s algorithm]] but can handel (detect) *negative weights*. However, **it is slower**.
@@ -33,5 +34,3 @@ If there ***negative cycles are present***, `d[v]` will keep changing event afte
 
 
 
----
-#algorithms

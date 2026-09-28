@@ -1,5 +1,6 @@
 ---
 created: 2026-09-25
+tags: [machine-learning]
 ---
 # Binary Cross Entropy
 Binary as $y$ is a binary class, $0$ or $1$.
@@ -19,8 +20,3 @@ L = - \frac{1}{n} \sum \Big [
 y_{i} \log(\hat{y}_{i}) + (1 - y_{i}) \log(1-\hat{y}_{i})
 \big]
 $$
-
-
-
----
-#machine-learning

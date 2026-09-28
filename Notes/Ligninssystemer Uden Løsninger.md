@@ -1,5 +1,6 @@
 ---
 created: 2024-09-05
+tags: [linearalgebra, matematik]
 ---
 # [[System of Linear Equations|Ligninssystemer]] Uden Løsninger
 
@@ -31,6 +32,3 @@ $$
 \right) 
 \s \text{VRØVL!}
 $$
-
----
-#matematik #linearalgebra

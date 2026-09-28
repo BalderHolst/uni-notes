@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # [[Bevægelsesmængde (Impuls)|Impuls]]moment
 Impulsen i en *cirkulær* bevægelse
@@ -9,5 +10,3 @@ $m$: Partiklens masse
 $v$: Partiklens *fart*
 $r$: Radius fra omdrejningspunktet
 
----
-#fysik 

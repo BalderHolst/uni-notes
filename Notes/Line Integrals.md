@@ -1,5 +1,6 @@
 ---
 created: 2025-10-02
+tags: [multivariablemath, matematik]
 ---
 # Line Integrals
 Integrate a three-dimensional function along a curve.
@@ -32,8 +33,3 @@ $$
 
 #### See also
 - [[Green's Theorem]]
-
-
-
----
-#matematik #multivariablemath

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Shannon Formula (Noisy Channel)
 Calculates the *upper limit* for the data rate for the physical transmission material.
@@ -11,5 +12,3 @@ $SNR$: Signal-to-noise ratio
 
 **Note:** this does not take [[Signal element|signal levels]] into a count.
 
----
-#datacommunication

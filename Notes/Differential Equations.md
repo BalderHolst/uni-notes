@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 
 # Differential Equations
@@ -37,6 +38,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Control System Performance
 See [[Lecture 2 - Stability Analysis.pdf#page=44|slides]] and more [[Lecture 5 - Root Locus.pdf#page=21|here]].
@@ -28,6 +29,3 @@ $\zeta$: Dampening factor (larger means more dampening/less overshoot)
 ![[Control-System-Performance-Second-Order-Systems.png|Pasted image 20240209092310.png]]
 
 ![[Control-System-Performance-Second-Order-Systems-1.png|Pasted image 20240304092114.png]]
-
----
-#controlsystems

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Ledere og Isolatorer
 
@@ -10,7 +11,3 @@ Elektroner flyder frit mellem protonerne, der ofte (som i et metal) sidder i et 
 Elektronerne er bundet til hvert sit proton
 
 ### Halvledere
-
-
----
-#fysik 

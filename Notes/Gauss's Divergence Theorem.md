@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vectorfields, multivariablemath]
 ---
 # Gauss's Divergence Theorem
 
@@ -14,6 +15,3 @@ Flux is *how much of $\vec{F}$ is pointing in the **normal direction***. This ca
 
 >[!video]- Explaination
 >![](https://www.youtube.com/watch?v=TORt20_HjMY)
-
----
-#multivariablemath #vectorfields

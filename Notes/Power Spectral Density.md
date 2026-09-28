@@ -1,5 +1,6 @@
 ---
 created: 2026-09-14
+tags: [statistical-signal-processing]
 ---
 # Power Spectral Density (PSD)
 See [[Lessons/Semester 7/ssp/Lektion 2 slides.pdf#page=3|slides]].
@@ -54,5 +55,3 @@ $$
 $$
 $B_\mathrm{eff}$: Width of the band
 
----
-#statistical-signal-processing

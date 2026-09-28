@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Smart Pointers in C++
 Automatically deallocates memory on the heap, when no pointer points to it.
@@ -31,6 +32,3 @@ std::shared_ptr<int> mtPtr(new int); // Older c++
 
 > [!warning] 
 > This can result in circular references, that can make it impossible to free the memory. To get around this use a [[weak pointer]].
-
----
-#cpp

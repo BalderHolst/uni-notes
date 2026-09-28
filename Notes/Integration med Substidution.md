@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [integraler, matematik]
 ---
 # Integration med Substidution
 
@@ -26,6 +27,3 @@ $$\int f(g(x)) \cdot k \cdot  g'(x) \dx$$
 >$$\frac{1}{2} \cdot (-cos(2t+\pi)+k)\s = \s \frac{-cos(2t+\pi)+k}{2} $$
 >
 >Dette er det [[Integraler|integrerede]] udtryk.
-
----
-#matematik #integraler 

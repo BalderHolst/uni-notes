@@ -1,5 +1,6 @@
 ---
 created: 2024-12-02
+tags: [statistics]
 ---
 # Probability vs Likelihood
 They are **NOT** the same.
@@ -9,9 +10,3 @@ Likelihood: *Value* of the PDF at a sample value
 
 >[!video]- Video
 >![](https://www.youtube.com/watch?v=pYxNSUDSFH4&t=165s)
-
-
-
-
----
-#statistics 

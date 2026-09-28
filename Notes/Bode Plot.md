@@ -1,5 +1,6 @@
 ---
 created: 2024-03-22
+tags: [controlsystems]
 ---
 # Bode Plot
 See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=33|slides]].
@@ -9,7 +10,3 @@ See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=33|slides]].
 
 >[!example]- Examples of drawing bode plots
 >![[drawn_bode_plots.pdf]]
-
-
----
-#controlsystems

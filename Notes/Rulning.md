@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Rulning
 > *"Rulning er en **kombination** af [[Rotation]] og translation"*
@@ -24,7 +25,3 @@ $c$ kan findes for foeskellige objekter i [[Lektion 09-FYS__RT_E22.pdf#page=10|t
 $$K= \frac{1}{2} I_{kontakt} \cdot  \omega^{2}$$
 Ved at bruge [[Flytningsformlen]] kommer man frem til dette
 $$K=\frac{1}{2} I_{cm} \cdot  \omega^{2}+ \frac{1}{2}Mv^2$$
-
----
-
-#fysik 

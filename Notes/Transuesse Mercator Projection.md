@@ -1,5 +1,6 @@
 ---
 created: 2026-09-13
+tags: [drones]
 ---
 # Transuesse Mercator Projection
 We divide the globe into "slices" and create a coordinate system on each. The coordinate system is more accurate closer to its [[Latitude and Longitude|longitude]] line.
@@ -14,6 +15,3 @@ There are *many* ways to slice the globe.
 
 > [!warning] Not at the poles
 > UTM cannot be used at poles, as it is too inaccurate. It is undefined at 85 degrees at the north pole, and 80 degrees at the south pole.
-
----
-#drones

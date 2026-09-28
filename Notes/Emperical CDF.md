@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [statistics]
 ---
 # Emperical CDF
 A CDF constructed from the samples of a random variable. Each sample $X_i$ has a "mass" of $1/n$.
@@ -13,6 +14,3 @@ $I(X_{i} \leq x)$: $1$ if the inner statement is `true`, otherwise $0$.
 
 >[!example]- Example Plot
 >![[Emperical-CDF.png|Pasted image 20241128093128.png]]
-
----
-#statistics

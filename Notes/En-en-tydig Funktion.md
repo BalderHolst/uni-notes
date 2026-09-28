@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # En-en-tydig Funktion
 $$x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$$
@@ -9,5 +10,3 @@ Betyder at der findes en [[Omvendt funktion]], der kan gøre *præcis* det samme
 
 Skal **enten** have positiv eller negativ hældning.
 
----
-#matematik #funktioner 

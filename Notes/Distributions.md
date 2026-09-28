@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [statistics]
 ---
 # Distributions
 ![[Distributions.png|Pasted image 20241107133946.png]]
@@ -22,8 +23,3 @@ views:
     imageAspectRatio: 1.1
     cardSize: 210
 ```
-
-
-
----
-#statistics

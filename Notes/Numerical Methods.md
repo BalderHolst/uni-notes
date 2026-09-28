@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 # Numerical Methods
 ### Solving Linear Systems
@@ -39,6 +40,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

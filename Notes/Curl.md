@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vectorfields, multivariablemath]
 ---
 # Curl
 A measure of average rotation around points in a [[Vector Fields|vector field]].
@@ -63,6 +64,3 @@ $$
 
 >[!video]- 3D-curl
 >![](https://www.youtube.com/watch?v=a_49iMi10kg&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=62)
-
----
-#multivariablemath #vectorfields

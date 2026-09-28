@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [forstærker]
 ---
 # Fejlberegning på Operationsforstærker
 See [[Noter lektion 2.pdf|lecture notes]].
@@ -45,5 +46,3 @@ $$
 $A_d$: Amplification of input difference
 $A_{cm}$: Common mode amplification
 
----
-#forstærker

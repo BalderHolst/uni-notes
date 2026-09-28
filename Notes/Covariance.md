@@ -1,5 +1,6 @@
 ---
 created: 2026-09-02
+tags: [statistics, controlsystems]
 ---
 # Covariance
 
@@ -11,8 +12,3 @@ X_{1} \\
 X_{n} \\
 \end{bmatrix}
 $$
-
-
-
----
-#controlsystems #statistics

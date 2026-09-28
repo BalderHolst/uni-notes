@@ -1,5 +1,6 @@
 ---
 created: 2024-04-23
+tags: [forstærker]
 ---
 # Common Mode Rejection Ratio
 How good a differential amplifier is at rejecting noise when the impedance on its inputs is the same.
@@ -18,5 +19,3 @@ With a CMRR at 90 dB the amplifier is 31866 times better at amplifying the diffe
 Add a voltage source on the positive input of an *ideal* op amp with a value of $\frac{V_{in}}{CMRR}$. This is equivalent to the error.
 
 
----
-#forstærker

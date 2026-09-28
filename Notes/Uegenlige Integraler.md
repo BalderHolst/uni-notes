@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [integraler, matematik]
 ---
 # Uegenlige Integraler
 >*"Undgå det punkt hvor funktionsværdien er problematisk"*
@@ -25,6 +26,3 @@ $$\int_{a}^{b}f(x)dx \arrow \lim_{x\to a\lor b}\left(\int_{a}^{b}f(x)dx \right)$
 
 >[!video]- Uegenlige Integraler - Video
 >![](https://www.youtube.com/watch?v=BovyC7dR0Xc)
-
----
-#matematik #integraler 

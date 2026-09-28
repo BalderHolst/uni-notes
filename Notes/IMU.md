@@ -1,5 +1,6 @@
 ---
 created: 2026-09-07
+tags: [drones]
 ---
 # Inertial Measurement Units
 
@@ -50,5 +51,3 @@ Measures preasure. Combined with GPS it can be used to estimate altitude, as the
 ## Combinding Sensor Measurements
 *Every* drone uses a [[Kalman Filter|kalman filter]] to combine the measurements of the gyro and accelerometer (and other sensors). This makes it possible to use the accuracy of the gyro, and account for its drift with the accelerometer and a physical model of the drone.
 
----
-#drones

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Kirchhoff’s Current Law
 $$\sum I = 0 \s\text{towards every node}$$
@@ -18,5 +19,3 @@ Ex: $I_{out} = I_{in} + I_{in}$
 
 [[KVL]] - voltage
 
----
-#elektronik 

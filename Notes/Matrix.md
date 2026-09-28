@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [linearalgebra, matematik]
 ---
 # Matrices
 A matrix with $m$ rows and $n$ columns.
@@ -97,5 +98,3 @@ Matrix $A$ is symmetric if $A^T = A$.
 All symmetric matrices are quadratic.
 
 
----
-#matematik #linearalgebra 

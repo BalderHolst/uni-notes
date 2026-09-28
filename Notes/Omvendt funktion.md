@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # Omvendt funktion (inverse funktion)
 En funktion der gør det modsatte af en anden funktion
@@ -48,6 +49,3 @@ $$a^{b^c} = a^{a \cdot c} \arrow \frac{d}{dx}(e^{ln(x) \cdot (x + \sin(x))})$$
 Bruger kædereglen
 $$\frac{d}{dx}(e^{f(x)}) = e^{f(x)} \cdot f'(x) \arrow e^{ln(x) \cdot (x+sin(x))} \cdot \frac{d}{dx}(ln(x) \cdot (x+sin(x))$$
 $$= x^{x+sin(x)} \cdot (\frac{1}{x} \cdot (x+sin(x)+ln(x)\cdot (1+cos(x))))$$
-
----
-#matematik #funktioner

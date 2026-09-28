@@ -1,5 +1,6 @@
 ---
 created: 2026-09-25
+tags: [machine-learning]
 ---
 # L2 (Ridge Regularization)
 Called "Ridge Regularization" in linear models and "L2" in logistic regressions and other contexts.
@@ -40,5 +41,3 @@ $X$: Data vector
 $\lambda$: Ridge hyperparameter
 $y$: Actual sample values
 
----
-#machine-learning

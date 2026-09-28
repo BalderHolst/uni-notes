@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject, matematik]
 ---
 # Vectors
 Vectors are multidimensional numbers.
@@ -110,6 +111,3 @@ $\theta$: angle between $b$ and $a$
 ##### Vektor projektion
 Projection af $\vec{u}$ på $\vec{v}$.
 $$\vec{u}_{\vec{v}} = s \cdot \hat{\vec{v}} = \left(\vec{u} \cdot \frac{\vec{v}}{|\vec{v}|}\right) \cdot \frac{\vec{v}}{|\vec{v}|}$$
-
----
-#matematik #subject

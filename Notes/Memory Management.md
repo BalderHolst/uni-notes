@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [computerarchitecture]
 ---
 # Memory Management
 
@@ -84,5 +85,3 @@ A program consists of several pieces of memory
 A loaded program can be "swapped" to memory to save space.
 
 
----
-#computerarchitecture

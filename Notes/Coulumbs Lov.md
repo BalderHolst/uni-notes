@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [elektronik, fysik]
 ---
 # Coulumbs Lov
 
@@ -12,5 +13,3 @@ $k_c$: [[Coulumbs konstant]]
 
 Minder om [[gravitationskraft|gravitationsloven]].
 
----
-#fysik #elektronik 

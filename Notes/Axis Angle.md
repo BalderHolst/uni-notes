@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [kinematics]
 ---
 # Axis Angle (Euler Vector)
 A way of defining a rotation with an axis and an angle. See [[Lecture 5 - Other Orientation Representations.pdf#page=30|slides]].
@@ -22,9 +23,3 @@ Calculate the equivalent rotation matrix.
 $$
 ^A_BR(\ ^AK, \theta\ ) = I \cos(\theta) + KK^{-1} (1 - \cos(\theta)) + \hat{K} \sin(\theta)
 $$
-
-
-
-
----
-#kinematics 

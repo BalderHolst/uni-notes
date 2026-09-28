@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Gravitationskraft
 
@@ -10,5 +11,3 @@ $m$: Den lille masse
 $M$: Den store masse
 $r$: Baneradius
 
----
-#fysik 

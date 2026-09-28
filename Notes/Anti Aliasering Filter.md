@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Anti Aliasering Filter
 A filter cutting off all frequencies that are larger than double the sampling frequency.
@@ -8,6 +9,3 @@ Without an anti aliasing filter, high frequencies will be mapped to low frequenc
 
 >[!example]- Insufficient Sampling
 >![[Anti-Aliasering-Filter.png|Pasted image 20230921084342.png]]
-
----
-#signalprocessing

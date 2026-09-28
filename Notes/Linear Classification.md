@@ -1,5 +1,6 @@
 ---
 created: 2024-10-21
+tags: [intelligent-systems]
 ---
 # Linear Classification
 See [[lecture11a.pdf|slides]].
@@ -31,6 +32,3 @@ This results in the following update equation
 $$
 w_{i} \leftarrow \alpha (y - h_{w}(x)) \times h_{w}(1-h_{w}(x)) \times x_{i}
 $$
-
----
-#intelligent-systems

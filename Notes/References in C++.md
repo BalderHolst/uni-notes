@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # References in C++
 An "alias" for a variable. The memory is still released when the original variable goes out of scope.
@@ -39,5 +40,3 @@ References are nice as an alternative to classic getters, as they can provide di
 
 References may be implemented with pointers by the compiler.
 
----
-#cpp

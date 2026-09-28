@@ -1,5 +1,6 @@
 ---
 created: 2026-09-25
+tags: [subject]
 ---
 # Statistics
 Working with uncertain data.
@@ -32,7 +33,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
-
----
-#subject

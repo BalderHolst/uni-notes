@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [multivariablemath]
 ---
 # Green's Theorem
 $$
@@ -14,6 +15,3 @@ You can go clockwise by simply making the expression negative.
 
 >[!video]- Example
 >![](https://www.youtube.com/watch?v=gGXnILbrhsM&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=143)
-
----
-#multivariablemath

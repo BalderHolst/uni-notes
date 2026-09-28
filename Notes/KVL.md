@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Kirchhoff’s Voltage Law
 $$\sum V = 0 \s \text{closed loop}$$
@@ -11,5 +12,3 @@ This is a result of [[conservation of energy]]. We cannot "use" more voltage tha
 
 [[KCL]] - Current
 
----
-#elektronik 

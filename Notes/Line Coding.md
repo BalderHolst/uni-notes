@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # Line Coding Schemes
 Also check out [this helpful site](https://www.technologyuk.net/telecommunications/telecom-principles/line-coding-techniques.shtml).
@@ -65,6 +66,3 @@ transition rules are used:
 2. If the next bit is 1 and the current signal level is not 0, then go to 
 signal level 0.
 3. If the next bit is 1 and the current signal level is 0, then go to the
-
----
-#datacommunication 

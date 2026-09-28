@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Bilineær z-transformation
 See [[lektion 9 - Design af IIR filtre.pdf|slides]].
@@ -71,6 +72,3 @@ $$s \rightarrow C \frac{z-1}{z+1}$$
 7. Overføringsfuntionen [[Filters#Frekvensnormering|denormeres]]
 
 8. Filtret implementeres som en kaskadekoblet realisationsstruktur.
-
----
-#signalprocessing

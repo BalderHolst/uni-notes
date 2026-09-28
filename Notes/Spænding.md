@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Spænding
 Unit: $V = \frac{J}{C}$
@@ -12,5 +13,3 @@ Symbol: $U$
 
 Se [[Modstande]] og [[Ohm's Lov]].
 
----
-#elektronik 

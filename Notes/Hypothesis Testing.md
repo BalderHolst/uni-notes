@@ -1,5 +1,6 @@
 ---
 created: 2026-09-16
+tags: [statistics]
 ---
 # Hypothesis Testing
 Most useful for *comparing*.
@@ -107,5 +108,3 @@ $Z$: [[Z-distribution|Z distributed]] random variable
 $p$: [[P-value]]. One or two depending on the type of test (single/double sided)
 
 
----
-#statistics

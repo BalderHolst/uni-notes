@@ -1,5 +1,6 @@
 ---
 created: 2024-10-14
+tags: [linearalgebra]
 ---
 # Orthogonal Matrix
 A special matrix such that
@@ -13,9 +14,3 @@ $$
 $$
 \mathrm{angle}(x, y) = \mathrm{angle}(Ax, Ay)
 $$
-
-
-
-
----
-#linearalgebra

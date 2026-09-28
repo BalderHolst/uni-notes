@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Varmekapacitet
 $$E_{term} = m \cdot c \cdot \Delta T$$
@@ -26,6 +27,3 @@ $$E_{term} = C  \cdot \Delta T$$
 $E_{term}$ er den [[Energi|energi]] der skal tilføres et system, med den specifikke varmekapacietet $C$.
 
 $\Delta T$ er temperaturforskellen ved en energitilførsel på $E_{term}$
-
----
-#fysik

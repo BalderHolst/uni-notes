@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [approximation, matematik]
 ---
 # Taylorpolynomium
 $n$'te grads taylorpolynomium udvikles om $x = a$.
@@ -52,6 +53,3 @@ $$E_{n}(x) = \frac{|f^{(n+1)}(s)|}{(n+1)!}(x-a)^{n+1} \s s \in \ ]a,x[$$
 >Er fejlen positiv eller negativ?
 >$$(x-0)^{4} > 0 \s \text{og} \s f''''(s) = e^{s} > 0$$
 >Fejlen er positiv
-
----
-#matematik #approximation

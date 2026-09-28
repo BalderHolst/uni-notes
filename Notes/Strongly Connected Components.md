@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [algorithms]
 ---
 # Strongly Connected Components
 Every node in a SCC is *reachable from every other node* in the SCC.
@@ -10,5 +11,3 @@ The picture above contains 3 SCCs.
 
 
 
----
-#algorithms

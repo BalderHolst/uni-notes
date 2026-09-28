@@ -1,5 +1,6 @@
 ---
 created: 2024-11-11
+tags: [statistics]
 ---
 # Multivariate Random Variables
 See [[lecture7.pdf#page=24|slides]].
@@ -50,6 +51,3 @@ $$
 \mathbb{V}(AX) &= A\Sigma A^T
 \end{align}
 $$
-
----
-#statistics

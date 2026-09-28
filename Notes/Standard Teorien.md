@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Standard Teorien
 ![|400](https://fysikleksikon.nbi.ku.dk/s/standardmodellen/Standard_Model_of_Elementary_Particles.svg.png)
@@ -13,5 +14,3 @@ Har altid **leptontallet** +1, og deres "anti"-varianter har leptontallet -1
 ### Bosoner
 Bindingerne mellem kvarkerne, der danner protoner og neutroner er *gluoner*.
 
----
-#fysik 

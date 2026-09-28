@@ -1,5 +1,4 @@
-# <% tp.file.title %>
-
-
 ---
-#statistics #distribution
+tags: [distribution, statistics]
+---
+# <% tp.file.title %>

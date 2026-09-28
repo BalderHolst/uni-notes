@@ -1,5 +1,6 @@
 ---
 created: 2023-12-31
+tags: [matematik]
 ---
 # Cylinderiske Koordinater
 Se også [[Spherical Coordinates]].
@@ -40,6 +41,3 @@ x^{2}+y^{2}= a^{2} &\rightarrow r = a
 $$
 >[!example]- Exercises
 >[[lektion5.pdf#page=6]]
-
----
-#matematik 

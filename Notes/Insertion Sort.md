@@ -1,5 +1,6 @@
 ---
 created: 2024-10-30
+tags: [sorting, algorithms]
 ---
 # Insertion Sort
 Insert the current number correctly in the part left of the current cursor position.
@@ -39,5 +40,3 @@ In the worst case, the input is inversely sorted.
 $$O(n^2)$$
 If the input is **already sorted**, the time complexity is very close to $\Theta(n)$.
 
----
-#algorithms #sorting

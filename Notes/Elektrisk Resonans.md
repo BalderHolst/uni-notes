@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Elektrisk Resonans
 Når den imaginære del af [[Impedans|impedansen]] er $0$.
@@ -22,6 +23,3 @@ Resonerer ligesom [[#serieresonans]] ved
 $$\omega_{0} = \frac{1}{\sqrt{LC}}$$
 [[Impedans]]
 $$Z\to \infty$$
-
----
-#elektronik 

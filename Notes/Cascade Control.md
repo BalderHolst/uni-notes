@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Cascade Control
 See [[Lecture 3 - Introduction to Control.pdf#page=68|slides]].
@@ -8,5 +9,3 @@ See [[Lecture 3 - Introduction to Control.pdf#page=68|slides]].
 
 Inner loop should **not have overshoot**.
 
----
-#controlsystems 

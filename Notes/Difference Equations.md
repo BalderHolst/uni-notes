@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [signalprocessing]
 ---
 # Difference Equations
 Describe the output ($y$) as a function of an input ($x$) and previous values of $y$.
@@ -29,6 +30,3 @@ $$H(z) = \frac{Y(z)}{X(z)}$$
 
 >[!video]- Example: transfer function from difference equation
 >![](https://www.youtube.com/watch?v=IJhyJGjeLvA)
-
----
-#signalprocessing

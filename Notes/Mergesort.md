@@ -1,5 +1,6 @@
 ---
 created: 2024-10-30
+tags: [sorting, algorithms]
 ---
 # Mergesort
 Divide and concur. This algorithm breaks down the input into smaller and smaller parts *recursively*. Then the algorithm reassembles the sorted array.
@@ -45,6 +46,3 @@ Mergesort is [[Stable Sorting|stable]] sorting algorithm.
 $$
 O(n\cdot \log(n))
 $$
-
----
-#algorithms #sorting 

@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Dynamic Memory Allocation
 
@@ -29,9 +30,3 @@ Find end of heap
 ```c
 void* sbrk(0);
 ```
-
-
-
-
----
-#c

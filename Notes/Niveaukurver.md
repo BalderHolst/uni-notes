@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktionafflerevariable, matematik]
 ---
 # Niveaukurver
 
@@ -14,7 +15,3 @@ Skæringen mellem disse flader er niveaukurven.
 
 Skæringen mellem disse flader, er *niveaukurven*
 ![[Niveaukurve 2.png|400]]
-
-
----
-#matematik #funktionafflerevariable 

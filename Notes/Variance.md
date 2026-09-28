@@ -1,5 +1,6 @@
 ---
 created: 2024-11-11
+tags: [statistics]
 ---
 # Variance
 "Spread" of a distribution.
@@ -34,7 +35,3 @@ Independent and scaled random variables
 $$
 \mathbb{V}\left( \sum_{i=1}^{n} a_{i}X_{i} \right) = \sum_{i=1}^{n} a_{i}^{2} \mathbb{V}(X_{i})
 $$
-
-
----
-#statistics

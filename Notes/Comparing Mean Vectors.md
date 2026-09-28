@@ -1,5 +1,6 @@
 ---
 created: 2026-09-24
+tags: [statistics]
 ---
 # Comparing Mean Vectors
 See [[Lessons/Semester 7/statistics/Lektion 4 slides.pdf|slides]].
@@ -164,6 +165,3 @@ $$
 \right],
 \quad i = 1, \dots, p
 $$
-
----
-#statistics

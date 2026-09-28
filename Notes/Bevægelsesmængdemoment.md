@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 ## Bevægelsesmængdemoment for én partikel
 
@@ -10,7 +11,3 @@ $\vec{v}$ : Hastighedsvektoren
 $m$ : Massen af partiklen
 
 Bevægelsesmængdemoment er *konstant i et isoleret system.*
-
-
----
-#fysik 

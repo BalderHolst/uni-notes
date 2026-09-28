@@ -1,5 +1,6 @@
 ---
 created: 2024-09-05
+tags: [kinematics, matricer, matematik]
 ---
 # Rotational Matrices
 
@@ -44,7 +45,3 @@ $$\bcancel{\cancel{^AP = \  ^B_AR \cdot \ ^BP}}$$
 >   0 & \sin\theta & \cos\theta \\
 >\end{array}
 >\right)$$
-
-
----
-#matematik #matricer #kinematics

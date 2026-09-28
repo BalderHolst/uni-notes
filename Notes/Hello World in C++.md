@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Hello World in C++
 
@@ -11,6 +12,3 @@ int main(int argc, char** argv){
 	return(0);
 }
 ```
-
----
-#cpp

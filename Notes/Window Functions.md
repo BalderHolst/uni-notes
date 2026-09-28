@@ -1,5 +1,6 @@
 ---
 created: 2023-12-28
+tags: [signalprocessing]
 ---
 # Window Functions
 
@@ -45,5 +46,3 @@ See [[lektion 11 - Design af FIR filtre.pdf#page=34|slides]].
 
 $\beta$ alters the side lobe amplification.
 
----
-#signalprocessing 

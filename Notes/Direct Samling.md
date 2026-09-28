@@ -1,5 +1,6 @@
 ---
 created: 2024-09-12
+tags: [intelligent-systems]
 ---
 # Direct Samling
 Generate samples from [[Bayesian Networks]].
@@ -18,5 +19,3 @@ $$
 With enough samples the estimate approaches the true distribution.
 
 
----
-#intelligent-systems

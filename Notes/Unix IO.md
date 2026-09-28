@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Unix IO
 Direct mappings to syscalls. Unbuffered, and therefore usually slow compared to buffered alternatives like [[standard IO]].
@@ -173,6 +174,3 @@ int main(void)
   return EXIT_SUCCESS;
 }
 ```
-
----
-#c

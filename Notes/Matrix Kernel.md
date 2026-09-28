@@ -1,5 +1,6 @@
 ---
 created: 2024-09-24
+tags: [linearalgebra]
 ---
 # Kernel
 See also [[Matrix Image|image]].
@@ -20,7 +21,3 @@ $$
 >[!top] Calculating the Kernel
 >Write this as a system of linear equations
 >$$ \Phi x = \vec{0} $$
-
-
----
-#linearalgebra

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [softwaredevelopment]
 ---
 # Unified Process
 
@@ -10,6 +11,3 @@ created: 2023-12-25
 2. Elaboration - define system architecture
 3. Construction - Construct the system
 4. Transition - Deploy the system into the real world
-
----
-#softwaredevelopment 

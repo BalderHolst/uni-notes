@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Nyquist Formula
 Defines the *theoretical* maximum bit rate
@@ -10,5 +11,3 @@ $L$: the number of signal levels.
 
 The $2$ is because, you always have to sample at twice the frequency of the highest signal component.
 
----
-#datacommunication 

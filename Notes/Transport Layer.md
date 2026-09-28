@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Transport Layer
 See [[KOM - lecture 9a - Itslearning.pdf|slides]].
@@ -27,5 +28,3 @@ See [[KOM - lecture 9a - Itslearning.pdf|slides]].
 
 We can use [[piggybacking]] in bidirectional communication.
 
----
-#datacommunication

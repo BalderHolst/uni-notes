@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [matematik]
 ---
 # Riemann Sum
 ![[Riemann-Sum.png|400]]
@@ -7,5 +8,3 @@ In two dimensions the area can be approximated by dividing the $xy$-plane into s
 
 
 
----
-#matematik

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Fjederkraft
 $$F = -kx$$
@@ -27,6 +28,3 @@ $k_i$ : $k$-værdierne for fjedrene
 
 Fjedre i "parallel"
 $$k_{eff}=k_{1} + k_{2} +\dots$$
-
----
-#fysik 

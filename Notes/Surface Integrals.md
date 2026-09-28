@@ -1,5 +1,6 @@
 ---
 created: 2024-01-04
+tags: [multivariablemath, matematik]
 ---
 # Surface Integrals
 $$\iint_{S}f(x,y,z) \,\text{dS}$$
@@ -49,7 +50,3 @@ The *amount* of the vector field $F$ that passes through the surface $S$.
 
 Make sure to *parameterise* $F$.
 $$\iint_{S} \vec{F} \bullet (\vec{r_{u}} \times \vec{r_{v}})\ \text{du dv}$$
-
-
----
-#matematik #multivariablemath

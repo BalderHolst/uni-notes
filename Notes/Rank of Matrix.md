@@ -1,5 +1,6 @@
 ---
 created: 2024-09-12
+tags: [matricer, matematik]
 ---
 # Rank of Matrix
 > Rank of matrix $A$ is the maximum number of *independent* rows within $A$.
@@ -15,6 +16,3 @@ All columns are completely independent; You cannot compute any given column, by 
 
 ### Transposition Note
 $$\mathrm{rank}(A^{T})= \mathrm{rank}(A)$$
-
----
-#matematik #matricer 

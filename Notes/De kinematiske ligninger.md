@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # De kinematiske ligninger
 $$
@@ -9,6 +10,3 @@ x - x_0 = \frac{1}{2} at^{2}+ v_0t \s &\text{undlader: } v \\
 v^2 = v_0^2 + 2a(x-x_0) \s &\text{undlader: } t
 \end{align}
 $$
-
----
-#fysik 

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Fotoner
 
@@ -16,6 +17,3 @@ $$m_{foton} = \frac{E_{foton}}{c^2}$$
 ### Fotoners bevægelsesmængde
 
 $$P_{foton} = m_{foton} \cdot c = \frac{h}{\lambda} \Arrows P_{foton} = \frac{h \cdot f}{c}$$
-
----
-#fysik 

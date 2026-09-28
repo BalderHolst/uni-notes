@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [intelligent-systems]
 ---
 # Dynamic Bayesian Networks
 See [[lecture8a.pdf|slides]].
@@ -69,7 +70,3 @@ Exact inference is not feasible for DBNs. As you need to "unroll" the network ov
 
 Here are a few:
 - [[Particle Filtering]]
-
-
----
-#intelligent-systems

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # [[Isaac Newton|Newtons]] Afkølingslov
 
@@ -45,6 +46,3 @@ $k$-værdien er en proportionalskonstant, der beskriver hvor hurtigt elementet o
 Vi kan se hvordan temperaturen går mod omgivelsernes temperatur, hvis vi tegner et [[Hældningsfelt]] for differentialligningen $T' = -k \cdot (T-T_{omg})$
 
 ![[Newtons Afkølingslov Hældningsfelt.png|300]]
-
----
-#matematik 

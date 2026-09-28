@@ -1,5 +1,6 @@
 ---
 created: 2026-09-17
+tags: [machine-learning, statistics]
 ---
 # Mean Square Error
 $$
@@ -12,5 +13,3 @@ $\widehat{\theta}$: The estimated value of the parameter given $n$ samples
 
 
 
----
-#statistics #machine-learning

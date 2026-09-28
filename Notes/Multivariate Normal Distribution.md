@@ -1,5 +1,6 @@
 ---
 created: 2026-09-11
+tags: [multivariate-statistics]
 ---
 # Multivariate Normal Distribution (MVN)
 See [[Lektion 2 slides.pdf#page=2|slides]].
@@ -44,7 +45,3 @@ $$
 > $$
 > f(x) = \frac{1}{\sqrt{2\pi} \sigma} e^{\frac{1}{2} \frac{x-\mu}{\sigma}}, \;\;x\in\mathbb{R}
 > $$
-
-
----
-#multivariate-statistics 

@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [controlsystems]
 ---
 # Linear State Space Models
 
@@ -114,5 +115,3 @@ See [[Lecture 2 - Stability Analysis.pdf#page=40|slides]].
 
 #### Over Damped
 See [[Lecture 2 - Stability Analysis.pdf#page=36|slides]].
----
-#controlsystems

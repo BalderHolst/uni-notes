@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Penduler
 
@@ -52,6 +53,3 @@ $$U(\theta) = mgh = mgl \cdot(1-\cos(\theta))$$
 Bruger en første ordens [[Taylorpolynomium|taylorrække]] for at estimere $\cos(\theta)$.
 $$\cos(\theta) \approxeq 1 - \frac{\theta^{2}}{2} \arrow U(\theta) = mgl\cdot\left(1-1+\frac{\theta^{2}}{2}\right)$$
 $$\Rightarrow \hspace{5mm} U(\theta) = \frac{1}{2}mgl\theta^2$$
-
----
-#fysik 

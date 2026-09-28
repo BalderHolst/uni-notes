@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [matematik]
 ---
 # Integralregning
 
@@ -22,7 +23,3 @@ views:
     imageAspectRatio: 1.1
     cardSize: 210
 ```
-
-
---- 
-#matematik

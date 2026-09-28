@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Multiplexer (Selector)
 A selection line, selects which of the inputs are output.
@@ -20,5 +21,3 @@ The input is connected **directly connected** to the output is enabled.
 
 This can be implemented with [[Tri-State Buffer|tri-state buffers]] like on [[Lesson 3.pdf#page=29|this]] slide. 
 
----
-#microcontrolers 

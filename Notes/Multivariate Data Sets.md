@@ -1,5 +1,6 @@
 ---
 created: 2026-09-03
+tags: [multivariate-statistics]
 ---
 # Multivariate Data Sets
 
@@ -17,5 +18,3 @@ $p$: Dimension of each sample
 
 
 
----
-#multivariate-statistics 

@@ -1,5 +1,6 @@
 ---
 created: 2024-12-09
+tags: [statistics]
 ---
 # Asymptotic Relative Efficiency
 Compare sample efficiency between parameter estimators.
@@ -23,5 +24,3 @@ Median estimator has a sample efficiency of $63\%$ compared with [[Maximum Likel
 
 
 
----
-#statistics

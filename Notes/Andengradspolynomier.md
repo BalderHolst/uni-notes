@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # Andengradspolynomier
 
@@ -72,7 +73,3 @@ se [[Bevis for Løsningsformlen|beviset]].
 ---
 ##### Se også
 - [[Linære Funktioner]]
-
-
----
-#matematik #funktioner 

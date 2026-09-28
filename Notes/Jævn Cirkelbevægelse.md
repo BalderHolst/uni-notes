@@ -1,5 +1,6 @@
 ---
 created: 2024-09-03
+tags: [fysik]
 ---
 # Jævn Cirkelbevægelse
 
@@ -97,6 +98,3 @@ $$\frac{sin(\alpha) + \mu \cdot \cos(\alpha)}{cos(\alpha) - \mu \cdot \sin(\alph
   Derfor må $v_{maks}$ kunne beskrives således
 
 $$v_{maks} = \sqrt{\frac{sin(\alpha) + \mu \cdot \cos(\alpha)}{cos(\alpha) - \mu \cdot \sin(\alpha)} \cdot} \sqrt{g \cdot r}$$
-
----
-#fysik 

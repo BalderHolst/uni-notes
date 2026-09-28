@@ -1,5 +1,6 @@
 ---
 created: 2023-12-30
+tags: [multivariablemath]
 ---
 # Change of Variables
 Used to get of non-constant boundaries of integrals.
@@ -21,6 +22,3 @@ It is often a good idea to translate an integral to another known coordinate sys
 - [[Polar Coordinates]]
 - [[Spherical Coordinates]]
 - [[Cylindrical Coordinates]]
-
----
-#multivariablemath

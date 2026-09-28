@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 #### Steady-State Value of Time Function
 See [[Lecture 3 - Introduction to Control.pdf#page=10|slides]].
@@ -10,5 +11,3 @@ See [[Lecture 3 - Introduction to Control.pdf#page=10|slides]].
 See [[Lecture 3 - Introduction to Control.pdf#page=17|slides]].
 
 
----
-#controlsystems

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Logaritmer
 [[Omvendt funktion|Omvende funktioner]] til [[Eksponentielle Funktioner]].
@@ -20,6 +21,3 @@ $$(e^x)' = e^x$$
 
 ##### Se også
 - [[Omvendt funktion]]
-
----
-#matematik 

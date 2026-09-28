@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [elektronik]
 ---
 # Spændingsdeler
 $$V_n = \frac{R_n}{R_1 + R_2 + R_3+\dots} \cdot V_{total}$$
@@ -21,7 +22,3 @@ $R_{1\dots}$ : De andre [[Serieforbindelser|serieforbundene]] modstande.
 
 ### Se Også
 - [[Strømdeler]]
-
----
-#elektronik 
-

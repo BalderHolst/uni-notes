@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Assembly
 
@@ -135,5 +136,3 @@ Opcode: $1001\ 010\text{d}\ \text{dddd}\ 0011$
 ##### ADD
 Add two registers togeather and place them in a third register.
 
----
-#microcontrolers

@@ -1,5 +1,6 @@
 ---
 created: 2024-09-04
+tags: [matricer, matematik]
 ---
 # Antisymetrisk
 
@@ -15,6 +16,3 @@ $$
 \end{array}
 \right)
 $$
-
----
-#matematik #matricer 

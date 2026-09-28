@@ -1,5 +1,6 @@
 ---
 created: 2024-01-04
+tags: [multivariablemath, matematik]
 ---
 # Normal form of a PDE
 See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
@@ -171,5 +172,3 @@ $$u_{\alpha\alpha} + u_{\beta\beta} = \Phi(\alpha, \beta, u, u_{\alpha}, u_{\bet
 #### 7. Replace Variables
 Replace $\xi$ and $\eta$ with functions of $x$ and $y$.
 
----
-#matematik #multivariablemath

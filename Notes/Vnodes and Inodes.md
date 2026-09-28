@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Vnodes and Inodes
 Vnodes are located in memory and only exist when the file is open. Inodes always exist as the contain metadata about physical files on disk. Data such as ownership and permissions.
@@ -7,5 +8,3 @@ Vnodes are located in memory and only exist when the file is open. Inodes always
 
 
 
----
-#c

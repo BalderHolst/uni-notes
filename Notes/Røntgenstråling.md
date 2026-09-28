@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Røntgenstråling
 Kan dannes i [[Røntgenrør]]
@@ -17,7 +18,3 @@ $$2 \cdot \lambda_{min} \cdot f_{maks}=c \arrows \lambda_{min} = \frac{c}{f_{mak
 $$\lambda_{min} = \frac{c}{\frac{e \cdot U}{h}=c \cdot \frac{h}{e \cdot u}}=\frac{h \cdot c}{e \cdot U}$$
 $$\Updownarrow$$
 $$\lambda_{min}=\frac{h \cdot c}{e \cdot U}$$
-
-
----
-#fysik 

@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [signals, matematik]
 ---
 # Fourieseries
 Se [[Lektion 1 - Fourierraekker.pdf#page=22|slides]].
@@ -36,7 +37,3 @@ f(x) &= \sum^\infty_{-\infty} c_n e^{jn\pi x / L} \\
 c_n &= \frac{1}{2}(a_n - jb_n), \s n > 0
 \end{align}
 $$
-
-
----
-#matematik #signals 

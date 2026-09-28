@@ -1,5 +1,6 @@
 ---
 created: 2024-11-12
+tags: [intelligent-systems]
 ---
 # Propability Space
 A triple $(\Omega, \mathcal{F}, P)$. See [[lecture2.pdf#page=4|slides]].
@@ -122,6 +123,3 @@ You can find the distribution from the moment generating function like this:
 $$
 \phi'_x(0) = X
 $$
-
----
-#intelligent-systems

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Monotoniforhold
 
@@ -15,5 +16,3 @@ En kategorisering af hvornår hældningen af en graf en enten stigende, falende 
 ### Monotone funktioner
 En monoton funktion er altid voksende eller altid aftagende.
 
----
-#matematik 

@@ -1,5 +1,6 @@
 ---
 created: 2025-02-18
+tags: [numerical-methods]
 ---
 # Cholesky Decomposition
 See [[week2.pdf#page=12|slides]].
@@ -29,7 +30,3 @@ $$L_{ii} = 1$$
 
 >[!warning] Not a general method
 > Requires $A$ to be a [[Symetric Matrices|symetric]] and [[Positive semi-definite matrix|positive semi-definete]].
-
-
----
-#numerical-methods 

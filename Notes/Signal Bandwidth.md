@@ -1,5 +1,6 @@
 ---
 created: 2024-03-22
+tags: [controlsystems]
 ---
 # Signal Bandwidth
 See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=28|slides]].
@@ -10,9 +11,3 @@ The bandwith $\omega_{BW}$ of $T(s)$ is the maximal frequency such that:
 $$
 T(j \omega ) \geq \frac{1}{\sqrt{2}}, \s \forall \omega \in \omega_{BW}
 $$
-
-
-
-
----
-#controlsystems

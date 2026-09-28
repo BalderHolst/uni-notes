@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Terminalhastighed
 $$v_t = \sqrt{\frac{mg}{\rho AC_D}},\s \text{sandt når } F_D = F_g$$
@@ -12,5 +13,3 @@ $C_D$ : Drag koefficient.
 $F_D$ : Luftmodstandskraften.
 $F_g$ : Tyngdekraften.
 
----
-#fysik

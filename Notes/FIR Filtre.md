@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # FIR Filtre
 See [[lektion 10 - Introduktion til FIR filtre.pdf|slides]].
@@ -71,6 +72,3 @@ Begge findes i tabellen ovenfor.
 3. Beregn filterkoefficienter. Filterkoefficienterne udregnes som
 $$a_{i} = c_{M−i}w_{M−i}$$
 4. Verifikation. Filtrets amplitudekarakteristik kontrolleres og om nødvendigt redesignes filtret ($M$-værdi korrigeres).
-
----
-#signalprocessing

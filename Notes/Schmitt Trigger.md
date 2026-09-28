@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [forstærker]
 ---
 # Schmitt Trigger
 Giver abrupte skift mellem LOW og HIGH.
@@ -12,6 +13,3 @@ Hysterese: Forskellem mellem HIGH- og LOW-threshold.
 
 ### Implementation
 ![[Schmitt-Trigger-Implementation.png|Pasted image 20240402094821.png]]
-
----
-#forstærker

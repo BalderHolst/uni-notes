@@ -1,5 +1,6 @@
 ---
 created: 2026-09-18
+tags: [machine-learning, statistics]
 ---
 # Mean Absolute Error (MAE)
 $$
@@ -12,5 +13,3 @@ $\widehat{\theta}$: The estimated value of the parameter given $n$ samples
 
 
 
----
-#statistics #machine-learning

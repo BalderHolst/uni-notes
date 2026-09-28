@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [softwaredevelopment]
 ---
 # Scrum
 > *Scrum is an experimental approach to software development.*
@@ -34,6 +35,3 @@ Stand up - because **it should be short**.
 ### Sprint Backlog
 A backlog defining the work that is left to be done.
 
----
-
-#softwaredevelopment

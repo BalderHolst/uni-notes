@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Parallelforbindelser
 se også [[Serieforbindelser]]
@@ -28,8 +29,4 @@ $$i = (C_1+C_2+\dots+C_n) \frac{dV}{dt}$$
 $i$ : strømmen gennem den ækvivalente kondensator.
 $C_n$ : Hver kondensators kapacitet.
 $\frac{dV}{dt}$ : Den differentierede funktion for spænding over tid.
-
----
-#elektronik 
-
 

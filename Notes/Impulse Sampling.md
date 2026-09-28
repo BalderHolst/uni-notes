@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [signalprocessing]
 ---
 # Impulse Sampling
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=7|slides]].
@@ -15,6 +16,3 @@ This method results in the signal being repeated an infinite amount of times alo
 
 >[!example]- Eksempel fra slides
 >![[Lektion 2 - Sampling og Rekonstruktion.pdf#page=23]]
-
----
-#signalprocessing

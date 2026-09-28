@@ -1,5 +1,6 @@
 ---
 created: 2024-02-16
+tags: [signals, matematik]
 ---
 # Linear Systems
 
@@ -17,7 +18,3 @@ f(x+y) &= f(x) + f(y) &\Rightarrow \text{Linear} \\
 f(\alpha x) &= \alpha f(x) &\Rightarrow \text{Time Invariant}
 \end{align}
 $$
-
-
----
-#matematik #signals 

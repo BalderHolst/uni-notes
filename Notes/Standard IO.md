@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Standard IO
 Buffered alternatives to [[Unix IO]]. Usually `f` variants of other C functions.
@@ -120,6 +121,3 @@ int main(void)
     return EXIT_SUCCESS;
 }
 ```
-
----
-#c

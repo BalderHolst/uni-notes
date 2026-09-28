@@ -1,5 +1,6 @@
 ---
 created: 2024-10-14
+tags: [linearalgebra, matricer, matematik]
 ---
 ## Determinanen for Matricer
 Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rank of Matrix|rang]]. The matrix **must be square**.
@@ -77,5 +78,3 @@ $B_{n\times n}$ er nu en matrix
 $$\det(A \cdot B) = \det(B \cdot A) = \det(A) \cdot \det(B)$$
 Her er operationsrækkefølgen ligefølgen ligegyldig **IKKE** som at [[Matrix#Gange med matricer|gange med matricer]].
 
----
-#matematik #matricer #linearalgebra 

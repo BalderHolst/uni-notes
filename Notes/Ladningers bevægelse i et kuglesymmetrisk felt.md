@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 ## Ladningers bevægelse i et kuglesymmetrisk felt
 
@@ -14,7 +15,3 @@ $r$: distancen mellem ladningerne
 
 
 $$E_{pot}=k_c \cdot \frac{q \cdot Q}{r}$$
-
-
----
-#fysik

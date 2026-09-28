@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # IPv6
 Successor to [[IPv4]]. See [[KOM - lecture 8a - Itslearning.pdf#page=3|slides]].
@@ -82,5 +83,3 @@ Port numbers for server processes must be know. Otherwise the client does not kn
 Ip address + port number = Socket address
 Ex: 200.23.56.8:69
 
----
-#datacommunication

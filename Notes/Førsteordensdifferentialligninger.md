@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [differentialligninger, matematik]
 ---
 # Førsteordens-differentialligninger	
 [[Linære førsteordensdifferentialligninger]]
@@ -56,6 +57,3 @@ $$\int f(x)= \int \frac{1}{g(y)}dy$$
 
 >[!example]- Opgaver
 >[[Aflevering 2 - rettet.pdf#page=1]]
-
----
-#matematik #differentialligninger 

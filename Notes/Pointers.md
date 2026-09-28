@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Pointers
 Holds an address of a variable.
@@ -32,5 +33,3 @@ var = *pointer // Reads the data at the pointer location.
 The dereference operator uses the pointer type (defined at pointer declaration) to interpret the memory.
 
 
----
-#cpp

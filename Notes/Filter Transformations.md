@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Filter Transformations
 See [[Lektion 1 - Filterfunktioner.pdf#page=53|slide]].
@@ -38,13 +39,3 @@ $$W_{a} = \frac{\Delta f_{a}}{f_{c}}  \s  W_{s} = \frac{\Delta f_{s}}{f_{c}}, \s
 
 The transformation back to band-pass:
 $$H_{bp}(s) = H_{lp}(\bar{s})|_{\bar{s} = \frac{1}{W_{a}}\left(\frac{s+1}{s}\right)}$$
-
-
-%% 
-TODO: List low-pass
-TODO: List high-pass 
-TODO: List band-stop
-%% 
-
----
-#signalprocessing

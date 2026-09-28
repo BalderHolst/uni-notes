@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [differentialligninger, matematik]
 ---
 # Dæmpede Svingninger
 
@@ -43,5 +44,3 @@ $$r = k \pm \omega i$$
 $k$ : det reelle komponent af $r$.
 $w$ : det imaginære komponent af $r$.
 
----
-#matematik #differentialligninger 

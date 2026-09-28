@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # IIR Filters
 Infinite Impulse Response Filter. See [[lektion 8 - Introduktion til IIR filtre.pdf|slides]].
@@ -32,6 +33,3 @@ Use *capital letters for coefficients in $s$-domain*.
 
 ##### Differences in Impule Response
 ![[IIR-Filters-Differences-in-Impule-Response.png|center|300]]
-
----
-#signalprocessing

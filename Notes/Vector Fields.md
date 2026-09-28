@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [multivariablemath, subject]
 ---
 # Vector Fields
 A way of representing functions with $2$- or $3$-dimensional inputs and outputs.
@@ -72,7 +73,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
-
----
-#subject #multivariablemath

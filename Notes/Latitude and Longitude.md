@@ -1,5 +1,6 @@
 ---
 created: 2026-09-13
+tags: [drones]
 ---
 # Latitude and Longetude
 ![[Pasted image 20260911095035.png]]
@@ -20,5 +21,3 @@ E 010 deg 25.915' (minutes)
 N 55 deg 22'  02.4''
 E 010 deg 25' 54.9''
 
----
-#drones

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [signalprocessing]
 ---
 # Fast Fourier transformation
 See [[Lektion 3 - Introduktion til FFT.pdf#page=37|slides]].
@@ -65,8 +66,3 @@ $$
 ```matlab
 fft()
 ```
-
-
-
----
-#signalprocessing

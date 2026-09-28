@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [matematik]
 ---
 # Spherical Coordinates
 
@@ -31,6 +32,3 @@ $r$ kan findes således
 $$r = \sqrt{x^2 + y^2} = R \cdot  \sin \phi$$
 Derudover er dette sandt
 $$\tan \phi = \frac{r}{z} = \frac{\sqrt{x^2 + y^2}}{z} \s \text{og} \s \tan \theta =\frac{y}{x}$$
-
----
-#matematik 

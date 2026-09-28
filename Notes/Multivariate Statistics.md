@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 # Multivariate Statistics
 
@@ -31,6 +32,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

@@ -1,5 +1,6 @@
 ---
 created: 2024-11-11
+tags: [distribution, statistics]
 ---
 # $\mathcal{X}^2$ Distribution
 
@@ -14,7 +15,3 @@ Probability Density Function
 $$
 f(x) = \frac{1}{\Gamma(\frac{p}{2})\, 2^{\frac{p}{2}}}\, x^{\frac{p}{2}}\, e^{\frac{-x}{2},}\quad x>0
 $$
-
-
----
-#statistics #distribution

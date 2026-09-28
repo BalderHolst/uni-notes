@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject, elektronik]
 ---
 # Kredsløb
 
@@ -29,6 +30,3 @@ created: 2026-09-28
 - [[Notes/Operationsforstærker|Operationsforstærker]]
 - [[Notes/Spoler|Spoler]]
 - [[Transistorer]]
-
----
-#elektronik #subject 

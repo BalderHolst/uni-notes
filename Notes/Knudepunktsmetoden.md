@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [elektronik]
 ---
 # Knudepunktsmetoden (Node-Voltage Analysis)
 
@@ -8,6 +9,3 @@ created: 2025-01-28
 2. Derfra kan strømme udledes.
 3. Til sidst kan spændinger udregnes med [[Ohm's Lov]].
 $$I_{A\rightarrow B}= \frac{v_A - v_B}{R}$$
-
----
-#elektronik 

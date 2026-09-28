@@ -1,5 +1,6 @@
 ---
 created: 2025-02-18
+tags: [numerical-methods]
 ---
 # Least Squared Problem
 See [[week2.pdf#page=5|slides]].
@@ -70,7 +71,3 @@ Which is just the [[Normal Equations]].
 $$
 (A^{T} \cdot A) \cdot a = A^{T} \cdot b
 $$
-
-
----
-#numerical-methods

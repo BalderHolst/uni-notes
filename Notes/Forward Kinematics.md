@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Forward Kinematics
 > Forward kinematics describes how *motion of the joints* affects motion of the robot *end-effector*.
@@ -14,6 +15,3 @@ There is no standard way to place frames.
 >$$
 >^0_3T =\ ^0_1T\ ^1_2T\ ^2_3T
 >$$
-
----
-#kinematics 

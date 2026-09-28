@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [elektronik]
 ---
 # Impedans
 Modstand i [[AC]] kredsløb.
@@ -27,5 +28,3 @@ $$Z=R+jX = |Z|\angle \phi$$
 Ligesom modstand i [[Serieforbindelser#Resistance ($R$)|serie]]- og [[Parallelforbindelser]].
 
 
----
-#elektronik

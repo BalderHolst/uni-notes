@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Rotation
 Se [[Lektion 09-FYS__RT_E22.pdf|slideshow]].
@@ -82,7 +83,3 @@ $$P = \frac{\vec{\tau} \cdot d \vec{\theta}}{dt} = \vec{\tau} \cdot \vec{\omega}
 >$$K = \frac{1}{2} \cdot m \cdot  v^{2} \s \text{og} \s v = r\omega$$
 >$$\Downarrow$$
 >$$K= \frac{1}{2} \cdot m r^{2}\omega^{2} =\frac{1}{2} \cdot I \cdot \omega^{2}$$
-
-
----
-#fysik 

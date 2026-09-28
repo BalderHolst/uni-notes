@@ -1,5 +1,6 @@
 ---
 created: 2024-09-05
+tags: [matricer, matematik]
 ---
 # Matricer - Regneregler
 
@@ -22,5 +23,3 @@ Hvis $\rang(A) = n$ og $AB=\underline{0}$, så er $B=\underline{0}$.
 
 
 
----
-#matematik #matricer 

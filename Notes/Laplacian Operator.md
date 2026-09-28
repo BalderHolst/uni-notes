@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vectorfields, multivariablemath]
 ---
 # Laplacian Operator
 > *"How much of a minimum is this ($x$,$y$)?"*
@@ -33,6 +34,3 @@ $$\Delta f = \nabla^{2}f = \nabla \bullet \nabla \bullet f = \mathbf{div}(\mathb
 
 #### See
 - [[Gradient]]
-
----
-#multivariablemath #vectorfields

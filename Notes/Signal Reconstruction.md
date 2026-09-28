@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Signal Reconstruction
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=44|slides]].
@@ -18,6 +19,3 @@ The filter that *"smooths is all out"*.
 
 The reconstruction filter ideally compensates for the $\text{sinc}$-function.
 ![[Signal-Reconstruction-Reconstruction-Filter-1.png|250]]
-
----
-#signalprocessing

@@ -1,5 +1,6 @@
 ---
 created: 2024-12-11
+tags: [statistics]
 ---
 # Expectation
 Expected value, or **mean**, or first moment. See [[lecture7.pdf|slides]].
@@ -32,7 +33,3 @@ $$
 \right)
 = \prod_i \mathbb{E}(X_i)
 $$
-
-
----
-#statistics

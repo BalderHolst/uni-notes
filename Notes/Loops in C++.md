@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Loops in C++
 
@@ -43,6 +44,3 @@ Jump to next loop iteration
 ```cpp
 continue;
 ```
-
----
-#cpp

@@ -1,5 +1,6 @@
 ---
 created: 2024-09-03
+tags: [vektorer, matematik]
 ---
 # Indre og Ydre Produkt
 Måder at "gange" [[Notes/Vectors|vektorer]].
@@ -51,6 +52,3 @@ $$\vec{a}^{T} \cdot \vec{b} = \left(
  1 & 2 & -4 \\
 \end{array}
 \right)$$
-
----
-#matematik #vektorer 

@@ -1,5 +1,6 @@
 ---
 created: 2024-09-24
+tags: [matricer, matematik]
 ---
 # Symetrix Matrices
 
@@ -15,7 +16,3 @@ $$
 \end{array}
 \right)
 $$
-
-
----
-#matematik #matricer 

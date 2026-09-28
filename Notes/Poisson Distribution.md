@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [distribution, statistics]
 ---
 # Poisson Distribution
 Models the number of events occurring in a fixed interval of time or space, assuming the events happen independently and at a constant average rate.
@@ -17,5 +18,3 @@ $$
 $k$: Number of events
 $\lambda$: Average occurrences pr. event
 
----
-#statistics #distribution

@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signals, matematik]
 ---
 # Fourier-transformation
 See [[Lektion 1 - Fourierraekker.pdf#page=47|slides]].
@@ -24,6 +25,3 @@ $$
 ### Tables
 ![[Fourier-transformation-Tables.png|Pasted image 20240102153415.png]]
 ![[Fourier-transformation-Tables-1.png|Pasted image 20240102153435.png]]
-
----
-#matematik #signals 

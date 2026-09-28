@@ -1,5 +1,6 @@
 ---
 created: 2026-09-25
+tags: [machine-learning]
 ---
 # Sigmoid
 
@@ -8,9 +9,3 @@ $$
 $$
 
 Works well with [[Binary Cross Entropy]]
-
-
-
-
----
-#machine-learning

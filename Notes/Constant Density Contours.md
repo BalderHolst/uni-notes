@@ -1,5 +1,6 @@
 ---
 created: 2026-09-11
+tags: [multivariate-statistics]
 ---
 # Constant Density Contours
 See [[Bivariat distribution geometry and confidence ellipses - examples.pdf|slide examples]].
@@ -18,8 +19,3 @@ Quadratic form -> elipsoids (hyperelipsoids in more dimensions)
 
 
 ![[Constant-Density-Contours-For-Normal-Distributions.png|500]]
-
-
-
----
-#multivariate-statistics 

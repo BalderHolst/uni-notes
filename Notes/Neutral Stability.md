@@ -1,5 +1,6 @@
 ---
 created: 2025-02-10
+tags: [controlsystems]
 ---
 # Neutral Stability
 The boundary between stability and instability.
@@ -19,8 +20,3 @@ In polar form we get
 $$
 |L(s)| = 1 \quad \angle L(s) = 180\degree
 $$
-
-
-
----
-#controlsystems

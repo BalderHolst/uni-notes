@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # z-transformation
 
@@ -109,5 +110,3 @@ $$|p_{i}| > 1, \s \exists i \in \set{1,2,3,\dots, N}$$
 See [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=46|slides]].
 See also [[Lektion 6 - Systemanalyse i z-domæne.pdf#page=66|grafisk bestemmelse]].
 
----
-#signalprocessing

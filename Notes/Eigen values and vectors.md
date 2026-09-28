@@ -1,5 +1,6 @@
 ---
 created: 2024-10-14
+tags: [linearalgebra, matricer, matematik]
 ---
 # Eigen-values and Vectors
 Eigen-value $\lambda$, and eigen-vector $\vec{x}$.
@@ -71,6 +72,3 @@ For ever eigen-value ($\lambda$), a corresponding eigen-vector ($\vec{x}$) exist
 
 >[!video]- Video
 >![](https://www.youtube.com/watch?v=PFDu9oVAE-g)
-
----
-#matematik #matricer #linearalgebra 

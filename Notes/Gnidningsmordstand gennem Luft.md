@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Gnidningsmordstand gennem Luft
 
@@ -20,7 +21,3 @@ $\eta$ = [[Viskositet|Viskositeten]]
  | Re < 1 | Laminar          |
  | Re > 2000 | Turbulent        | 
 
-
----
-
-#fysik  

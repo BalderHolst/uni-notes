@@ -1,5 +1,6 @@
 ---
 created: 2024-10-07
+tags: [intelligent-systems]
 ---
 # Hidden Markov Models
 See [[lecture6.pdf|slides]].
@@ -14,9 +15,3 @@ $T$: Transition matrix
 $$
 O_{t} \in \mathbb{R}^{S\times S}, \; [O_{t}]_{ii} = P(e_{t}|X_{t} = i)
 $$
-
-
-
-
----
-#intelligent-systems

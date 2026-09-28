@@ -1,5 +1,6 @@
 ---
 created: 2024-09-13
+tags: [linearalgebra]
 ---
 # Image
 See also [[Matrix Kernel|kernel]].
@@ -17,5 +18,3 @@ The image of $M$ is the region that $V$ maps to in $W$ space.
 
 
 
----
-#linearalgebra

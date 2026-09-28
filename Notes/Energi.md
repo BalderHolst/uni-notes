@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Energi
 
@@ -15,5 +16,3 @@ created: 2023-12-25
 se [[Arbejde]].
 
 
----
-#fysik 

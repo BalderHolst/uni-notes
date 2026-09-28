@@ -1,5 +1,6 @@
 ---
 created: 2023-12-30
+tags: [multivariablemath]
 ---
 # Jacobian Matrix
 >*"The jacobian matrix is the matrix representing the best linear map approximation of $f$ near $(a,b)$"*
@@ -30,5 +31,3 @@ The scaling factor of space as it is converted from $(u, v)$ space to $(x,y)$ sp
 
 
 
----
-#multivariablemath

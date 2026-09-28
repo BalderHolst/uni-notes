@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [signalprocessing]
 ---
 ## Lineært Tidsinvariant System
 - Udgangssignalet har *samme frekvens* som indgangssignalet.
@@ -11,5 +12,3 @@ Et sådant system ændrer altså kun **forstærkning** og **fase**.
 
 
 
----
-#signalprocessing 

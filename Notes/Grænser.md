@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [matematik]
 ---
 # Grænser
 
@@ -16,7 +17,3 @@ $$\lim_{x\rightarrow a}\left( \frac{f(x)}{g(x)} \right) = \lim_{x\rightarrow a}\
 
 >[!video]- L'Hopital-reglen - Video
 >![](https://www.youtube.com/watch?v=8D1Pqc3TJ8o)
-
-
----
-#matematik 

@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject]
 ---
 # Algorithms and Data Structures
 Implementation and analyses of algorithms and datastruttures. 
@@ -32,6 +33,3 @@ views:
       - property: file.mtime
         direction: DESC
 ```
-
----
-#subject

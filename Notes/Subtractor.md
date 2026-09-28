@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [forstærker]
 ---
 # Subtractor
 A circuit for subtracting voltages.
@@ -14,9 +15,3 @@ V_{o} = v_{1} - v_{2}
 $$
 
 ![[Subtractor.png|Pasted image 20240423101735.png]]
-
-
-
-
----
-#forstærker

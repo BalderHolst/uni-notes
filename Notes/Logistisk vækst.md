@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [differentialligninger, matematik]
 ---
 #### Logistisk vækst
 
@@ -75,6 +76,3 @@ Den maksimale væksthastighed er ved $f(x) = \frac{M}{2}$
 >
 >$$f(x)=\frac{\frac{b}{a}}{1+C \cdot e^{-b \cdot x}}$$
 >
-
----
-#matematik #differentialligninger 

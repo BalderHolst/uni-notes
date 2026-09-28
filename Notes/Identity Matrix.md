@@ -1,5 +1,6 @@
 ---
 created: 2024-09-04
+tags: [matricer, matematik]
 ---
 # Identity Matrix
 **Square** matrix with $1$ on the diagonal and $0$ otherwise.
@@ -21,8 +22,3 @@ $$
 $A$ is matrix and $I$ is an identity matrix. Both are of the same size.
 
 $$A \cdot I = I \cdot  A = A$$
-
-
-
----
-#matematik #matricer 

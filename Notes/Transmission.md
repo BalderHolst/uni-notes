@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # Transmission
 
@@ -37,6 +38,3 @@ Depends on three factors
 - Quality of the channel (noise level, SNR)
 
 [[Shannon Formula]]
-
----
-#datacommunication 

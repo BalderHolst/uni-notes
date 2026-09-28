@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [matematik]
 ---
 # Koordinatsystem og Flader
 ![|center|600](https://docs-be.ni.com/bundle/labview/page/gmath/loc_eps_3dcoordconv.gif?_LANG=enus)
@@ -20,7 +21,3 @@ En vektor fra orego til et punkt på fladen ($P = (x,y,z)$), har en normalvektor
 $$\vec{n} \cdot (P-P_0) = 0 \arrows \vt{A}{B}{C} \cdot \vt{x-x_0}{y-y_0}{z-z_0} = 0$$
 eller...
 $$Ax + By + Cz = D \s \text{hvor} \s D=Ax_0+By_0+Cz_0$$
-
-
----
-#matematik 

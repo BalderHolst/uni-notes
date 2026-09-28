@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [microcontrolers]
 ---
 # Sum of Products (SOP)
 Create circuit from truth table
@@ -13,5 +14,3 @@ $$y = \bar x_{1} . x_{2} . \bar x_{3} + x_{1} . \bar x_{2} . \bar x_{3} + x_{1} 
 
 We can now simplify the equation if needed.
 
----
-#microcontrolers 

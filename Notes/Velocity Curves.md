@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [kinematics]
 ---
 # Velocity Curves
 Ways of getting from one point to another in a smooth and stylish fashion!
@@ -46,6 +47,3 @@ $$
 }
 \vf{q} = \vv{a} \cdot t^{3} + \vv{b} \cdot t^{2} + \vv{c} \cdot t + \vv{d}
 $$
-
----
-#kinematics 

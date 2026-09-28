@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik, fysik]
 ---
 # Harmoniske svingninger
 
@@ -86,9 +87,3 @@ $$A(\omega) = \frac{F_{0}}{\sqrt{m^{2} (\omega^{2} - \omega_0^{2})+b^2\omega^{2}
 $\omega_0$ : Resonans [[Vinkelfrekvens|vinkelfrekvensen]]
 
 $$\omega_{max} = \omega_{0}^{2} \frac{-1}{2}\left(\frac{b^{2}}{m^{2}}\right)$$
-
-
----
-#fysik 
-#matematik 
-

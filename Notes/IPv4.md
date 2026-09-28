@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # IPv4
 See [[KOM - lecture 7 - Itslearning.pdf#page=31|slides]].
@@ -18,5 +19,3 @@ $n$: Number of bits in the prefix
 See [[KOM - lecture 7 - Itslearning.pdf#page=64|slides]].
 
 
----
-#datacommunication

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktionafflerevariable, matematik]
 ---
 # Den retningsafledte
 > Hældningen i retning af $\vec{v}$.
@@ -7,6 +8,3 @@ created: 2023-12-25
 I et punkt $(x,y)$ og i en retning $\vec{v}$.
 
 $$D_{\frac{\vec{v}}{|\vec{v}|}} = \frac{\vec{v}}{|\vec{v}|} \bullet \nabla f(x,y)$$
-
----
-#matematik #funktionafflerevariable 

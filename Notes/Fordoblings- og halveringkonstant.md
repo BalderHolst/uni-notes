@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 ### Fordoblingskonstanten
 [[Formelsamling.pdf#page=19]]
@@ -16,5 +17,3 @@ $$T_2= \frac{ln(\frac{1}{2})}{ln(a)}$$
 $a$ : $a$-værdien i den [[Eksponentielle Funktioner|eksponentielle funktion]].
 
 
----
-#matematik 

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # AVR Ports
 
@@ -29,6 +30,3 @@ AVR ports are implemented with [[Tri-State Buffer|tri state buffers]].
 >LDI R16, 0xff
 >OUT DDRB,R16		;Loads R16 with 0b11111111
 >```
-
----
-#microcontrolers 

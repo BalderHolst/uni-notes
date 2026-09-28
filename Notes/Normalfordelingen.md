@@ -1,5 +1,6 @@
 ---
 created: 2024-10-20
+tags: [matematik]
 ---
 # Normalfordelingen
 Aka. *Gaussian Distribution*
@@ -39,9 +40,3 @@ $$F(x) = \int f(x)$$
 ## Check for normalfordelte data (QQ-plot)
 - [[QQ-plot]]
 - [[QQ-plot#QQ-plot-resudualer]]
-
-
-
----
-
-#matematik 

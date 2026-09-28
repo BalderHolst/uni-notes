@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Digitization
 See [[Lecture 8 - Implementation.pdf|slides]].
@@ -61,7 +62,3 @@ $G_{d}(s)$: Transfer funktion for samling delay
 
 >[!tip]- Sampling delay illustration
 >![[Digitization-Sampling-Delay.png|Pasted image 20240416084850.png]]
-
-
----
-#controlsystems

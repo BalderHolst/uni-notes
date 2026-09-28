@@ -1,5 +1,6 @@
 ---
 created: 2025-01-23
+tags: [statistics]
 ---
 # Critical Value
 The value that defines the upper and lower bounds of a [[confidence interval]].
@@ -18,5 +19,3 @@ $n$: Number of samples
 
 
 
----
-#statistics

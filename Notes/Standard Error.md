@@ -1,5 +1,6 @@
 ---
 created: 2024-12-09
+tags: [statistics]
 ---
 # Standard Error
 The standard deviation of the estimate of a parameter.
@@ -21,8 +22,3 @@ Let $\widehat{\mathrm{se}} = \sqrt{1 / \mathcal{I}_{n}(\hat{\theta }_{n})}$ , th
 $$
 \frac{\hat{\theta}_{n} - \theta }{\widehat{\mathrm{se}}} \rightsquigarrow \mathcal{N}(0, 1)
 $$
-
-
-
----
-#statistics 

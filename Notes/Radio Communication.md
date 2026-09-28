@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [drones]
 ---
 # Radio Communication
 Electromagnetic waves, therefore the same properties and light.
@@ -78,5 +79,3 @@ You have a transmitter (Tx) and a receiver (Rx).
 To answer the question, look at *signal-to-noise-ratio* (SNR) on the receiver. 
 
 
----
-#drones

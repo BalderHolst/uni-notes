@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [controlsystems]
 ---
 # Discrete Time Space Models
 See [[Lecture 1 - Slides.pdf#page=53|slides]].
@@ -72,7 +73,3 @@ y_{k} &= CEz_{k} + Du_{k}
 \end{cases}
 \end{align}
 $$
-
-
----
-#controlsystems

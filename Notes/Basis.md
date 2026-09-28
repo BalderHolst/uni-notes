@@ -1,5 +1,6 @@
 ---
 created: 2024-10-14
+tags: [linearalgebra]
 ---
 # Basis
 
@@ -19,8 +20,3 @@ A vector space can have many basis.
 >\begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}
 >}
 >$$
-
-
-
----
-#linearalgebra

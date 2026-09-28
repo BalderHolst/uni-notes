@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [elektronik]
 ---
 # Maskemetoden
 **Virker kun i [[Plane Kredsløb]]**
@@ -12,6 +13,3 @@ created: 2025-01-28
 2. Opskriv en ligning for hver maske ved hjælp af [[KVL]].
 3. Løs det resulterende ligningssystem, for at finde maskestrømmene.
 4. Regn resten at størrelserne med disse maske strømme.
-
----
-#elektronik 

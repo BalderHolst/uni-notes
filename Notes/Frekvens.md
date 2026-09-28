@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Frekvens
 Hvor periode er sekunder pr. bølge er frekvens bølger pr. sekund, bedre
@@ -9,6 +10,3 @@ $f = \frac{1}{T}$ .
 ---
 #### Se også
 - [[Vinkelfrekvens]]
-
----
-#fysik 

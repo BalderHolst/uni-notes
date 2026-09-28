@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [forstærker]
 ---
 # Komparator
 Komparatorer kan udsende spændinger som ikke er helt HIGH eller LOW omkring reference spændingen $V_{r}$.
@@ -11,5 +12,3 @@ Derfor bruger man ofte et komponent som LM311, der inkorporerer en transistor.
 Denne har *ingen frekvenskompenserende kondensator* hvilket resulterer i en hurtig slug-rate.
 
 
----
-#forstærker

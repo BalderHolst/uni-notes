@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Root Locus Tuning
 See [[Lecture 5 - Root Locus.pdf#page=46|slides]].
@@ -52,7 +53,3 @@ $\sum_{i\neq l} \phi_{i}$: The sum of angles to all but the $l$'th pole
 $q$: number poles at current location
 8. The same root will never cross its own path
 9. If there are not enough poles and zeros to make a pair, the remaining lines go to infinity.
-
-
----
-#controlsystems

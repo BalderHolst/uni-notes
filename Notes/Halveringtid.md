@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik, matematik]
 ---
 # Halveringtid
 
@@ -21,6 +22,3 @@ $A_0$ er aktiviteten i starten
 $T_{\frac{1}{2}}$ er halveringstiden
 
 
----
-#matematik
-#fysik

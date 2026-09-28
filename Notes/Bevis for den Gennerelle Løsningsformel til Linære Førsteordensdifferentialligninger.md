@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 ### Bevis for den Gennerelle Løsningsformel til [[Linære førsteordensdifferentialligninger]]
 
@@ -33,5 +34,3 @@ $$f(x) = e^{-A(x)} \cdot \int b(x) \cdot e^{A(x)}dx$$
 
 Dette er altså løsningen på differentialligningen.
 
----
-#matematik 

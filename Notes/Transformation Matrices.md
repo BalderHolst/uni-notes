@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matricer, kinematics]
 ---
 # Transformation Matrices
 
@@ -101,6 +102,3 @@ $$
 
 This is easy enough if we only have two or three frames, but becomes quite complicated if we have more frames.
 
----
-#kinematics 
-#matricer 

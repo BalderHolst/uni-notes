@@ -1,5 +1,6 @@
 ---
 created: 2026-09-24
+tags: [statistics]
 ---
 # Bartlett Test (Box's M-test)
 Assumption test for homoscedasticity. *Hard to pass*.
@@ -52,5 +53,3 @@ t_{B} > \chi^{2}\left(p \frac{p+1}{2}\right)_{\alpha} \quad \Rightarrow \quad \m
 $$
 **Rejection will happen often**, as the bartlett test is hard to pass. You may have to accept $H_{0}$ in some cases if it is just outside of a $95\%$ confidence, if that is acceptable.
 
----
-#statistics

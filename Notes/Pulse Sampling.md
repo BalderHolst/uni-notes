@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Pulse Sampling
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=33|slides]].
@@ -17,6 +18,3 @@ $T$: Sample Interval - "distance" between samples
 
 ## Spectrum
 ![[Pulse-Sampling-Spectrum.png|400]]
-
----
-#signalprocessing

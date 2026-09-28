@@ -1,5 +1,6 @@
 ---
 created: 2025-03-31
+tags: [underactuated-robots]
 ---
 # Sliding Mode Control
 See [[Lecture 8 - Sliding Mode Control.pdf|slides]].
@@ -40,5 +41,3 @@ Usually $\beta$ is as large as possible resulting in a "bang bang" control syste
 
 After reaching the 
 
----
-#underactuated-robots

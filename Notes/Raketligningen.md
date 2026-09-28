@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Raketligningen
 Gælder *kun* når vi ser bort fra ydre kræfter.
@@ -13,5 +14,3 @@ $\Delta v$: ændring i rakettens hastighed
 $$F_z=\frac{\Delta P_z}{\Delta t}$$
 $$P_z = m \Delta v + \Delta m \cdot u$$
 $$F_z=m \cdot \frac{\Delta v_z}{\Delta t} + \frac{\Delta m}{\Delta t} \cdot u$$
----
-#fysik

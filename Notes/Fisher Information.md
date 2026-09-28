@@ -1,5 +1,6 @@
 ---
 created: 2024-12-10
+tags: [statistics]
 ---
 # Fisher Information
 A measure for how much information each sample contains. Also the *variance of the score function*.
@@ -49,6 +50,3 @@ $$
 \end{bmatrix}
 $$
 The is a [[Symetric Matrices|symetric matrix]]
-
----
-#statistics

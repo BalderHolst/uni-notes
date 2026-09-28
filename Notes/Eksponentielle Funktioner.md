@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # Eksponentielle Funktioner
 $$f(x) = a \cdot e^{k \cdot x}$$
@@ -28,6 +29,3 @@ afen stiger/aftager
 
 ---
 #### [[Fordoblings- og halveringkonstant]]
-
----
-#matematik #funktioner 

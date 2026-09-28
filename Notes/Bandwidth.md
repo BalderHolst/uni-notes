@@ -1,5 +1,6 @@
 ---
 created: 2026-09-14
+tags: [statistical-signal-processing, datacommunication]
 ---
 # Bandwidth
 There are two ways to specify bandwidth: $[\text{Hz}]$ or $[\text{bps}]$.
@@ -7,5 +8,3 @@ There are two ways to specify bandwidth: $[\text{Hz}]$ or $[\text{bps}]$.
 It can refer to the range of frequencies in a composite signal, or a range of signals a channel can pass.
 
 
----
-#datacommunication #statistical-signal-processing 

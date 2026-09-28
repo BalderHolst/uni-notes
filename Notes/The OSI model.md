@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # The OSI model
 Open system interconnection model.
@@ -19,5 +20,3 @@ User layers
 
 It also defines **timing** and endures **reliability**.
 
----
-#datacommunication 

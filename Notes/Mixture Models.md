@@ -1,5 +1,6 @@
 ---
 created: 2024-11-19
+tags: [intelligent-systems]
 ---
 # Mixture Models
 Distributions that can be modelled as a mix of other distributions. See [[lecture14.pdf#page=7|slides]].
@@ -32,5 +33,3 @@ $\theta_{i}$: The parameters for the distribution. That is $\theta_{i} = (\mu_{i
 $\pi$: Mixture model proportions
 
 
----
-#intelligent-systems

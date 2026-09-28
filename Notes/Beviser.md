@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Beviser
 
@@ -64,5 +65,3 @@ Induktionsstart (vis $p(1)$). Viser at prædikatet i hvert fald gælder i ét ti
 Induktionsskrittet (antager $p(m)$). Vi antager at antagelsen $p(m)$ medfører at $p(m+1)$ også er sandt. 
 
 
----
-#matematik 

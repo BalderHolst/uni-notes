@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [multivariablemath, matematik]
 ---
 # Partial Differential Equations (PDEs)
 >*"A partial differential equation relates multivariate functions and their partial derivatives."*
@@ -37,8 +38,3 @@ $$
 - [[The Wave Equation]]
 - [[The Heat Equation]]
 - [[Laplace's Equation]]
-
-
-
----
-#matematik #multivariablemath

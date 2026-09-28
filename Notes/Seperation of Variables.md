@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [multivariablemath, matematik]
 ---
 # Seperation of Variables
 
@@ -27,6 +28,3 @@ $$
 
 >[!example]- Examples
 >[[Lessons/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=2|lektion10]]
-
----
-#matematik #multivariablemath

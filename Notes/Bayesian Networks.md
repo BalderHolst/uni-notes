@@ -1,5 +1,6 @@
 ---
 created: 2024-10-27
+tags: [intelligent-systems]
 ---
 # Bayesian Networks
 A mix of graph theory and probability theory. See [[lecture3a.pdf#page=3|slides]].
@@ -69,6 +70,3 @@ $$
 
 >[!example]- Burglar Alarm Example
 >![[lecture3a.pdf#page=4]]
-
----
-#intelligent-systems 

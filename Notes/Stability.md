@@ -1,5 +1,6 @@
 ---
 created: 2025-02-24
+tags: [controlsystems, underactuated-robots]
 ---
 # Stability
 - [[Nyquist Stability]]
@@ -13,5 +14,3 @@ The point of minimum of [[mechanical energy]] in a system.
 
 
 
----
-#underactuated-robots #controlsystems

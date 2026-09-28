@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vektorer, matricer, matematik]
 ---
 ### Række og Søjle vektorer
 
@@ -16,6 +17,3 @@ v_{n}\\
 \left( {\begin{array}{cccc}
 v_{1} & v_{2} & \dots & v_{n}
 \end{array} } \right) $$
-
----
-#matematik #matricer #vektorer 

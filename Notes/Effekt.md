@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Effekt
 $$P = V \cdot I$$
@@ -17,6 +18,3 @@ $$P=I^2 \cdot R$$
 
 ## Fysik
 $$P = F \cdot v$$
-
----
-#fysik 

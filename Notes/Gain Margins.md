@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Gain Margins
 
@@ -23,6 +24,3 @@ Draw [[Notes/Bode Plot|Bode Plot]] for loop amplification.
 
 >[!tip]- Vector Margin
 >![[Gain-Margins-Nyquist-Plot-1.png|Pasted image 20240322090059.png]]
-
----
-#controlsystems

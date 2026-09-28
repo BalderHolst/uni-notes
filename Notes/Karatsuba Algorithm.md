@@ -1,5 +1,6 @@
 ---
 created: 2024-10-30
+tags: [algorithms]
 ---
 # Karatsuba Multiplication Algorithm
 A divide-and-conquer algorithm for fast multiplication of numbers.
@@ -11,10 +12,3 @@ Let $n$ be the maximum number of digits of the operand.
 $$
 \Theta(n^{\log_{2}3})
 $$
-
-
-
-
-
----
-#algorithms

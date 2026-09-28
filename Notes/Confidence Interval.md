@@ -1,5 +1,6 @@
 ---
 created: 2026-09-16
+tags: [statistics]
 ---
 # Confidence Interval
 Expresses a range of values that we have a certain confidence that the real parameter value lies within.
@@ -18,5 +19,3 @@ $\widehat{\mathrm{se}}$: [[Standard error]] estimate
 In multiple dimensions it becomes a [[Confidence Region]].
 
 
----
-#statistics

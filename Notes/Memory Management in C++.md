@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [cpp]
 ---
 # Memory Management in C++
 
@@ -31,5 +32,3 @@ Sizes of objects on the heap can be dynamically be allocated on the heap.
 
 It is however always faster to assign memory size at compile time.
 
----
-#cpp

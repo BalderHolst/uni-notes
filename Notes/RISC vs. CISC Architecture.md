@@ -1,5 +1,6 @@
 ---
 created: 2024-06-20
+tags: [embedded]
 ---
 # RISC vs. CISC Architecture
 **RISC**: *Reduced* Instruction Set Computer
@@ -12,6 +13,3 @@ RISC has the following advantages
 
 Disadvantages of RISC:
 - Requires very fast memory to feed instructions as instructions take less time to execute
-
----
-#embedded

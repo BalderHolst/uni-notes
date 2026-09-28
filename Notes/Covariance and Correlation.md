@@ -1,5 +1,6 @@
 ---
 created: 2026-09-23
+tags: [statistics]
 ---
 # Covariance and Correlation
 See [[lecture7.pdf#page=17|slides]].
@@ -38,6 +39,3 @@ $$
 \right) =
 \sum_i a_i^2\mathbb{V}(X_i) + 2 \sum\sum_{i<j}a_i a_j \mathrm{Cov}(X_i, X_j)
 $$
-
----
-#statistics

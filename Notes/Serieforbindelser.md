@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Serieforbindelser
 > "In order for elements A and B to be in series, no other path for current can be connected to the node joining A and B. Thus, all elements in a series circuit have identical currents."
@@ -35,5 +36,3 @@ $$C_{eq} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}}$$
 $C_{eq}$ : Den ækvivalente kondensator-kapacitet.
 $C_n$ : Hver kondensators kapacitet.
 
----
-#elektronik 

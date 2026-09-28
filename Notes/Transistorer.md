@@ -1,5 +1,6 @@
 ---
 created: 2025-11-24
+tags: [komponent, elektronik]
 ---
 # Transistorer
 >En lille strøm styrer en meget større strøm
@@ -37,5 +38,3 @@ $$R=0 \s V=0$$
 #### Cutoff
 jq
 
----
-#elektronik #komponent

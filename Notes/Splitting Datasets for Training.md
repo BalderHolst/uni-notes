@@ -1,5 +1,6 @@
 ---
 created: 2026-09-24
+tags: [machine-learning]
 ---
 # Splitting Datasets for Training
 We *always* split our date into three buckets:
@@ -56,6 +57,3 @@ The balance of precision and recal. Closer to 1, the better.
 $$
 \mathrm{F1} = \frac{2}{\frac{1}{\mathrm{Precision}} + \frac{1}{\mathrm{Recall}}}
 $$
-
----
-#machine-learning

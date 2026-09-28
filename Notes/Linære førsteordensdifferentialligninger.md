@@ -1,5 +1,6 @@
 ---
 created: 2023-12-31
+tags: [differentialligninger, matematik]
 ---
 # Lineære førsteordensdifferentialligninger
 [[Differential Equations]]
@@ -264,7 +265,3 @@ Kan bruges når en differentialligning har formen $\frac{dy}{dx} = g(x) \cdot h(
 >
 >$$e^y = x^2+c = ln(e^y) = ln(x^2+c) \arrows y = ln(x^2+c)$$
 >
-
----
-
-#matematik #differentialligninger 

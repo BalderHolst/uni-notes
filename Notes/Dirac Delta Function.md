@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [signals, matematik]
 ---
 # Dirac Delta Function
 A signal with infinite magnitude over an infinitely small time span. Its integral is equal to $1$.
@@ -13,6 +14,3 @@ For [[Linear Systems]] this also applies:
 $$
 y(t) = \int_{-\infty}^{\infty}u(t - \tau) h(\tau)\, d\tau
 $$
-
----
-#matematik #signals 

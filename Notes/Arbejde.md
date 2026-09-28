@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Arbejde
 $$W = \vec{F} \bullet \Delta\vec{r}$$
@@ -22,6 +23,3 @@ Vi deler distancen op i uendelig små distancer, hvor vi antager at kraften er k
 $$dW=F(x)dx$$
 Det må betyde
 $$W = \int _{x_0}^{x_f} F(x)dx$$
-
----
-#fysik

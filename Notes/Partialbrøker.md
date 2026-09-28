@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [integraler, matematik]
 ---
 # Partialbrøker
 At splittet en stor brøk op i mindre brøker det nemmere kan [[Integraler|integreres]].
@@ -75,6 +76,3 @@ $$
 >$$
 >Altså kan vi omskrive udtrykket således
 >$$\frac{x^{2}-3x+2}{(x+1)(x+2)(x+1)} = \frac{-12}{x+1} + \frac{13}{x+2} + \frac{7}{(x+1)^2}$$
-
----
-#matematik #integraler 

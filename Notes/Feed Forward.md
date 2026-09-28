@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Feed Forward
 See [[Lecture 11 - Integral Control.pdf#page=31|slides]].
@@ -58,6 +59,3 @@ C & 0
 \end{bmatrix}
 \end{align}
 $$
-
----
-#controlsystems

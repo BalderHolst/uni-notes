@@ -1,5 +1,6 @@
 ---
 created: 2025-02-04
+tags: [underactuated-robots]
 ---
 # Kinetic Energy
 
@@ -12,5 +13,3 @@ $\dot{x}$: Velocity
 
 
 
----
-#underactuated-robots

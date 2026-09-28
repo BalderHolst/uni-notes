@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktioner, matematik]
 ---
 # Linære Funktioner
 
@@ -16,7 +17,3 @@ $$a=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}$$
 
 Skæring med $y$-aksen
 $$b = y_1 - ax_1$$
-
-
----
-#matematik #funktioner

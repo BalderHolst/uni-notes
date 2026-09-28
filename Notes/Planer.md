@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [matematik]
 ---
 # Planer
 
@@ -18,7 +19,3 @@ $$Ax + By + Cz + D = 0  \s \text{hvor } D = Ax_0 + By_0 + Cz_0$$
 $$Ax + By + Cz + D = 0 \arrow z = - \frac{A}{C} x - \frac{B}{C} y - \frac{D}{C}$$
 Dette må betyde at funktionen skal være på formen
 $$z=\alpha x + \beta y + \gamma $$
-
----
-#matematik 
-

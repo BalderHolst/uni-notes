@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [integraler, matematik]
 ---
 I integralregning finder man en funktions stamfunktion ($F(x)$). At integrere er det modsatte af at [[Differentialregning|differentiere]]. Dvs. at $f(x)$ beskriver hældningen af $F(x)$. Integraler skrives således:
 
@@ -68,6 +69,3 @@ $$\iint a(t)\ dt = \int v(t) + k\ dt = s(t) + kx + c$$
 - [[Omdrejningslegne]]
 - [[Små Integrationsbeviser]]
 - [webmatematik](https://www.webmatematik.dk/lektioner/matematik-a/integralregning)
-
----
-#matematik #integraler

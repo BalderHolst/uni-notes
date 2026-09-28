@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [controlsystems]
 ---
 # Zeigler Nichols Tuning Method
 Use if a model of the **system is not available**. Otherwise use [[Root Locus Tuning]] instead.
@@ -37,6 +38,3 @@ Attach a P-controller to the system and turn up the gain until the system output
 | PI         | $\begin{cases} K_p = 0.45K_u \\ T_i = \frac{P_u}{1.2} \end{cases}$        |
 | PID        | $\begin{cases} K_p = 0.6K_u \\ T_i = 0.5P_u \\ T_d = \frac{1}{8}P_u \end{cases}$        |
 
-
----
-#controlsystems

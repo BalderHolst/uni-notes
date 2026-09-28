@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [computerarchitecture]
 ---
 # Amdahl's Law
 How much multi-threadding can speed up the execution of a program.
@@ -9,5 +10,3 @@ $N$: Number of cores.
 
 
 
----
-#computerarchitecture

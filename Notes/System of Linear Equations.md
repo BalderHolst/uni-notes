@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [subject, matematik]
 ---
 # System of Linear Equations
 > *"Vi vil gerne have noget der er linært, for så er det nemt at regne på"*
@@ -113,6 +114,3 @@ De samme regneregler bare for ligningssystemet på [[#Den udvidede Matrix|matrix
 - Bytter to rækker med hinanden.
 - Lægge en række (eller et multiplum heraf ) til en anden række.
 - Gange en række med en konstant (hvis $k\neq 0$)
-
----
-#matematik #subject

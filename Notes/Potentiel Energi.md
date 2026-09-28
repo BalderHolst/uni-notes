@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Potentiel Energi
 $$U = m \cdot g \cdot h$$
@@ -28,5 +29,3 @@ $\frac{dU(x)}{dx}$ : Hældningen af den potentielle energi, som funktion af posi
 $F(x)$ : Kraften som funktion af position.
 
 
----
-#fysik 

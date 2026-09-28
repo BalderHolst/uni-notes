@@ -1,5 +1,6 @@
 ---
 created: 2025-02-12
+tags: [underactuated-robots]
 ---
 # Simulation of Robot Dynamics
 $$
@@ -45,5 +46,3 @@ $$
 $q$ and $\dot{q}$ will always be the state variables for mechanical systems.
 
 
----
-#underactuated-robots

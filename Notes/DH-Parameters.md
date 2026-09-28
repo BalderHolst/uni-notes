@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [kinematics]
 ---
 # DH-Parameters
 See the [[Lecture 7 - DH Parameters and Forward Kinematics.pdf|slides]].
@@ -50,6 +51,3 @@ $d_i$ - The **angle** from $\hat{X}_{i-1}$ to $\hat{X}_i$ measured about $\hat{Z
 
 >[!example]- Assigning DH Parameters
 >![[Lecture 7 - DH Parameters and Forward Kinematics.pdf#page=33]]
-
----
-#kinematics 

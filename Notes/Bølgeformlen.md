@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Bølgeformlen
 
@@ -9,6 +10,3 @@ $v = \lambda \cdot f$. En vigtig note er at bølgens hastighed er
 defineret af hvilket materiale bølgen passere igennem, så derfor vil
 bølgelængden altid være afhængig af frekvensen som den eneste variabel:
 $$\lambda = \frac{v}{f}$$
-
----
-#fysik

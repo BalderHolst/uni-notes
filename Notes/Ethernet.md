@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Ethernet
 See [[KOM - lecture 5b - Itslearning.pdf#page=3|slides]].
@@ -49,5 +50,3 @@ Uses different [[Line Coding|line coding schemes]] for different cables.
 ### Gigabit Ethernet
 The length of the cable is reduced by a lot, but data can be sent a lot faster.
 
----
-#datacommunication

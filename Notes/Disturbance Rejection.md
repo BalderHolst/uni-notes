@@ -1,5 +1,6 @@
 ---
 created: 2024-02-16
+tags: [controlsystems]
 ---
 # Disturbance Rejection
 See [[Lecture 3 - Introduction to Control.pdf#page=32|slides]].
@@ -7,5 +8,3 @@ See [[Lecture 3 - Introduction to Control.pdf#page=32|slides]].
 $K(s)$ should be as large as possible!
 
 
----
-#controlsystems

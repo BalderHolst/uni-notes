@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 ## Framing
 See slides [[KOM - lecture 4a - Itslearning.pdf#page=6|here]] and more [[KOM - lecture 4b - Itslearning.pdf#page=3|here]].
@@ -39,6 +40,3 @@ It is sometimes quite wasteful to transmit ACK packets, as it results in double 
 [[KOM - lecture 4c - Itslearning.pdf|slides]].
 
 ![[Data-Link-Layer-Point-to-Point.png|450]]
-
----
-#datacommunication 

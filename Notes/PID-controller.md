@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [controlsystems]
 ---
 # PID-controller
 See [[Lecture 4 - Design of PID Controllers.pdf|slides]].
@@ -51,5 +52,3 @@ $kT$: Previous time step
 $e(n)$: Error at a certain time step
 
 
----
-#controlsystems

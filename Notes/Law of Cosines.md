@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [matematik]
 ---
 # Law of Cosines
 ![[Law-of-Cosines.png|300]]
@@ -9,6 +10,3 @@ $$b^{2} = a^{2} + c^{2} - 2ac \cos(B)$$
 $$c^{2} = a^{2} + b^{2} - 2ab \cos(C)$$
 also
 $$\frac{a}{\sin A} = \frac{b}{\sin{B}} = \frac{c}{\sin C}$$
-
----
-#matematik 

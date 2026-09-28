@@ -1,5 +1,6 @@
 ---
 created: 2026-09-02
+tags: [statistics]
 ---
 # Random Variables
 See [[Lecture 12 - The KalmanFilter.pdf#page=29|slides from control]] and [[Lektion 1 slides.pdf#page=2|slides from statistics]].
@@ -261,6 +262,3 @@ $$
 
 >[!warning] Covariance Only Expresses Linear Correlations
 $$\mathrm{Cov}(X, Y)=0 \quad\not\Rightarrow \quad X {\perp\!\!\!\perp} Y$$
-
----
-#statistics

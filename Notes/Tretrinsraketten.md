@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Tretrinsraketten
 En metode til at [[Differentialregning|differentiere]] funktioner i hånden der gør brug af [[Differentialregning#Definition af et Differentiale|definitionen af en differentieret funktion]].
@@ -36,5 +37,3 @@ $$f'(x) = 6x$$
 Dette er en ret besværlig måde at regne differentialer ud i hånden, man kan med fordel bruge [[Differentialregning Regneregler|regneregler]] i stedet.
 
 
----
-#matematik

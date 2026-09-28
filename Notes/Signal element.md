@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 ## Signal element
 The shortest unit of time that can represent a packet of bits.
@@ -16,5 +17,3 @@ A small number of signal levels is easier to parse the signal and lessens the ef
 $$S = c \cdot N \cdot \frac{1}{r}$$
 $S$: rate of signal elements
 
----
-#datacommunication 

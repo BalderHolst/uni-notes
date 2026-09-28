@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 ## Norton Ækvivalens
 #### Beregn det Norton-ækvivalente kredsløb.
@@ -11,6 +12,3 @@ created: 2023-12-25
 1. Sæt $i$ (slut-strømmen) til $0$.
 2. Find spændingen.
 3. Løs $I_N \cdot R_N = V_{oc}$ ($V_{oc}$: open circuit)
-
----
-#elektronik 

@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signals, matematik]
 ---
 # Laplace Transformation
 Se [regneregler](https://tutorial.math.lamar.edu/classes/de/Laplace_Table.aspx).
@@ -42,7 +43,3 @@ Try to use tables instead of this equation.
 $$
 f(t) = \frac{1}{2\pi j} \int_{\sigma_{c}-j\infty} TODO
 $$
-
-
----
-#matematik #signals

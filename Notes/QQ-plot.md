@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [matematik]
 ---
 # QQ-plot
 QQ-plot er et plot der viser et datasæt, og hvor tæt de er på at være normalfordelt. 
@@ -11,6 +12,3 @@ QQ-plot er et plot der viser et datasæt, og hvor tæt de er på at være normal
 
 Residualer kan også være normalfordelte, hvilket er en god markør for regressionens tilnærmelse. Til dette laver man et QQ-plot over regressionens residualer.
 ![[QQ-plot-residualer.png]]
-
----
-#matematik 

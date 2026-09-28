@@ -1,5 +1,6 @@
 ---
 created: 2024-09-03
+tags: [fysik]
 ---
 # Hastighed og Fart
 
@@ -14,5 +15,3 @@ Fart er størrelsen af hastigheden. Dvs. at hvis en bil har en hastighed på $-1
 
 
 
----
-#fysik

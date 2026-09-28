@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [embedded]
 ---
 # State Machines
 A programming construct where the program switches between states.
@@ -13,5 +14,3 @@ Outputs depend *only on the pressent state*. The **outputs can only be written w
 
 Outputs depend on **both input and current state**. Outputs can therefore change when the input changes without changing the state.
 
----
-#embedded 

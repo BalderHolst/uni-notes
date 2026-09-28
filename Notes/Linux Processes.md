@@ -1,5 +1,6 @@
 ---
 created: 2024-11-19
+tags: [linux]
 ---
 # Linux Processes
 A linux process can be in five possible states:
@@ -24,5 +25,3 @@ A process can be stopped from the running state by sending either `SIGSTOP` or `
 #### Zombie
 When a child process terminates, it sends the `SIGCHLD` signal to the parent process. The process will remain in the process table until the parent clears it by calling wither `wait()` or `waitpid()`.
 
----
-#linux

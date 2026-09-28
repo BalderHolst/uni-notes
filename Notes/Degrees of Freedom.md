@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Degrees of Freedom
 
@@ -7,5 +8,3 @@ How many directions/angles a joint can move in. To move to any point in space at
 
 
 
----
-#kinematics 

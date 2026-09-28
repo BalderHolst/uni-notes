@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Hældningsfelt
 En skabelon til løsningen af en differentialligning. 
@@ -15,6 +16,3 @@ Definer helst konstanter
 
 ![[Hældningsfelt i maple.png]]
 ![[Hældningsfelt i maple 2.png]]
-
----
-#matematik 

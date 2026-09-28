@@ -1,5 +1,6 @@
 ---
 created: 2023-12-31
+tags: [differentialer, matematik]
 ---
 ## Differentialregning - Basis
 
@@ -37,6 +38,3 @@ Hvis man skal differentiere den funktion i hånden på denne måde kan man bruge
 - [[Differentialregning Regneregler]]
 - [[Integraler]]
 - [Differentialkvotient og differenskvotient](https://www.webmatematik.dk/lektioner/matematik-b/differentialregning/differenskvotient-og-differentialkvotient)
-
----
-#matematik #differentialer

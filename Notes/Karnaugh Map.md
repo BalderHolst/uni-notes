@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [microcontrolers]
 ---
 # Karnaugh Map (K-map)
 Alternative way of representing a truth table.
@@ -19,6 +20,3 @@ The sides of a Karnaugh map "warp" around.
 > [!example]- Example of Karnaugh to gates
 > ![[Karnaugh-Map-Procedure.png|Pasted image 20230602151349.png]]
 > ![[Karnaugh-Map-Procedure-1.png|Pasted image 20230602151402.png]]
-
----
-#microcontrolers 

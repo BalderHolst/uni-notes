@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [filter, signalprocessing]
 ---
 # Butterworth Filter
 >*"Buffersmoooth"*
@@ -11,7 +12,3 @@ created: 2025-09-21
 
 ![[Butterworth-Filter-1.png|450]]
 ![[Butterworth-Filter.png|450]]
-
-
----
-#signalprocessing #filter 

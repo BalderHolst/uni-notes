@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # Differntialregning Regneregler
 
@@ -18,7 +19,3 @@ $$\frac{d}{dx} \frac{f(x)}{g(x)} = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{g(
 $$\arcsin'(x) = \frac{1}{\sqrt{1-x^2}}$$
 $$\arccos'(x)=-\frac{1}{\sqrt{1-x^2}}$$
 $$\arctan'(x)=\frac{1}{1+x^2}$$
-
-
----
-#matematik 

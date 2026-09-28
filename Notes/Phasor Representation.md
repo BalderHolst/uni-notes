@@ -1,5 +1,6 @@
 ---
 created: 2024-01-02
+tags: [elektronik]
 ---
 ### Phasor Representation
 Representation af [[AC]] med [[Komplekse Tal]].
@@ -17,6 +18,3 @@ Det kaldes [[Elektrisk Resonans|resonans]] når den *imaginære* del er $0$.
 $$V= V_{1}\angle\phi_1 =V_{1}\cdot e^{j(\omega t+\phi_1)}$$
 Vi differentierer
 $$\frac{dV}{dt} = j\omega \cdot  V_{1} \cdot e^{j(\omega t+\phi_1)} = j\omega \cdot V$$
-
----
-#elektronik 

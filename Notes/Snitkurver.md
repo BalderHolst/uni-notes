@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [funktionafflerevariable, matematik]
 ---
 # Snitkurver
 
@@ -15,5 +16,3 @@ Vi har nu en *forskrift* for *snitkurven*.
 $$z=3y+1$$
 Denne funktion viser relationen mellem $y$ og $z$, hvis $x$ er konstant.
 
----
-#matematik #funktionafflerevariable 

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Signals
 
@@ -17,5 +18,3 @@ Sends bits of information.
 
 Less sensitive to noise.
 
----
-#microcontrolers

@@ -1,5 +1,6 @@
 ---
 created: 2026-09-03
+tags: [multivariate-statistics]
 ---
 # Samples Moments
 See [[Lektion 1 slides.pdf#page=3|slides]].
@@ -47,7 +48,3 @@ r_{1p} & r_{2p} & \cdots & 1
 \end{bmatrix}
 ,\quad \mathrm{where}\quad r_{ij} = \frac{s_{ij}}{\sqrt{s_{i}^{2}}\sqrt{s_{j}^{2}}}
 $$
-
-
----
-#multivariate-statistics

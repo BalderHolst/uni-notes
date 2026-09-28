@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [distribution, statistics]
 ---
 # Exponential Distribution
 Can model things like lifetimes of electronic components.
@@ -24,6 +25,3 @@ waiting time.
 $$
 \mathbf{P}(X > t + s|X > t) = \mathbf{P}(X > s)
 $$
-
----
-#statistics #distribution

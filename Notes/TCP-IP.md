@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # TCP/IP
 
@@ -78,5 +79,3 @@ $g(x)$: The generated codeword
 
 Generators with a factor of $(x+1)$ can detect all odd number of bit-flips.
 
----
-#datacommunication 

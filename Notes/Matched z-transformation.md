@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 ## Matched z-transformation
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=11|slides]].
@@ -25,7 +26,3 @@ $$H(s)|_{s=0} = H(z)|_{z=1}$$
 
 >[!example]- Eksempel på Procedure af Kasper
 >![[lektion8-kasper.pdf#page=1]]
-
-
----
-#signalprocessing 

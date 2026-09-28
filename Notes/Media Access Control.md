@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Media Access 
 See [[KOM - lecture 5a - Itslearning.pdf|slides]].
@@ -91,6 +92,3 @@ We send codes (cheap sequences) with the following properties:
 - A bit that is $0$ is represented as $-1$
 - A bit that is $1$ is represented as $1$
 - If nothing is sent it is represented as $0$
-
----
-#datacommunication

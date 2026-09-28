@@ -1,5 +1,6 @@
 ---
 created: 2025-02-10
+tags: [approximation, differentialer, matematik]
 ---
 # Linarisering
 En linearisering er tangenten i et punkt
@@ -95,5 +96,3 @@ Dette er en **lorteformel** og den kan ikke anvendes.
 Vi kender aldrig værdien for $s$. Derfor finder vi worstcasefejlen. Vi maksimerer altså $|f''(s)|$.
 
 
----
-#matematik #differentialer #approximation

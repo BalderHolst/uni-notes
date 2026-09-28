@@ -1,5 +1,6 @@
 ---
 created: 2024-09-07
+tags: [algorithms]
 ---
 # Big-O Notation
 The worst case run-time characteristics of an algorithm. Big-O notation denotes a set which contains all functions that grow slower at the same speed as the input function when $n$ is very big.
@@ -33,5 +34,3 @@ $c$: Any constant
 
 
 
----
-#algorithms

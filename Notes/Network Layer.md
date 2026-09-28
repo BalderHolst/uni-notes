@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [datacommunication]
 ---
 # Network Layer
 [[NAT]]
@@ -9,5 +10,3 @@ Routers store a forwarding table and have to look up where to forward a packet b
 
 
 
----
-#datacommunication

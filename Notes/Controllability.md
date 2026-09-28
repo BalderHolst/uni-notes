@@ -1,5 +1,6 @@
 ---
 created: 2025-02-10
+tags: [controlsystems]
 ---
 # Controllability
 See [[Lecture 9 - State Feedback Control.pdf#page=6|slides]].
@@ -140,6 +141,3 @@ $$F = \hat{F}T^{-1}$$
 
 >[!example]- General Transformation to Canonical form in three dimensions
 >![[Lecture 9 - State Feedback Control.pdf#page=37]]
-
----
-#controlsystems

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # ADC 
 Analog to Digital converter
@@ -11,5 +12,3 @@ Use differential inputs to be less sensitive to noise.
 
 
 
----
-#microcontrolers 

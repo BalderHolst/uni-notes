@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [computerarchitecture]
 ---
 # Predict CPU Burst
 $$\tau_{n+1} = \alpha\cdot t_{n} + (1-\alpha) \tau_{n}$$
@@ -8,5 +9,3 @@ $$\tau_{n+1} = \alpha\cdot t_{n} + (1-\alpha) \tau_{n}$$
 Usually $\alpha = 0.5$.
 
 
----
-#computerarchitecture 

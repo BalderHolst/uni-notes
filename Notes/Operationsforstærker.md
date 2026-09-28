@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [komponent, elektronik]
 ---
 # Operationsforstærker
 > *"Snuser hvad den skal aflevere"*
@@ -40,5 +41,3 @@ Biaskompensering er at lave de to strømme lig hinanden. Dette gøres typisk ved
 Offset strømmen $I_{off}$ kompenserer vi for ved at indsætte en $V_{off}$ sådan af vi kompenserer for $I_{off}$.
 
 
----
-#elektronik #komponent 

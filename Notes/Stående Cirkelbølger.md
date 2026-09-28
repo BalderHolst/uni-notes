@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Stående Cirkelbølger
 Grunden til at der er "skaller" i atomer
@@ -13,5 +14,3 @@ $h$: [[Planck konstanten]]
 ![[Stående Cirkelbølger.png|400]]
 Som det kan sees her, skal elektronens bane være et helt tal ganget med bølgelængden ($n \cdot \lambda$)
 
----
-#fysik 

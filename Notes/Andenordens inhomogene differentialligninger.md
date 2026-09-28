@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [differentialligninger, matematik]
 ---
 # Andenordens inhomogene differentialligninger
 $$ay''+by'+cy=f(x)$$
@@ -30,5 +31,3 @@ Kvalificerede gæt:
 **Tabellen fejler når $y_p$ løser den *homogene* differentialligning.
 
 
----
-#matematik #differentialligninger 

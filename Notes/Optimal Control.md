@@ -1,5 +1,6 @@
 ---
 created: 2025-03-10
+tags: [controlsystems]
 ---
 # Optimal Control
 See slides [[Lecture 11 - Integral Control.pdf#page=18|here]] and [[Lecture 5 - Optimal Control.pdf|here]].
@@ -28,7 +29,3 @@ Q_{ii} &= \frac{1}{x_{\mathrm{max},i}^{2}} \\
 R_{jj} &= \frac{1}{u_{\mathrm{max},j}^{2}}
 \end{align}
 $$
-
-
----
-#controlsystems

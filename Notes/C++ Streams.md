@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # C++ Streams
 
@@ -63,7 +64,3 @@ int main () {
     return 0;
 }
 ```
-
-
----
-#cpp

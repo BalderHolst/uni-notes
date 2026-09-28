@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # D-Latch (Set-Reset latch)
 ![[d-latch.png|300]]
@@ -16,6 +17,3 @@ When the *clock* is pulsed, the D-input is stored and output.
 
 #### States for the Gated D-Latch
 ![[gated-d-latch-io.png|300]]
-
----
-#microcontrolers 

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Stød
 se også [[Bevægelsesmængde (Impuls)]].
@@ -66,5 +67,3 @@ $E_{kin_i}$ : Den [[Kinetisk Energi|kinetiske energi]] før stødet.
 $e$ : Stødkoefficenten
 
 
----
-#fysik 

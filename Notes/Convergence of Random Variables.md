@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [statistics]
 ---
 # Convergence of Random Variables
 See [[lecture8.pdf|slides]].
@@ -43,6 +44,3 @@ And if $X_{n} \rightsquigarrow X$ and $\mathbb{P}(X=c)=1$ where $c \in \mathbb{R
 
 #### With Multiple Variables
 ![[Convergence-of-Random-Variables-With-Multiple-Variables.png|center|600]]
-
----
-#statistics

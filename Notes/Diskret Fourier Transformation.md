@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 # Diskret Fourier Transformation
 See [[Lektion 3 - Introduktion til FFT.pdf|slides]].
@@ -17,5 +18,3 @@ $T$: Time between samples
 
 Therefore we can get a higher resolution by *zero-padding*, which just means adding a bunch of zeros to the end of the signal in the time domain before transforming it.
 
----
-#signalprocessing 

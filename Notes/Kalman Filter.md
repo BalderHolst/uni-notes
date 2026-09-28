@@ -1,5 +1,6 @@
 ---
 created: 2026-09-09
+tags: [controlsystems]
 ---
 # Kalman Filter
 See slides:
@@ -69,6 +70,3 @@ The kalman filter is the *ideal filter* given the following requirements:
 - Only Linear Systems (in practice not so important)
 - Gausian Noise on measurements centered at 0
 - Samples must be independent
-
----
-#controlsystems

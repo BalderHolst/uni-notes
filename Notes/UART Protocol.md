@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # UART Protocol
 See [[Lesson 9.pdf#page=23]]
@@ -25,5 +26,3 @@ $$\text{UBRRL} = \frac{F_{osc}}{16 \cdot baudrate} -1 $$
 ### Parity
 If enabled: adds one extra bit at the end of the message. If the number of ones in the message is **even the parity bit is zero**, and vise versa.
 
----
-#microcontrolers 

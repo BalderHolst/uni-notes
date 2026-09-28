@@ -1,5 +1,6 @@
 ---
 created: 2024-12-08
+tags: [statistics]
 ---
 # Wald Test
 Test how extreme a sample is
@@ -33,6 +34,3 @@ $$
 $$
 W =  \frac{\widehat{\theta} - \theta }{\widehat{\mathrm{se}}}
 $$
-
----
-#statistics

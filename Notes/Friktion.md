@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Friktion
 $$F_{\mu} = \mu \cdot F_N$$
@@ -16,6 +17,3 @@ $C_D$: Drag Coefficient
 
 #### Terminal hastighed
 $$v_t=\sqrt{\frac{2mg}{\rho AC_D}}$$
-
----
-#fysik 

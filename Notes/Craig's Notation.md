@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Craig's Notation
 
@@ -16,5 +17,3 @@ $$^AP_2 =\ ^AP_1 +\ ^AQ$$
 
 Here $^AQ$ is the translation.
 
----
-#kinematics 

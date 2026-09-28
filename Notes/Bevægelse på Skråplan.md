@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Bevægelse på Skråplan
 ![[Bevægelse på Skråplan.png]]
@@ -73,5 +74,3 @@ skråplanet (hypotenusen) i stedet for enten *l* eller *h*. I dette
 tilfælde overlades det til laseren selv at finde en forskrift for
 gnidningskoefficienten ud fra trigonometriske betragtninger.
 
----
-#fysik 

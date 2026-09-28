@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Interupts
 An alternative to [[Pooling|pooling]]. Allows the CPU to run a routine when an external device sends an interrupt request. The CPU will return to the normal program after the interrupt is executed.
@@ -14,8 +15,3 @@ All interrupts can be enabled/disabled by the *global interrupt* ([[atmel-0856-a
 >![[ATMEGA32A-interrupts.png]]
 >#### Interrupt Priority
 >The lower the vector number, the higher the interrupt priority. If interrupts are triggerend at the same time, higher priority interrupts are handled first.
-
-
-
----
-#microcontrolers 

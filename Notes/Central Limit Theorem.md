@@ -1,5 +1,6 @@
 ---
 created: 2024-11-27
+tags: [statistics]
 ---
 # Central Limit Theorem
 See [[lecture8.pdf#page=19|slide]].
@@ -27,7 +28,3 @@ $$
 
 >[!video]- 3B1B Video
 >![](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
-
-
----
-#statistics

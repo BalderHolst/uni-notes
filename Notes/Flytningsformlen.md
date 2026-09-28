@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Flytningsformlen
 En måde at forskyde rotationsaksen for [[Inertimoment|inertimomenter]].
@@ -9,5 +10,3 @@ $I_0$ : Det originale inertimoment, typisk gennem [[Massemidtpunkt|massemidtpunk
 $M$ : Legemets *totale* masse.
 $d$ : Den afstand rotation bliver parallelforskudt med.
 
----
-#fysik 

@@ -1,5 +1,6 @@
 ---
 created: 2024-10-27
+tags: [linearalgebra]
 ---
 # Projection
 Project points in a space $S$ into a subspace $U$.
@@ -19,7 +20,3 @@ $x_U$: Projected point
 
 >[!example]- Example Calculation
 >![[Lessons/Semester 5/math_and_statistics/HW1.pdf#page=6]]
-
-
----
-#linearalgebra

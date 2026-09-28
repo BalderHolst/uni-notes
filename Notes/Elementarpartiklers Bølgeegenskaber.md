@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Elementarpartiklers Bølgeegenskaber
 Elementarpartikler med bølgeegenskaber indeholder bla. [[Elektroner]], [[Fotoner]]
@@ -14,6 +15,3 @@ $f$: Bølgens frekvens
 
 ### Elektroner
 [[Stående Cirkelbølger]]
-
----
-#fysik

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Transient Respons
 > *"Transiente kredsløb dør ud"*
@@ -14,6 +15,3 @@ $$I_C(0_{+}) = I_C(0_{-})$$
 
 ##### [[Spoler]]
 $$V_L(0_{+}) = V_L(0_{-})$$
-
----
-#elektronik 

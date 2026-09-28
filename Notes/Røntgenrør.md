@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Røntgenrør
 ![|350](https://fysikleksikon.nbi.ku.dk/r/roentgenstraaling/320px-Roentgen-Roehre.png)
@@ -12,5 +13,3 @@ $c$: [[Lysets Hastighed]]
 $e$: [[Elementarladningen]]
 $U_0$: 
 
----
-#fysik

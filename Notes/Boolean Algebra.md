@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Boolean Algebra
 
@@ -16,8 +17,3 @@ $$A + B$$
 ##### XOR
 $$A \oplus B$$
 ![[Boolean Algebra.png]]
-
-
-
----
-#microcontrolers 

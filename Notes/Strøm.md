@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [elektronik]
 ---
 # Strøm
 En strøm af ladning.
@@ -17,8 +18,4 @@ $$i(t) = q'(t)$$
 Derfor kan vi udregne ladningen der passerer gennem et komponent ved at [[Integraler|integrere]]:
 $$\int_{t_0}^t i(t) dt$$
 $i(t)$: Strøm over tid.
-
----
-#elektronik 
-
 

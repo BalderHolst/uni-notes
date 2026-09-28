@@ -1,5 +1,6 @@
 ---
 created: 2024-09-04
+tags: [matricer, matematik]
 ---
 # Row Echelon Form
 
@@ -64,6 +65,3 @@ created: 2024-09-04
 >\end{array}
 >\right)
 >$$
-
----
-#matematik #matricer

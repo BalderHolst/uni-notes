@@ -1,5 +1,6 @@
 ---
 created: 2024-09-05
+tags: [funktionafflerevariable, differentialer, matematik]
 ---
 # [[Differentialregning|Differentiation]] af [[Funktioner af flere Variable]] / Partielle Afledte
 Lad $f(x,y)$ være en funktion, så er  førsteordens partielle afledte:
@@ -95,7 +96,3 @@ $$
 \end{array}
 \right)
 $$
-
-
----
-#matematik #differentialer #funktionafflerevariable

@@ -1,5 +1,6 @@
 ---
 created: 2025-02-26
+tags: [linearalgebra]
 ---
 # Singular Value Decomposition (SVD)
 A generalized [[eigendecomposition]] which works for non-square matrixes.
@@ -77,6 +78,3 @@ $$
 
 4. Write the SVD
 $$A = U\Sigma V^T$$
-
----
-#linearalgebra

@@ -1,5 +1,6 @@
 ---
 created: 2024-02-16
+tags: [controlsystems]
 ---
 # Feedback Control
 Regulator input is now the error.
@@ -12,7 +13,3 @@ $$
 $$
 L(s) = G(s)K(s)
 $$
-
-
----
-#controlsystems

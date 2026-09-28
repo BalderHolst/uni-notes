@@ -1,5 +1,6 @@
 ---
 created: 2026-09-14
+tags: [distribution, statistics]
 ---
 # Normal Distribution
 Appears in nature a lot because of the [[Notes/Central Limit Theorem|Central Limit Theorem]].
@@ -21,5 +22,3 @@ $\bar{x}$: [[Sample Mean and Variance|Sample mean]]
 $\sigma$: Standard deviation
 $n$: Sample size
 
----
-#statistics #distribution

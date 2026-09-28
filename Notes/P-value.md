@@ -1,5 +1,6 @@
 ---
 created: 2024-12-12
+tags: [statistics]
 ---
 # P-value
 What is the smallest $\alpha$ level test that supports the **null hypothesis**? It is the *evidence against $H_{0}$.*
@@ -17,5 +18,3 @@ $n$: Number of samples
 
 
 
----
-#statistics

@@ -1,5 +1,6 @@
 ---
 created: 2026-09-23
+tags: [multivariate-statistics]
 ---
 # Confidence Region
 See [[Lessons/Semester 7/statistics/Lektion 3 slides.pdf#page=3|slides]].
@@ -20,5 +21,3 @@ $F$: Fisher distribution
 See also [[Multiple 1D Confidence Intervals]].
 
 
----
-#multivariate-statistics

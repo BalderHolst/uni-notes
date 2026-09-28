@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [komponent, elektronik]
 ---
 # Spoler
 > *"Husk ikke at svitse switsen"*
@@ -29,6 +30,3 @@ $i_L$ : Strømmen gennem spolen.
 
 ### Impedans
 $$z_{L}=j\omega L$$
-
----
-#elektronik #komponent 

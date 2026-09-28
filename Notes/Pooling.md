@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [microcontrolers]
 ---
 # Pooling
 A loop constantly checking for changes on a register, port or other input. An [[Interupts|interupt]] is usually preferred. This method halts the processor when reading the interupt.
@@ -12,9 +13,3 @@ while(1) {
 	PORTB=~ADCH;
 }
 ```
-
-
-
-
----
-#microcontrolers 

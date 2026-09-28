@@ -1,5 +1,6 @@
 ---
 created: 2025-02-04
+tags: [underactuated-robots]
 ---
 # Generalized Coordinates
 
@@ -11,5 +12,3 @@ If all but one coordinates are fixed, the last coordinates should take an contin
 The coordinates should be able to describe any configuration of the robot.
 
 
----
-#underactuated-robots

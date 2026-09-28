@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing]
 ---
 ## Digital Realisation Structures
 A representation of a digital filter that could be implemented in a programming language. See [[lektion 7 - Digitale realisationsstrukturer.pdf|slides]].
@@ -55,7 +56,3 @@ See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=46|slides]].
 
 This is the **better way** of implementing a filter, as it stores half as many values resulting in a less expensive filter implementation.
 ![[Digital-Realisation-Structures-Direct-Type-2.png|center|350]]
-
-
----
-#signalprocessing

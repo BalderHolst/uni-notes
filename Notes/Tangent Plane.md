@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [multivariablemath, matematik]
 ---
 # Tangent Plane
 ![[tangent plane.png|300]]
@@ -31,6 +32,3 @@ $$
 >$$
 >\vec n = -\frac{1}{2}i + \frac{1}{2} \cdot \frac{\pi}{3}j - k = - \frac{1}{2}i + \frac{\pi}{6}j - k
 >$$
-
----
-#matematik #multivariablemath

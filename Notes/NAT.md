@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [datacommunication]
 ---
 # NAT
 Network Address Translation
@@ -29,7 +30,3 @@ Always choose the address with the longest mask address, as it will be physicall
 
 #### Hierarchical Routing
 ![[NAT-Hierarchical-Routing.png|500]]
-
-
----
-#datacommunication 

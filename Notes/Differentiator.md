@@ -1,5 +1,6 @@
 ---
 created: 2024-03-29
+tags: [controlsystems]
 ---
 # Differentiator
 $$
@@ -11,5 +12,3 @@ Phase: constant $+90\degree$ (leading)
 
 
 
----
-#controlsystems 

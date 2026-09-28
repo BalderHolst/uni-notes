@@ -1,5 +1,6 @@
 ---
 created: 2026-09-03
+tags: [machine-learning]
 ---
 # Perceptron
 Simple classification algorithm. Linearly seperates bulk data. *Always* finds *a* line if one exists.
@@ -61,6 +62,3 @@ x_{1} & x_{2} & 1 \\
 w_{1} \\ w_{2} \\ b
 \end{bmatrix}
 $$
-
----
-#machine-learning

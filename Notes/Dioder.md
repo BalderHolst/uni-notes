@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [komponent, elektronik]
 ---
 # Dioder
 Halvleder
@@ -11,7 +12,3 @@ $I_{S}$ : Geometrisk Konstant
 $k$ : [[Bolzmanns Konstant]]
 $T$ : Temperaturen i *kelvin*
 $q$ : [[Elementarladningen]]
-
-
----
-#elektronik #komponent 

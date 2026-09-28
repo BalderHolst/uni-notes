@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Mekanisk energi i centralbevægelser
 
@@ -30,6 +31,3 @@ Da vi ved relationen mellem $E_{pot}$ og $E_{kin}$ kan vi regne den mekaniske en
 
 $$E_{mekanisk}=-\frac{1}{2} \cdot E_{pot} + E_{pot} = \frac{1}{2} E_{pot}$$
 $$E_{mekanisk}=E_{kin} + -2 \cdot E_{kin} = -\frac{3}{2}E_{kin}$$
-
----
-#fysik

@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [cpp]
 ---
 # Abstract Classes in C++
 A base class which cannot be instantiated by itself. This is accomplished by declarations without definitions in the abstract class. An abstract class *has at least one purely virtual method*.
@@ -9,5 +10,3 @@ A base class which cannot be instantiated by itself. This is accomplished by dec
 Used for defining [[Interfaces in C++|interfaces]].
 
 
----
-#cpp

@@ -1,5 +1,6 @@
 ---
 created: 2024-10-30
+tags: [algorithms]
 ---
 # Kosaraju’s Algorithm
 See [[lecture10.pdf#page=43|slides]].
@@ -17,7 +18,3 @@ Algorithm for finding [[Strongly Connected Components|SCCs]] in directed graphs 
 
 >[!example]- Example from Slides
 >![[lecture10.pdf#page=45]]
-
-
----
-#algorithms

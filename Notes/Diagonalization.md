@@ -1,5 +1,6 @@
 ---
 created: 2024-10-14
+tags: [linearalgebra]
 ---
 # Diagonalization
 Transform a matrix into a diagonal matrix. This is useful as many matrix operations are trivial on diagonal matrices. Here are a few:
@@ -18,5 +19,3 @@ See also [this website](https://www.statlect.com/matrix-algebra/matrix-diagonali
 
 Use [[eigendecomposition]] to calculate $P$ and $D$.
 
----
-#linearalgebra

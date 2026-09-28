@@ -1,5 +1,6 @@
 ---
 created: 2024-10-30
+tags: [algorithms]
 ---
 # Dijkstra’s algorithm
 Find the distance from node `s` to every other node in graph `G`. See also [[lecture11.pdf|slides]].
@@ -27,7 +28,3 @@ procedure Dijkstra(G,s):
 
 >[!example]- Dijkstra by Example
 >![[lecture11.pdf#page=25]]
-
-
----
-#algorithms

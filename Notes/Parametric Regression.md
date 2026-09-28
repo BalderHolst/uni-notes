@@ -1,5 +1,6 @@
 ---
 created: 2026-09-18
+tags: [machine-learning]
 ---
 # Parametric Regression
 > *"We are trying to fit into the dataset"*
@@ -76,5 +77,3 @@ R^{2} = 1 - \frac{\sum(y-\hat{y})^{2}}{\sum (y - \bar{y})^{2}}
 $$
 $\bar{y}$: Average
 
----
-#machine-learning

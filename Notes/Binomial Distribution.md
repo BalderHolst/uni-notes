@@ -1,5 +1,6 @@
 ---
 created: 2024-12-02
+tags: [distribution, statistics]
 ---
 # Binomial Distribution
 Models the probability of a binary outcome. Flipping a fair coin $50$ times would follow the distribution $B(50, 0.5)$.
@@ -21,5 +22,3 @@ $$
 $k$: An outcome
 
 
----
-#statistics #distribution

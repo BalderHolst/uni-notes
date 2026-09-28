@@ -1,5 +1,6 @@
 ---
 created: 2025-09-21
+tags: [signalprocessing, signals]
 ---
 # Filters
 [[Lektion 1 - Filterfunktioner.pdf]]
@@ -63,6 +64,3 @@ Because of this we want *linear phase*:
 If not, the [[Step Response]] will ocilate:
 ![[Pasted image 20230914085447.png|350]]
 ![[Pasted image 20230914085503.png|350]]
-
----
-#signals #signalprocessing

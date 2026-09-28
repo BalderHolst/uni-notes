@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [algorithms]
 ---
 # Sorting Algorithms
 See [[Lessons/Semester 5/algorithms/lecture2.pdf|slides]].
@@ -25,7 +26,3 @@ views:
     imageAspectRatio: 1.1
     cardSize: 210
 ```
-
-
----
-#algorithms

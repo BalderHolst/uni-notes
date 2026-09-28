@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [vektorer, matematik]
 ---
 # Linært Afhængige Vektorer
 > *"Kan vi skrive en af vektorerne som sum af de andre (ganget med konstanter)"*
@@ -14,5 +15,3 @@ $$k_{1}\cdot \vec{a_{1}} + k_{2}\cdot \vec{a_{2}}+\dots+k_{n}\cdot \vec{a_{n}} =
 
 Hvis **den eneste** løsning er $k_i=0$, så er sættet af vektorer ***linært uafhængige***.af vektorer ￼￼linært uafhængige￼￼.
 
----
-#matematik #vektorer 

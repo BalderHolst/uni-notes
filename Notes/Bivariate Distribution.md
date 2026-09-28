@@ -1,5 +1,6 @@
 ---
 created: 2024-11-11
+tags: [distribution, statistics]
 ---
 # Bivariate Distribution
 See [[lecture6a.pdf#page=10|slides]].
@@ -32,7 +33,3 @@ $$
 \mathbf{P}(X,Y) \in A = \iint_{A}f(x,y)\,dx\,dy,
 \quad \mathrm{for\; any}\; A \subset \mathbb{R}^2
 $$
-
-
----
-#statistics #distribution

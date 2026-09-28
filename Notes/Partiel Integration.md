@@ -1,5 +1,6 @@
 ---
 created: 2024-12-08
+tags: [integraler, matematik]
 ---
 # Partiel Integration
 
@@ -11,7 +12,3 @@ $$\int u(x) \cdot v'(x) dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) dx$$
 >[!Example]- Eksempler
 >- ![Eksempel med Henrik](https://youtu.be/IMTxnWypzBw)
 >- ![Svært eksempel med Henrik](https://youtu.be/aDdV2X6MWEc)
-
-
----
-#matematik #integraler 

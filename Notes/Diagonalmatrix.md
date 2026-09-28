@@ -1,5 +1,6 @@
 ---
 created: 2024-09-04
+tags: [matricer, matematik]
 ---
 # Diagonalmatrix
 **Kvadratisk** matrix med nuller pånær diagonalen.
@@ -13,6 +14,3 @@ $$
 \end{array}
 \right)
 $$
-
----
-#matematik #matricer

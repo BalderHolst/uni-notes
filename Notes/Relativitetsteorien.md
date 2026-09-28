@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Relativitetsteorien
 $$E=m \cdot c^2$$
@@ -10,5 +11,3 @@ $$K_{kin}=m \cdot c^2-m_0 \cdot c^2$$
 $m$: [[#Relativitsisk masse]]
 $m_0$: Massen når partiklen er i hvile
 
----
-#fysik 

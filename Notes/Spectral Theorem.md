@@ -1,5 +1,6 @@
 ---
 created: 2024-09-24
+tags: [linearalgebra]
 ---
 # Spectral Theorem
 Matrix Decomposition
@@ -10,9 +11,3 @@ $$
 $$
 P^{T}P = I \Rightarrow P^{T} = P^{-1}
 $$
-
-
-
-
----
-#linearalgebra 

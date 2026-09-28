@@ -1,5 +1,6 @@
 ---
 created: 2026-09-17
+tags: [multivariate-statistics]
 ---
 # Likelihood Ratio Test
 
@@ -65,6 +66,3 @@ $$
 \quad\Rightarrow\quad
 \mathrm{reject}\ H_{0}
 $$
-
----
-#multivariate-statistics 

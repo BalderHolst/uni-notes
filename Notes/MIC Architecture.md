@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [computerarchitecture]
 ---
 # MIC Architecture
 
@@ -15,5 +16,3 @@ The new bus allows for less wasted clock cycles
 Introduces *latches* before and after the ALU. This **tripples** the efficiency, as reading from registers, writing to registers and performing ALU operation, can now *run in parallel*. There can however be other problems with sharing resources.
 
 
----
-#computerarchitecture

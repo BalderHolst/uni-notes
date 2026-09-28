@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [kinematics]
 ---
 # Angle-Set Conventions
 Ways to rotate around an axis with [[Rotational Matrices|rotational matrices]].
@@ -44,7 +45,3 @@ The coordinate system changes whenever you do a rotation.
 
 #### [[Rotational Matrices]]
 ![[euler-angles-with-matrices.png]]
-
-
----
-#kinematics 

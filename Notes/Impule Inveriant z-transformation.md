@@ -1,5 +1,6 @@
 ---
 created: 2024-01-07
+tags: [signalprocessing]
 ---
 ## Impule Inveriant z-transformation
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=56|slides]]. Keeps impulse response the same.
@@ -55,6 +56,3 @@ $$
 
 Opskriv overføringsfunktionen i z-domæne.
 $$ H(z) = \frac{a_{0} + a_{1}z^{-1}}{1+b_{1}z^{-1} + b_{2}z^{-2}} $$
-
----
-#signalprocessing 

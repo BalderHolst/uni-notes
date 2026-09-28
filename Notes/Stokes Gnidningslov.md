@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Stokes Gnidningslov
 Gnidningskraften for en dråbe gennem luft.
@@ -8,5 +9,3 @@ $\eta$: Luften/væskens [[Viskositet]]
 $r$: dråbens/kuglens radius
 $v$: dråbens hastighed
 
----
-#fysik  

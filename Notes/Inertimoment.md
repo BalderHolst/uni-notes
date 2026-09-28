@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Inertimoment
 > *"Masse i Rotation"*
@@ -19,6 +20,3 @@ Omdrejningsaksen kan *parallelforskydes* med [[Flytningsformlen]].
 
 ### Kontinuært legme
 $$I =  \int r^{2} dm$$
-
----
-#fysik 

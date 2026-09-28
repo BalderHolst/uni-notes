@@ -1,5 +1,6 @@
 ---
 created: 2025-02-10
+tags: [underactuated-robots]
 ---
 # Euler-Lagrange Modelling
 Using [[Potential Energy|potential]] and [[Kinetic Energy|kinetic]] energy to model systems. See [[Lecture 1 - Euler-Lagrange Modelling.pdf#page=5|slides]].
@@ -48,5 +49,3 @@ g(q) = \Gamma\tau
 $$
 $\tau$: Matrix of forces
 
----
-#underactuated-robots

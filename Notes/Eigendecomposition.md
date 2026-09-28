@@ -1,5 +1,6 @@
 ---
 created: 2024-10-13
+tags: [linearalgebra]
 ---
 # Eigendecomposition
 
@@ -25,7 +26,3 @@ P = \begin{bmatrix}
 v_{1}, v_{2}, \dots, v_{n}
 \end{bmatrix}
 $$
-
-
----
-#linearalgebra 

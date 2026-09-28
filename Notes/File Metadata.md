@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 ### File Metadata
 
@@ -50,9 +51,3 @@ Useful when stat-ing files in a directory
 ```c
 int statx(int dirfd, const char *pathname, int flags, unsigned int mask, struct statx *statxbuf);
 ```
-
-
-
-
----
-#c

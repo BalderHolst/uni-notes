@@ -1,5 +1,6 @@
 ---
 created: 2024-03-29
+tags: [controlsystems]
 ---
 # Dynamic Compensation
 See [[Lecture 7 - Dynamic Compensators and Stability Margins.pdf#page=24|slides]].
@@ -38,7 +39,3 @@ $$
 $$
 D(s) = K_{0}\alpha \frac{Ts + 1}{\alpha Ts + 1}
 $$
-
-
----
-#controlsystems

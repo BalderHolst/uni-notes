@@ -1,5 +1,6 @@
 ---
 created: 2026-09-28
+tags: [funktioner, matematik]
 ---
 # Funktioner af flere Variable
 
@@ -130,6 +131,3 @@ Relater $\epsilon$ og $\delta$ med formlerne
 $$|f(x,y) - L| < \epsilon$$
 og
 $$0< \sqrt{(x-a)^{2}+(y-b)^{2}} < \delta $$
-
----
-#matematik #funktioner

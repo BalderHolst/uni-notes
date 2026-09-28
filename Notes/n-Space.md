@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [matematik]
 ---
 # n-Rum
 Rum af højere dimensionerer. 
@@ -13,5 +14,3 @@ $$L =\sqrt{(y_1 - x_1)^2 + (y_2 - x_2)^2 + \dots + (y_n-x_n)^n}$$
 $L$ : Længden mellem punkterne
 $y_{1\dots n}$ : Det $n$'te koordinat i $y$-punktet.
 
----
-#matematik 

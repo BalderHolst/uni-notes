@@ -1,5 +1,6 @@
 ---
 created: 2024-10-29
+tags: [c]
 ---
 # Files
 
@@ -36,10 +37,3 @@ Data about the file that is not contained within the file.
 >  time_t            st_mtime;        // time of last modification
 >  time_t            st_ctime;        // time of last status change
 >};
-
-
-
-
-
----
-#c

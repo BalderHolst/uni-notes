@@ -1,5 +1,6 @@
 ---
 created: 2023-12-25
+tags: [fysik]
 ---
 # Kraftmoment
 > *"Årsagen til et legemes rotation er, at det bliver påvirket af et kraftmoment $\vec{\tau}$"* 
@@ -19,5 +20,3 @@ $$\vec{\tau} = I\vec{\alpha}$$
 $I$ : [[Inertimoment|Inertimomentet]]
 $\alpha$ : Vinkelacceleration
 
----
-#fysik 

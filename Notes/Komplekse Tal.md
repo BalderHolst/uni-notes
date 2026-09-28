@@ -1,5 +1,6 @@
 ---
 created: 2025-01-28
+tags: [matematik]
 ---
 # Komplekse Tal
 $$w = a + ib, \s i^2 = -1$$
@@ -223,8 +224,3 @@ Bruger $j$ i elektronik.
 
 ### Det Komplekse Plan
 [[Det Komplekse Plan]]
-
-
-
----
-#matematik 
