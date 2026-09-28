@@ -3,6 +3,29 @@ See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
 
 Optimal Filter for filtering noise from a desired signal.
 
+```mermaid
+graph LR
+    Y["$$Y(n)$$"]
+    G["$$G(f)$$"]
+    Sum((+))
+    W["$$W(n)$$"]
+    X["$$X(n)$$"]
+    H["$$H(f)$$"]
+    Yhat["$$\hat{Y}(n)$$"]
+
+    Y --> G
+    G --> Sum
+    W --> Sum
+    Sum --> X
+    X --> H
+    H --> Yhat
+
+    style Y fill:none,stroke:none
+    style W fill:none,stroke:none
+    style X fill:none,stroke:none
+    style Yhat fill:none,stroke:none
+```
+
 $$
 \underset{\mathrm{Desired\ Signal}}{Y(n)}
 \rightarrow \underset{\mathrm{Bluring\ Filter}}{G(f)}

@@ -1,9 +1,5 @@
 # <% tp.file.title %>
 
----
-
-## Notes
-
 ```base
 views:
   - type: cards

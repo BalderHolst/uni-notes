@@ -10,9 +10,32 @@ limit 5
 
 ---
 
->[!box] ## Subjects
->```dataview 
->list
->from #subject and -"Templates/subject.md"
->sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("subject")
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("statistics")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+```
 >```
