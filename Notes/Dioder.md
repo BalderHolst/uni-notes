@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Dioder
 Halvleder
 ![|center|350](http://1.bp.blogspot.com/_tWcsnP09Wj8/TDGX8WA0oaI/AAAAAAAABzI/GOZUKj5H18g/s400/PN-diode.png)

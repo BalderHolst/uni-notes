@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Tangent
 En tangent er en linje, der går gennem et enkelt punkt på grafen, hvor tangenten har samme hældning. 
 

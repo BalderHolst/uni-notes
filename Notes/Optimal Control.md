@@ -1,3 +1,6 @@
+---
+created: 2025-03-10
+---
 # Optimal Control
 See slides [[Lecture 11 - Integral Control.pdf#page=18|here]] and [[Lecture 5 - Optimal Control.pdf|here]].
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-23
+---
 # Covariance and Correlation
 See [[lecture7.pdf#page=17|slides]].
 

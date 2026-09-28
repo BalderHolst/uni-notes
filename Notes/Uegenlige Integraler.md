@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Uegenlige Integraler
 >*"Undgå det punkt hvor funktionsværdien er problematisk"*
 >\- Henrik

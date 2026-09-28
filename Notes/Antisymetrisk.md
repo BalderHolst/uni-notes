@@ -1,3 +1,6 @@
+---
+created: 2024-09-04
+---
 # Antisymetrisk
 
 $$a_{jk}=-a_{kj} \s A^{T} = -A$$

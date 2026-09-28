@@ -1,3 +1,6 @@
+---
+created: 2026-09-14
+---
 # Stocastic Properties of Filters
 
 ### Linear-filtering of Random Signals

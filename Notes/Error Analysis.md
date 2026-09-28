@@ -1,3 +1,6 @@
+---
+created: 2025-03-03
+---
 # Error Analysis
 See [[week4.pdf#page=15|slides]].
 

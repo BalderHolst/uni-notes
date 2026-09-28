@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Anti Aliasering Filter
 A filter cutting off all frequencies that are larger than double the sampling frequency.
 

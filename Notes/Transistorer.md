@@ -1,3 +1,6 @@
+---
+created: 2025-11-24
+---
 # Transistorer
 >En lille strøm styrer en meget større strøm
 

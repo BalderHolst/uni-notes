@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Linear State Space Models
 
 The system is designated as

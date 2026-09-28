@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Curl
 A measure of average rotation around points in a [[Vector Fields|vector field]].
 

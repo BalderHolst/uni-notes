@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # DH-Parameters
 See the [[Lecture 7 - DH Parameters and Forward Kinematics.pdf|slides]].
 

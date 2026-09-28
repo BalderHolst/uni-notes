@@ -1,3 +1,6 @@
+---
+created: 2024-10-20
+---
 # Normalfordelingen
 Aka. *Gaussian Distribution*
 

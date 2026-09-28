@@ -1,3 +1,6 @@
+---
+created: 2024-09-05
+---
 # [[Differentialregning|Differentiation]] af [[Funktioner af flere Variable]] / Partielle Afledte
 Lad $f(x,y)$ være en funktion, så er  førsteordens partielle afledte:
 $$

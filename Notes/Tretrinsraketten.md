@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Tretrinsraketten
 En metode til at [[Differentialregning|differentiere]] funktioner i hånden der gør brug af [[Differentialregning#Definition af et Differentiale|definitionen af en differentieret funktion]].
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Halveringtid
 
 $$N = N_0 \cdot (1/2)^{\frac{t}{T_{\frac{1}{2}}}}$$

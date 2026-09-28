@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Newtons Love
 
 ### Newtons 1. lov: Inertiens Lov

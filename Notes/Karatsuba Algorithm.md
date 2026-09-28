@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Karatsuba Multiplication Algorithm
 A divide-and-conquer algorithm for fast multiplication of numbers.
 

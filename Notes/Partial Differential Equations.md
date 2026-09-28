@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Partial Differential Equations (PDEs)
 >*"A partial differential equation relates multivariate functions and their partial derivatives."*
 > \- Mr. Math Man

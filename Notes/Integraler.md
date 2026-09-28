@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Integralregning
 
 I [[Ulige Funktioner|ulige funkioner]] er integralet altid $0$, hvis $-a = b$.

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Bevægelse på Skråplan
 ![[Bevægelse på Skråplan.png]]
 På billedet ovenfor ses en plan klods, der glider ned af et skråplan uden

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Sekant
 En sekant er en linje, der går gennem to punkter på en graf, det er disse punkter det giver sekanten dens hældning.
 ![Illustration af sekant og tangent|center|300](http://www.rasmus.is/sv/t/G/Su64k01_m01.gif)

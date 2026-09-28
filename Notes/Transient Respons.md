@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Transient Respons
 > *"Transiente kredsløb dør ud"*
 > \- Jan

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Kirchhoff’s Voltage Law
 $$\sum V = 0 \s \text{closed loop}$$
 > "The algebraic sum of the voltages equals zero for any closed path (loop) in an electrical circuit"

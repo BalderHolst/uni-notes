@@ -1,3 +1,6 @@
+---
+created: 2024-11-27
+---
 # Law of Large Number
 As sample size increases, the sample mean converges to the true mean.
 

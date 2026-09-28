@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Integration med Substidution
 
 Kan anvendes på integraler på følgende form

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Omvendt funktion (inverse funktion)
 En funktion der gør det modsatte af en anden funktion
 

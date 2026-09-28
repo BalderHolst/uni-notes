@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # [[Isaac Newton|Newtons]] Afkølingslov
 
 $$T' = \frac{dT}{dt} = -k \cdot (T-T_{omg})$$

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 
 # Bevis
 Dette bevis er baseret på videoen "MatA - Differential-ligninger"

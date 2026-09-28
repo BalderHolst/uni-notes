@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Axis Angle (Euler Vector)
 A way of defining a rotation with an axis and an angle. See [[Lecture 5 - Other Orientation Representations.pdf#page=30|slides]].
 

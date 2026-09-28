@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Rotation
 Se [[Lektion 09-FYS__RT_E22.pdf|slideshow]].
 

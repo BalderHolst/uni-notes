@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Laplacian Operator
 > *"How much of a minimum is this ($x$,$y$)?"*
 > \- Khan Academy

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Nyquist Formula
 Defines the *theoretical* maximum bit rate
 $$V_{N} = 2 \cdot B \cdot \log_{2}(L)$$

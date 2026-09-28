@@ -1,3 +1,6 @@
+---
+created: 2024-12-11
+---
 # Marginal Distribution
 Marginalization. See [[lecture6a.pdf#page=12|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2024-09-12
+---
 # Rank of Matrix
 > Rank of matrix $A$ is the maximum number of *independent* rows within $A$.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Lineært Tidsinvariant System
 - Udgangssignalet har *samme frekvens* som indgangssignalet.
 - Udgangssignalet *kan dog være faseddrejet*.

@@ -1,3 +1,6 @@
+---
+created: 2024-01-07
+---
 ## Impule Inveriant z-transformation
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=56|slides]]. Keeps impulse response the same.
 

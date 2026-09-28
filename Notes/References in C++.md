@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # References in C++
 An "alias" for a variable. The memory is still released when the original variable goes out of scope.
 

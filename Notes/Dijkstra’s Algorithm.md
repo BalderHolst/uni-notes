@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Dijkstra’s algorithm
 Find the distance from node `s` to every other node in graph `G`. See also [[lecture11.pdf|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Dirac Delta Function
 A signal with infinite magnitude over an infinitely small time span. Its integral is equal to $1$.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Eulers Formel
 (Den *bedste* formel)
 

@@ -1,3 +1,6 @@
+---
+created: 2024-12-08
+---
 # Partiel Integration
 
 $$\int u(x) \cdot v'(x) dx= u(x) \cdot v(x) - \int u'(x) \cdot v(x) dx$$

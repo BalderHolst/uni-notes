@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 ### Phasor Representation
 Representation af [[AC]] med [[Komplekse Tal]].
 

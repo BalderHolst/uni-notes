@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Serieforbindelser
 > "In order for elements A and B to be in series, no other path for current can be connected to the node joining A and B. Thus, all elements in a series circuit have identical currents."
 

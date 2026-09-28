@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # FIR Filtre
 See [[lektion 10 - Introduktion til FIR filtre.pdf|slides]].
 

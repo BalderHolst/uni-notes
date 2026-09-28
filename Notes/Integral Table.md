@@ -1,3 +1,6 @@
+---
+created: 2023-12-31
+---
 # Integral Table
 These equations are from [integral-table.com](https://www.integral-table.com/).
 

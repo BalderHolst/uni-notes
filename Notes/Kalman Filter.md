@@ -1,3 +1,6 @@
+---
+created: 2026-09-09
+---
 # Kalman Filter
 See slides:
 - [[Lecture 12 - The KalmanFilter.pdf#page=51|Control Systems - Kalman Filter]]

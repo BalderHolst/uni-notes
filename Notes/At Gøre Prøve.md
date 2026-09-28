@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ### At Gøre Prøve
 
 At gøre prøve er en måde at teste om en bestemt funktion, er en løsning for en given differentialligning. Eksempelvis kunne man spørge: er $f(x) = 2e^{16x}$ en gyldig løsning på differentialligningen $y' = 16y$? Det første skridt mod at besvare spørgsmålet er at [[Differentialregning|differentiere]] funktionen.

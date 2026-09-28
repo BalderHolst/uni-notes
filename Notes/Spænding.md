@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Spænding
 Unit: $V = \frac{J}{C}$
 Symbol: $U$

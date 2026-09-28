@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Kinematics
 Mathematics for relating coordinate systems (frames), and calculating positions, angles and motions.
 

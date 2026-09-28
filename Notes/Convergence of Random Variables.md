@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Convergence of Random Variables
 See [[lecture8.pdf|slides]].
 

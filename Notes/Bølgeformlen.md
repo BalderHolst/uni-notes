@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Bølgeformlen
 
 Bølgeformlen beskriver sammenhængen mellem bølgens [[Hastighed og Fart|hastighed]] ($v$),

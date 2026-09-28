@@ -1,3 +1,6 @@
+---
+created: 2025-10-02
+---
 # Line Integrals
 Integrate a three-dimensional function along a curve.
 $$

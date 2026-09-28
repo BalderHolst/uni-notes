@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Media Access 
 See [[KOM - lecture 5a - Itslearning.pdf|slides]].
 

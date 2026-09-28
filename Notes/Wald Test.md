@@ -1,3 +1,6 @@
+---
+created: 2024-12-08
+---
 # Wald Test
 Test how extreme a sample is
 

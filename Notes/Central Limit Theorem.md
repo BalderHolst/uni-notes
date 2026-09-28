@@ -1,3 +1,6 @@
+---
+created: 2024-11-27
+---
 # Central Limit Theorem
 See [[lecture8.pdf#page=19|slide]].
 

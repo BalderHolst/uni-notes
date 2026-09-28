@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Pulse Sampling
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=33|slides]].
 

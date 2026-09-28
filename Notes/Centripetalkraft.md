@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Centripetalkraft
 Kraften ind mod midten af en cirkel under [[Jævn Cirkelbevægelse]]
 

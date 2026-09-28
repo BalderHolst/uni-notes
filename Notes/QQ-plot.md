@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # QQ-plot
 QQ-plot er et plot der viser et datasæt, og hvor tæt de er på at være normalfordelt. 
 

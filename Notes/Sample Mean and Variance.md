@@ -1,3 +1,6 @@
+---
+created: 2026-09-02
+---
 # Sample Mean and Variance
 See [[Lektion 1 slides.pdf#page=3|slides]].
 

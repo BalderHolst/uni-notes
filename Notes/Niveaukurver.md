@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Niveaukurver
 
 Eksempel. $f(x,y)=-x^2-y^2+8$ 

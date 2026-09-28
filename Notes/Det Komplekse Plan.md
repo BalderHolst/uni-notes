@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Det Komplekse Plan
 $$\C = \set{x + yi : x,y \in \R}$$
 

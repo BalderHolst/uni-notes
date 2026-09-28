@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Strømdeler
 Sker i [[Parallelforbindelser]]. 
 $$I_1= \frac{R_2}{R_1+R_2} \cdot I_{in}$$

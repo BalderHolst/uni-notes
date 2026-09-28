@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Shannon Formula (Noisy Channel)
 Calculates the *upper limit* for the data rate for the physical transmission material.
 

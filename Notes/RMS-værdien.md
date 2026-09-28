@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # RMS-værdien
 > *"Ækvivalent for tidsvarierende signal ([[AC]] $\rightarrow$ [[DC]])"*
 >  \- Jan

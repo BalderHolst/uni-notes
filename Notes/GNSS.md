@@ -1,3 +1,6 @@
+---
+created: 2026-09-13
+---
 # Global Navigation Satellite System (GNSS)
 GPS is an implementation of GNSS.
 

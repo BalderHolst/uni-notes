@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Kirchhoff’s Current Law
 $$\sum I = 0 \s\text{towards every node}$$
 > "The current entering a node must equal the current exiting a node"

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Røntgenrør
 ![|350](https://fysikleksikon.nbi.ku.dk/r/roentgenstraaling/320px-Roentgen-Roehre.png)
 

@@ -1,3 +1,6 @@
+---
+created: 2024-12-09
+---
 # Standard Error
 The standard deviation of the estimate of a parameter.
 $$

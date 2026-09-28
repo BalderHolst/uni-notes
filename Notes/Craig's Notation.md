@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Craig's Notation
 
 [[Frames]] are notated with curly braces around a capital letter, eg. $\set A$.

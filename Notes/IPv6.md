@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # IPv6
 Successor to [[IPv4]]. See [[KOM - lecture 8a - Itslearning.pdf#page=3|slides]].
 

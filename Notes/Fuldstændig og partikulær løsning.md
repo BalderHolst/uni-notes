@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ### *Fuldstændig* og *partikulær* løsning
 En løsning med en ubestemt konstant til sidst. Denne konstant er et produkt af [[Integraler]]. Det kan også være $C$, der eksempelvis er en del af denne løsning, på differentialligningen $y'=k \cdot y$.
 

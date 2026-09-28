@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Sorting Algorithms
 See [[Lessons/Semester 5/algorithms/lecture2.pdf|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-25
+---
 # Logistic Regressions
 Finds the *maximum likelihood* seperation line.
 

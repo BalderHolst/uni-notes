@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Amdahl's Law
 How much multi-threadding can speed up the execution of a program.
 $$\text{speedup} \leq \frac{1}{S + \frac{1-S}{N}}$$

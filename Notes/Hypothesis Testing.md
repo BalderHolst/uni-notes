@@ -1,3 +1,6 @@
+---
+created: 2026-09-16
+---
 # Hypothesis Testing
 Most useful for *comparing*.
 

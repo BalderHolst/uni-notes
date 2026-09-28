@@ -1,3 +1,6 @@
+---
+created: 2024-03-29
+---
 # Integrator
 $$
 G(s) = \frac{1}{s}

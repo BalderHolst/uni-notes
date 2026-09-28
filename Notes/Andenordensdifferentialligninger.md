@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Andenordensdifferentialligninger
 - [[Dæmpede Svingninger - Differentialligning]]
 - [[Andenordens inhomogene differentialligninger]]

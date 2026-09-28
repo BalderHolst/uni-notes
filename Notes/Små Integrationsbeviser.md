@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Små Integrationsbeviser              
 Her er beviser for de følgende regneregler: $\int k \cdot f(x)\  dx = k \cdot \int f(x)\  dx$ , $\int f(x)+g(x)\ dx = \int f(x)\ dx + \int g(x)\ dx$, og ideen om at en given funktion ($f(x)$) har flere stamfunktioner (($F(x)$)).
 

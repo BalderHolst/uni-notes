@@ -1,3 +1,6 @@
+---
+created: 2025-02-26
+---
 # Singular Value Decomposition (SVD)
 A generalized [[eigendecomposition]] which works for non-square matrixes.
 

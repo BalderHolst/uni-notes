@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Komparator
 Komparatorer kan udsende spændinger som ikke er helt HIGH eller LOW omkring reference spændingen $V_{r}$.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Fotoelektrisk Effekt
 Fotoelektrisk effekt sker hvis dette er sandt
 $$A_L \le E_{\gamma}$$

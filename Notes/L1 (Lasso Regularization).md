@@ -1,3 +1,6 @@
+---
+created: 2026-09-25
+---
 # L1 (Lasso Regularization)
 Called "Lasso Regularization" in linear models and "L1" in logistic regressions and other contexts.
 

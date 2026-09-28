@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # PID-controller
 See [[Lecture 4 - Design of PID Controllers.pdf|slides]].
 

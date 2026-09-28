@@ -1,3 +1,6 @@
+---
+created: 2024-03-29
+---
 # Differentiator
 $$
 G(s) = s

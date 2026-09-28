@@ -1,3 +1,6 @@
+---
+created: 2025-02-05
+---
 # LU Decomposition
 See [[week1.pdf#page=14|slides]].
 

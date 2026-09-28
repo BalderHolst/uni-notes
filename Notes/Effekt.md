@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Effekt
 $$P = V \cdot I$$
 $P$ : [[Effekt]].

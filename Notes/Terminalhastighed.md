@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Terminalhastighed
 $$v_t = \sqrt{\frac{mg}{\rho AC_D}},\s \text{sandt når } F_D = F_g$$
 $v_t$ : Terminalhastigheden.

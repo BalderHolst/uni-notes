@@ -1,3 +1,6 @@
+---
+created: 2025-02-10
+---
 # Controllability
 See [[Lecture 9 - State Feedback Control.pdf#page=6|slides]].
 

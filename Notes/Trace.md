@@ -1,3 +1,6 @@
+---
+created: 2024-10-13
+---
 # Trace
 The sum of [[Eigen values and vectors|eigen values]].
 $$

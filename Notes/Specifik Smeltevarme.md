@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Specifik Smeltevarme
 $$E_{s} = m  \cdot L_s$$
 

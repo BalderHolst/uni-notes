@@ -1,3 +1,6 @@
+---
+created: 2024-10-29
+---
 # Unix Files
 See [[05.IO.Files.and.Directories.pdf|slides]].
 

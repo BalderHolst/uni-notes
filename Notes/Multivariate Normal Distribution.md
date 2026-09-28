@@ -1,3 +1,6 @@
+---
+created: 2026-09-11
+---
 # Multivariate Normal Distribution (MVN)
 See [[Lektion 2 slides.pdf#page=2|slides]].
 

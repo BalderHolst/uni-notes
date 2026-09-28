@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Interupts
 An alternative to [[Pooling|pooling]]. Allows the CPU to run a routine when an external device sends an interrupt request. The CPU will return to the normal program after the interrupt is executed.
 

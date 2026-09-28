@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Insertion Sort
 Insert the current number correctly in the part left of the current cursor position.
 

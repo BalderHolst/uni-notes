@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Full Adder
 See slides: [[Lesson 3.pdf#page=15]]
 

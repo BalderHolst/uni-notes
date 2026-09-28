@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Numerical Methods
 ### Solving Linear Systems
 Algorithms for solving a system of linear equations

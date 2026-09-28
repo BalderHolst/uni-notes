@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Elektrisk Resonans
 Når den imaginære del af [[Impedans|impedansen]] er $0$.
 

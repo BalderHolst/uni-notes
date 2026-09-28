@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Bevægelsesmængdemoment for én partikel
 
 $$\vec{l} = \vec{r} \times \vec{p} = m(\vec{r} \times \vec{v}) = I \omega $$

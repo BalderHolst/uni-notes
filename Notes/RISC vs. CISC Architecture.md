@@ -1,3 +1,6 @@
+---
+created: 2024-06-20
+---
 # RISC vs. CISC Architecture
 **RISC**: *Reduced* Instruction Set Computer
 **RISC**: *Complex* Instruction Set Computer

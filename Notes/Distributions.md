@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Distributions
 ![[Distributions.png|Pasted image 20241107133946.png]]
 

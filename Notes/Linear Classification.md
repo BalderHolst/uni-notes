@@ -1,3 +1,6 @@
+---
+created: 2024-10-21
+---
 # Linear Classification
 See [[lecture11a.pdf|slides]].
 

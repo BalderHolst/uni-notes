@@ -1,3 +1,6 @@
+---
+created: 2024-11-11
+---
 # Bivariate Distribution
 See [[lecture6a.pdf#page=10|slides]].
 

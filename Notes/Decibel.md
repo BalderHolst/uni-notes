@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Decibel
 
 $$A_{dB} = 20 \cdot \log_{10}\left(\frac{v_{2}}{v_{1}}\right) = 10 \cdot \log_{10}\left(\frac{P_{2}}{P_{1}}\right)$$

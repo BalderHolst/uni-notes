@@ -1,3 +1,6 @@
+---
+created: 2024-12-08
+---
 # Poisson's Equation
 [[Laplace's Equation]] but with forcing
 

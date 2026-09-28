@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Integral Control
 See [[Lecture 10 - Observers.pdf#page=57|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Subtractor
 A circuit for subtracting voltages.
 

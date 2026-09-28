@@ -1,3 +1,6 @@
+---
+created: 2026-09-14
+---
 # Bandwidth
 There are two ways to specify bandwidth: $[\text{Hz}]$ or $[\text{bps}]$.
 

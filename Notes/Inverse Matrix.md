@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Inverse Matrix
 
 $$A^{-1} \cdot A = I$$

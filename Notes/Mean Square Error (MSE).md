@@ -1,3 +1,6 @@
+---
+created: 2026-09-17
+---
 # Mean Square Error
 $$
 \mathrm{MSE}

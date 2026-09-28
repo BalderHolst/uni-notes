@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Kvadratkomplettering
 
 $$x^2 + 2kx = (x + k)^2 - k^2$$

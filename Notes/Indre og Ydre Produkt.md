@@ -1,3 +1,6 @@
+---
+created: 2024-09-03
+---
 # Indre og Ydre Produkt
 Måder at "gange" [[Notes/Vectors|vektorer]].
 

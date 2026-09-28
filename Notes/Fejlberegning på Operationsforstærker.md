@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Fejlberegning på Operationsforstærker
 See [[Noter lektion 2.pdf|lecture notes]].
 

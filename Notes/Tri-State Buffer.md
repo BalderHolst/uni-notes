@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Tri-State Buffer
 See slides [[Lesson 3.pdf#page=24]]
 

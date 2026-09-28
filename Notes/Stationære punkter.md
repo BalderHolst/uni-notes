@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Stationære punkter
 Et punkt på en [[Funktioner af flere Variable|flade]], hvor [[Gradient|gradienten]] er lig $0$.
 

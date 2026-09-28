@@ -1,3 +1,6 @@
+---
+created: 2024-11-12
+---
 # Propability Space
 A triple $(\Omega, \mathcal{F}, P)$. See [[lecture2.pdf#page=4|slides]].
 $\Omega$: A set of outcomes

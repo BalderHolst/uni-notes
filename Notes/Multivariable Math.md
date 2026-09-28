@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Multivariable Math
 Math involving integration in and over multi-dimensional spaces.
 

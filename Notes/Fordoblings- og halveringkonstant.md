@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ### Fordoblingskonstanten
 [[Formelsamling.pdf#page=19]]
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # The OSI model
 Open system interconnection model.
 #### Layers

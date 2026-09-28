@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # System of Linear Equations
 > *"Vi vil gerne have noget der er linært, for så er det nemt at regne på"*
 > \- Preben

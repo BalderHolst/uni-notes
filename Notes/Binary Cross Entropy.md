@@ -1,3 +1,6 @@
+---
+created: 2026-09-25
+---
 # Binary Cross Entropy
 Binary as $y$ is a binary class, $0$ or $1$.
 

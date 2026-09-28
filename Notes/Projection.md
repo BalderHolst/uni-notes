@@ -1,3 +1,6 @@
+---
+created: 2024-10-27
+---
 # Projection
 Project points in a space $S$ into a subspace $U$.
 

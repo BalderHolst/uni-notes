@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Seperation of Variables
 
 $$u(x,y) = F(x)G(y)$$

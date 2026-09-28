@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Linært Afhængige Vektorer
 > *"Kan vi skrive en af vektorerne som sum af de andre (ganget med konstanter)"*
 > \- Preben

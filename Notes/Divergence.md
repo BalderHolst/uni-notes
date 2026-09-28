@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Divergence
 Denotes the ratio of input flow and output flow at point in a [[Vector Fields|vector field]].
 

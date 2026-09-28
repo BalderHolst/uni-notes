@@ -1,3 +1,6 @@
+---
+created: 2026-09-25
+---
 # L2 (Ridge Regularization)
 Called "Ridge Regularization" in linear models and "L2" in logistic regressions and other contexts.
 

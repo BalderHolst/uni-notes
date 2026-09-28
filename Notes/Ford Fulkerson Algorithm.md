@@ -1,3 +1,6 @@
+---
+created: 2024-12-03
+---
 # Ford Fulkerson Algorithm
 An algorithm for calculating the [[Max Flow|max flow]] of a flow graph.
 

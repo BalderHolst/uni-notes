@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Numbering Systems
 
 ![[Octal and Hexadecimal Systems.png|200]]

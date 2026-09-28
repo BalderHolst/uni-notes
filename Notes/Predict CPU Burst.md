@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Predict CPU Burst
 $$\tau_{n+1} = \alpha\cdot t_{n} + (1-\alpha) \tau_{n}$$
 

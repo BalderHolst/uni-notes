@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Mekanisk effekt
 Mekanisk [[Effekt]] $P$, er udtryk for hvor hurtigt [[Arbejde]] tilføres.
 $$P_{mek} = \vec{F} \bullet \vec{v}$$

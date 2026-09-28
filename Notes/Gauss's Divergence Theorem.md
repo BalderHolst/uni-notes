@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Gauss's Divergence Theorem
 
 Calculating the flux imposed by a [[Vector Fields|vector field]] in a volume.

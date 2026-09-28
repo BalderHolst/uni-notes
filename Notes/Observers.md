@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Observers
 See [[Lecture 10 - Observers.pdf#page=6|slides]].
 

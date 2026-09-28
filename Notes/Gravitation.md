@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Gravitation
 
 $$F= G \frac{m_1 \cdot m_2}{r^2}$$

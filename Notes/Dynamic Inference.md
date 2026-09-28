@@ -1,3 +1,6 @@
+---
+created: 2024-10-19
+---
 # Dynamic Inference
 See [[lecture5b.pdf|slides]].
 

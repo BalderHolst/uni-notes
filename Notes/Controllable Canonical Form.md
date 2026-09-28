@@ -1,3 +1,6 @@
+---
+created: 2024-04-16
+---
 # Controllable Canonical Form
 See [[Lecture 9 - State Feedback Control.pdf#page=33|slides]].
 

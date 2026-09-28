@@ -1,3 +1,6 @@
+---
+created: 2026-09-24
+---
 # Comparing Mean Vectors
 See [[Lessons/Semester 7/statistics/Lektion 4 slides.pdf|slides]].
 

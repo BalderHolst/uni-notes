@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Angle-Set Conventions
 Ways to rotate around an axis with [[Rotational Matrices|rotational matrices]].
 

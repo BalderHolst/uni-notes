@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Rulning
 > *"Rulning er en **kombination** af [[Rotation]] og translation"*
 > \- Rene ([[Lektion 10-FYS1_2022.pdf#page=19|slide]])

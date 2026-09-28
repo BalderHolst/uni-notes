@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Raketligningen
 Gælder *kun* når vi ser bort fra ydre kræfter.
 $$\Delta v = u \cdot ln \left(\frac{m_1}{m_2} \right)$$

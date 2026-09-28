@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Impulse Sampling
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=7|slides]].
 

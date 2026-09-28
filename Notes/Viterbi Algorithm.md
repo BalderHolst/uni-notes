@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Viterbi Algorithm
 See [[lecture5b.pdf#page=12|slides]].
 

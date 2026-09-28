@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Diskret Fourier Transformation
 See [[Lektion 3 - Introduktion til FFT.pdf|slides]].
 

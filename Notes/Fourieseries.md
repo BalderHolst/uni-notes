@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Fourieseries
 Se [[Lektion 1 - Fourierraekker.pdf#page=22|slides]].
 

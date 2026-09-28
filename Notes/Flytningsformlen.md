@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Flytningsformlen
 En måde at forskyde rotationsaksen for [[Inertimoment|inertimomenter]].
 $$I_{p}= I_{0} + Md^{2}$$

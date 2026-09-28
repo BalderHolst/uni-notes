@@ -1,3 +1,6 @@
+---
+created: 2026-09-03
+---
 # Perceptron
 Simple classification algorithm. Linearly seperates bulk data. *Always* finds *a* line if one exists.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Arc Length
 You can find the length of an arc by adding the small length of the infinity small vectors making up the arc.
 

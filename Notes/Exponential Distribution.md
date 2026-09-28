@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Exponential Distribution
 Can model things like lifetimes of electronic components.
 

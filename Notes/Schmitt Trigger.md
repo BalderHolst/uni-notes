@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Schmitt Trigger
 Giver abrupte skift mellem LOW og HIGH.
 

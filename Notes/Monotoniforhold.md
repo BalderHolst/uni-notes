@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Monotoniforhold
 
 En kategorisering af hvornår hældningen af en graf en enten stigende, falende aller $0$

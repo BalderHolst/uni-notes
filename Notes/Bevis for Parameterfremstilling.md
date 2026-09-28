@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Bevis for [[Linjer og Vektorer i 2D#Parameterfremstilling|Parameterfremstilling]]
 
 ![[Bevis for Parameterfremstilling.png|300]]

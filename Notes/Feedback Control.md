@@ -1,3 +1,6 @@
+---
+created: 2024-02-16
+---
 # Feedback Control
 Regulator input is now the error.
 

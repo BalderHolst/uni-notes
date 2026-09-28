@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # The Heat Equation
 How heat distributed in a rod changes over time. Each point tends towards the average of its neighbours.
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-13
+---
 # Transuesse Mercator Projection
 We divide the globe into "slices" and create a coordinate system on each. The coordinate system is more accurate closer to its [[Latitude and Longitude|longitude]] line.
 

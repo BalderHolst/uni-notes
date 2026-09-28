@@ -1,3 +1,6 @@
+---
+created: 2024-12-08
+---
 # Delta Method
 Given a sequence of [[Random Variables]] $X_{1}, X_{2}, \dots, X_{n}$. If a function $g$ can be defined, the distribution converges as follows.
 

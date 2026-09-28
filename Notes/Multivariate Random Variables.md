@@ -1,3 +1,6 @@
+---
+created: 2024-11-11
+---
 # Multivariate Random Variables
 See [[lecture7.pdf#page=24|slides]].
 

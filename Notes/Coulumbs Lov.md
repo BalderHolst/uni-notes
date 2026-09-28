@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Coulumbs Lov
 
 $$F=k_c \cdot \frac{Q \cdot q}{r^2}$$

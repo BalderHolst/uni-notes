@@ -1,3 +1,6 @@
+---
+created: 2024-10-27
+---
 # Bayesian Networks
 A mix of graph theory and probability theory. See [[lecture3a.pdf#page=3|slides]].
 

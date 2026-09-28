@@ -1,3 +1,6 @@
+---
+created: 2024-12-11
+---
 # Expectation
 Expected value, or **mean**, or first moment. See [[lecture7.pdf|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Impedans
 Modstand i [[AC]] kredsløb.
 

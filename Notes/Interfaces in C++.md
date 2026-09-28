@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Interfaces in C++
 
 A *purely virtual class* without variables. An Interface is an [[Abstract Classes in C++|abstract class]].

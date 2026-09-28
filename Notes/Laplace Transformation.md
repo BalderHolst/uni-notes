@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Laplace Transformation
 Se [regneregler](https://tutorial.math.lamar.edu/classes/de/Laplace_Table.aspx).
 

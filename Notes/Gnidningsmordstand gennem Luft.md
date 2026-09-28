@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Gnidningsmordstand gennem Luft
 
 $$F_{luft} = \frac{1}{2} \cdot c_w \cdot \rho \cdot A \cdot v^2$$

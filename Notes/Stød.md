@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Stød
 se også [[Bevægelsesmængde (Impuls)]].
 

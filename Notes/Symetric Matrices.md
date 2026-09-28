@@ -1,3 +1,6 @@
+---
+created: 2024-09-24
+---
 # Symetrix Matrices
 
 $$a_{jk}=a_{kj} \s A^{T} = A$$

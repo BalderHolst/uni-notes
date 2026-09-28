@@ -1,3 +1,6 @@
+---
+created: 2025-09-20
+---
 # Bellman-Ford* Algorithm
 Similar to [[Dijkstra’s algorithm]] but can handel (detect) *negative weights*. However, **it is slower**.
 

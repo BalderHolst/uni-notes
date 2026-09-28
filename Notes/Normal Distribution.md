@@ -1,3 +1,6 @@
+---
+created: 2026-09-14
+---
 # Normal Distribution
 Appears in nature a lot because of the [[Notes/Central Limit Theorem|Central Limit Theorem]].
 

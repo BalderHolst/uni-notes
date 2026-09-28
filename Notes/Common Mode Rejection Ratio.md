@@ -1,3 +1,6 @@
+---
+created: 2024-04-23
+---
 # Common Mode Rejection Ratio
 How good a differential amplifier is at rejecting noise when the impedance on its inputs is the same.
 

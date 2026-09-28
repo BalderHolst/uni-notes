@@ -1,3 +1,6 @@
+---
+created: 2024-10-29
+---
 # Unix IO
 Direct mappings to syscalls. Unbuffered, and therefore usually slow compared to buffered alternatives like [[standard IO]].
 

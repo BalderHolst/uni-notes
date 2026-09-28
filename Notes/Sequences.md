@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Sequences
 The digital representation of a signal.
 

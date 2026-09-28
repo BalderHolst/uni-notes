@@ -1,3 +1,6 @@
+---
+created: 2026-09-14
+---
 # Power Spectral Density (PSD)
 See [[Lessons/Semester 7/ssp/Lektion 2 slides.pdf#page=3|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-11
+---
 # Constant Density Contours
 See [[Bivariat distribution geometry and confidence ellipses - examples.pdf|slide examples]].
 

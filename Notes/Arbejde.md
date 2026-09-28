@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Arbejde
 $$W = \vec{F} \bullet \Delta\vec{r}$$
 

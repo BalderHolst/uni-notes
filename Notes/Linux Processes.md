@@ -1,3 +1,6 @@
+---
+created: 2024-11-19
+---
 # Linux Processes
 A linux process can be in five possible states:
 - [[#Running or Runnable]] (R)

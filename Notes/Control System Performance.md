@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Control System Performance
 See [[Lecture 2 - Stability Analysis.pdf#page=44|slides]] and more [[Lecture 5 - Root Locus.pdf#page=21|here]].
 

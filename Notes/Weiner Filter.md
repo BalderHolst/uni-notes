@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Weiner Filter
 See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
 

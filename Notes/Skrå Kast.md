@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Skrå kast 
 I et skråt kast bevæger projektilet sig som udgangspunkt i en [[Andengradspolynomier|parabelformet]] bue.
 

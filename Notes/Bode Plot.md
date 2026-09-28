@@ -1,3 +1,6 @@
+---
+created: 2024-03-22
+---
 # Bode Plot
 See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=33|slides]].
 

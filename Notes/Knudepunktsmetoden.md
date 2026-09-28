@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Knudepunktsmetoden (Node-Voltage Analysis)
 
 ### Ide

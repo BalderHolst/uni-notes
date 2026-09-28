@@ -1,3 +1,6 @@
+---
+created: 2024-10-29
+---
 # Standard IO
 Buffered alternatives to [[Unix IO]]. Usually `f` variants of other C functions.
 

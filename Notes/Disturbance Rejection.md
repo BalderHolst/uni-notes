@@ -1,3 +1,6 @@
+---
+created: 2024-02-16
+---
 # Disturbance Rejection
 See [[Lecture 3 - Introduction to Control.pdf#page=32|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Digitization
 See [[Lecture 8 - Implementation.pdf|slides]].
 

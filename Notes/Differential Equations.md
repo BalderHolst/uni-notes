@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 
 # Differential Equations
 En equation with a function as a solution.

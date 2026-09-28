@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Difference Equations
 Describe the output ($y$) as a function of an input ($x$) and previous values of $y$.
 

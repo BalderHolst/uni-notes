@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 ## Classification of Second order PDEs
 
 $$Au_{xx} + Bu_{xy} + C_{yy} + Du_{x} + Eu_{y} + Fu = G$$

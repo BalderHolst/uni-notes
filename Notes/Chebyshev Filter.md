@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Chebyshev
 [[Lektion 1 - Filterfunktioner.pdf#page=28]]
 

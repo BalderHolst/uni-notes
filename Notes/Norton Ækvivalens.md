@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Norton Ækvivalens
 #### Beregn det Norton-ækvivalente kredsløb.
 ##### Find $I_N$

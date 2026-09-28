@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # z-transformation
 
 $$z = e^{j\omega T}$$

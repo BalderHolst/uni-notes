@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Gain Margins
 
 We look for when the loop transfer function crosses the neutral stability threshold and becomes unstable.

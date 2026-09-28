@@ -1,3 +1,6 @@
+---
+created: 2026-09-03
+---
 # Multivariate Data Sets
 
 Usually we want to infere characteristics of the underlying model, from which the multivariate samples are sourced.

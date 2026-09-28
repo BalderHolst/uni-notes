@@ -1,3 +1,6 @@
+---
+created: 2024-09-04
+---
 # Row Echelon Form
 
 > The Pivot-element is always to the left of the Pivot-element in the row above.

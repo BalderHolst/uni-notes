@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Cirklens Ligning
 
 $$\sqrt{(x-x_0)^2 + (y-y_0)^2} = r$$

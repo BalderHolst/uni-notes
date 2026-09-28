@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Laplaces lov
 
 $$F=B \cdot I \cdot L \arrows $$

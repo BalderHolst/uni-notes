@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ### Delay through filter (gruppeløstid)
 The *delay of different frequencies is different*. We can try to mitigate this in our filter.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Foldningssum
 See [[lektion 7 - Digitale realisationsstrukturer.pdf#page=10|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Mergesort
 Divide and concur. This algorithm breaks down the input into smaller and smaller parts *recursively*. Then the algorithm reassembles the sorted array.
 

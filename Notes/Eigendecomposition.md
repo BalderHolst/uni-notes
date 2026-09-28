@@ -1,3 +1,6 @@
+---
+created: 2024-10-13
+---
 # Eigendecomposition
 
 A *square matrix* $A$ can a be factored into

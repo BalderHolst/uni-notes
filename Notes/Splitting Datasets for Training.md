@@ -1,3 +1,6 @@
+---
+created: 2026-09-24
+---
 # Splitting Datasets for Training
 We *always* split our date into three buckets:
 - Training Data (60%)

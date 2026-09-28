@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Linear Algebra
 
 ```base

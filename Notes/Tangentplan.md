@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Tangentplan og Normaler
 I en [[Funktioner af flere Variable|funktion med to variable]] kan vi ikke tegne en [[Tangent]]- linje, men i stedet et *tangentplan*. Dette tangentplan viser alle de mulige tangenter i et givent punkt.
 

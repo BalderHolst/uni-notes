@@ -1,3 +1,6 @@
+---
+created: 2024-09-13
+---
 # Image
 See also [[Matrix Kernel|kernel]].
 

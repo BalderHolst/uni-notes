@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Komplekse Tal
 $$w = a + ib, \s i^2 = -1$$
 Her er $a$ og $b$ **rigtige** tal.

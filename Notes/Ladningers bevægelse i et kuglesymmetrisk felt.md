@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Ladningers bevægelse i et kuglesymmetrisk felt
 
 En elektron bevæger sig i en cirkelbane om en positiv kugleladning

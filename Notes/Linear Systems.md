@@ -1,3 +1,6 @@
+---
+created: 2024-02-16
+---
 # Linear Systems
 
 Scaling of input amplitude results in the same scaling of output amplitude.

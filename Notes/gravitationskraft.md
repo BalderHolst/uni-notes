@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Gravitationskraft
 
 $$F_{gravitation} = G \cdot \frac{m \cdot M}{r^{2}}$$

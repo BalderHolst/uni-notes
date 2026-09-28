@@ -1,3 +1,6 @@
+---
+created: 2025-02-24
+---
 # Stability
 - [[Nyquist Stability]]
 - [[Neutral Stability]]

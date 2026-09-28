@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 ## Signal element
 The shortest unit of time that can represent a packet of bits.
 

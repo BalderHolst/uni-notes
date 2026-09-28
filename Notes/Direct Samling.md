@@ -1,3 +1,6 @@
+---
+created: 2024-09-12
+---
 # Direct Samling
 Generate samples from [[Bayesian Networks]].
 

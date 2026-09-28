@@ -1,3 +1,6 @@
+---
+created: 2025-02-12
+---
 # Simulation of Robot Dynamics
 $$
 B(q)\ddot{q} + C(q, \dot{q}) \dot{q} + g(q) = \Gamma\tau

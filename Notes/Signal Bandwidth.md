@@ -1,3 +1,6 @@
+---
+created: 2024-03-22
+---
 # Signal Bandwidth
 See [[Lecture 6 - Nyquist Stability Criterion.pdf#page=28|slides]].
 

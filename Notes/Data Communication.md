@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Data Communication
 ### Aspects of Protocols
 **Syntax**: The *format/structure* of the data.

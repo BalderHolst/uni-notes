@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # The Wave Equation
 
 $$u_{tt} = c^{2}u_{\mathbf{xx}} = c^{2} \nabla^{2} u_{}$$

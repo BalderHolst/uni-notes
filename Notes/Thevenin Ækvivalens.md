@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 ## Thevenin Ækvivalens
 #### Beregn det Thevenin-ækvivalente kredsløb.
 ##### Find $R_T$

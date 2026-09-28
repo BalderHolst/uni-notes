@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Eksponentielle Funktioner
 $$f(x) = a \cdot e^{k \cdot x}$$
 $a$ : Skæring med $y$-aksen

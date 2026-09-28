@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Kondensator
 >*"Jo mere ladning, jo større spændingsforskel over pladen"*
 >*"Man kan ikke afsætte effekt i en kondensator"*

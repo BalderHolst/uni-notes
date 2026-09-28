@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 #### Steady-State Value of Time Function
 See [[Lecture 3 - Introduction to Control.pdf#page=10|slides]].
 

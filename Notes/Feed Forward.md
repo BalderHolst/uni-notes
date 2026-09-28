@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Feed Forward
 See [[Lecture 11 - Integral Control.pdf#page=31|slides]].
 

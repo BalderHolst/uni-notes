@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 #### Logistisk vækst
 
 $$y'=y \cdot (b-ay) \arrows y'=ay \cdot (M-y), \text{ hvor } M = \frac{b}{a} \arrows y' = k \cdot y \left(1+ \frac{y}{M}\right)$$

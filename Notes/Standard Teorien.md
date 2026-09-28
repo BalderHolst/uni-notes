@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Standard Teorien
 ![|400](https://fysikleksikon.nbi.ku.dk/s/standardmodellen/Standard_Model_of_Elementary_Particles.svg.png)
 

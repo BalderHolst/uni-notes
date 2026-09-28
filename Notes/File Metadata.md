@@ -1,3 +1,6 @@
+---
+created: 2024-10-29
+---
 ### File Metadata
 
 Data about the file that is not contained within the file.

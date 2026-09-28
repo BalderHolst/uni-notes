@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Radio Communication
 Electromagnetic waves, therefore the same properties and light.
 

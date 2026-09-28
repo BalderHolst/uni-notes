@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Multiplexer (Selector)
 A selection line, selects which of the inputs are output.
 

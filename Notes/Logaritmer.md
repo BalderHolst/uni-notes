@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Logaritmer
 [[Omvendt funktion|Omvende funktioner]] til [[Eksponentielle Funktioner]].
 $$\log_n(x) = y \arrows n^y = x$$

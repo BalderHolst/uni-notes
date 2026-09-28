@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Signal Reconstruction
 See [[Lektion 2 - Sampling og Rekonstruktion.pdf#page=44|slides]].
 

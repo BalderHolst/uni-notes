@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Scrum
 > *Scrum is an experimental approach to software development.*
 

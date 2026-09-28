@@ -1,3 +1,6 @@
+---
+created: 2026-09-18
+---
 # Mean Absolute Error (MAE)
 $$
 \mathrm{MAE}

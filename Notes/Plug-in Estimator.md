@@ -1,3 +1,6 @@
+---
+created: 2024-11-29
+---
 # Plug-in Estimator
 Plug in the [[Emperical CDF]] to estimate the real distribution. This plug-in estimator is *non-parametric* (is has no parameters associated with the output distribution).
 

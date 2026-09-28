@@ -10,7 +10,10 @@ views:
     order:
       - file.name
       - file.mtime
+      - created
     sort:
+      - property: created
+        direction: ASC
       - property: file.mtime
         direction: DESC
     limit: 10
@@ -26,12 +29,14 @@ views:
     filters:
       and:
         - file.tags.contains("subject")
+        - '!file.inFolder("Templates")'
     order:
       - file.name
-      - file.ctime
+      - created
     sort:
-      - property: file.mtime
+      - property: created
         direction: DESC
     imageAspectRatio: 1.1
     cardSize: 210
+
 ```

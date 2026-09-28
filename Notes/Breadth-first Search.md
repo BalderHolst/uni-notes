@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Breadth-first Search
 Traverse a graph from a node visiting all connected notes and recursively doing a BFS from the new node. Make sure not to visit nodes that have already been visited.
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Matrices
 A matrix with $m$ rows and $n$ columns.
 

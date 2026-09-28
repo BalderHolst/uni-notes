@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Line Coding Schemes
 Also check out [this helpful site](https://www.technologyuk.net/telecommunications/telecom-principles/line-coding-techniques.shtml).
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-07
+---
 # Inertial Measurement Units
 
 Contains *multiple* sensors. Doesn't exist in reality on drones, as sensors are scattered.

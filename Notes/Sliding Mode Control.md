@@ -1,3 +1,6 @@
+---
+created: 2025-03-31
+---
 # Sliding Mode Control
 See [[Lecture 8 - Sliding Mode Control.pdf|slides]].
 

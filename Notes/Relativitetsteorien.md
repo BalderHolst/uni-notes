@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Relativitetsteorien
 $$E=m \cdot c^2$$
 

@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Library Interpositioning
 The practice of swapping out library functions called by a program.
 

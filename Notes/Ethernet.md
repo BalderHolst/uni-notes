@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Ethernet
 See [[KOM - lecture 5b - Itslearning.pdf#page=3|slides]].
 

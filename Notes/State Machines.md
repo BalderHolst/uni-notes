@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # State Machines
 A programming construct where the program switches between states.
 

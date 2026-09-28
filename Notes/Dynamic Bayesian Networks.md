@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Dynamic Bayesian Networks
 See [[lecture8a.pdf|slides]].
 

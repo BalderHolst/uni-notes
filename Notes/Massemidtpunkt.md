@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Massemidtpunkt
 Bestemmelse af massemidtpunktet
 $$x_{cm} = \frac{m_1x_1+m_2x_2+\dots+m_nx_n}{M}$$

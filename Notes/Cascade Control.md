@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Cascade Control
 See [[Lecture 3 - Introduction to Control.pdf#page=68|slides]].
 

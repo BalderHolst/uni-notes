@@ -1,3 +1,6 @@
+---
+created: 2024-09-19
+---
 # Jacobian Matrix for Robotics
 The Jacobian matrix relates robot joint velocities to end-effector velocity.
 $$v = J(q) \cdot \dot{q}$$

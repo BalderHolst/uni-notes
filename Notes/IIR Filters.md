@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # IIR Filters
 Infinite Impulse Response Filter. See [[lektion 8 - Introduktion til IIR filtre.pdf|slides]].
 

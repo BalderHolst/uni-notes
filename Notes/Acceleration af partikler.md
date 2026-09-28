@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Acceleration af partikler
 $$\Delta E_{kin}=q \cdot U_{acc}$$
 $\Delta E_{kin}$: Ændringen i kinetisk energi, når partiklen accelereres gennem *hele* spændingsfeltet. 

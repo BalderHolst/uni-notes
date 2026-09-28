@@ -1,3 +1,6 @@
+---
+created: 2026-09-09
+---
 # Maximum Likelihood Estimation
 "Fit" a distribution to data; Choose the distribution that is most likely to have caused the observed samples.
 

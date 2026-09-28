@@ -1,3 +1,6 @@
+---
+created: 2024-11-11
+---
 # Variance
 "Spread" of a distribution.
 

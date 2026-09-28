@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Fourier-transformation
 See [[Lektion 1 - Fourierraekker.pdf#page=47|slides]].
 

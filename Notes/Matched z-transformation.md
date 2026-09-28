@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 ## Matched z-transformation
 See [[lektion 8 - Introduktion til IIR filtre.pdf#page=11|slides]].
 

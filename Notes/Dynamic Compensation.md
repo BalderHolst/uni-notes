@@ -1,3 +1,6 @@
+---
+created: 2024-03-29
+---
 # Dynamic Compensation
 See [[Lecture 7 - Dynamic Compensators and Stability Margins.pdf#page=24|slides]].
 

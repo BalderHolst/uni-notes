@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Bilineær z-transformation
 See [[lektion 9 - Design af IIR filtre.pdf|slides]].
 $$s = f(z) = C \frac{z-1}{z+1}$$

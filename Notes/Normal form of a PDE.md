@@ -1,3 +1,6 @@
+---
+created: 2024-01-04
+---
 # Normal form of a PDE
 See [video](https://www.youtube.com/watch?v=x2zrBDBk2ps).
 

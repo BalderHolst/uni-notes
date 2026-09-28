@@ -1,3 +1,6 @@
+---
+created: 2023-12-28
+---
 # Notes for University
 Notes for my robotics degree at University of Southern Denmark.
 

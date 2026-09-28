@@ -1,3 +1,6 @@
+---
+created: 2023-12-31
+---
 ## Differentialregning - Basis
 
 ### Definition af et Differentiale

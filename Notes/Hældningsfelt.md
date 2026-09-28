@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Hældningsfelt
 En skabelon til løsningen af en differentialligning. 
 

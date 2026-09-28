@@ -1,3 +1,6 @@
+---
+created: 2024-09-05
+---
 # [[System of Linear Equations|Ligninssystemer]] Uden Løsninger
 
 Når koefficient-delen og højresiden af den [[System of Linear Equations#Den udvidede Matrix|udvidede]] matrix har *forskellig* [[Rank of Matrix|rang]], så har ligningssystemet ingen løsninger. 

@@ -1,3 +1,6 @@
+---
+created: 2024-12-02
+---
 # Probability vs Likelihood
 They are **NOT** the same.
 

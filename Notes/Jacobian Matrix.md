@@ -1,3 +1,6 @@
+---
+created: 2023-12-30
+---
 # Jacobian Matrix
 >*"The jacobian matrix is the matrix representing the best linear map approximation of $f$ near $(a,b)$"*
 >\- [What is Jacobian?](https://www.youtube.com/watch?v=wCZ1VEmVjVo)

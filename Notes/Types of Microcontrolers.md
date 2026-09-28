@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Types of Microcontrolers
 
 ![[kinds of microcontrolers.png|center]]

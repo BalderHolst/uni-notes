@@ -1,3 +1,6 @@
+---
+created: 2024-09-03
+---
 # Hastighed og Fart
 
 ## Hastighed ($\vec v$)

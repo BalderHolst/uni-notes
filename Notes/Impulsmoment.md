@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # [[Bevægelsesmængde (Impuls)|Impuls]]moment
 Impulsen i en *cirkulær* bevægelse
 $$L=m \cdot v \cdot r$$

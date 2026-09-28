@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Law of Cosines
 ![[Law-of-Cosines.png|300]]
 

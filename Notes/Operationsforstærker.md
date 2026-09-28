@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Operationsforstærker
 > *"Snuser hvad den skal aflevere"*
 > \- Jan

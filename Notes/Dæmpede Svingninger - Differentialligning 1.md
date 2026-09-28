@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Dæmpede Svingninger
 
 $$a \cdot y'' + b \cdot y' + c \cdot y = 0 \arrows (a \cdot r^2 + br + c) \cdot e^{rt} = 0$$

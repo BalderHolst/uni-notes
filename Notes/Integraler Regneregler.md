@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Integraler Regneregler
 ---
 Husk at lægge $k$ til alle ubestemte integraler

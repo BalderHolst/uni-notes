@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Filter Transformations
 See [[Lektion 1 - Filterfunktioner.pdf#page=53|slide]].
 

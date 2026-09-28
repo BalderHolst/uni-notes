@@ -1,3 +1,6 @@
+---
+created: 2025-02-10
+---
 # Neutral Stability
 The boundary between stability and instability.
 

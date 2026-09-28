@@ -1,3 +1,6 @@
+---
+created: 2024-12-10
+---
 # Fisher Information
 A measure for how much information each sample contains. Also the *variance of the score function*.
 

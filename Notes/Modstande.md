@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Modstande
 ![[resistor.png |center| 350]]
 $$V_{ab}=V_a - V_b$$

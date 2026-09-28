@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Poisson Distribution
 Models the number of events occurring in a fixed interval of time or space, assuming the events happen independently and at a constant average rate.
 

@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # NAT
 Network Address Translation
 See [[KOM - lecture 7 - Itslearning.pdf#page=4|slides]].

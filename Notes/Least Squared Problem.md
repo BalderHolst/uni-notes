@@ -1,3 +1,6 @@
+---
+created: 2025-02-18
+---
 # Least Squared Problem
 See [[week2.pdf#page=5|slides]].
 

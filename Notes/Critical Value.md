@@ -1,3 +1,6 @@
+---
+created: 2025-01-23
+---
 # Critical Value
 The value that defines the upper and lower bounds of a [[confidence interval]].
 

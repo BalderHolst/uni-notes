@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # En-en-tydig Funktion
 $$x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$$
 Har man et input, så kommer der et unikt output ud, som kunne dette input kunne have resulteret i.

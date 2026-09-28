@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Emperical CDF
 A CDF constructed from the samples of a random variable. Each sample $X_i$ has a "mass" of $1/n$.
 

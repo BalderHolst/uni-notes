@@ -1,3 +1,6 @@
+---
+created: 2026-09-23
+---
 # Confidence Region
 See [[Lessons/Semester 7/statistics/Lektion 3 slides.pdf#page=3|slides]].
 

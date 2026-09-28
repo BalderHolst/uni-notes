@@ -1,3 +1,6 @@
+---
+created: 2023-12-28
+---
 # Window Functions
 
 When you multiply in the time domain, you [[Foldningssum|fold]] in the frequency domain.

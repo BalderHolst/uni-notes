@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Root Locus Tuning
 See [[Lecture 5 - Root Locus.pdf#page=46|slides]].
 

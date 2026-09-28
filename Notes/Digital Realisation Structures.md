@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 ## Digital Realisation Structures
 A representation of a digital filter that could be implemented in a programming language. See [[lektion 7 - Digitale realisationsstrukturer.pdf|slides]].
 

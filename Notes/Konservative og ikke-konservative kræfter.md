@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Konservative Kræfter
 > *Kraftens arbejde er uafhængig af hvilken strækning der tages mellem to punkter $A$ og $B$*.
 

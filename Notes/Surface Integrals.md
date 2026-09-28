@@ -1,3 +1,6 @@
+---
+created: 2024-01-04
+---
 # Surface Integrals
 $$\iint_{S}f(x,y,z) \,\text{dS}$$
 >[!video]-

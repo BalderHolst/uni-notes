@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Discrete Time Space Models
 See [[Lecture 1 - Slides.pdf#page=53|slides]].
 

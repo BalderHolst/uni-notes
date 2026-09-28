@@ -1,3 +1,6 @@
+---
+created: 2024-10-14
+---
 # Diagonalization
 Transform a matrix into a diagonal matrix. This is useful as many matrix operations are trivial on diagonal matrices. Here are a few:
 

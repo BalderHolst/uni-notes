@@ -1,3 +1,6 @@
+---
+created: 2024-11-28
+---
 # The Bootstrap
 Estimate the underlying distribution of a sampled distribution, but with only a single (usually limited) dataset.
 

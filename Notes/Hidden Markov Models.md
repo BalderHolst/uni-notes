@@ -1,3 +1,6 @@
+---
+created: 2024-10-07
+---
 # Hidden Markov Models
 See [[lecture6.pdf|slides]].
 

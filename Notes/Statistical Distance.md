@@ -1,3 +1,6 @@
+---
+created: 2026-09-09
+---
 # Statistical (Mahalanobis) Distance
 A measure of "how rare" a sample is.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # D-Latch (Set-Reset latch)
 ![[d-latch.png|300]]
 

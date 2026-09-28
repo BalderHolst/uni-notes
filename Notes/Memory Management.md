@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Memory Management
 
 CPU generates logical addresses: Addresses starting from $0$. The OS the converts them into physical addresses, that point to the actual data in memory.

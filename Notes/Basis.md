@@ -1,3 +1,6 @@
+---
+created: 2024-10-14
+---
 # Basis
 
 A set of *orthogonal vectors* such that a **linear combination of them can express any point** in the space for which they are the basis. Basis vectors should also preferably have a *length of one*.

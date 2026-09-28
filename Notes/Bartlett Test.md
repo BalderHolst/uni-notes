@@ -1,3 +1,6 @@
+---
+created: 2026-09-24
+---
 # Bartlett Test (Box's M-test)
 Assumption test for homoscedasticity. *Hard to pass*.
 

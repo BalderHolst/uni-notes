@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Partialbrøker
 At splittet en stor brøk op i mindre brøker det nemmere kan [[Integraler|integreres]].
 

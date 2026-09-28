@@ -1,3 +1,6 @@
+---
+created: 2024-10-30
+---
 # Kosaraju’s Algorithm
 See [[lecture10.pdf#page=43|slides]].
 

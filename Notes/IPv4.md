@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # IPv4
 See [[KOM - lecture 7 - Itslearning.pdf#page=31|slides]].
 

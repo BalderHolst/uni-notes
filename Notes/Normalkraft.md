@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Normalkraft
 Er altid vinkelret på overfladen. Sørger for at objekter der hviler på en overflade ikke "falder" gennem overfladen.
 

@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Forward Kinematics
 > Forward kinematics describes how *motion of the joints* affects motion of the robot *end-effector*.
 

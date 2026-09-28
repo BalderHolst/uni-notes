@@ -1,3 +1,6 @@
+---
+created: 2024-11-19
+---
 # Mixture Models
 Distributions that can be modelled as a mix of other distributions. See [[lecture14.pdf#page=7|slides]].
 $$

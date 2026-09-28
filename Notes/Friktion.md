@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Friktion
 $$F_{\mu} = \mu \cdot F_N$$
 

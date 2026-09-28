@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # ALU
 See slides: [[Lesson 3.pdf#page=21]]
 

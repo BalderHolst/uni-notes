@@ -1,3 +1,6 @@
+---
+created: 2026-09-16
+---
 # Confidence Interval
 Expresses a range of values that we have a certain confidence that the real parameter value lies within.
 

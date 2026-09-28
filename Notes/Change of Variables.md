@@ -1,3 +1,6 @@
+---
+created: 2023-12-30
+---
 # Change of Variables
 Used to get of non-constant boundaries of integrals.
 

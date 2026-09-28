@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Karnaugh Map (K-map)
 Alternative way of representing a truth table.
 

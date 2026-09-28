@@ -1,3 +1,6 @@
+---
+created: 2024-10-14
+---
 # Eigen-values and Vectors
 Eigen-value $\lambda$, and eigen-vector $\vec{x}$.
 $$A\vec{x} = \lambda\vec{x}, \s \vec{x} \neq \vec{0}$$

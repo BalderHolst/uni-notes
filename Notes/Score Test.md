@@ -1,3 +1,6 @@
+---
+created: 2024-12-08
+---
 # Score Test
 Test the extremeness of a hypothesis given a sample by comparing the slope of the log-likelihood function at the sample and hypothesis values.
 

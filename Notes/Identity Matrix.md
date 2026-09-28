@@ -1,3 +1,6 @@
+---
+created: 2024-09-04
+---
 # Identity Matrix
 **Square** matrix with $1$ on the diagonal and $0$ otherwise.
 

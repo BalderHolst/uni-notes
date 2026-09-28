@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Smart Pointers in C++
 Automatically deallocates memory on the heap, when no pointer points to it.
 

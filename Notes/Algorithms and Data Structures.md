@@ -1,3 +1,6 @@
+---
+created: 2026-09-28
+---
 # Algorithms and Data Structures
 Implementation and analyses of algorithms and datastruttures. 
 

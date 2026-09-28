@@ -1,3 +1,6 @@
+---
+created: 2024-10-14
+---
 ## Determinanen for Matricer
 Fortæller om en ($n\times n$) matrix $A$ har fuld [[Rank of Matrix|rang]]. The matrix **must be square**.
 

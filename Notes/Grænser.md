@@ -1,3 +1,6 @@
+---
+created: 2024-01-02
+---
 # Grænser
 
 $$\lim_{x\rightarrow \infty}\left(f(x)\right) = L$$

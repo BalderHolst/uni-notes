@@ -1,3 +1,6 @@
+---
+created: 2025-02-10
+---
 # Linarisering
 En linearisering er tangenten i et punkt
 $$L(x) = f(a)+f'(a) \cdot (x-a)$$

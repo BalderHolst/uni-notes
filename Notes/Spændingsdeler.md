@@ -1,3 +1,6 @@
+---
+created: 2025-01-28
+---
 # Spændingsdeler
 $$V_n = \frac{R_n}{R_1 + R_2 + R_3+\dots} \cdot V_{total}$$
 $V_n$ : Spændinden over den $n$'te modstand.

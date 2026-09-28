@@ -1,3 +1,6 @@
+---
+created: 2026-09-03
+---
 # Samples Moments
 See [[Lektion 1 slides.pdf#page=3|slides]].
 

@@ -1,3 +1,6 @@
+---
+created: 2024-09-24
+---
 # Spectral Theorem
 Matrix Decomposition
 

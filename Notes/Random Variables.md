@@ -1,3 +1,6 @@
+---
+created: 2026-09-02
+---
 # Random Variables
 See [[Lecture 12 - The KalmanFilter.pdf#page=29|slides from control]] and [[Lektion 1 slides.pdf#page=2|slides from statistics]].
 

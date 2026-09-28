@@ -1,3 +1,6 @@
+---
+created: 2026-09-18
+---
 # Parametric Regression
 > *"We are trying to fit into the dataset"*
 > \- Ela

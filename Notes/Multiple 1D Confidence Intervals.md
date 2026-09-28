@@ -1,3 +1,6 @@
+---
+created: 2026-09-24
+---
 # Multiple 1D Confidence Intervals
 To get an idea of confidence intervals in multidimensional cases, where the confidence region is unplottable, we can use a simple 1D confidence interval for each variable.
 

@@ -1,3 +1,6 @@
+---
+created: 2026-09-13
+---
 # Latitude and Longetude
 ![[Pasted image 20260911095035.png]]
 

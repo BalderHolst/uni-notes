@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Stående Cirkelbølger
 Grunden til at der er "skaller" i atomer
 

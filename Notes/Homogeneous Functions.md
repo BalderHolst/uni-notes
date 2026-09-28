@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Homogeneous Functions
 Homogeneous functions can be scaled by their inputs like this:
 $$f(tx, ty) = t \cdot f(x, y)$$

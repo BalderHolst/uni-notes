@@ -1,3 +1,6 @@
+---
+created: 2025-02-18
+---
 # Cholesky Decomposition
 See [[week2.pdf#page=12|slides]].
 

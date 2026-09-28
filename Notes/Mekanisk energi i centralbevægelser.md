@@ -1,3 +1,6 @@
+---
+created: 2023-12-25
+---
 # Mekanisk energi i centralbevægelser
 
 ### Mekanisk energi

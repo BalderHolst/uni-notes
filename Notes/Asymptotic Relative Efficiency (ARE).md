@@ -1,3 +1,6 @@
+---
+created: 2024-12-09
+---
 # Asymptotic Relative Efficiency
 Compare sample efficiency between parameter estimators.
 

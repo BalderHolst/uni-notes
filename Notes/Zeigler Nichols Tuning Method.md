@@ -1,3 +1,6 @@
+---
+created: 2025-09-21
+---
 # Zeigler Nichols Tuning Method
 Use if a model of the **system is not available**. Otherwise use [[Root Locus Tuning]] instead.
 
