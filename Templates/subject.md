@@ -19,7 +19,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("statistics")
+        - file.tags.contains("<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>")
     order:
       - file.name
       - file.ctime

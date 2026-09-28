@@ -2,7 +2,6 @@
 
 I [[Ulige Funktioner|ulige funkioner]] er integralet altid $0$, hvis $-a = b$.
 
-
 ### Noter
 ```dataview 
 list
@@ -12,4 +11,4 @@ sort file.name
 
 
 --- 
-#matematik #subject
+#matematik

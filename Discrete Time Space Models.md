@@ -37,17 +37,38 @@ $$
 The poles of $H(z)$ (equivalent transfer function) are the same as the eigenvalues of $A$. If $A$ is $n \times n$, then $n$ poles exist.
 
 ### State Transformation
-"old state": $\vec{x}(n)$
-"new state": $\vec{z}(n)$
+"old state": $x_{k}$
+"new state": $z_{k}$
 
-This is simple as long as there is a *linear relationship* between $\vec{x}(n)$ and $\vec{z}(n)$.
+This is simple as long as there is a *linear relationship* between $x_{k}$ and $z_{k}$.
 
 $$
-\vec{x}(n) \rightarrow E\ \vec{z}(t)
-\
-\Leftrightarrow
+x_{k} \rightarrow E\ z_{k}
+\quad
+\Rightarrow
+\quad
+z_{k} = E^{-1}\ x_{k}
 $$
 
+We can plug this into the state space model equaitons
+$$
+\begin{align}
+&\begin{cases}
+x_{k+1} &= \Phi x_{k} + \Gamma u_{k} \\
+y_{k} &= Cx_{k} + Du_{k}
+\end{cases} \\
+\Rightarrow \quad
+&\begin{cases}
+Ez_{k+1} &= \Phi Ez_{k} + \Gamma u_{k} \\
+y_{k} &= CEz_{k} + Du_{k}
+\end{cases} \\
+\Rightarrow \quad
+&\begin{cases}
+z_{k+1} &= E^{-1} \Phi Ez_{k} + E^{-1} \Gamma u_{k} \\
+y_{k} &= CEz_{k} + Du_{k}
+\end{cases}
+\end{align}
+$$
 
 
 ---

@@ -1,8 +1,0 @@
-# Artificial Intelligence
-
-
-
-
-
----
-#subject

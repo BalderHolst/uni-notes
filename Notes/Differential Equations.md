@@ -6,13 +6,34 @@ En equation containing a [[Differentialregning|derivative]].
 
 A nice overview of ODE's can be found [here](https://www.integral-table.com/downloads/ODE-Summary.pdf).
 
----
-## Noter
-```dataview
-list
-from #differentialligninger 
-sort file.name
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("differentialligninger")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    imageAspectRatio: 1.1
+    cardSize: 210
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("statistics")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
 ```
----
-#matematik #subject
 
+---
+#subject
