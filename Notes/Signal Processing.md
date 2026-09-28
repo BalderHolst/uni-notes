@@ -1,5 +1,5 @@
 # Signal Processing
-![[Signal-Processing.png|center|600]]
+![[Signal-Processing.png|800]]
 
 ```base
 views:
