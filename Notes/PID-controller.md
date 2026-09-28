@@ -28,7 +28,7 @@ $T_i$: Integral time constant
 >$$
 >$N$: Filter constant. Typically values between 2 and 20.
 
-### PID-controller as a [[Notes/Differensligninger|Difference Equation]]
+### PID-controller as a [[Difference Equations|Difference Equation]]
 See [[Lecture 8 - Implementation.pdf#page=45|slides]].
 
 $$

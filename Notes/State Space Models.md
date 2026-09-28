@@ -1,85 +1,10 @@
 # State Space Models
-See [[Lecture 1 - Slides.pdf#page=32|slides]].
+See [[Lecture 1 - Slides.pdf#page=32|control slides]] or [[Lessons/Semester 7/ssp/Lektion 1 slides.pdf|ssp slides]].
 
-$$
-\dot{x} = f(x, u)
-$$
+![[Pasted image 20260928091536.png|800]]
 
-## Linear Models (SSL)
-
-The system is designated as
-$$
-\dot{x} = Ax + Bu
-$$
-
-
-| Variable  | Type           | Space          |
-| --------- | -------------- | -------------- |
-| $\dot{x}$ | Dynamic matrix | $\mathbb{R}^n$ |
-| $x$       | State vector   | $\mathbb{R}^n$ |
-| $u$       | Input vector   | $\mathbb{R}^m$ |
-| $A$       | System matrix  | $\mathbb{R}^{n\times n}$ |
-| $B$       | Control matrix | $\mathbb{R}^{n\times m}$ |
-
-The output os defined as
-$$
-y = Cx  + Du
-$$
-
-$n$: Order of the differential equation.
-
-### Poles
-$$G(s) = C (sI-A)^{-1} B + D$$
-This is only possible if
-$$\det(sI-A) \neq 0$$
-This is also the definition of [[Eigen values and vectors|eigen values]].
-
-At $\det(sI-A) = 0$ the system must have a pole. Therefore, the **poles of a state space model are the eigenvalues of $A$.**
-
-### Zeroes
-See [[Lecture 2 - Stability Analysis.pdf#page=60|slides]].
-
-Transmission zeroes are at
-$$
-\begin{vmatrix}
-A - zI & B \\
-C & D
-\end{vmatrix}
-= 0
-$$
-
-
-## Discrete Time Space Models
-See [[Lecture 1 - Slides.pdf#page=53|slides]].
-
-**Difference Equation**:
-$$
-y(n) = \sum^{M}_{i=0}b_{i}\ y(n-i) - \sum_{i=1}^{N}a_{i}\ y(n-i)
-$$
-This becomes
-$$
-H(z) = \frac{Y(z)}{U(z)} = \frac{b_{0} + b_{1}z^{-1} + \cdots + b_{M}z^{-M}}{1 + a_{1}z^{-1} + \cdots + a_{N}z^{-N}}
-$$
-*Instead of this* we create an internal model to create a discrete state space model.
-
-**EQUATION 1**: How are the states developing over time?
-**EQUATION 2**: How is the output depending of state an control inputs?
-$$
-\begin{cases}
-x_{k+1} &= \Phi x_{k} + \Gamma u_{k} \\
-y_{k} &= Cx_{k} + Du_{k}
-\end{cases}
-$$
-$x_{k+1}$: Next sta
-
-#### Stability
-See [[Lecture 2 - Stability Analysis.pdf#page=63|slides]].
-
-### Procedure
-1. Develop relevant differential equations from the given system
-2. Identify (or select) state variables
-**Hint:** Variables are the ones with derivatives!
-3. Organize your D.E.'s so that they are in the canonical forms.
+- [[Linear State Space Models]]
+- [[Discrete Time Space Models]]
 
 ### First Order System
 See [[Lecture 2 - Stability Analysis.pdf#page=10|slides]].
