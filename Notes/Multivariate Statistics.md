@@ -1,6 +1,8 @@
 ---
 created: 2026-09-28
-tags: [subject]
+tags:
+  - subject
+subject_tag: multivariate-statistics
 ---
 # Multivariate Statistics
 
@@ -10,7 +12,7 @@ views:
     name: View
     filters:
       and:
-        - file.tags.contains("multivariate-statistics")
+        - file.tags.contains(this.subject_tag)
     order:
       - file.name
       - file.mtime
@@ -31,4 +33,5 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+
 ```
