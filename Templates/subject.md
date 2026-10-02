@@ -1,6 +1,9 @@
 ---
+created: <% tp.date.now() %>
 tags: [subject]
+subject_tag: <% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>
 ---
+
 # <% tp.file.title %>
 
 ```base
@@ -9,7 +12,7 @@ views:
     name: View
     filters:
       and:
-        - file.tags.contains("<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>")
+        - file.tags.contains(this.subject_tag)
     order:
       - file.name
       - file.mtime
@@ -22,7 +25,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>")
+        - file.tags.contains(this.subject_tag)
     order:
       - file.name
       - file.ctime

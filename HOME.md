@@ -12,10 +12,10 @@ views:
       - file.mtime
       - created
     sort:
-      - property: created
-        direction: ASC
       - property: file.mtime
         direction: DESC
+      - property: created
+        direction: ASC
     limit: 10
 
 ```

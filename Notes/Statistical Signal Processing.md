@@ -1,7 +1,9 @@
 ---
 created: 2026-09-28
 tags: [subject]
+subject_tag: statistical-signal-processing
 ---
+
 # Statistical Signal Processing
 
 ```base
@@ -10,7 +12,7 @@ views:
     name: View
     filters:
       and:
-        - file.tags.contains("statistical-signal-processing")
+        - file.tags.contains(this.subject_tag)
     order:
       - file.name
       - file.mtime
@@ -23,7 +25,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("statistical-signal-processing")
+        - file.tags.contains(this.subject_tag)
     order:
       - file.name
       - file.ctime
