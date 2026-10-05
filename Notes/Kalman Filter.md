@@ -10,7 +10,7 @@ slides:
   - "[[Lessons/Semester 7/ssp/Lektion 5 slides.pdf|Satistical Signal Processing slides]]"
 ---
 # Kalman Filter
-Both measurements and observer outputs are in represented as [[random variables]] to model measurement noise and observer inaccuracy.
+Both measurements and observer outputs are in represented as [[random variables]] to model measurement noise and observer inaccuracy. A Kalman filter is a first order [[IIR Filters|IIR filter]].
 
 
 ```mermaid
@@ -21,7 +21,7 @@ graph LR
     %% Nodes
     controlInput(control input)
     processNoise(process noise)
-    System[Dynamic System<br>System]
+    System[Physical System]
     measureDevice[measure device]
     measureNoise(measure noise)
     KalmanFilter[Kalman filter]
@@ -45,7 +45,8 @@ graph LR
     KalmanFilter --> estimatedStates
 ```
 
-We define how *confident* we are in the *model* and *measurements* respectively by defining their [[covariance]].
+We define how *confident* we are in the *model* and *measurements* respectively by defining their [[covariance]]. This **tuning is usually the hardest** part of creating a Kalman filter.
+
 
 > [!warning] Only a Locally Converging Filter
 > A kalman filter is *not guaratee* a stable output if your initial state is not set correctly. It is not globally converging.
@@ -101,8 +102,42 @@ $$
 Usually assumed to not be correlated accross measurements, therefore $R_{k}$ is a diagonal matrix with measurement variances for each sensor on the diagonal.
 
 #### Steps
-![[Lessons/Semester 7/ssp/Lektion 5 slides.pdf#page=3|Lektion 5 slides]]
+![[Pasted image 20261005094524.png|bg_white|]]
 
+##### Predict
+$$
+\begin{align}
+\hat{x}_{k}^{-} &= A \hat{x}_{k-1} + B u_{k-1} + 0 \\
+\hat{z}_{k}^{-} &= H \hat{x}_{k} + 0 \\
+P_{k}^{-} &= \mathbb{E}\big[ (x_{k} - \hat{x}_{k}^{-})(x_{k} - \hat{x}_{k}^{-})^{T} \big] \\
+&= AP_{k-1}A^{T} + Q_{k-1}
+\end{align}
+$$
+
+##### Update
+How do i get the final (posterior) state of the next step
+$$
+\hat{x}_{k} = \hat{x}_{k}^{-} + K_{k} \overbrace{(z_{k} - z_{k}^{-})}^\mathrm{innovation}
+$$
+$K_{k}$: Kalman Gain
+
+**Choose gain to minimize the [[Mean Square Error (MSE)|MSE]]**:
+$$
+K_{k} = P_{k}^{-} H^{T}
+\left[
+HP^{-}_{k}H^{T} + R_{k}
+\right]^{-1}
+$$
+Big $R_{k}$ $\rightarrow$ small $K_{k}$
+Small $R_{k}$ $\rightarrow$ bigger $K_{k}$
+
+**Update Final MSE estimate**:
+$$
+P_{k} = (I - K_{k}H) P^{-}_{k}
+$$
+
+> [!tip]- Slide
+> ![[Lessons/Semester 7/ssp/Lektion 5 slides.pdf#page=3|Lektion 5 slides]]
 
 ---
 #### Stages

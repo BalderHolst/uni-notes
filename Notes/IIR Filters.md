@@ -3,12 +3,17 @@ created: 2025-09-21
 tags: [signalprocessing]
 ---
 # IIR Filters
-Infinite Impulse Response Filter. See [[lektion 8 - Introduktion til IIR filtre.pdf|slides]].
+See [[lektion 8 - Introduktion til IIR filtre.pdf|slides]].
+
+Infinite Impulse Response Filter. Infinite because the use the *previus output to calculate the next*, creating a recursive dependency on previous outputs. This is also why IIR filters **can be unstable**.
 
 > *"Vi placerer **poler**"*
 > \- Christoffer
 
 Har *altid poler*.
+
+### Order
+How many previously estimated outputs do i need to find the current output.
 
 ### Procedure
 1. Filtrets specifikationer opstilles (see [[Filters]])
