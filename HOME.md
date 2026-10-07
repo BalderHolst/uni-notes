@@ -17,6 +17,8 @@ views:
       - property: created
         direction: ASC
     limit: 10
+    columnSize:
+      file.name: 242
 
 ```
 
