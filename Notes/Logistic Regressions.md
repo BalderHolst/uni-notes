@@ -1,5 +1,7 @@
 ---
 created: 2026-09-25
+tags:
+  - machine-learning
 ---
 # Logistic Regressions
 Finds the *maximum likelihood* seperation line.
