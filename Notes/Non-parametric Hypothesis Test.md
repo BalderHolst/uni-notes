@@ -103,3 +103,77 @@ H = (N-1)
 $$
 $\bar{r}_{i} = \sum_{j=1}^{g}r_{ij} / n_{i}$ : Average rank of all observations in population $i$.
 $\bar{r} = (N + 1) / 2$: Average rang of all observations.
+
+#### Friedman Test
+Paired data. We have several *test objects*. These could be different algorithms run the same data, we are testing if there is a difference on their outputs.
+
+We use the **same test object for different populations**.
+
+Requires that the test objects can be run on the same populations.
+
+$H_{0}$: $\forall m_{i} \overset{?}{=} m$
+
+Rank of a test object is found for each row of populations.
+
+The average rang in each column in the rank matrix should be approximately the same to confirm the null hypothesis. 
+
+#### Contingency Table Test
+*Categorical data*: Factor combinations with **counts**.
+
+$O(i, j)$: Number of observations for each combination of factors (categories) $A_{i}$ and $B_{i}$.
+
+$H_{0}$: Factors $A$ and $B$ are **independent**.
+
+We calculate the *expected counts* $E(i, j)$.
+
+**Test Statistic**
+$$
+T= 
+\sum_{i=1}^{r}
+\sum_{j=1}^{c}
+\frac{
+[O(i,j) - E(i,j)]^{2}
+}{
+E(i,j)
+}\sim
+\chi^{2}_{(r-1)(c-1)}
+$$
+
+**P-value**
+$$
+\mathbf{P}\big[ \chi^{2}_{(r-1)(c-1)} > T \big]
+$$
+
+#### One Sample Kolmogorov-Smirnoff Test
+We calculate the sample CDF from data and plot it. We should have **resonably many datapoints** for this test. Otherwise, the sample CDF will be hard to use.
+
+$$
+\hat{F}(x) = \frac{\mathrm{\#obs \leq x}}{n} = \frac{1}{n} \sum_{i=1}^{n} 1_{x_{i} \leq x}
+\quad \mathrm{where}\quad
+1_{x_{i} \leq x} =
+\begin{cases}
+1 & x_{i} \leq x \\
+0 & x_{i} > x \\
+\end{cases}
+$$
+
+**Test Statistic**
+We find the maximum vertical distance between the sample CDF and actual CDF.
+$$
+D = \underset{x}{\mathrm{max}} | \hat{F}(x) - F(x) |
+$$
+
+**Critical Value**
+$$
+c(\alpha) = \sqrt{\frac{-\frac{1}{2} \log \frac{\alpha}{2}}{n}}
+$$
+If we set $\alpha = 0.02$ then $c(\alpha) \approxeq 1.36\sqrt{n}$.
+
+#### Two Sample Kolmogorov-Smirnoff Test
+Same as  One Sample Kolmogorov-Smirnoff Test, but here we compare *two* sample CDF, to test if they are from the samme distribution.
+
+
+#### Goodness Of Fit Test (Pearson’s Chi-Squared test)
+The likelihood that a population belongs to a specific **type of distribution**.
+
+We claim a distribution type, estimate its parameters and evaluate to "goodness" of the fit.
