@@ -4,10 +4,13 @@ tags:
   - statistical-signal-processing
 slides:
   - "[[Lessons/Semester 7/ssp/Lektion 6 slides.pdf|Lektion 6 slides]]"
+  - "[[Agenda STATSIG lecture 06.pdf]]"
+  - "[[Problems STATSIG lecture 06.pdf]]"
+  - "[[Solutions STATSIG lecture 06.pdf]]"
 ---
 
 # Extended Kalman Filter
-A [[Kalman Filter|kalman filter]] based on a *non-linear* model. We linearize around this function at the currently predicted states, which works well for small deviations, but also means that the filter can diverge.
+A [[Kalman Filter|kalman filter]] based on a *non-linear* model. **We linearize around this function at the currently predicted states**, which works well for small deviations, but also means that the filter can diverge.
 
 $$
 \begin{align}
@@ -22,13 +25,13 @@ The system noise is usually additive: $f(x_{k-1}, v_{k-1}) + w_{k-1}$
 $h$: Non-linear output function.
 $k$: Time step
 $x_{k}$: States as a given time step
-$w_{k}$: Noise
+$v_{k}$: Observation Noise
+$w_{k}$: Process Noise
 
 
-### Procedure
+### Deviations
 
 **Predict**
-Our best guesses are the predicted values from last step.
 
 Predicted State:
 $$
@@ -169,3 +172,46 @@ In case of additive noise
 $$
 V_k = I_{(m \times m)}
 $$
+
+### Algorithm
+After initialization, we run the predict and update steps in a loop.
+
+**0. Init**
+$$
+\begin{align}
+\hat{x}_{0} &= \vec{0} \\
+P_{0} &= I \\
+k &= 1
+\end{align}
+$$
+**1. Predict**
+Our best guesses are the predicted values from last step.
+
+$$
+\begin{align}
+\hat{x}_{k}^{-} &= f(\hat{x}_{k-1}, v_{k-1}, 0) \\
+\hat{z}_{k}^{-} &= h(\hat{x}_{k}^{-}, 0) \\
+P_{k}{^{-}}&= A_{k}\ P_{k-1}\ A_{k}^{T} + W_{k}\ Q_{k-1}\ W_{k}^{T}
+\end{align}
+$$
+
+**2. Update**
+$$
+\hat{x}_{k} = \hat{x}_{k}^{-} + K_{k} (z_{k} - \hat{z}_{k}^{-})
+$$
+$\hat{x}_{k}$: Final state estimation
+$K_{k}$: Kalman gain
+$(z_{k} - \hat{z}_{k}^{-})$: Innovation
+
+$$
+K_{k} = P_{k}^{-} H_{k}^{T}
+\
+\big[
+H_{k}P_{k}^{-}H_{k}^{T} + V_{k} R_{k} V_{k}^{T}
+\big]^{-1}
+$$
+
+$$
+P_{k} = (I - K_{k} H_{k}) P_{k}^{-}
+$$
+$P_{k}$: Posterior estimate of the error
