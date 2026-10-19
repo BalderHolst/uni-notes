@@ -2,7 +2,7 @@
 created: 2025-03-10
 tags: [controlsystems]
 ---
-# Optimal Control
+# Optimal Control - LQR
 See slides [[Lecture 11 - Integral Control.pdf#page=18|here]] and [[Lecture 5 - Optimal Control.pdf|here]].
 
 Placing poles to optimize a cost function.
@@ -23,6 +23,7 @@ $C$: From [[State Space Models|state space model]].
 $M$: A diagonal matrix specifying the weight of each signal.
 
 #### Bryson's Rule
+A way to choose $Q$ and $R$ matrixes.
 $$
 \begin{align}
 Q_{ii} &= \frac{1}{x_{\mathrm{max},i}^{2}} \\
