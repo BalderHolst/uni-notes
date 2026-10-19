@@ -1,9 +1,14 @@
 ---
 created: 2025-03-10
-tags: [controlsystems]
+tags:
+  - controlsystems
+slides:
+  - "[[Lecture 11 - Integral Control.pdf#page=18]]"
+  - "[[Lecture 5 - Optimal Control.pdf]]"
+  - "[[CAS-2026-Lecture4-stability.pdf#page=10]]"
 ---
+
 # Optimal Control - LQR
-See slides [[Lecture 11 - Integral Control.pdf#page=18|here]] and [[Lecture 5 - Optimal Control.pdf|here]].
 
 Placing poles to optimize a cost function.
 $$

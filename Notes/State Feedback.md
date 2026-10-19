@@ -4,7 +4,7 @@ tags:
   - controlsystems
 slides:
   - "[[Lecture 9 - State Feedback Control.pdf]]"
-  - "[[External/Jacob's Notes/Control of Autonomous Systems/Slides/CAS-2025-Lecture4-stability.pdf|CAS-2025-Lecture4-stability]]"
+  - "[[CAS-2026-Lecture4-stability.pdf]]"
 ---
 # State Feedback
 
