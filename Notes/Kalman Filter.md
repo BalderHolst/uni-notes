@@ -87,17 +87,17 @@ Gausian Noise -> Best *of all* filters
 
 #### Observation
 $$
-z_{k} = Hx_{k} + v_{k}
+z_{k} = Hx_{k} + W_{k}
 $$
 **Measurement noise**
 For each of our measure, how uncertain are we?
 $$
-v_{k}
+W_{k}
 $$
-Shoule also have zero mean.
+Should also have zero mean.
 
 $$
-\mathrm{Cov}(v_{k}) = R_{k}
+\mathrm{Cov}(W_{k}) = R_{k}
 $$
 Usually assumed to not be correlated accross measurements, therefore $R_{k}$ is a diagonal matrix with measurement variances for each sensor on the diagonal.
 

@@ -70,9 +70,11 @@ Derfor bruger vi disse formler til at finde den maksimale fejl i intervallet
 
 $$
 \begin{cases}
-|f''(s)| &\leq k \s s \in \  ]a;x[ \\ \\
+|f''(s)| &\leq k \quad s \in \  ]a;x[ \\ \\
 |E(x)| &\leq \frac{k}{2}(x-a)^{2}
-\end{cases} \arrow |E(x)| \leq \frac{|f''(s_{maks})|}{2}(x-a)^2
+\end{cases}
+\quad\Leftrightarrow\quad
+|E(x)| \leq \frac{|f''(s_{maks})|}{2}(x-a)^2
 $$
 $|E(x)|$ : Størrelsen på fejlen
 $s_{maks}$ : Den $s$-værdi, der resulterer i den største $|f''(s)|$, hvor $s$ ligger i intervallet $[x,a]$ eller $[a,x]$.
@@ -82,14 +84,14 @@ $a$ : $x$-værdien som $f(x)$ er linariseret omkring.
 #### Fortegn
 $$
 \begin{align}
-f''(s) < 0 \s \forall s \in [x, a] &\arrow \text{\textit{positiv} fejl} \\
-f''(s) > 0 \s \forall s \in [x, a] &\arrow \text{\textit{negativ} fejl}
+f''(s) < 0 \quad \forall s \in [x, a] &\Leftrightarrow \text{\textit{positiv} fejl} \\
+f''(s) > 0 \quad \forall s \in [x, a] &\Leftrightarrow \text{\textit{negativ} fejl}
 \end{align}
 $$
 
 ##### Sætning
 Hvis $f''(x)$ eksisterer for alle $t$ i et interval indeholdende $a$ og $x$, så eksisterer der et punkt $s$ mellem $a$ og $x$, således at
-$$E(x)= \frac{f''(s)}{2}(x-a)^{2} \s s\in \  [a,x]$$
+$$E(x)= \frac{f''(s)}{2}(x-a)^{2} \quad s\in \  [a,x]$$
 
 Dette er en **lorteformel** og den kan ikke anvendes.
 
