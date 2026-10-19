@@ -11,7 +11,6 @@ await tp.file.rename(title)
 -%>
 
 # <% title %>
-<% tp.file.cursor(2) %>
 
 
 
