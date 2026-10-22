@@ -9,7 +9,7 @@ Simple classification algorithm. Linearly seperates bulk data. *Always* finds *a
 ![[perceptron-plot.png|250]]
 
 $$
-z = w_{1}x_{1} + w_{2}x_{2} +b
+z = w_{1}x_{1} + w_{2}x_{2} +b = W \cdot X + b
 $$
 $w_{1}$: Weight 1
 $w_{2}$: Weight 2
@@ -18,8 +18,8 @@ $b$: Bias
 The *decision boundary* is at $z=0$:
 $$
 \begin{cases}
-z \geq 0 \rightarrow \hat{y} = 1 \\
-z < 0 \rightarrow \hat{y} = 0
+z \geq 0 \to \hat{y} = 1 \\
+z < 0 \to \hat{y} = 0
 \end{cases}
 $$
 $\hat{y}$: Class
@@ -33,21 +33,25 @@ $\hat{y}$: Class
 Setup:
 $$
 \begin{align}
-w &= \begin{bmatrix} 0 \\ 0 \end{bmatrix} \\
+W &= \begin{bmatrix} 0 \\ 0 \end{bmatrix} \\
 b &= 0 \\
 \end{align}
 $$
-Step 1:
+**Step 1**:
+Go through every point, *every epoch*. For each, get its predicted class $\hat{y}$.
 $$
-\hat{y} \leftarrow z
+\hat{y} \leftarrow z = W \cdot X + b
 $$
 
-Step 2:
+**Step 2**:
+For each datapoint $x$:
 $$
 w \leftarrow \eta(y-\hat{y}) \cdot x + w
 $$
 $y$: Annotated data (ground truth)
 $\eta$: Learning rate
+
+NOTE: $y-\hat{y}$ is $1$ or $-1$ if the point was misclassified.
 
 ##### As Matrix Multiplication
 $$

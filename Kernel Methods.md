@@ -12,6 +12,7 @@ $$
 $x, z$: Points
 $\phi$: Kernel function
 
+
 The kernel function lifts our point into a higher dimension (very spiritual!).
 
 The higher our the dimensions of our dataset, the more likely it is that our data is linearly seperable.
