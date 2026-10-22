@@ -16,13 +16,76 @@ The kernel function lifts our point into a higher dimension (very spiritual!).
 
 The higher our the dimensions of our dataset, the more likely it is that our data is linearly seperable.
 
+A kernel *must* be destillable to a dot product.
 
-> [!example]- Example - Square Lift
+> [!example] Example - Square Lift
 > $$\phi(x) = [x_{1}, x_{2}, x_{1}^{2} + x_{2}^{2}]$$
 > This will "lift" the a 2D dataset to 3D, making it possible to seperate a group around $(0, 0)$ and another group around it.
 >
 > This results in a kernel being
 > $$
-> K(x, z) = \phi(x)\phi(z) =
-> x \bullet z + ||x||^2 ||z||^2
+> \begin{align}
+> K(x, z) &= \phi(x)\phi(z) \\
+> &= x \bullet z + ||x||^2 ||z||^2 \\
+> \end{align}
 > $$
+
+### Kernel Matrix
+$$
+K_\mathrm{matrx} = \Phi \Phi^{T}
+$$
+This will contain the "similarity" of each point with every other point.
+
+The diagonal will e $1$s, and the [[Notes/Eigen values and vectors|eigen values]] will be positive.
+
+### Practical Kernels
+
+##### Polynomial Kernels
+
+$$
+K(x, z) = (x \bullet z + c)^{d}
+= \sum_{k=1}^{d}
+\begin{pmatrix} {d} \\ k \end{pmatrix}
+c^{d-k} (x\bullet z)^{k}
+$$
+$c$: Constant / bias
+$d$: Degree of the kernel
+
+> [!example] Example - Second Degree
+> Constants: $d=1$, $c=1$
+> 
+> Kernel:
+> $$
+> K(x, z) = (x \bullet z + 1)^{2}
+> $$
+> 
+> Lifting function:
+> $$
+> \phi(x) =
+> \begin{bmatrix}
+> 1 & \sqrt{2} & x_{1} & \sqrt{2} & x_{2} & x_{1}^{2} & x_{2}^{2} & \sqrt{2} x_{2} x_{3}
+> \end{bmatrix}
+> $$
+> This is a way more difficult than simply calculating the kernel.
+
+##### RBF - Radial Bases Function Kernel
+"Universal" - It has infinite dimensions we are lifting into
+$$
+K(x, z) = e^{-\gamma\ ||x - z||^{2}}
+= e^{-\gamma}
+\cdot e^{||x||^{2}}
+\cdot e^{||z||^{2}}
+\cdot \underbracket{e^{2 \gamma xz}}_\mathrm{Taylor\ series}
+$$
+The $e^{2\gamma xz}$ can be expanded into *any* higher dimension with a taylor series
+$$
+e^{2 \gamma xz} = \sum_{k=0}^{\infty} \frac{(2 \gamma)^{k}}{k!}(x \cdot z)^{k}
+$$
+
+##### Sigmoid Kernel
+Not an actual kernel.
+
+$$
+K(x, z) = \tanh(\alpha \cdot x^{T} z + c)
+$$
+There are bounds where it behaves like a kernel.
