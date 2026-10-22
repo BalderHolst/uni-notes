@@ -70,7 +70,10 @@ $$
 $$
 The solution will be where the gradient of the error is zero.
 $$
-\vec{\nabla} \mathrm{SSE}(\hat{\beta}) = 0
+\begin{align}
+\mathrm{SSH}(\hat{\beta}) &= (Y - z \cdot \hat{\beta})^T (Y - z \cdot \beta) \\
+\vec{\nabla} \mathrm{SSE}(\hat{\beta}) &= 0
+\end{align}
 $$
 The solution to this is given as
 $$
@@ -85,7 +88,7 @@ $$
 $$
 $H$: Projection matrix
 
-### For Inference
+### Bias and Consistensy
 This estimator is unbiased
 $$
 \begin{align}
@@ -112,3 +115,58 @@ $R^{2} \approx 1$: Good fit
 $R^{2} \ll 1$: Bad fit
 
 Strictly speaking, always use $R^{2}_\mathrm{adj}$. This adjusts for degrees of freedom and is always less than $R^{2}$.
+
+## Inference on Beta
+![[Lessons/Semester 7/statistics/Lektion 6 slides.pdf#page=4|Lektion 6 slides]]
+
+## Model Simplification
+Slit up $\beta$:
+$$
+\beta =
+\begin{bmatrix}
+\beta_{0} \\
+\beta_{1} \\
+\vdots \\
+\beta_{r} \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+\beta(1) \\ \beta(2)
+\end{bmatrix}
+$$
+$\beta(1)$: Important coefficients (size $q+1$)
+$\beta(2)$: Not so important coefficients (size $r-q$)
+
+$H_{0}$: $\beta(2) \overset{?}{=} \mathbf{0}$ 
+
+Full model: use whole $\beta$
+Reduced model: use only $\beta(1)$
+
+$$
+\begin{align}
+\underbracket{\mathrm{SST}}_{\mathrm{fixed}} = \sum_{j=1}^{n} (Y_{j} - \bar{Y})^{2} &= \mathrm{SSE(\beta)} + \mathrm{SSR}(\beta) \\
+&= \mathrm{SSE(\beta(1))} + \mathrm{SSR}(\beta(1))
+\end{align}
+$$
+**NOTE**: To find $\mathrm{SSE}(\beta(1))$ and  $\mathrm{SSR}(\beta(1))$, make a *seperate* optimization.
+
+How much is better is our fit with the full model?
+$$
+\begin{align}
+\mathrm{ESS}(\beta(1) \to \beta) &= \mathrm{SSR}(\beta) - \mathrm{SSR}(\beta(1))\\
+&= \mathrm{SSE}(\beta) - \mathrm{SSE}(\beta(1))
+\end{align}
+$$
+
+**Test statistic**
+$$
+\mathrm{TS} = \frac{\mathrm{ESS(\beta(1) \to \beta)}}{n - q} \cdot \hat{\sigma}^{2} \sim F(r-q, n - (r+1))
+$$
+
+$$
+\begin{align}
+\mathrm{TS} \leq F(r-q, n - (r+1)) &\Rightarrow \mathrm{Accept}\ H_{0} \\
+&\Rightarrow \mathrm{remove}\ \beta(2)\ \mathrm{and\ corresponding}\ z\mathrm{'s}
+\end{align}
+$$
+
