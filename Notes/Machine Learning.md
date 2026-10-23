@@ -23,9 +23,9 @@ views:
         - file.tags.contains("machine-learning")
     order:
       - file.name
-      - file.mtime
+      - created
     sort:
-      - property: file.mtime
+      - property: created
         direction: DESC
     imageAspectRatio: 1.1
     cardSize: 210
@@ -41,4 +41,5 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+
 ```
