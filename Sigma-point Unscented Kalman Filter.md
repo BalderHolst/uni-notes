@@ -11,7 +11,7 @@ slides:
 ---
 
 # Sigma-point ("Unscented") Kalman Filter
-Kalman filter that accounts for non-linearities on the system by using distribution representitive "sigma-points", to estimate the input distributions transformed by the non-linear system. This leads to better results than the [[Extended Kalman Filter]].
+Kalman filter that accounts for non-linearities on the system by using distribution representitive "sigma-points", to estimate the input distributions transformed by the non-linear system. This leads to better results than the [[Extended Kalman Filter]] because it is a **3rd order approximation**, as opposed to the 1st order approximation in the EKF.
 
 
 *Non-linear* system:

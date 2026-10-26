@@ -15,7 +15,7 @@ views:
         - file.tags.contains(this.subject_tag)
     order:
       - file.name
-      - file.mtime
+      - created
     sort:
       - property: file.mtime
         direction: DESC
@@ -33,4 +33,5 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+
 ```

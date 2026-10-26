@@ -13,7 +13,7 @@ views:
         - file.tags.contains("underactuated-robots")
     order:
       - file.name
-      - file.mtime
+      - created
     sort:
       - property: file.mtime
         direction: DESC
@@ -31,4 +31,5 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+
 ```
