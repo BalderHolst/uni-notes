@@ -30,7 +30,7 @@ Et FIR filter med lineær fase er altid spejlet over midterste sample:
 
 ## Filtre med Fouré Koefficienter
 See [[lektion 10 - Introduktion til FIR filtre.pdf#page=54|slide]].
-$$H(z) = \sum_{i=0}^{2M} a_{i} \cdot z^{-i}$$
+$$H(z) = \sum_{i=0}^{2M} c_{M-i}\ z^{-1} = \sum_{i=0}^{2M} a_{i}\ z^{-i}$$
 
 ![[FIR-Filtre-Filtre-med-Fouré-Koefficienter.png|Pasted image 20231109094441.png]]
 #### Slides
