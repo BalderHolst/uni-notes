@@ -12,13 +12,11 @@ views:
       - file.mtime
       - created
     sort:
-      - property: file.mtime
-        direction: DESC
       - property: created
-        direction: ASC
+        direction: DESC
     limit: 10
     columnSize:
-      file.name: 242
+      file.name: 358
 
 ```
 
