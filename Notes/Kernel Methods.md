@@ -41,6 +41,9 @@ The diagonal will e $1$s, and the [[Notes/Eigen values and vectors|eigen values]
 
 ### Practical Kernels
 
+> [!example]- Examples of kernels in classification
+> ![[poly_kernel_comparison.png]]
+
 ##### Polynomial Kernels
 
 $$
@@ -82,6 +85,8 @@ K(x, z) = e^{-\gamma\ ||x - z||^{2}}
 \cdot e^{||z||^{2}}
 \cdot \underbracket{e^{2 \gamma xz}}_\mathrm{Taylor\ series}
 $$
+$\gamma$: Variancy
+
 The $e^{2\gamma xz}$ can be expanded into *any* higher dimension with a taylor series
 $$
 e^{2 \gamma xz} = \sum_{k=0}^{\infty} \frac{(2 \gamma)^{k}}{k!}(x \cdot z)^{k}
@@ -94,3 +99,21 @@ $$
 K(x, z) = \tanh(\alpha \cdot x^{T} z + c)
 $$
 There are bounds where it behaves like a kernel.
+
+> [!example]- Example for class seperation
+> ![[rbf_gamma_effect.png]]
+
+## Multi-class Dataset
+
+##### OvR - One vs. Rest
+Train a classifier that seperates one class from the rest.
+
+##### Ovo - One vs. One
+Train a classifier to seperate one class from another.
+
+Bigger mode, but may provide better results.
+
+### Cross Validation
+Consider that the validation dataset may not be completely representitive, as it may be quite small.
+
+To midigate some of this, we train multiple times on different "folds" of the data. In each fold, we choose a now split of the training and validation data. The output is found by averaging the output of all the folds. We **do not use the training data**.
