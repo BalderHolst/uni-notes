@@ -46,17 +46,17 @@ Y_{n1} & Y_{n2} & \cdots & Y_{nm} \\
 
 \underbracket{
 \begin{bmatrix}
-\epsilon_{11} & \epsilon_{12} & \cdots & \epsilon_{1r} \\
-\epsilon_{21} & \epsilon_{22} & \cdots & \epsilon_{2r} \\
+\epsilon_{11} & \epsilon_{12} & \cdots & \epsilon_{1m} \\
+\epsilon_{21} & \epsilon_{22} & \cdots & \epsilon_{2m} \\
 \vdots & \vdots & \ddots & \vdots \\
-\epsilon_{n1} & \epsilon_{n2} & \cdots & \epsilon_{nr} \\
+\epsilon_{n1} & \epsilon_{n2} & \cdots & \epsilon_{nm} \\
 \end{bmatrix}
 }_{\epsilon}
 
 $$
 $n$: Number of observations
-$m$: Number of dimensions for each observation
-$r$: Number of variables
+$r$: Number of dimensions for each observation
+$m$: Number of output / predictor variables
 
 > [!example]- Slide
 >![[Lessons/Semester 7/statistics/Lektion 7 slides.pdf#page=2|Lektion 7 slides]]
@@ -90,3 +90,6 @@ Informal because we are using determinants to get at scalar. This is strictly no
 $$
 R^{2} = 1 - \frac{|\mathrm{SSE}|}{|\mathrm{SST}|}
 $$
+
+### Extra Sum of Squares
+![[Lessons/Semester 7/statistics/Lektion 7 slides.pdf#page=5|Lektion 7 slides]]
