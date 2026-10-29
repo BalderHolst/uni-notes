@@ -7,7 +7,7 @@ tags:
 A way of measureing similarity between points.
 
 $$
-K(x, z) = \phi(x) \cdot \phi(z)
+K(x, z) = \phi(x) \bullet \phi(z)
 $$
 $x, z$: Points
 $\phi$: Kernel function
@@ -52,7 +52,7 @@ $$
 $c$: Constant / bias
 $d$: Degree of the kernel
 
-> [!example] Example - Second Degree
+> [!example]- Example - Second Degree
 > Constants: $d=1$, $c=1$
 > 
 > Kernel:
@@ -68,6 +68,10 @@ $d$: Degree of the kernel
 > \end{bmatrix}
 > $$
 > This is a way more difficult than simply calculating the kernel.
+
+> [!warning] Restructions
+> - Cannot seperate data which is not encompassing the origin
+> - Odd degree $d$ kernels cannot encompas data with $c=0$.
 
 ##### RBF - Radial Bases Function Kernel
 "Universal" - It has infinite dimensions we are lifting into
