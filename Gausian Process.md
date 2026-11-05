@@ -6,7 +6,8 @@ slides:
 ---
 
 # Gausian Process
-
+We constain an infinite set of possible model funcitino to a set 
+of training point, keeping track of the variance as well as the predicted output (mean).
 ### Prior
 All the infromation you are starting with. This could be assumptions could be about the mean $\mu$ and standard deviation $\sigma_{f}^{2}$ of the model functions. **The prior is the set of all function that fit the assumptions**.
 
@@ -20,6 +21,9 @@ Only the functions that pass near points "survive".
 $$
 f \sim \mathbf{BP}(m(x), k(x, x'))
 $$
+$m(x)$: Prior mean
+$f$: Prediction function
+
 where
 $$
 k(x_{i}, x_{j}) = \sigma_{f}^{2}\ \underbracket{e^{\frac{-(x_{i} - x_{j})^{2}}{2l^{2}}}}_\mathrm{RBF\ kernel}
@@ -91,3 +95,17 @@ $$
 > - We are doing matrix inversion, which can be heavy with large datasets
 > - Points need neighbors - Works better in lower dimensions
 
+
+## Classification
+We use the same logic as in [[Logistic Regression]], but use the GP as an input to the [[Sigmoid]] function instead of $Wx + b$.
+
+$$
+\mathrm{class} = \sigma(f(x))
+$$
+$\sigma$: "Squashing" function (not named activation function to confuse the enemy)
+
+$$
+\mathbf{P}(\mathrm{class\ 1}|x) = \sigma\left(
+\frac{\mu_{*}}{\sqrt{1 + \pi \frac{\sigma_{*}^{2}}{8}}}
+\right)
+$$
