@@ -4,11 +4,22 @@ tags: [subject]
 ---
 # Machine Learning
 
-### Classification
-Output: Class
+## Output of Algorithms
 
-### Regression
-Ouput: Value
+#### Classification Algorithms
+- [[Perceptron]] -> class
+- MPL -> propability -> class (argmax)
+- [[Logistic Regression]] -> propability -> class (argmax)
+- [[K-nearest Neighbors]] -> class -> confidence fraction
+- [[Classification Trees]] -> class
+- [[Classification Forrest]] -> class -> confidence fraction
+- [[Kernel Perceptron]] -> class
+- [[Best Seperation (SVM)]] -> class -> confidence within margin
+
+#### Regression Algorithms
+- [[Linear Regression]] -> model -> confidence interval of the line
+
+
 
 ---
 

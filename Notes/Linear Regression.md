@@ -2,7 +2,7 @@
 created: 2026-09-18
 tags: [machine-learning]
 ---
-# Parametric Regression
+# Linear Regression
 > *"We are trying to fit into the dataset"*
 > \- Ela
 
