@@ -27,7 +27,7 @@ Usually we use **white noise** as the filter input $x(n)$, as this will "trigger
 
 > [!example]- LMS for system identification
 > Using an LMS filter for system identification
-> ![[Pasted image 20261102082631.png]]
+> ![[Pasted image 20261102082631.png|400]]
 
 ### Calculating Optimal Filter Coefficients
 See [[Lessons/Semester 7/ssp/Lektion 11 slides.pdf#page=4|slide]].
@@ -131,7 +131,7 @@ $$
 Here we can see that the eigenvalue "spead" should be minimized to minimize $\tau_{\max}$ and make the filter converge faster. White noise will result in a small spread.
 
 ### Normalized LMS - Time Varying Step Size
-Now the $\mu(t)$ is time varying.
+Now the $\mu(n)$ is time varying.
 
 $$
 \mu(n) = \frac{\beta}{L\hat{P}_{x}}, \quad 0 < \beta < 2

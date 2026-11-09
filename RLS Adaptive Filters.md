@@ -1,11 +1,25 @@
 ---
 created: 2026-11-09
-tags: []
+tags:
+  - statistical-signal-processing
+slides:
+  - "[[Lessons/Semester 7/ssp/Lektion 12 slides.pdf]]"
+  - "[[Wiki - RLS adaptive filter.pdf]]"
+  - "[[RLS tutorial  (slides).pdf]]"
+  - "[[RLS algorithm and performance.pdf]]"
 ---
 
 # RLS Adaptive Filters
 
 RLS is a faster and *more complex* alternative to the [[LMS Adaptive Filters|LMS]] algorithm. It also changes [[Notes/FIR Filtre|FIR Filter]] coefficients to drive a filter error to zero.
+
+![[Pasted image 20261109093216.png|400]]
+
+$x(n)$: Filter input signal
+$d(n)$: "desired" / reference signal
+$w(n)$: [[Notes/FIR Filtre|FIR Filter]] coefficients (change over time!)
+$e(n)$: Error signal
+$L$: Number of "tabs" in the FIR filter (could be around 20 - 40)
 
 ### 1) Weiner Hopf
 In RLS we try to estimate the optimal filter weights using [[Weiner Filter|Weiner Hopf]] in a recursive manner. This reduces the time complexity of calculating the otherwise expensive calculation to find the optimal filter cofficients:
@@ -25,7 +39,7 @@ Sample
 $$
 \begin{align}
 \underset{\small (L \times L)}{R_{xx}(n)} &= \sum_{k=0}^{n} x(k) \cdot x(k)^{T} \\
-\hat{R}_{xx}(n) &= \mathbb{E}[d(n) \cdot x(n)]A \\
+\hat{R}_{xx}(n) &= \mathbb{E}[d(n) \cdot x(n)] \\
 \hat{r}_{dx}(n) &= \sum_{k=1}^{n} d(k)\ x(k)
 \end{align}
 $$
@@ -58,5 +72,63 @@ $$
 ### 6) Recursive Filter Coefficients
 
 $$
-\hat{R_{xx}}
+\begin{align}
+\hat{R}_{xx}\ w(n) &= \alpha\ \hat{R}_{xx}(n-1)w(n-1) + d(n)x(n) \\
+\hat{R}_{xx}\ w(n) &= (\hat{R}_{xx}(n) - x(n) x(n)^{T}) - w(n-1) + d(n) x(n) \\
+w(n) &= w(n-1) + \hat{R}_{xx}^{-1}(n)\ x(n) \underbrace{\big[ d(n) - x(n)^{T} w(n-1) \big]}_{e(n)} \\
+w(n) &= w(n-1) + \hat{R}_{xx}^{-1}(n)\ x(n)\ e(n)
+\end{align}
 $$
+
+### 7) Recursive Matrix Inversion
+Using Shermann-Morrison inversion equation
+$$
+(A + uv^{T})^{-1} = A^{-1} - \frac{A^{-1} uv^{T} A^{-1}}{1 + v^{T} A^{-1} u}
+$$
+Here the variables are
+$$
+\begin{align}
+A &\to \alpha \hat{R}_{xx}(n-1) \\
+uv^{T} &\to x(n) x(n)^{T}
+\end{align}
+$$
+Which gives us
+$$
+\hat{R}_{xx}^{-1}(n) = \frac{1}{\alpha} \hat{R}_{xx}^{-1}(n-1) 
+=
+\frac{
+\frac{1}{\alpha} \hat{R}_{xx}^{-1}(n-1)\ x(n)x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)
+}{
+\alpha\ x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)\ x(n)
+}
+$$
+Which can be simplified as
+$$
+\hat{R}_{xx}^{-1}(n) = 
+\left[
+\hat{R}_{xx}^{-1}(n-1) -
+\frac{
+\hat{R}_{xx}^{-1}(n-1)\ x(n)x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)
+}{
+\alpha\ x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)\ x(n)
+}
+\right]
+$$
+
+### 8) Finally RLS Algorithm!
+$$
+w(n) = w(n-1) + 
+\frac{1}{\alpha}
+\left[
+\hat{R}_{xx}^{-1}(n-1) -
+\frac{
+\hat{R}_{xx}^{-1}(n-1)\ x(n)x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)
+}{
+\alpha\ x(n)^{T}\ \hat{R}_{xx}^{-1}(n-1)\ x(n)
+}
+\right] x(n)\ e(n)
+$$
+
+## Algorithm from Slides
+
+![[Lessons/Semester 7/ssp/Lektion 12 slides.pdf#page=6|Lektion 12 slides]]
