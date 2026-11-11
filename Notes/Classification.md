@@ -119,6 +119,7 @@ p_{2}f_{2}(x_{0})
 $$
 
 ### Classification with Normally Distributed Classes
+See [[Lessons/Semester 7/statistics/Lektion 10 slides.pdf#page=5|slide]].
 
 Assumption
 $$
