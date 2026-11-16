@@ -57,7 +57,7 @@ We define how *confident* we are in the *model* and *measurements* respectively 
 $$
 x_{k} = Ax_{k-1} + B u_{k-1} + w_{k-1}
 $$
-
+$w_{k-1}$: Process noise sample - model inaccuracies and disturbances
 
 **Driving Noise / Model Error**:
 $$
@@ -209,3 +209,6 @@ The kalman filter is the *ideal filter* given the following requirements:
 - Only Linear Systems (in practice not so important)
 - Gausian Noise on measurements centered at 0
 - Samples must be independent
+
+### Connection to Observers
+The kalman filter *IS* an [[Observers|observer]]! The difference is how you calculate $L$. $L$ is the solution to the Riccati matrix equation, which looks a lot like an [[Optimal Control (LQR)|LQR]] controller.
