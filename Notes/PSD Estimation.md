@@ -12,7 +12,7 @@ slides:
 $$
 P_{x}(f) = \mathcal{F}\{ r_{xx}(\tau) \} = \mathbf{E}[|X(f)|^{2}]
 $$
-$P_{x}(f)$: Estimated Power Spectral  Transfer Function
+$P_{x}(f)$: Estimated Power Spectral Transfer Function
 $x(n)$: Input signal
 $X(f)$: Transfer function of $x(n)$
 
@@ -28,7 +28,7 @@ $X_{N}(f)$: DFT/FFT of $x(n)$.
 
 This is **biased**:
 $$
-\mathbb{E}[P_{x}(f)] = P_{x} * W_\mathrm{bartlett}(f)
+\mathbb{E}[P_{x}(f)] = P_{x}(f) * W_\mathrm{bartlett}(f)
 $$
 As $N \to \infty$, the window becomes a [[Dirac Delta Function]], which is the ideal result.
 
@@ -92,3 +92,32 @@ $$
 (f_{2} - f_{2}) \geq 1.28 \frac{f_{s}}{L}
 $$
 
+#### Blackman-Tukey Method
+Uses
+$$
+P_{x}(f) = \mathcal{F}\{r_{xx}(\tau)\}
+$$
+We need to estimate the autocorrelation $r_{xx}$.
+$$
+\hat{r}_{xx}(\tau) = \frac{1}{N} \sum_{n=0}^{N-1} x(n) x(n+\tau)
+$$
+We *window* the autocorrelation estimate from sample $-M$ to $M$.
+
+Usually: $\frac{M}{N} \sim [13\%; 20\%]$
+
+Finally we estimate the spectrum as
+$$
+\hat{P}_{x}(f) = \mathbf{DFT}_{2M+1}\big\{ \hat{r}_{xx}(\tau) * W(\tau) \big\}
+$$
+$W(\tau)$: Window function
+
+
+Small $\frac{M}{N}$: Small variance, big bias
+Big $\frac{M}{N}$: Bigger variance, small bias
+
+Resolution
+$$
+f_{2} - f_{1} \geq 1.28 \frac{f_{s}}{2M+1}
+$$
+
+Still $O(n \cdot \log(n))$ like [[Fast Fourier transformation (FFT)|FFT]].
