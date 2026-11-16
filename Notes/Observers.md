@@ -33,11 +33,10 @@ must be in the left half plane. This is also the general criteria for stability 
 For the observer based control to be closer to the state feedback. Place the $A+LC$ poles further to the left in the $s$-plane.
 
 ### Placing Observer Poles
-
+We can place poles with the usual `place` command if we change the order of the $C$ and $L$ matrixes, by transposing the entire closed loop pole equation. This does not change the eigen values of the equation and translates the usual equation.
 $$
-p_\mathrm{pbs} = \mathrm{eig}[A-LC] =  \mathrm{eig}[(A-LC)^{T}] = \mathrm{eig}[(A^{T}-L^{T}C^{T})]
+p_\mathrm{pbs} = \mathrm{eig}[A-LC] =  \mathrm{eig}[(A-LC)^{T}] = \mathrm{eig}[(A^{T}-C^{T}L^{T})]
 $$
-
 
 ### Observers as a Filter
 An observer can also be used as a filter, as it smooths out the estimated output compared to the measured output. It can therefore sometimes me be a good idea to implement an observer, even though we measure all the system states.
