@@ -5,7 +5,7 @@ tags: [statistical-signal-processing]
 # Stocastic Properties of Filters
 
 ### Linear-filtering of Random Signals
-See [[Lektion 3 slides.pdf#page=4|slide]].
+See [[Lecture Material/Semester 7/ssp/Lektion 3 slides.pdf#page=4|slide]].
 
 We assume that we know the filter.
 
@@ -66,7 +66,7 @@ $$
 ---
 
 ### Non-linear Filters
-See [[Lektion 3 slides.pdf#page=6|slide]].
+See [[Lecture Material/Semester 7/ssp/Lektion 3 slides.pdf#page=6|slide]].
 
 Here we use a *coherence function*.
 

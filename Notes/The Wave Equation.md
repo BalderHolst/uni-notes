@@ -9,4 +9,4 @@ $c$: Wave speed
 $u$: Amplitude
 
 >[!example]- Example
->![[Lessons/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=7|lektion10]]
+>![[Lecture Material/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=7|lektion10]]

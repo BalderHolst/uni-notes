@@ -8,7 +8,7 @@ tags: [statistics]
 It is the **most optimal** estimator.
 
 
-## For [[Multivariate Normal Distribution|MVN]]
+## For [[Notes/Multivariate Normal Distribution (MVN)|MVN]]
 
 $$
 L(\mu, \Sigma) = \prod_{j=1}^{n} f_{X}(x_{j}|\mu, \Sigma)

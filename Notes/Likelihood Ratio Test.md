@@ -5,7 +5,7 @@ tags: [multivariate-statistics]
 # Likelihood Ratio Test
 
 > [!info]- Slide
-> ![[Lessons/Semester 7/statistics/Lektion 3 slides.pdf#page=5|slide]]
+> ![[Lecture Material/Semester 7/statistics/Lektion 3 slides.pdf#page=5|slide]]
 
 Comparing an unrestrained model and a restrained model, to see how different they are.
 
@@ -49,7 +49,7 @@ $$
 $\Lambda_{LR} \approx 1$: $H_{0}$ is *true*!
 $\Lambda_{LR} \approx 0$: $H_{0}$ is false!
 
-Given [[Multivariate Normal Distribution|MVN]] pdf's:
+Given [[Notes/Multivariate Normal Distribution (MVN)|MVN]] pdf's:
 $$
 \Lambda_{LR} = \left(\frac{|S|}{|\hat{\Sigma_{0}}|}\right)^{n / 2}
 $$

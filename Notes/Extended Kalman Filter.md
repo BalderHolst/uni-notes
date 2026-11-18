@@ -3,7 +3,7 @@ created: 2026-10-19
 tags:
   - statistical-signal-processing
 slides:
-  - "[[Lessons/Semester 7/ssp/Lektion 6 slides.pdf|Lektion 6 slides]]"
+  - "[[Lecture Material/Semester 7/ssp/Lektion 6 slides.pdf|Lektion 6 slides]]"
   - "[[Agenda STATSIG lecture 06.pdf]]"
   - "[[Problems STATSIG lecture 06.pdf]]"
   - "[[Solutions STATSIG lecture 06.pdf]]"

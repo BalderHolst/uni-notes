@@ -3,13 +3,15 @@ created: 2026-11-11
 tags:
   - statistics
 slides:
-  - "[[Lessons/Semester 7/statistics/Lektion 10 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf]]"
   - "[[Agenda MULTISTAT lecture 10.pdf]]"
   - "[[Two-population classification Training data, New data, Procedures.pdf]]"
 ---
 
 # Classification - 2 populations
 We have two populations: $\Pi_{1}$ and $\Pi_{2}$.
+
+See also [[Several Population Classification]].
 
 Observations are of dimension $p$:
 $$
@@ -119,7 +121,7 @@ p_{2}f_{2}(x_{0})
 $$
 
 ### Classification with Normally Distributed Classes
-See [[Lessons/Semester 7/statistics/Lektion 10 slides.pdf#page=5|slide]].
+See [[Lecture Material/Semester 7/statistics/Lektion 10 slides.pdf#page=5|slide]].
 
 Assumption
 $$

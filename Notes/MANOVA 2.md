@@ -4,7 +4,7 @@ tags:
   - multivariate-statistics
 ---
 # MANOVA 2
-See [[Lessons/Semester 7/statistics/Lektion 5 slides.pdf|slides]].
+See [[Lecture Material/Semester 7/statistics/Lektion 5 slides.pdf|slides]].
 
 2: Factors
 

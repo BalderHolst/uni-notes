@@ -16,7 +16,7 @@ $$
 >![](https://www.youtube.com/watch?v=TuGDMj43ehw)
 
 >[!example]- Problems with Bayesian Networks
->![[Lessons/Semester 5/math_and_statistics/HW1.pdf]]
+>![[Lecture Material/Semester 5/math_and_statistics/HW1.pdf]]
 
 >[!tip] Markov Blanket
 >Each node is *conditionally independent* from nodes outside of

@@ -3,7 +3,7 @@ created: 2026-09-11
 tags: [multivariate-statistics]
 ---
 # Multivariate Normal Distribution (MVN)
-See [[Lektion 2 slides.pdf#page=2|slides]].
+See [[Lecture Material/Semester 7/ssp/Lektion 2 slides.pdf#page=2|slides]].
 
 [[Notes/Normal Distribution|Normal distribution]] in multiple ($p$) dimensions.
 
@@ -26,7 +26,7 @@ $$
 
 **PDF**
 $$
-f_{X}(x)= (2\pi)^{-p}{2}\; |\Sigma|^{-\frac{1}{2}} \; \mathrm{exp}({- \frac{1}{2} (x - \mu)^T \Sigma^{-1}})
+f_{X}(x)= (2\pi)^{-p}{2}\; |\Sigma|^{-\frac{1}{2}} \; \mathrm{exp}\left({- \frac{1}{2} (x - \mu)^{T} \Sigma^{-1}}(x- \mu)\right)
 $$
 
 > [!example]- 1D Normal Distribution

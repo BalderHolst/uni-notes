@@ -3,7 +3,7 @@ created: 2026-10-07
 tags:
   - multivariate-statistics
 slides:
-  - "[[Lessons/Semester 7/statistics/Lektion 9 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Lektion 9 slides.pdf]]"
   - "[[Non-parametric hypothesis tests.pdf]]"
 ---
 

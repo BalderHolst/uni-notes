@@ -3,7 +3,7 @@ created: 2026-09-28
 tags: [statistical-signal-processing]
 ---
 # Weiner Filter
-See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
+See [[Lecture Material/Semester 7/ssp/Lektion 4 slides.pdf|slides]].
 
 Optimal Filter for filtering noise from a desired signal.
 
@@ -113,7 +113,7 @@ $$
 
 
 #### IIR Weiner Filter
-See [[IIR Filters]] and [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=4|slides]].
+See [[IIR Filters]] and [[Lecture Material/Semester 7/ssp/Lektion 4 slides.pdf#page=4|slides]].
 $$
 \hat{Y}(n) = \sum_{-\infty}^{\infty} h(m)X(n-m)
 $$
@@ -126,7 +126,7 @@ $$
 > For high signal-to-noise ratios (SNR) $H(f) \approx 1$, so we keep the signal. And the oppossite for low SNRs.
 
 #### Deconvolution
-See [[Lessons/Semester 7/ssp/Lektion 4 slides.pdf#page=5|slide]].
+See [[Lecture Material/Semester 7/ssp/Lektion 4 slides.pdf#page=5|slide]].
 
 We try to reverse the effects of $G(f)$ and remove noise *at the same time*.
 

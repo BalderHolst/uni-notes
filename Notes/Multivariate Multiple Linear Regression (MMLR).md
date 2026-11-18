@@ -3,7 +3,7 @@ created: 2026-10-28
 tags:
   - multivariate-statistics
 slides:
-  - "[[Lessons/Semester 7/statistics/Lektion 7 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Lektion 7 slides.pdf]]"
 ---
 
 # Multivariate Multiple Linear Regression
@@ -59,7 +59,7 @@ $r$: Number of dimensions for each observation
 $m$: Number of output / predictor variables
 
 > [!example]- Slide
->![[Lessons/Semester 7/statistics/Lektion 7 slides.pdf#page=2|Lektion 7 slides]]
+>![[Lecture Material/Semester 7/statistics/Lektion 7 slides.pdf#page=2|Lektion 7 slides]]
 
 ### Estimates
 $$
@@ -92,4 +92,4 @@ R^{2} = 1 - \frac{|\mathrm{SSE}|}{|\mathrm{SST}|}
 $$
 
 ### Extra Sum of Squares
-![[Lessons/Semester 7/statistics/Lektion 7 slides.pdf#page=5|Lektion 7 slides]]
+![[Lecture Material/Semester 7/statistics/Lektion 7 slides.pdf#page=5|Lektion 7 slides]]

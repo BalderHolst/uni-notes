@@ -3,7 +3,7 @@ created: 2026-11-09
 tags:
   - statistical-signal-processing
 slides:
-  - "[[Lessons/Semester 7/ssp/Lektion 12 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/ssp/Lektion 12 slides.pdf]]"
   - "[[Wiki - RLS adaptive filter.pdf]]"
   - "[[RLS tutorial  (slides).pdf]]"
   - "[[RLS algorithm and performance.pdf]]"
@@ -131,4 +131,4 @@ $$
 
 ## Algorithm from Slides
 
-![[Lessons/Semester 7/ssp/Lektion 12 slides.pdf#page=6|Lektion 12 slides]]
+![[Lecture Material/Semester 7/ssp/Lektion 12 slides.pdf#page=6|Lektion 12 slides]]

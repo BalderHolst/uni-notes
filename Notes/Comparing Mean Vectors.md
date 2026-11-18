@@ -3,7 +3,7 @@ created: 2026-09-24
 tags: [statistics]
 ---
 # Comparing Mean Vectors
-See [[Lessons/Semester 7/statistics/Lektion 4 slides.pdf|slides]].
+See [[Lecture Material/Semester 7/statistics/Lektion 4 slides.pdf|slides]].
 
 Two ways:
 - [[#Paired Test|Paired Comparison]] (*Best*, but not always possible)
@@ -17,7 +17,7 @@ All observations come in *pairs*.
 $$
 (X_{1j}, X_{2j})\quad j= 1, \dots, n
 $$
-Both are [[Multivariate Normal Distribution|MVN]].
+Both are [[Notes/Multivariate Normal Distribution (MVN)|MVN]].
 $$
 \begin{align}
 X_{1j} \sim N_{p}(\mu_{1}, \Sigma_{1}) \\

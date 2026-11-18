@@ -3,7 +3,7 @@ created: 2026-09-03
 tags: [multivariate-statistics]
 ---
 # Samples Moments
-See [[Lektion 1 slides.pdf#page=3|slides]].
+See [[Lecture Material/Semester 7/ssp/Lektion 1 slides.pdf#page=3|slides]].
 
 We try to estimate the population mean and variance from the sampled population.
 

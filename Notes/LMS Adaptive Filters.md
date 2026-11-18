@@ -3,7 +3,7 @@ created: 2026-11-02
 tags:
   - statistical-signal-processing
 slides:
-  - "[[Lessons/Semester 7/ssp/Lektion 11 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/ssp/Lektion 11 slides.pdf]]"
   - "[[LMS algorithm and performance.pdf]]"
   - "[[LMS tutorial  (slides).pdf]]"
   - "[[Kuo & Lee - Real-time DSP, LMS chapter  (from textbook).pdf]]"
@@ -30,7 +30,7 @@ Usually we use **white noise** as the filter input $x(n)$, as this will "trigger
 > ![[Pasted image 20261102082631.png|400]]
 
 ### Calculating Optimal Filter Coefficients
-See [[Lessons/Semester 7/ssp/Lektion 11 slides.pdf#page=4|slide]].
+See [[Lecture Material/Semester 7/ssp/Lektion 11 slides.pdf#page=4|slide]].
 
 Same solution as in the [[Weiner Filter]]:
 $$
@@ -86,7 +86,7 @@ $$
 This is called the Least (Mean) Square / LMS algorithm.
 
 > [!example]- LMS Algorithm Implementation
-> ![[Lessons/Semester 7/ssp/Lektion 11 slides.pdf#page=6]]
+> ![[Lecture Material/Semester 7/ssp/Lektion 11 slides.pdf#page=6]]
 
 ### Performance of LMS
 

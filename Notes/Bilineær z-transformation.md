@@ -41,7 +41,7 @@ $T$: Periode ($1/f_s$)
 ## Procedure
 
 >[!example]- Eksempel på procedure med båndpas filter
->![[Lessons/Semester 3/signalbehandling/Exercises/lektion9.pdf#page=1|lektion9]]
+>![[Lecture Material/Semester 3/signalbehandling/Exercises/lektion9.pdf#page=1|lektion9]]
 
 1. Prewarping konstanten bestemmes som
 $$C= \cot\left(\frac{\omega T}{2}\right)$$

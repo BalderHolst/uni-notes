@@ -3,7 +3,7 @@ created: 2026-11-04
 tags:
   - statistics
 slides:
-  - "[[Lessons/Semester 7/statistics/Lektion 8 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Lektion 8 slides.pdf]]"
 ---
 
 ## Principal Component Analysis - PCA

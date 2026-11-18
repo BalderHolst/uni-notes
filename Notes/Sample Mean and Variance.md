@@ -3,7 +3,7 @@ created: 2026-09-02
 tags: [statistics]
 ---
 # Sample Mean and Variance
-See [[Lektion 1 slides.pdf#page=3|slides]].
+See [[Lecture Material/Semester 7/ssp/Lektion 1 slides.pdf#page=3|slides]].
 
 [[Expectation|Mean]] and [[Variance|variance]] of a sampled random variable. See [[lecture7.pdf#page=16|slides]].
 

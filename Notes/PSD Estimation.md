@@ -3,7 +3,7 @@ created: 2026-11-16
 tags:
   - statistical-signal-processing
 slides:
-  - "[[Lessons/Semester 7/ssp/Lektion 8 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/ssp/Lektion 8 slides.pdf]]"
 ---
 
 # PSD Estimation (Non-parametric)

@@ -3,7 +3,7 @@ created: 2026-10-21
 tags:
   - multivariate-statistics
 slides:
-  - "[[Lessons/Semester 7/statistics/Lektion 6 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Lektion 6 slides.pdf]]"
   - "[[Linear regression models and terminology.pdf]]"
 ---
 
@@ -62,7 +62,7 @@ $$
 If $Z$ was intertible, it would be easy to solve for $\beta$, but $Z$ is *not square*. Therefore we use the [[pesudu inverse]] of $Z$.
 
 #### Least Square Error
-See [[Lessons/Semester 7/statistics/Lektion 6 slides.pdf#page=3|slides]].
+See [[Lecture Material/Semester 7/statistics/Lektion 6 slides.pdf#page=3|slides]].
 
 The unknowns can be estibamated by minimizing the square error.
 $$
@@ -117,7 +117,7 @@ $R^{2} \ll 1$: Bad fit
 Strictly speaking, always use $R^{2}_\mathrm{adj}$. This adjusts for degrees of freedom and is always less than $R^{2}$.
 
 ## Inference on Beta
-![[Lessons/Semester 7/statistics/Lektion 6 slides.pdf#page=4|Lektion 6 slides]]
+![[Lecture Material/Semester 7/statistics/Lektion 6 slides.pdf#page=4|Lektion 6 slides]]
 
 ## Model Simplification
 Slit up $\beta$:

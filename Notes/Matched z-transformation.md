@@ -22,7 +22,7 @@ $$H(s)|_{s=0} = H(z)|_{z=1}$$
 7. Opskriv den endelige løsning
 
 >[!example]- Eksempel på Procedure
->![[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf|lektion8#page=1]]
+>![[Lecture Material/Semester 3/signalbehandling/Exercises/lektion8.pdf|lektion8#page=1]]
 
 >[!example]- Eksempel på Procedure af Kasper
 >![[lektion8-kasper.pdf#page=1]]

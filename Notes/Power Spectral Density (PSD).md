@@ -3,7 +3,7 @@ created: 2026-09-14
 tags: [statistical-signal-processing]
 ---
 # Power Spectral Density (PSD)
-See [[Lessons/Semester 7/ssp/Lektion 2 slides.pdf#page=3|slides]].
+See [[Lecture Material/Semester 7/ssp/Lektion 2 slides.pdf#page=3|slides]].
 
 Power pr. bandwidth (interval of frequenzy)
 

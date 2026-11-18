@@ -53,7 +53,7 @@ These map the $s$-domain to different parts of the $z$-domain.
 ![[Digitization-Integration-1.png|Pasted image 20240405094204.png]]
 
 ### Sampling Delay
-See [[Lessons/Semester 3/signalbehandling/Exercises/lektion8.pdf#page=27|slides]].
+See [[Lecture Material/Semester 3/signalbehandling/Exercises/lektion8.pdf#page=27|slides]].
 
 $$G_{d}(s) = \frac{1}{\frac{T}{2}s + 1}$$
 $G_{d}(s)$: Transfer funktion for samling delay

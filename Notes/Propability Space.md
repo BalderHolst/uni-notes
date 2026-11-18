@@ -3,7 +3,7 @@ created: 2024-11-12
 tags: [intelligent-systems]
 ---
 # Propability Space
-A triple $(\Omega, \mathcal{F}, P)$. See [[lecture2.pdf#page=4|slides]].
+A triple $(\Omega, \mathcal{F}, P)$. See [[Lecture Material/Semester 5/algorithms/lecture2.pdf#page=4|slides]].
 $\Omega$: A set of outcomes
 $\mathcal{F}$: A set of events
 $P$: A function which assigns probabilities to events

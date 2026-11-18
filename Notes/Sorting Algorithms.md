@@ -3,7 +3,7 @@ created: 2026-09-28
 tags: [algorithms]
 ---
 # Sorting Algorithms
-See [[Lessons/Semester 5/algorithms/lecture2.pdf|slides]].
+See [[Lecture Material/Semester 5/algorithms/lecture2.pdf|slides]].
 
 The size of the array to be sorted is denoted as $n$.
 

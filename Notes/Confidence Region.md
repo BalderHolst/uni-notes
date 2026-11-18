@@ -3,7 +3,7 @@ created: 2026-09-23
 tags: [multivariate-statistics]
 ---
 # Confidence Region
-See [[Lessons/Semester 7/statistics/Lektion 3 slides.pdf#page=3|slides]].
+See [[Lecture Material/Semester 7/statistics/Lektion 3 slides.pdf#page=3|slides]].
 
 ![[Pasted image 20260916132231.png|300]]
 

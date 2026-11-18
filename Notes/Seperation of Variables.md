@@ -27,4 +27,4 @@ $$
 >![](https://www.youtube.com/watch?v=VjWtMl6vQ3Q&list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S&index=18)
 
 >[!example]- Examples
->[[Lessons/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=2|lektion10]]
+>[[Lecture Material/Semester 3/multivariable-math/Exercises/lektion10.pdf#page=2|lektion10]]

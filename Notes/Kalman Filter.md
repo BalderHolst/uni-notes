@@ -7,7 +7,7 @@ slides:
   - "[[Lecture 12 - The KalmanFilter.pdf#page=51|Control Systems - Kalman Filter]]"
   - "[[lecture7a.pdf|Intelligent Systems - Kalman Filter]]"
   - "[[lecture7b.pdf|Intelligent Systems - Kalman Filter (Vector  Case)]]"
-  - "[[Lessons/Semester 7/ssp/Lektion 5 slides.pdf|Satistical Signal Processing slides]]"
+  - "[[Lecture Material/Semester 7/ssp/Lektion 5 slides.pdf|Satistical Signal Processing slides]]"
 ---
 # Kalman Filter
 Both measurements and observer outputs are in represented as [[random variables]] to model measurement noise and observer inaccuracy. A Kalman filter is a first order [[IIR Filters|IIR filter]].
@@ -137,7 +137,7 @@ P_{k} = (I - K_{k}H) P^{-}_{k}
 $$
 
 > [!tip]- Slide
-> ![[Lessons/Semester 7/ssp/Lektion 5 slides.pdf#page=3|Lektion 5 slides]]
+> ![[Lecture Material/Semester 7/ssp/Lektion 5 slides.pdf#page=3|Lektion 5 slides]]
 
 ---
 #### Stages
