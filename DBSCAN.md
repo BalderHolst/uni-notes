@@ -8,7 +8,7 @@ tags:
 
 Two parameters to train for
 - `EPS` - Radius of the neighborhood for each point
-- `min_samples` - uNumber of samples needed for a point to be a core point.
+- `min_samples` - Number of samples needed for a point to be a core point.
 
 Three types of point
 
