@@ -7,6 +7,7 @@ slides:
 ---
 
 # PSD Estimation (Non-parametric)
+
 [[Power Spectral Density (PSD)|Power Spectral Density]] Estimation.
 
 $$
