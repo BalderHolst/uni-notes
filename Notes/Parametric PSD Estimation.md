@@ -49,10 +49,15 @@ $$
 
 
 ##### 2) Moving Average (MA)
-No poles, $q$ zeros (more smooth spectra).
+No poles, $q$ zeros (more smooth spectra). [[Notes/FIR Filtre|FIR Filter]].
 
+>[!seealso]- Slide
+>![[Lecture Material/Semester 7/ssp/Lektion 9 slides.pdf#page=5|Lektion 9 slides]]
 ##### 3) Autoregressive Moving Average
-$p$ poles, $q$ zeros. Most general, but *complicated mathematically*.
+$p$ poles, $q$ zeros. Most general, but *complicated mathematically* and computationally.
+
+>[!seealso]- Slide
+>![[Lecture Material/Semester 7/ssp/Lektion 9 slides.pdf#page=6|Lektion 9 slides]]
 
 ### System Order
 Must be assumed/iterated.
