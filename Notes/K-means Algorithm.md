@@ -2,6 +2,10 @@
 created: 2026-11-12
 tags:
   - machine-learning
+  - "#multivariate-statistics"
+slides:
+  - "[[Lecture Material/Semester 7/statistics/Lektion 12 slides.pdf]]"
+  - "[[Lecture Material/Semester 7/statistics/Clustering algorithms.pdf#page=2]]"
 ---
 
 # K-means Algorithm
